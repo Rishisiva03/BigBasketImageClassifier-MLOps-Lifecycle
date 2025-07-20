@@ -40,6 +40,3 @@ Override the default command to run training or ingestion:
 - Update `requirements.txt` to add/remove Python packages.
 - Modify `src/app.py`, `src/train.py`, or `src/data_ingestion.py` as needed.
 
-## License
-
-Specify your license here.
