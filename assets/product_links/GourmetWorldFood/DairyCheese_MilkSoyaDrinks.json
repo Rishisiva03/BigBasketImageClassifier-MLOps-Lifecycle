@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Dairy Free Almond Beverage - Unsweetened",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215360_4-epigamia-almond-milk-unsweetened-dairy-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Milk - Unsweetened, Lactose-Free, Plant-Based Milk Alternative",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177378_4-urban-platter-almond-milk-unsweetened-lactose-free-plant-based-milk-alternative.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "OatWOW Classic - Oat Beverage, Dairy Alternative",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198872_2-urban-platter-oatwow-classic-dairy-free-oat-milk-naturally-sweet-and-creamy-lactose-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Milkshake",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231753_2-epigamia-origins-chocolate-milkshake-contains-vitamin-a.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Greek Yogurt Smoothie - Blueberry",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215372_2-epigamia-greek-yogurt-smoothie-blueberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Greek Yogurt Smoothie - Alphonso Mango",
+    "sku_type": "180 ml - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159682_3-epigamia-greek-yogurt-smoothie-alphonso-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Greek Yogurt Smoothie - Strawberry",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215371_2-epigamia-greek-yogurt-smoothie-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vanilla Milkshake",
+    "sku_type": "180 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231750_2-epigamia-origins-vanilla-milkshake-contains-vitamin-a.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231754_2-epigamia-origins-strawberry-milkshake-contains-vitamin-a.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natura Rice & Walnut Drink, Vegan",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122473_4-borges-natura-rice-walnut-drink-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milkshake -  Vanilla, High Protein, Creamy, Rich Flavour, Good Source Of Calcium & Vitamin A",
+    "sku_type": "180 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262089_2-epigamia-milkshake-vanilla-high-protein-creamy-rich-flavour-good-source-of-calcium-vitamin-a.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Milk - Unsweet, NON-GMO, Imported",
+    "sku_type": "946 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40061648_2-silk-almond-milk-unsweet-non-gmo-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "30 Second Almond Drink - Unsweetened, Nutritious, Dairy Free",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208211_3-jus-amazin-30-second-almond-drink-unsweetened-nutritious-dairy-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Milk - Chocolate, Dairy Free",
+    "sku_type": "1 L ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201829_1-epigamia-almond-milk-chocolate-dairy-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Goat Milk - Whole",
+    "sku_type": "200 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127730_1-quidditas-goat-milk-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cocoa Almond Milk - Lactose Free, Dairy Free & Vegan",
+    "sku_type": "200 ml ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136799_3-raw-pressery-cocoa-almond-milk-lactose-free-dairy-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Cold Coffee",
+    "sku_type": "280 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339911_1-beanly-classic-cold-coffee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Avocado Smoothie With Oats & Milk",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333725_1-inner-wellbeing-avocado-smoothie-with-oats-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Milk - Original, NON-GMO, Imported",
+    "sku_type": "946 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40061647_2-silk-almond-milk-original-non-gmo-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Drinking Chocolate - Original, Swirl into Hot Milk",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077122_6-cadbury-drinking-chocolate-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Milk - Mango, Lactose free, Dairy-Free, Vegan",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178289_2-raw-pressery-almond-milk-mango-lactose-free-dairy-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natura Rice & Hazelnut Drink, Vegan",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40174839_4-borges-natura-rice-hazelnut-drink-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Milk - Dates, Dairy-Free, Lactose Free, Vegan",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178288_3-raw-pressery-almond-milk-dates-dairy-free-lactose-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Almond Milk -  Lactose Free, Dairy-Free, Vegan",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178287_6-raw-pressery-mango-almond-milk-lactose-free-dairy-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Coffee - Espresso Flavor",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324340_1-thai-coco-coconut-coffee-espresso-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Shake - Cold-Sweet Beverage, Energy Booster",
+    "sku_type": "280 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262112_1-harveys-sons-chocolate-shake-cold-sweet-beverage-energy-booster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Shake - Cold-Sweet Beverage, Energy Booster",
+    "sku_type": "280 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262111_1-harveys-sons-strawberry-shake-cold-sweet-beverage-energy-booster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turbo 25 g Protein Coffee Milkshake",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336116_1-epigamia-turbo-coffee-25-g-protein-milkshake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Dibs Dark Choco Hazelnut Dibs",
+    "sku_type": "52 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339912_1-beanly-choco-dibs-dark-choco-hazelnut-dibs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Flavoured Milk",
+    "sku_type": "80 ml - (Pack of 10)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341299_1-smoodh-chocolate-flavoured-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soaked Oats in Milk",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333726_1-inner-wellbeing-soaked-oats-in-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Coffee - Cappucino Flavor",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324338_1-thai-coco-coconut-coffee-cappucino-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Coffee - Latte Flavor",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324339_1-thai-coco-coconut-coffee-latte-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Milkshake Powder",
+    "sku_type": "250 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202019_1-nectar-valley-strawberry-milk-shake-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smoothie - Zero Added Sugar, Strawberry",
+    "sku_type": "200 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220792_1-epigamia-smoothie-zero-added-sugar-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Milkshake - Rich, Creamy, High Protein",
+    "sku_type": "180 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244401_3-epigamia-rose-milkshake-rich-creamy-high-protein-greek-yogurts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream - Original",
+    "sku_type": "160 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123449_1-nestle-cream-original.jpg?tr=w-154,q-80"
+  }
+]

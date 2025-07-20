@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Mayonnaise - Eggless Spout",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102152_5-del-monte-mayonnaise-eggless-spout.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sichuan Chilli Oil - 2X Spicy, Spice Blend, Eat With Momos, Pizza & Noodles",
+    "sku_type": "170 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264608_2-masterchow-sichuan-chilli-oil-2x-spicy-spice-blend-eat-with-momos-pizza-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Veg Mayonnaise - Original",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40080803_16-dr-oetker-funfoods-veg-mayonnaise-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Chilli Garlic Sauce",
+    "sku_type": "180 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114496_4-wingreens-farms-schezwan-chilli-garlic-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salad Dressing Thousand Island",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134965_3-wingreens-farms-salad-dressing-thousand-island.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Funfoods Sandwich Spread - Cucumber & Carrot",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004230_19-dr-oetker-funfoods-cucumber-carrot-sandwich-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sichuan Chilli Oil - Used As Spread, Marinade, Dip & For Making Chinese, Asian, Thai & Stir Fry Dishes, Vegan",
+    "sku_type": "175 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225430_6-moi-soi-sichuan-chilli-oil-for-stir-fry-marinade-spread-dip-uses.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jalapeno Cheese Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010739_4-wingreens-farms-jalapeno-cheese-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Italian Herb Mayo Dip & Spread",
+    "sku_type": "180 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134964_3-wingreens-farms-italian-herb-mayo-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Pesto",
+    "sku_type": "150 g ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010737_5-wingreens-farms-basil-pesto.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Dip & Spread - Yoghurt Based",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010735_5-wingreens-farms-garlic-dip-spread-yoghurt-based.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dill Tzatziki",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010736_4-wingreens-farms-dill-tzatziki-dip-spread-yoghurt-based.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Hummus Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109974_4-wingreens-farms-classic-hummus-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Recipe Peri-Peri Ketchup Spread",
+    "sku_type": "450 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134959_3-wingreens-farms-original-recipe-peri-peri-ketchup-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thousand Island Dressing",
+    "sku_type": "300 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049007_7-veeba-thousand-island-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri-peri Hummus Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010732_5-wingreens-farms-peri-peri-hummus-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Mexican Salsa Dip",
+    "sku_type": "270 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40069129_9-happychef-spicy-mexican-salsa-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Egg Mayonnaise - Classic",
+    "sku_type": "245 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279023_19-dr-oetker-funfoods-mayonnaise-classic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thousand Island Sandwich Spread",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109859_6-veeba-sandwich-spread-thousand-island.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Recipe Premium Veg Mayo Dip & Spread",
+    "sku_type": "450 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134954_3-wingreens-farms-original-recipe-premium-veg-mayo-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salsa Chunky & Spicy",
+    "sku_type": "250 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100930_15-habanero-spicy-salsa-dip-spread-nacho-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salsa",
+    "sku_type": "360 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109865_6-veeba-salsa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ground Fresh Chilli Paste - Sambal Oelek, Spicy",
+    "sku_type": "226 g - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217832_1-tuong-ot-sriracha-ground-fresh-chilli-paste-sambal-oelek-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Alfredo Cheesy Pasta Sauce",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109869_9-veeba-sauce-white-pasta-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Chilli Chutney",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230426_4-veeba-schezwan-chilli-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Burger Veg Mayonnaise",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109855_11-veeba-mayonnaise-burger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mint Mayo Dip & Spread",
+    "sku_type": "180 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134966_3-wingreens-farms-mint-mayo-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri-Peri Garlic Dip & Spread - Yoghurt Based",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109969_4-wingreens-farms-peri-peri-garlic-dip-spread-yoghurt-based.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herby Tomato Pasta & Pizza Sauce",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40179625_9-veeba-pasta-pizza-sauce-chefs-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salsa Sauce - Enhances The Flavour",
+    "sku_type": "350 g - Glass Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236715_1-tops-salsa-sauce-enhances-the-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salsa Tortilla - Dip Chunky Mild",
+    "sku_type": "190 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004959_1-cantina-mexicana-salsa-tortilla-dip-chunky-mild.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Recipe Tomato Ketchup",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177120_4-wingreens-farms-original-recipe-tomato-ketchup-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fiery Desert Mustard",
+    "sku_type": "180 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109971_5-wingreens-farms-fiery-desert-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sauce - Mustard",
+    "sku_type": "700 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103838_1-ganesh-sauce-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Kasundi",
+    "sku_type": "250 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210149_1-shellys-mustard-kasundi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Paprika Cheesy Melt",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312480_4-veeba-cheesy-melt-chilli-paprika.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Harissa Chilli-Cumin Dressing",
+    "sku_type": "300 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40157328_6-veeba-harissa-chilli-cumin-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salsa Tortilla - Dip Chunky Hot",
+    "sku_type": "190 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004958_1-cantina-mexicana-salsa-tortilla-dip-chunky-hot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thousand Island",
+    "sku_type": "180 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222850_4-wingreens-farms-thousand-island.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri-Peri Salsa",
+    "sku_type": "150 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010734_3-wingreens-farms-peri-peri-salsa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salad Dressing - Caesar",
+    "sku_type": "350 g - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016221_3-cremica-salad-dressing-caesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Oregano Hot Sauce",
+    "sku_type": "350 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40157325_6-veeba-chilli-oregano-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheesy Spread & Dressing",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230425_3-veeba-cheesy-spread-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Stir Fry Sauce",
+    "sku_type": "250 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230427_4-veeba-schezwan-stir-fry-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thousand Island Dressing",
+    "sku_type": "280 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318736_1-del-monte-thousand-island-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Cheesy Nacho Dip",
+    "sku_type": "275 g - PET Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40080804_11-dr-oetker-funfoods-cheesy-nacho-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard - Kasundi",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110655_1-druk-mustard-kasundi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wholegrain Mustard",
+    "sku_type": "170 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110162_3-the-gourmet-jar-wholegrain-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Italian Dressing",
+    "sku_type": "267 ml - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017238_3-american-garden-italian-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sriracha Chilli Hot Sauce",
+    "sku_type": "320 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40157327_6-veeba-sriracha-chilli-garlic-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Dip & Stir-Fry Sauce",
+    "sku_type": "320 g - PET Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161669_1-veeba-schezwan-dip-stir-fry-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dip - Garlic Chilli Spread",
+    "sku_type": "335 g - PET Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109863_3-veeba-dip-garlic-chilli-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Momo Sauce - Original, Tangy, Delicious, Sweet, Spicy",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269821_1-prasuma-momo-sauce-original-tangy-delicious-sweet-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mint Sauce - Healthy & Tasty",
+    "sku_type": "200 g - Glass Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236712_1-tops-mint-sauce-healthy-tasty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Soy Ginger Sauce",
+    "sku_type": "175 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225427_7-moi-soi-manchurian-sauce-for-stir-fry-marinade-spread-dip-uses.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gourmet Barbecue Sauce - Garlic & Spices, Versatile Condiment, For Cooking, Dips",
+    "sku_type": "200 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243358_1-keya-gourmet-barbecue-sauce-garlic-spices-versatile-condiment-for-cooking-dips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cilantro & Jalapeno Dip - Fresh Ingredients, Creamy, Thick",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282506_1-saucery-cilantro-jalapeno-dip-fresh-ingredients-creamy-thick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Mayo Dip & Spread - Aioli",
+    "sku_type": "180 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134961_3-wingreens-farms-garlic-mayo-dip-spread-aioli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toppings - Strawberry Crush",
+    "sku_type": "500 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162588_4-mapro-toppings-strawberry-crush.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mayonnaise - Chilli",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109854_3-veeba-mayonnaise-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper Sauce - Used As Spread, Marinade, Dip & For Making Chinese, Asian, Thai & Stir Fry Dishes, Vegan",
+    "sku_type": "175 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225432_6-moi-soi-black-pepper-sauce-for-stir-fry-marinade-spread-dip-uses.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dressing - U. S. Ranch Creamy (Born in the USA)",
+    "sku_type": "267 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002139_3-american-garden-dressing-u-s-ranch-creamy-born-in-the-usa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Spread - Cheese & Mushroom",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109860_3-veeba-sandwich-spread-cheese-mushroom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Cheesy Melt",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312481_4-veeba-cheesy-melt-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salad Dressing - Caesar",
+    "sku_type": "250 g - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001888_3-remia-salad-dressing-caesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Garlic Stir Fry Sauce & Dip",
+    "sku_type": "330 g - PET Jar",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161672_1-veeba-hot-garlic-stir-fry-sauce-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Thousand Island",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004301_14-dr-oetker-funfoods-thousand-island.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Veg Mayo Dip & Spread",
+    "sku_type": "180 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134960_3-wingreens-farms-premium-veg-mayo-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salad Dressing - Italian",
+    "sku_type": "246 g - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001893_3-remia-salad-dressing-italian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Herb",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109972_3-wingreens-farms-creamy-herb.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khatti Meethi Sonth Chutney - Samosa, PaniPuri and Bhelpuri Chatni",
+    "sku_type": "240 g - Squeeze Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250623_2-add-me-khatti-meethi-sonth-chutney-handmade-for-dipping-spreading.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Spread - Mayo",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226277_5-del-monte-sandwich-spread-mayo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "South West Chipotle Dressing",
+    "sku_type": "275 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318735_1-del-monte-south-west-chipotle-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Salad Dressing",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40039134_6-pantai-green-salad-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smart Veg Mayonnaise",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109853_19-veeba-mayonnaise-smart.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Funfoods Salsa",
+    "sku_type": "300 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004597_10-dr-oetker-funfoods-salsa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Chilli Chutney",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230428_4-veeba-garlic-chilli-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wasabi Mayo Dip & Spread",
+    "sku_type": "130 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134963_2-wingreens-farms-wasabi-mayo-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Spread - Piri Piri",
+    "sku_type": "275 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121197_2-cremica-sandwich-spread-piri-piri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dip - Tartare",
+    "sku_type": "300 g - PET Jar",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109864_4-veeba-dip-tartare.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dressing - Thousand Island",
+    "sku_type": "267 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/177259_3-american-garden-dressing-thousand-island.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sun Dried Tomato Pesto",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106856_2-greentokri-sun-dried-tomato-pesto.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Truffle Cheese Dip Spread & Sauce",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332803_1-wingreens-farms-truffle-cheese-dip-spread-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Mexican Chilli",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100391336_5-tex-mex-salsalito-nacho-chips-mexican-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sichuan Pepper Sauce",
+    "sku_type": "175 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225426_7-moi-soi-schezwan-sauce-for-stir-fry-marinade-spread-dip-uses.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "All Natural Hummus - Spicy Sriracha",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126034_4-all-that-dips-all-natural-hummus-spicy-sriracha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Pesto",
+    "sku_type": "180 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106857_1-greentokri-basil-pesto.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sun Dried Tomato In Oil",
+    "sku_type": "180 g - Jar",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106866_2-greentokri-sun-dried-tomato-in-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Bean Dip - Chili Chinese, Ready To Eat, Savoury, Spicy, Flavourful",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223119_3-masterchow-cookingdipping-sauce-black-bean-ready-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Jalapeno",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004743_3-tex-mex-salsalito-nacho-chips-jalapeno.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard - Yellow, American",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40046212_4-abbies-mustard-yellow-american.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sauce - Caramelised Onion & Dill",
+    "sku_type": "150 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124457_1-saucery-sauce-caramelised-onion-dill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Chickpea Hummus With Jalapenos",
+    "sku_type": "150 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109978_3-wingreens-farms-black-chickpea-hummus-with-jalapenos.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Sesame Japanese Style Dressing",
+    "sku_type": "315 g - PET Jar",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161673_3-veeba-roasted-sesame-japanese-style-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheesy Sauce",
+    "sku_type": "180 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114492_3-wingreens-farms-cheesy-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rosemary Hummus Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010731_4-wingreens-farms-rosemary-hummus-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kung Pao Sauce - Used As Spread, Marinade, Dip & For Making Chinese, Asian, Thai & Stir Fry Dishes, Vegan",
+    "sku_type": "175 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225431_6-moi-soi-kung-pao-sauce-for-stir-fry-marinade-spread-dip-uses.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods American Mustard",
+    "sku_type": "260 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279035_4-dr-oetker-funfoods-american-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Traditional English Mustard",
+    "sku_type": "250 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40015839_10-dr-oetker-funfoods-traditional-english-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Garlic & Spring Onion Dip - Fresh Ingredients, Creamy, Thick",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282504_1-saucery-roasted-garlic-spring-onion-dip-fresh-ingredients-creamy-thick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheese Dip for Tortilla Chips Cheddar",
+    "sku_type": "190 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40039125_3-cantina-mexicana-cheese-dip-for-tortilla-chips-cheddar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sour Cream & Onion",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177116_3-appitas-sour-cream-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhania Pudina Chutney - Classic Indian Panipuri Bhelpuri Chatni",
+    "sku_type": "200 g - Squeeze Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250624_2-add-me-pudina-chutney-classic-indian-mint-sauce-for-dipping-spreading.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gourmet Dips - Backpackin Ranch, Use With Salads & Snacks",
+    "sku_type": "78 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40260011_2-tagz-tagz-dips-backpackin-ranch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chili Garlic Sauce - Spicy",
+    "sku_type": "226 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217831_1-tuong-ot-sriracha-chili-garlic-sauce-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yogurt Dip - Cilantro, Jalapeno",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131285_2-all-that-dips-yogurt-dip-cilantro-jalapeno.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant Based Buttery Spread - With Avocado Oil, Salted, Dairy Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302208_2-grabenord-buttery-cashew-based-spread-herbs-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Garlic Chilli Dip",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004255_9-dr-oetker-funfoods-garlic-chilli-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Greek goddess - Mint Cucumber Yoghurt Dip & Spread",
+    "sku_type": "150 g - Cup",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177111_2-wingreens-farms-greek-goddess-mint-cucumber-yoghurt-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mayonnaise - Eggless, Light & Creamy",
+    "sku_type": "475 g - PET Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224031_1-veeba-mayonnaise-eggless-light-creamy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chinese Secret Sauce",
+    "sku_type": "130 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114497_2-wingreens-farms-chinese-secret-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salsa Dip, 4 in 1",
+    "sku_type": "200 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40015032_8-cornitos-salsa-dip-4-in-1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Hummus Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109973_2-wingreens-farms-tandoori-hummus-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Sauce",
+    "sku_type": "180 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193330_2-nirulas-mustard-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Chilli Garlic Sauce - Dairy Free",
+    "sku_type": "300 g - PET Jar",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200093_3-grabenord-schezwan-chilli-garlic-sauce-dairy-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Hummus Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109976_3-wingreens-farms-basil-hummus-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant Based Buttery Spread - Unsalted With Olive Oil, Dairy Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302209_2-grabenord-buttery-cashew-based-spread-unsalted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smoky Barbecue Sauce",
+    "sku_type": "325 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318738_1-del-monte-smoky-barbecue-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pesto - Authentic Taste, Gluten Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299098_1-chilzo-pesto-authentic-taste-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Creamy Herb Lemon Dressing",
+    "sku_type": "210 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307385_1-dr-oetker-funfoods-creamy-herb-lemon-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Creamy Yoghurt Mint Dressing",
+    "sku_type": "210 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307383_1-dr-oetker-funfoods-creamy-yoghurt-mint-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Harissa - Authentic Taste, Gluten Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299097_1-chilzo-rose-harissa-authentic-taste-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "African Peri Peri Dip - Light & Fluffy",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296833_1-cremeitalia-african-peri-peri-dip-light-fluffy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Makhani Dip",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313570_1-wingreens-farms-makhani-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant Based Buttery Spread - With Olive Oil, Salted, Dairy Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302201_2-grabenord-buttery-cashew-based-spread-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dressing - Vinaigrette Dressing",
+    "sku_type": "300 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126949_3-sams-dressing-vinaigrette-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "All Natural Salsa - Peri Peri Salsa",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126039_4-all-that-dips-all-natural-salsa-peri-peri-salsa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Chipotle Mayonnaise",
+    "sku_type": "300 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200095_3-grabenord-vegan-chipotle-mayonnaise.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mexican Salsa Dip",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313571_1-wingreens-farms-mexican-salsa-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Oil Double Trouble 2X Sichuan Chilli Combo - Spicy, Crunchy, Garlicky Flavor Eat With Momos, Pizza & Noodles",
+    "sku_type": "340 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271929_1-masterchow-chilli-oil-double-trouble-2x-sichuan-chilli-combo-spicy-crunchy-garlicky-flavor-eat-with-momos-pizza-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jain Makhani Sauce",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224610_1-zissto-jain-makhani-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salsa",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224620_1-zissto-salsa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FunFoods Creamy Cheese Garlic Dressing",
+    "sku_type": "210 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307384_1-dr-oetker-funfoods-creamy-cheese-garlic-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Sesame Dressing",
+    "sku_type": "220 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341601_1-yamamori-roasted-sesame-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Caesar Dressing",
+    "sku_type": "220 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341598_1-yamamori-caesar-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Italian Dressing - Light",
+    "sku_type": "267 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100020671_8-american-garden-italian-dressing-light.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Yellow Mustard",
+    "sku_type": "226 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001979_4-frenchs-classic-yellow-mustard-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Hummus",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213667_1-sundrop-classic-hummus.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amle Ki Meethi Chutney - Handmade, For Dipping & Spreading",
+    "sku_type": "240 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250621_1-add-me-amle-ki-meethi-chutney-handmade-for-dipping-spreading.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barbeque Smoked Oak Dressing Sauce",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340670_1-veeba-barbeque-smoked-oak-dressing-sauce.jpg?tr=w-154,q-80"
+  }
+]

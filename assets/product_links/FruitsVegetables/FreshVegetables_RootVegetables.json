@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Carrot - Orange (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000070_16-fresho-carrot-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carrot - Ooty (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000272_17-fresho-carrot-ooty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Beetroot (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000047_22-fresho-beetroot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Radish - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005844_12-fresho-white-radish-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Ginger (Loose)",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007402_7-fresho-thai-ginger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pidi Karanai",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000758_3-fresho-pidi-karanai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Koorka - Chinese Potato",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009433_4-fresho-koorka-chinese-potato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carrot - Julienne",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005788_4-fresho-carrots-julienne.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Table Radish",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000848_2-fresho-table-radish.jpg?tr=w-154,q-80"
+  }
+]

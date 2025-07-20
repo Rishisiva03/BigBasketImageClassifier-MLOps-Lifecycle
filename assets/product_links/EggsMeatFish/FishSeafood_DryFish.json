@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Prawns(Small)",
+    "sku_type": "80 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036199_2-hs-dry-fish-prawnssmall.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ribbon Fish",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036195_4-hs-dry-fish-ribbon-fish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seer Fish",
+    "sku_type": "80 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036187_2-hs-dry-fish-seer-fish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fish, Salted, Cleaned & Cut",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249728_2-fresho-dry-fish-ribban-cut-clean-protein-rich-for-curries-snacks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fish Prawns-Big, Salted",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249719_1-fresho-dry-fish-prawns-big-ready-to-cook-for-curries-salads-sandwiches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fried Jawla Masala",
+    "sku_type": "50 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002046_5-judes-fried-jawla-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fish Nathli/Anchovies-Small, Spicy",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249723_1-fresho-dry-fish-nathli-anchovies-small-spicy-accompaniment-for-meals-curries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fish Nathli/Anchovies-Big, Salted, With Head",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249724_1-fresho-dry-fish-nathli-anchovies-big-salted-with-head-protein-rich-accompaniment-for-meals-curries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fish Nathli/Anchovies-Small, Salted",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249722_1-fresho-dry-fish-nethli-small-salted-accompaniment-for-meals-curries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fish, Salted, Shark Cubes",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249727_1-fresho-dry-fish-shark-cubes-ready-to-cook-protein-rich-for-curries-snacks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fish Bombay Duck, Cleaned & Cut",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249729_1-fresho-dry-fish-bombay-duck-cut-clean-protein-rich-for-curries-snacks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mackeral Fish",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036188_2-hs-dry-fish-mackeral-fish.jpg?tr=w-154,q-80"
+  }
+]

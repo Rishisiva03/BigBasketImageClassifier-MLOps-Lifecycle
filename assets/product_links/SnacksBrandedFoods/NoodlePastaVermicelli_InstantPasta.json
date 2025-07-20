@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Pazzta Cheese Macaroni",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180803_8-maggi-pazzta-cheese-macaroni-family-saver-pack-pouch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pazzta Cheesy Tomato Twist Instant Pasta",
+    "sku_type": "68.5 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007636_12-maggi-pazzta-instant-pasta-cheesy-tomato-twist.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pazzta Masala Penne - Family Saver Pack",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180804_7-maggi-pazzta-masala-penne-family-saver-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Italian Cheese Sauce Pasta",
+    "sku_type": "65 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900457229_1-yu-italian-cheese-sauce-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasta - Masala",
+    "sku_type": "65 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022277_1-temptas-pasta-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Pasta - Masala Twist, Made With Durum Wheat, Rich in Protein, Fortified With Iron, Vitamin B12 & Folic Acid, 100% Vegetarian",
+    "sku_type": "65 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213546_4-weikfield-instant-pasta-masala-twist.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Italian Pink Sauce Pasta",
+    "sku_type": "65 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900457228_1-yu-italian-pink-sauce-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Pasta - Tomato Salsa, Instant Durum Wheat Pasta, High Protein, Ready In 5 Minutes",
+    "sku_type": "64 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067863_6-weikfield-instant-pasta-tomato-salsa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheesy Pasta With Black Olives",
+    "sku_type": "285 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279424_5-tata-sampann-yumside-rich-creamy-cheesy-pasta-with-black-olives-ready-to-eat-no-preservatives.jpg?tr=w-154,q-80"
+  }
+]

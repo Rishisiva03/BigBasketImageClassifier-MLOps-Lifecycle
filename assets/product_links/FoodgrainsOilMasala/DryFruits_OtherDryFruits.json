@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Organic Almond",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125916_13-bb-royal-organic-almondbadam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cashew/Godambi Whole Bold",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135839_13-bb-royal-organic-cashewkaju-whole-bold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Raisins/Ona Drakshi",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101872_13-bb-royal-organic-raisinkismis.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Peanuts",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005280_5-tong-garden-salted-peanuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cashew/Godambi Broken",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088187_15-bb-royal-organic-cashew-broken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruits, Nuts & Berries",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40104688_11-fresho-signature-fruits-nuts-berries-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry & Rosemary Preserve - No Added Synthetic Colours & Flavours",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096720_6-bhuira-strawberry-rosemary-preserve-no-added-synthetic-colours-flavours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Flax Seeds - Rich In Omega 3 Fatty Acid, Healthy",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042047_19-true-elements-flax-seeds-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pitted Prunes/Dried Plums",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122503_7-regency-prunes-pitted-dried-plum.jpg?tr=w-154,q-80"
+  }
+]

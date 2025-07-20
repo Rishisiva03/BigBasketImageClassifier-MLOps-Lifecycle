@@ -1,0 +1,2402 @@
+[
+  {
+    "name": "Besan Laddoo",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276597_2-tasties-besan-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli / Kaju Barfi - Premium Mithai",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318855_2-tasties-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Motichoor Laddu Mithai / Sweet - Made With Desi Ghee",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318856_2-tasties-ghee-motichoor-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katri",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088511_2-amul-kaju-katri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Cake",
+    "sku_type": "200 g ",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195865_5-lal-milk-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/101212_2-haldirams-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Shrikhand",
+    "sku_type": "500 g - Cup",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/104840_4-amul-mango-shrikhand.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Barfi Mithai / Sweet - Made With Desi Ghee",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318857_2-tasties-ghee-coconut-burfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/215759_2-haldirams-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Pak Mithai / Sweet - Made With Desi Ghee",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318854_2-tasties-ghee-mysore-pak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Peda",
+    "sku_type": "200 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250473_4-lal-sweets-pvt-ltd-kesar-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Authentic Taste, Crispy & Flaky Texture, Perfect For Gifting",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100022365_1-haldirams-soan-papdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla",
+    "sku_type": "1.25 Kg ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073891_3-bikaji-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Pista Shrikhand",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/104837_3-amul-shrikhand-badam-pista.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Shahi Kaju Katli",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338452_2-unibic-swaadesi-shahi-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee Dates Halwa - Traditional Delicacy/Sweets, Dessert, For Celebrations, Special Occasions",
+    "sku_type": "200 g - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261715_1-grb-ghee-dates-halwa-traditional-delicacysweets-dessert-for-celebrations-special-occasions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khova Jamun In Sugar Syrup",
+    "sku_type": "500 g - (Contains 15 Jamuns)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326232_1-nandini-khova-jamun-in-sugar-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Premium Laddoo",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40156942_10-daadis-besan-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee Crispy Mysore Pak",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309664_1-daadis-ghee-crispy-mysore-pak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Sesame Chikki Balls",
+    "sku_type": "100 g - (15 pcs)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000523_3-rajarams-black-sesame-balls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Atta Gond Laddoo - Made In Pure Ghee",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215392_3-daadis-atta-gond-laddoo-made-in-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasakadam",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342134_1-nandini-rasakadam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Dry Fruit Besan Laddoo - With 100% Pure Ghee",
+    "sku_type": "180 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338448_2-unibic-swaadesi-dry-fruit-besan-laddoo-with-100-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Delight Date Bites",
+    "sku_type": "20 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307879_5-farmley-date-bites-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Dry Fruit Dodha Barfi - With 100% Pure Ghee",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338450_2-unibic-swaadesi-dry-fruit-dodha-barfi-with-100-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Doodh Peda",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183139_5-godrej-jersey-doodhpeda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shrikhand - Elachi, Healthy Dessert, Rich Flavour",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018581_4-milky-mist-shrikhand-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Besan Laddoo - No Added Sugar",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338454_2-unibic-swaadesi-besan-laddoo-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasogolla",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001474_6-mtr-rasogolla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malai Peda",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184271_3-amul-malai-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Laddoo - Besan",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020486_2-lal-premium-laddoo-besan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Peda",
+    "sku_type": "250 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326226_1-nandini-milk-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Ladoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326228_1-nandini-besan-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Laddu",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326235_1-nandini-millet-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Sesame Chikki Balls",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000522_3-rajarams-sesame-balls-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Soan Papdi - Flaky, Soft, Sweet",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020489_4-lal-premium-soan-papdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Angoori Petha",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40091645_6-bansiwala-sweet-angoori-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mawa Gujiya",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263828_4-gulab-sweets-sohan-papadi-authentic-flavour-taste-protein-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gur Rewri/Rewdi",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333156_2-tasties-gur-rewri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Cake - Regular, Traditional Delicacy/Sweets, Dessert, For Celebrations, Special Ocassions",
+    "sku_type": "100 g - Box",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261712_1-grb-soan-cake-regular-traditional-delicacysweets-dessert-for-celebrations-special-ocassions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mawa Dry Fruit Gujia / Gujiya - Handmade",
+    "sku_type": "250 g - Sweets",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322276_3-tasties-mawa-dry-fruit-gujia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Pak",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313107_2-mtr-mysore-pak-made-with-100-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Made With Desi Ghee, Veg, Crispy & Flaky Texture, Traditional Sweet",
+    "sku_type": "400 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226054_1-kanha-soan-papdi-made-with-desi-ghee-veg-crispy-flaky-texture-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Laddu",
+    "sku_type": "250 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164698_1-anand-sweets-besan-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted Coconut Barfi",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324056_1-go-desi-assorted-coconut-barfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Paak - No Added Sugar, Made With A2 Cow Ghee",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273522_1-anveshan-dry-fruit-paak-no-added-sugar-made-with-a2-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Syrup",
+    "sku_type": "750 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263816_2-gulab-sweets-rose-syrup-traditional-refreshing-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Badam Besan Barfi - With 100% Pure Ghee",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338451_2-unibic-swaadesi-badam-besan-barfi-with-100-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Baklava Box With Pure 100% Ghee",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338457_2-unibic-swaadesi-baklava-box-with-pure-100-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Halwa",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342128_1-nandini-badam-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nariyal Barfi",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334371_1-bansiwala-nariyal-barfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sohan Papdi - Sweet Fibres Flavoured With Cardamom",
+    "sku_type": "400 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088046_2-aakash-sweets-sohan-papadi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rossogolla",
+    "sku_type": "900 g - (20 pcs)",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329728_1-k-c-das-rossogolla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Better Laddoos - Vanilla & Cacao, No Added Sugar, Vegan & Gluten Free",
+    "sku_type": "70 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301329_1-eat-better-co-better-laddoos-vanilla-cacao-no-added-sugar-vegan-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Modak",
+    "sku_type": "200 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329164_1-lal-kesar-modak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Thandai Mix - Traditional Indian Sweet",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298305_2-bansiwala-kesar-thandai-mix-traditional-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Milk Cake",
+    "sku_type": null,
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249150_1-narula-sweets-premium-milk-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ajmeri Milk Cake - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274156_1-karachi-bakery-ajmeri-milk-cake-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Sesame Balls - Indian Traditional Sweet",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283974_1-manimark-black-sesame-balls-indian-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Magaz Ladoo",
+    "sku_type": "400 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231119_1-kaleva-magaz-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Ghar Ki Gujiya - Crispy, Rich In Minerals & Calcium",
+    "sku_type": "400 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251288_1-indiyum-special-ghar-ki-gujiya-crispy-rich-in-minerals-calcium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhoda - Finest Indian Sweets",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234676_1-om-sweets-snacks-dhoda-finest-indian-sweets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Chana Burfi - Authentic Taste, Perfect For Gifting",
+    "sku_type": "350 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281191_1-om-sweets-snacks-dry-fruit-chana-burfi-authentic-taste-perfect-for-gifting.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Soan Papdi",
+    "sku_type": "450 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40055273_3-bhikharam-chandmal-sweets-soan-papdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Milk Cake - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274164_1-karachi-bakery-mango-milk-cake-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Modak",
+    "sku_type": "165 g - Sweet",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329308_2-tasties-kaju-modak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dharwad Peda",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326227_1-nandini-dharwad-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229513_1-aabad-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Burfi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342123_1-nandini-badam-burfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Super Bar",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167937_2-nathans-groundnut-super-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Chocolate",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207961_1-shree-soan-papdi-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Laddu - Indian Sweet",
+    "sku_type": "80 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283951_1-manimark-coconut-laddu-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peda - Rich In Taste & Flavour",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281245_1-osam-peda-rich-in-taste-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Royal Rasgulla Dipped In Sugar Syrup",
+    "sku_type": "1 kg ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319114_1-bikano-royal-rasgulla-dipped-in-sugar-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crush Peanut Chikki",
+    "sku_type": "80 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003395_3-national-crush-shengdana-chiki.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Besan Ladoo - Pure Ghee, Traditional Indian Sweet",
+    "sku_type": "400 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276356_1-aakash-dry-fruit-besan-ladoo-pure-ghee-traditional-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Karachi Halwa - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280393_1-bikanervala-karachi-halwa-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Sesame Bar",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000531_2-rajarams-sweets-sesame-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Gulab Jamun",
+    "sku_type": "1 kg - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000839_5-haldirams-sweets-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Canned - Gulab Jamun",
+    "sku_type": "1 kg ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077777_1-grb-canned-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ChamCham",
+    "sku_type": "1 kg - Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/99285_3-haldirams-chamcham.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chhanar Payesh",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320240_1-thacker-dairy-chhanar-payesh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papadi Chocolate",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110619_1-bambino-soan-papadi-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shrikhand - Kesar",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40080055_1-punjab-sind-shrikhand-kesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lassi - Sweet",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103510_1-verka-lassi-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Balls",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167934_3-nathans-groundnut-balls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun - Made With Pure Desi Ghee",
+    "sku_type": "1 kg - Tin",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270041_1-heritage-gulab-jamun-made-with-pure-desi-ghee-soft-fluffy-sweet-delicacy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Soan Papdi (Del)",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000843_3-haldirams-sweets-soan-papdi-del.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi Made With Cow Ghee",
+    "sku_type": "400 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/412744_5-haldirams-soan-papdi-made-with-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Coconut",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/291241_2-haldirams-soan-papdi-coconut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Real Cardamom",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003514_4-grb-soan-papdi-real-cardamom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Shrikhand   Elaichi",
+    "sku_type": "250 g - Cup",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100024570_2-chitale-dairy-full-cream-shrikhand-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla",
+    "sku_type": "1.25 Kg - Tin",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000471_2-bikano-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ladoo Magic",
+    "sku_type": "800 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231122_1-kaleva-ladoo-magic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Veg, Crispy & Flaky Texture, Traditional Sweet",
+    "sku_type": "800 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226058_1-kanha-soan-papdi-veg-crispy-flaky-texture-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Bombay Halwa, Ghee",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077780_1-grb-sweets-bombay-halwa-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Mittai - Indian Sweet",
+    "sku_type": "120 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283950_1-manimark-coconut-mittai-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Pista Kheer",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320241_1-thacker-dairy-kesar-pista-kheer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Roll - Chocolate",
+    "sku_type": "200 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207959_1-shree-soan-roll-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Kesar Flavour, Flaky, Soft, Sweet",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020491_2-lal-soan-papdi-kesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Sesame Cubes",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167948_3-nathans-white-sesame-cubes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Sweets",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167933_3-nathans-groundnut-sweets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papadi -Butter Scotch",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110616_2-bambino-soan-papadi-butter-scotch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Groundnut",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000525_3-rajarams-sweets-groundnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajgira Ladoo - Gluten Free, Calcium Rich",
+    "sku_type": "200 g - (Pack of 12)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264590_3-ashtekar-rajgira-ladoo-gluten-free-calcium-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Shrikhand - Keshar",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100024558_6-chitale-dairy-full-cream-shrikhand-keshar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Petha",
+    "sku_type": "400 g - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033784_3-bikano-dry-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajbhog",
+    "sku_type": "1 kg - Tin",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40030079_2-bikano-rajbhog.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Agra Taj Petha",
+    "sku_type": "200 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004457_7-haldirams-agra-taj-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajbhog - Dipped In Sugar Syrup, Sweet Delicacy",
+    "sku_type": "1 kg - Tin",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/215758_2-haldirams-sweets-rajbhog.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Treat - Orange",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001727_1-haldirams-soan-treat-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla - Made With Pure Cow Milk, Soft, Fluffy, Juicy",
+    "sku_type": "500 g - Tin",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270042_1-heritage-rasgulla-made-with-pure-cow-milk-soft-fluffy-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papadi Badam",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110615_5-bambino-soan-papadi-badam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Elaichi",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40051123_5-prabhuji-pure-food-soan-papdi-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Halwa - Traditional Delicacy/Sweets, Dessert, For Celebrations, Special Occasions",
+    "sku_type": "200 g - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261717_1-grb-pineapple-halwa-traditional-delicacysweets-dessert-for-celebrations-special-occasions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi, Mb",
+    "sku_type": "450 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073896_4-bikaji-soan-papdi-mb.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Chocolate",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/291239_2-haldirams-soan-papdi-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Burfi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342124_1-nandini-dry-fruit-burfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Halwa - Karachi",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020494_5-lal-halwa-karachi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nice Peanut Chikki Cubes",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000520_5-rajarams-groundnut-cubes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Peda",
+    "sku_type": "10 pcs - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169802_1-milma-milk-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312542_1-gits-soan-papdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Sohan Papadi Gold",
+    "sku_type": "450 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095358_4-haldiram-sweets-sohan-papadi-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Coconut Rounds",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083145_2-popular-foods-sweets-coconut-rounds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi With Ghee",
+    "sku_type": "400 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40051125_4-prabhuji-pure-food-soan-papdi-with-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Churma Ladoo - Made From Desi Ghee",
+    "sku_type": "350 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201892_3-haldirams-churma-ladoo-desi-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Dal Burfi - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280398_1-bikanervala-moong-dal-burfi-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Halwa - Authentic, Rich & Sweet",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274155_1-karachi-bakery-halwa-authentic-rich-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Less - Gulab Jamun",
+    "sku_type": "250 g - Tin",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000475_3-dezire-sugar-less-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Rasgulla, Bengali, Soft & Songy",
+    "sku_type": "1.25 kg - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000838_3-haldirams-sweets-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Canned - Rasogalla",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077778_1-grb-canned-rasogalla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Manbhawan",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30011862_1-bikaji-soan-papdi-manbhawan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajgira Laddu - Special",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134070_1-sudhirs-rajgira-laddu-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Sweet & Soft, Traditional Relish, For Festive Occasions, Gifting",
+    "sku_type": "250 g - (250g+20% Extra)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067030_3-bikano-soan-papdi-sweet-soft-traditional-relish-for-festive-occasions-gifting.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mathura Peda",
+    "sku_type": "300 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207493_3-bansiwala-mathura-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Roll - Orange",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207960_1-shree-soan-roll-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Traditional Coconut Laddu",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193710_1-farm-made-traditional-coconut-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amazing Soan Papdi - Elaichi Flavour",
+    "sku_type": "200 g - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202823_1-annapurna-amazing-soan-papdi-elaichi-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Royal Gulab Jamun",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277726_2-anand-sweets-royal-gulab-jamun-sweets-dessert-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amrakhand",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107697_4-modern-dairy-amrakhand.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Orange",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100075420_1-haldirams-soan-papdi-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cham Cham",
+    "sku_type": "1 kg - Tin",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40030080_2-bikano-cham-cham.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Gulab Jamun",
+    "sku_type": "500 g - Tin",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067630_1-sugarless-bliss-sugar-free-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basundi",
+    "sku_type": "1 L - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005029_2-amul-basundi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Sohan Papadi Elaichi",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095355_6-haldiram-sweets-sohan-papadi-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets Rasgulla - Cottage Cheese Balls Dipped In Sugar Syrup",
+    "sku_type": "1 kg ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40080151_2-aakash-sweets-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Shirkhand - Elaichi",
+    "sku_type": "500 g - Cup",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/281579_2-chitale-dairy-full-cream-shirkhand-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Cham Cham",
+    "sku_type": "1 kg - Tin",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/291251_3-haldirams-sweets-cham-cham.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shrikhand Cool Scoop - Elaichi",
+    "sku_type": "100 g - Cup",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012989_2-amul-shrikhand-kool-scoop-elalchi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Ladoo",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313108_2-mtr-besan-undeladoo-made-with-100-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Motichur Laddoo",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291201_3-lal-motichur-laddoo-made-with-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gur Khasta Gajak",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333153_2-tasties-gur-khasta-gajak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amrakhand - With Real Mango",
+    "sku_type": "200 g - Cup",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018684_3-amul-amrakhand-with-real-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee Dry Fruits Halwa - Traditional Delicacy/Sweets, Dessert, For Celebrations, Special Occasions",
+    "sku_type": "200 g - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261716_1-grb-ghee-dry-fruits-halwa-traditional-delicacysweets-dessert-for-celebrations-special-occasions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Besan Ladoo",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201894_2-haldirams-dry-fruit-besan-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Silky Ladoo",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198721_1-brij-silky-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasogolla",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230720_2-redcow-dairy-rasogolla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Patisa",
+    "sku_type": "400 g - Box",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201783_1-bikano-patisa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Laddoo",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195861_2-lal-besan-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Balls - Black",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167939_2-nathans-sesame-balls-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cholai Laddu",
+    "sku_type": "150 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214391_1-danaram-vrat-aahar-cholai-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puffed Rice Balls",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167943_2-nathans-puffed-rice-balls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kalakand",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160342_1-karachi-sweet-mart-kalakand.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230722_2-redcow-dairy-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Namkeen Lassi",
+    "sku_type": "200 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103512_1-verka-namkeen-lassi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Big Balls",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167936_5-nathans-groundnut-big-balls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Kovilpatti Groundnut Nice Candy - Sweet, Crunchy, No Preservatives",
+    "sku_type": "175 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269594_2-god-speed-original-kovilpatti-groundnut-nice-candy-sweet-crunchy-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Cake - Butterscotch, Traditional Delicacy/Sweets, Dessert, For Celebrations, Special Occasions",
+    "sku_type": "100 g - Box",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261713_1-grb-soan-cake-butterscotch-traditional-delicacysweets-dessert-for-celebrations-special-occasions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla",
+    "sku_type": "1 kg ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006997_2-mother-dairy-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kurmura Ladoo",
+    "sku_type": "80 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003401_4-national-kurmura-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun",
+    "sku_type": "1 kg ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006996_2-mother-dairy-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Pak",
+    "sku_type": "500 g - Jar",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002404_8-patanjali-badam-pak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Shrikhand - Badam Pista",
+    "sku_type": "250 g - Cup",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100024573_2-chitale-dairy-full-cream-shrikhand-badam-pista.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fried Gram Chikki Balls",
+    "sku_type": "100 g - (15 pcs)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000521_3-rajarams-fried-grams-balls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun - Open & Eat, No Added Preservatives, Colours & Flavours",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113724_6-gits-gulab-jamun-made-with-cow-ghee-no-preservatives-artificial-flavours-colours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajasthani Moong Dal Halwa",
+    "sku_type": "125 g - Sweets",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320543_5-precia-rajasthani-moong-dal-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Horlicks Barfi - Enriched With Calcium, Iron & Milk",
+    "sku_type": "200 g - Mono Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276379_5-lal-horlicks-barfi-enriched-with-calcium-iron-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Laddu",
+    "sku_type": "400 g - Box",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201785_1-bikano-besan-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Doodh Peda",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227082_2-heritage-doodh-peda-made-from-pure-fresh-milk-delicious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Burfi",
+    "sku_type": "400 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201888_3-haldirams-besan-burfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Laddu",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207952_1-shree-peanut-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fired Gram Balls",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167941_2-nathans-fired-gram-balls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Malai Peda",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249151_1-narula-sweets-premium-malai-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Boondi Laddoo",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195862_2-lal-boondi-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Ladoo",
+    "sku_type": "400 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231121_1-kaleva-besan-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun",
+    "sku_type": "1.25 kg - Tin",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128305_3-haldiram-bhujiawala-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sohan Papdi - Indian Sweet",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277627_1-kaleva-sohan-papdi-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Pak",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289604_1-daadis-mysore-pak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Patisa",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40030180_5-haldirams-dry-fruit-patisa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Gulab Jamun",
+    "sku_type": "1 kg ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095362_2-haldiram-sweets-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Soan Papdi",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40030077_3-bikano-sweets-soan-papdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Rabdi",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40080077_2-punjab-sind-sweets-rabdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papadi -Duet",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110617_3-bambino-soan-papadi-duet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shrikhand - Elaichi",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40080057_1-punjab-sind-shrikhand-elachi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Besan Ladoo",
+    "sku_type": "336 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109631_2-bhikharam-chandmal-sweets-besan-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chennapoda",
+    "sku_type": "300 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40155734_1-milky-moo-chennapoda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shahi Gajak",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160351_1-karachi-sweet-mart-shahi-gajak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla",
+    "sku_type": "1 kg ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231135_1-kaleva-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun - Soft, Sponge, Delicious Dessert",
+    "sku_type": "1 kg - (12 pcs)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280445_1-a2b-gulab-jamun-soft-sponge-delicious-dessert.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Halwa",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100022298_3-haldirams-badam-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Cake - Pineapple, Traditional Delicacy/Sweets, Dessert, For Celebrations, Special Occasions",
+    "sku_type": "100 g - box",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261714_1-grb-soan-cake-pineapple-traditional-delicacysweets-dessert-for-celebrations-special-occasions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Revdi",
+    "sku_type": "250 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207498_4-bansiwala-revdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun",
+    "sku_type": "500 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119781_3-prabhuji-pure-food-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gur Shalimar Gajak",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333154_2-tasties-gur-shalimar-gajak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Bengali Rasmalai",
+    "sku_type": "125 g - Sweets",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320545_5-precia-classic-bengali-rasmalai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Laddu",
+    "sku_type": "275 g - (15 pcs)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215283_2-fouroclok-pineapple-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Til Chikki",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160349_1-karachi-sweet-mart-til-chikki.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Dates Laddu",
+    "sku_type": "250 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316673_1-aasvadana-plus-sesame-dates-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Ghee Putharekulu",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316672_1-aasvadana-sugar-ghee-putharekulu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Orange, Indian Sweet",
+    "sku_type": "200 g - Box",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300730_2-surya-soan-papdi-orange-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee Soan Papdi",
+    "sku_type": "200 g - Box",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309665_1-daadis-ghee-soan-papdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Gujiya",
+    "sku_type": "100  g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324139_1-gulab-peri-peri-gujiya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Rossogolla",
+    "sku_type": "1 kg ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095363_1-haldiram-sweets-rossogolla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Festive Delight -  Gulab Jamun, Traditional Indian Sweet",
+    "sku_type": "1 kg ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231138_1-danaram-festive-delight-gulab-jamun-traditional-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papadi -Sugar Free",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110618_2-bambino-soan-papadi-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40089790_12-tasties-soan-papdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Mysore Pak, Ghee",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077779_2-grb-sweets-mysore-pak-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets Gulab Jamun - Milk Solids Balls Dipped In Sugar Syrup",
+    "sku_type": "1 kg ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088049_2-aakash-sweets-gulabjamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Mysore Pak",
+    "sku_type": "250 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164740_1-anand-sweets-special-mysore-pak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Motichoor Laddoo",
+    "sku_type": "250 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164734_1-anand-sweets-motichoor-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Motichoor Ladoo - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274167_1-karachi-bakery-motichoor-ladoo-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Festive Wishes - Shahi Mysore Pak & Dharwad Peda",
+    "sku_type": "400 g - (2 units x 200 g each)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276373_2-lal-festive-wishes-shahi-mysore-pak-dharwad-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Delicious Joy Gift\u00a0Pack",
+    "sku_type": "450 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/271240_5-haldirams-delicious-joy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla - Made With Chenna",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113725_7-gits-rasgulla-with-no-added-preservatives-flavours-colours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shrikhand Cool Scoop - Kesar",
+    "sku_type": "100 g - Cup",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012990_2-amul-shrikhand-kool-scoop-kesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paan Petha",
+    "sku_type": "350 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40091646_7-bansiwala-sweet-paan-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Agra Petha",
+    "sku_type": "350 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201889_2-haldirams-agra-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Laddu",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180388_5-tasties-besan-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Panjeeri Ladoo",
+    "sku_type": "400 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40030183_4-haldirams-dry-fruit-panjeeri-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mithai/Sweets Gond Laddoo - Made With Pure Desi Ghee",
+    "sku_type": "200 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201261_2-tasties-gond-ghee-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Premium Laddoo",
+    "sku_type": "120 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224982_2-daadis-besan-laddoo-pure-ghee-preparation-traditional-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla",
+    "sku_type": "1 kg - Cup",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40116090_2-amul-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khoa",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329202_1-amul-khoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dodha Barfi",
+    "sku_type": "200 g ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329696_1-tasties-dodha-barfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Pak",
+    "sku_type": null,
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202434_1-jersey-mysore-pak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Dal Pista Laddoo - Made In Pure Ghee",
+    "sku_type": null,
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215395_3-daadis-moong-dal-pista-laddoo-made-in-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajasthani Gulab Halwa",
+    "sku_type": "125 g - Sweets",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320544_4-precia-palis-gulab-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Burfi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326229_1-nandini-coconut-burfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pista Kesariya Rasmalai",
+    "sku_type": "125 g - Sweets",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320546_5-precia-pista-kesariya-rasmalai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Punjabi Gajar Ka Halwa",
+    "sku_type": "125 g - Sweets",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320547_4-precia-punjabi-gajar-ka-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Ghee Mysore Pak",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338449_2-unibic-swaadesi-premium-mysore-pak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Purani Dilli Rabdi / Rabri",
+    "sku_type": "125 g - Sweets",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320542_4-precia-purani-dilli-rabdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee Boondi Ladoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342130_1-nandini-ghee-boondi-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ladagi Ladoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342132_1-nandini-ladagi-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Angoori Petha",
+    "sku_type": "1 kg - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201789_1-bikano-kesar-angoori-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Walnut Peanut Butter Barfi Indian Sweets - Mithai",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188312_2-d-alive-walnut-peanut-butter-barfi-indian-sweets-mithai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Ladoo",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183144_5-harshaman-besan-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "One + One - Sohan Papdi, Till Laddu",
+    "sku_type": "800 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231127_1-kaleva-one-one-sohan-papdi-till-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Ladoo - Ragi Malt With Jaggery, Organic",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198734_1-harshaman-ragi-ladoo-ragi-malt-with-jaggery-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Delicious & Sweet, Dessert",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234288_1-vipul-dudhiya-sweets-soan-papdi-delicious-sweet-dessert.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Kaju Katli - Delicious & Sweet, Dessert",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234275_1-vipul-dudhiya-sweets-kesar-kaju-katli-delicious-sweet-dessert.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Laddoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160345_1-karachi-sweet-mart-besan-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papaya Halwa",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201292_1-goeld-papaya-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Pak",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201896_2-haldirams-mysore-pak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malai & Mango Barfi",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177567_4-bhavnagari-dryfruit-store-malai-mango-barfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mawa Dry Fruit Gujia",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212672_1-haldirams-mawa-dry-fruit-gujia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Royal Mix Petha",
+    "sku_type": "375 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207494_3-bansiwala-petha-royal-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Elaichi",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207963_1-shree-soan-papdi-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Laddu - Premium Delight",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202831_1-lalji-besan-laddu-premium-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panjeeri Laddu",
+    "sku_type": "400 g - Box",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201786_1-bikano-panjeeri-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Angoori Petha",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193686_1-rafael-kesar-angoori-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Angoori Petha",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193684_1-rafael-angoori-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201891_3-haldirams-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mithai/Sweets Moong Dal Laddoo - Made With Pure Desi Ghee",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224138_1-tasties-tasties-moong-dal-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panjeeri Laddu - Premium Delight",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202832_1-lalji-panjeeri-laddu-premium-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gondia Ladoo",
+    "sku_type": "800 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231118_1-kaleva-gondia-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Sesame Cubes",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167949_3-nathans-black-sesame-cubes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds Dates Laddu",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316674_1-aasvadana-plus-flax-seeds-dates-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Namkeen - Jujubes",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073359_2-rajarams-namkeen-jujubes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Sesame Bar - Healthy Snack",
+    "sku_type": "65 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283949_1-manimark-black-sesame-bar-healthy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puffed Barley Balls - Indian Sweet",
+    "sku_type": "262 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283952_1-manimark-puffed-barley-balls-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Modak",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323585_1-amul-kaju-modak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Gulab Jamun",
+    "sku_type": "1 kg - (20 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329729_1-k-c-das-kesar-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khova Peda - Dharwad Style",
+    "sku_type": "200 g - Sweet",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322277_3-tasties-dharwad-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paan Raisins",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332292_1-snackamor-paan-raisins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Date Mewa Barfi",
+    "sku_type": "210 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332291_1-snackamor-date-mewa-barfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi\u00a0- Rose, Indian Sweet",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300732_2-surya-soan-papdi-rose-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi\u00a0- Choco\u00a0Chips, Indian Sweet",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300731_2-surya-soan-papdi-choco-chips-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Akhrot Plaza",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/veg-placeholder.png"
+  },
+  {
+    "name": "Sugar Free Gulab Jamun",
+    "sku_type": "500 g - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/veg-placeholder.png"
+  },
+  {
+    "name": "Rajwadi Halwa",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/veg-placeholder.png"
+  },
+  {
+    "name": "Mohanthal",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323579_1-amul-mohanthal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Roll - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280402_1-bikanervala-kaju-roll-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Cake - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280397_1-bikanervala-milk-cake-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274163_1-karachi-bakery-kaju-katli-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Soan Papdi Mithai - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274150_1-karachi-bakery-classic-soan-papdi-mithai-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee Ghewar With Cashew Badam & Pista - Just Add Kesar Syrup",
+    "sku_type": "310 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292877_1-prabhuji-pure-food-ghee-ghewar-with-cashew-badam-pista.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Soan Papdi Mithai - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274153_1-karachi-bakery-chocolate-soan-papdi-mithai-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Til Besan Ladoo - Indian Sweet",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277630_1-kaleva-til-besan-ladoo-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted Gift Box Festive Indulgence",
+    "sku_type": "665 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277648_3-bb-combo-festive-gift-box-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted Gift Box Sparkling Treats",
+    "sku_type": "460 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277647_3-bb-combo-festive-gift-box-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anand Soan Papdi - Sweets, Dessert, Snack",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277710_1-anand-sweets-anand-soan-papdi-sweets-dessert-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Top Rasgulla",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317661_1-jk-dairy-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Gond Laddu",
+    "sku_type": "336 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324495_1-bhikharam-chandmal-badam-gond-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khoya Chocolate Burfi - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280395_1-bikanervala-khoya-chocolate-burfi-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun - Soft & Spongy, Made With Pure Cow Ghee",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291199_2-lal-gulab-jamun-soft-spongy-made-with-pure-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kozhikodan Mixed Halwa",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329314_1-ojin-kozhikodan-mixed-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi\u00a0- Coconut, Indian Sweet",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300733_2-surya-soan-papdi-coconut-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Roll - Assorted, High In Protein, Rich Flavour",
+    "sku_type": "500 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281815_1-vipul-dudhiya-sweets-kaju-roll-assorted-high-in-protein-rich-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Pak - Dessert, Snack",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277689_1-shub-mysore-pak-dessert-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Ladoo - Dessert, Snack",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277691_1-shub-besan-ladoo-dessert-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Burfi - Dessert, Snack",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277695_1-shub-chocolate-burfi-dessert-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jodhpuri Laddu - Made With Desi Ghee, Traditional Indian Sweets",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280392_1-bikanervala-jodhpuri-laddu-made-with-desi-ghee-traditional-indian-sweets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Syrup",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324142_2-gulab-orange-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aam Panna",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324140_2-gulab-aam-panna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Top Gulab Jamun",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317662_1-jk-dairy-top-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shrikhand",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107698_4-modern-dairy-shrikhand.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Triple Mazza",
+    "sku_type": "650 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40043722_8-haldirams-triple-mazza.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugarless - Laddu",
+    "sku_type": "250 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023250_1-dezire-sugarless-laddu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234151_1-lalji-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sponge Rasogolla",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234150_1-lalji-sponge-rasogolla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Laddu - Nachni Satva, Ragi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121576_4-harshaman-laddu-nachni-satva-ragi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Munch Moments",
+    "sku_type": "600 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40043724_8-haldirams-munch-moments.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shrikhand - Mango",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40080056_1-punjab-sind-shrikhand-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Laddu - Rava",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121575_3-harshaman-laddu-rava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Ladoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324055_1-go-desi-coconut-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sewai Kheer",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201293_1-goeld-sewai-kheer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Mathura Peda",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249147_1-narula-sweets-premium-mathura-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Patissa - Sugar Free",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249159_1-narula-sweets-premium-patissa-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Soan Papdi",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249160_1-narula-sweets-special-soan-papdi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli",
+    "sku_type": "200 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Premium Patissa",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249166_1-narula-sweets-premium-patissa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160341_1-karachi-sweet-mart-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164726_1-anand-sweets-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Flax Laddoo - Sweetened With Jaggery, Made With A2 Cow Ghee",
+    "sku_type": "625 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273523_1-anveshan-coconut-flax-laddoo-sweetened-with-jaggery-made-with-a2-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Pak - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274149_1-karachi-bakery-mysore-pak-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Milk Cake - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274166_1-karachi-bakery-strawberry-milk-cake-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Soan Papdi Mithai - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274151_1-karachi-bakery-rose-soan-papdi-mithai-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets Rajbhog - Cottage Cheese Balls Dipped In Sugar Syrup",
+    "sku_type": "1 kg - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276359_1-aakash-sweets-rajbhog-cottage-cheese-balls-dipped-in-sugar-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Celebration - Gulab Jamun & Rasgulla, Traditional Indian Sweet",
+    "sku_type": "500 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276360_1-aakash-sweet-celebration-gulab-jamun-rasgulla-traditional-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Motichur Ladoo - Dessert, Snack",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277688_1-shub-motichur-ladoo-dessert-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Sweets - Sweets, Dessert, Snack",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277699_1-shub-mixed-sweets-sweets-dessert-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli - Dessert, Snack For Celebration",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277694_1-shub-kaju-katli-dessert-snack-for-celebration.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Dessert, Snack",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277697_1-shub-soan-papdi-dessert-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280401_1-bikanervala-kaju-katli-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khoya Kesar Peda - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280396_1-bikanervala-khoya-kesar-peda-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Besan Laddu - Enriched With Dry Fruits, Sweet",
+    "sku_type": "336 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40278621_1-prabhuji-pure-food-premium-besan-laddu-enriched-with-dry-fruits-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Festive Dhamaka - Shahi Mysore Pak & Besan Laddoo",
+    "sku_type": "400 g - (2 units x 200 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276371_1-lal-festive-dhamaka-shahi-mysore-pak-besan-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Balushahi - Authentic, Rich, Traditional Sweet",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274158_1-karachi-bakery-balushahi-authentic-rich-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhoda Burfi - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280391_1-bikanervala-dhoda-burfi-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shahi Pinni - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280399_1-bikanervala-shahi-pinni-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Bites - Premium, Rich, Ready To Eat",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40293084_1-rajarams-peanut-bites-premium-rich-ready-to-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli - Delicious & Sweet, Dessert",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234273_1-vipul-dudhiya-sweets-kaju-katli-delicious-sweet-dessert.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mewa Bite - Assorted Sweets, Perfect For Gifting",
+    "sku_type": "500 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281190_1-om-sweets-snacks-mewa-bite-assorted-sweets-perfect-for-gifting.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khoya Pista Burfi - Traditional Indian Sweets, Freshly Packed",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280403_1-bikanervala-khoya-pista-burfi-traditional-indian-sweets-freshly-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thekua  - Traditional Indian Sweet, With Pure Ghee & Cashew",
+    "sku_type": "300 g - 12 pcs",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283423_2-prabhuji-pure-food-thekua-traditional-indian-sweet-with-pure-ghee-cashew.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Barfi - Premium",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291200_2-lal-besan-barfi-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Cubes  - Traditional Snack, Rich In Iron, Calcium",
+    "sku_type": "100 g - (Buy 1 Get 1 Free)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271384_1-nathans-groundnut-cubes-traditional-snack-rich-in-iron-calcium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla - Soft, Sponge, Delicious Dessert",
+    "sku_type": "1 kg - (12 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280446_1-a2b-rasgulla-soft-sponge-delicious-dessert.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Kovilpatti Black Sesame Candy - High In Nutrients",
+    "sku_type": "175 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269592_2-god-speed-original-kovilpatti-black-sesame-candy-high-in-nutrients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bombay Ghee Halwa - Mango & Kiwi Flavour",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299551_1-daadis-bombay-ghee-halwa-mango-kiwi-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Cake",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304395_1-laxminarayan-milk-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sitashree Mango Barfi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304397_1-laxminarayan-sitashree-mango-barfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304396_1-laxminarayan-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Balls - White",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167938_2-nathans-sesame-balls-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Less Sweets - Assorted",
+    "sku_type": "250 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000476_5-dezire-sugar-less-sweets-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Dodha Burfi - No Added Sugar",
+    "sku_type": "180 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338453_2-unibic-swaadesi-dodha-burfi-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Rangotsav Holi Gift Box - Khatta Meetha Mix, Dry Fruit Coconut Gujiya, Thandai Mix",
+    "sku_type": "340 g - (120 g + 120 g + 100 ml)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338456_1-unibic-swaadesi-rangotsav-holi-gift-box-khatta-meetha-mix-dry-fruit-coconut-gujiya-thandai-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swaadesi Dryfruit Coconut Gujiya",
+    "sku_type": "240 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338455_1-unibic-swaadesi-dryfruit-coconut-gujiya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kalajamun",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340573_1-k-c-das-kalajamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Rajbhog, Del",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000840_4-haldirams-sweets-rajbhog-del.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pistamika Indian Pistachio Biscotti",
+    "sku_type": "225 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340998_1-anand-pistamika-indian-pistachio-biscotti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jaggery Peda",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342122_1-nandini-jaggery-peda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chakki Ladoo",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342131_1-nandini-chakki-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruits Barfi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324057_1-go-desi-dry-fruits-barfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Katli",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324085_1-go-desi-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Laddoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323583_1-amul-besan-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Halwa",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327640_1-aashirvaad-mithaas-badam-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Laddoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195863_3-lal-badam-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Motichoor Laddoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323582_1-amul-motichoor-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Coconut Delight Laddu",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007704_1-dip-coconut-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi - Chocolate",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003513_1-grb-soan-papdi-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Double Joy Gift Pack",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001723_5-haldirams-double-joy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Gram Ladoo",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342133_1-nandini-green-gram-ladoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jaggery Burfi",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342126_1-nandini-jaggery-burfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gur Til Patti/Chikki",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333155_2-tasties-gur-til-patti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diabetics Sweets - Kaju Katli",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037212_4-dezire-diabetics-sweets-kaju-katli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Pak",
+    "sku_type": "250 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264276_2-bansiwala-mysore-pak-authentic-taste-flavour-buttery-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Rasmalai",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249148_1-narula-sweets-special-rasmalai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Petha",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344754_1-panchhi-dry-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew Burfi",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326230_1-nandini-cashew-burfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Chana Chikki",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333637_2-tasties-special-chana-chikki.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Dal Halwa",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327639_1-aashirvaad-mithaas-moong-dal-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla - Traditional Sweet",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275678_1-aavin-rasgulla-traditional-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Rabdi - Rich In Calcium & Vitamins, Desi Sweet, Flavourful",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281246_1-osam-special-rabdi-rich-in-calcium-vitamins-desi-sweet-flavourful.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malai Modak",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329165_1-lal-malai-modak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rossogolla",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119780_4-prabhuji-pure-food-rossogolla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rosogolla",
+    "sku_type": "500 g - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323576_1-amul-rosogolla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gur Kaju Roll Gajak",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333152_2-tasties-gur-kaju-roll-gajak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweets - Lachha",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109630_2-bhikharam-chandmal-sweets-lachha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Burfi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342127_1-nandini-peanut-burfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Karadantu",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342129_1-nandini-karadantu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khoa",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/veg-placeholder.png"
+  },
+  {
+    "name": "Rasmalai - Soft, Spongy",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40285466_1-haldirams-rasmalai-soft-spongy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mawa Modak",
+    "sku_type": "200 g - Sweet",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328218_2-tasties-premium-modak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Barfi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313109_2-mtr-kobbari-mittai-coconut-barfi-made-with-100-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bombay Halwa",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313110_2-mtr-bombay-halwa-made-with-100-pure-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Angoori Petha",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331272_2-panchhi-petha-kesar-angoori-petha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ullas Gulla",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342135_1-nandini-ullas-gulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Laal Petha",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331273_1-panchhi-petha-laal-petha.jpg?tr=w-154,q-80"
+  }
+]

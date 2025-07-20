@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Prawns-Large",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186084_4-fresho-frozen-prawns-large.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basa Fillet",
+    "sku_type": "500 g - (1-2 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186085_5-fresho-frozen-basa-fillet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Catch Prawns - Small",
+    "sku_type": null,
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049587_5-ifb-fresh-catch-prawns-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mackerel Fish - Large, Whole Cleaned, 4 to 6 pcs",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331211_2-fresho-mackerel-fish-large-whole-cleaned-4-to-6-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roopchand Curry Cut",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272826_2-fresho-roopchand-steaks-frozen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seer Fish - Slice",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331215_2-fresho-seer-fish-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Catch Prawns - Large",
+    "sku_type": "200 g - Approx 35-37 pcs",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049586_2-ifb-fresh-catch-prawns-large.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Catch Prawns - King Jumbo",
+    "sku_type": "500 g - Approx 14 - 17 pcs",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049589_6-ifb-fresh-catch-prawns-king-jumbo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Catch Prawns - Jumbo",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049588_5-ifb-fresh-catch-prawns-jumbo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tilapia Fillet",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272822_2-fresho-tilapia-fillet-frozen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Catla Curry Cut",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272823_2-fresho-catla-steaks-frozen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Pud Medium",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018656_2-seastar-prawns-pud-medium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basa Fish - Fillet Family Pack",
+    "sku_type": "1 kg ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40099677_2-seastar-basa-fish-fillet-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tilapia Curry Cut",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272821_2-fresho-tilapia-steaks-frozen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Finger",
+    "sku_type": "250 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018639_2-seastar-fish-finger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Cubes - Skinless, 14-18 pcs",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331214_2-fresho-tuna-cubes-skinless14-18-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Pud Large",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018660_2-seastar-prawns-pud-large.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rohu Curry Cut",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272824_2-fresho-rohu-steaks-frozen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basa Fish With Lemon & Pepper",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068225_3-cambay-tiger-basa-fish-with-lemon-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Fingers",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049578_6-gadre-fish-fingers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Tilapia Fish Fillet",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40055098_6-gadre-frozen-tilapia-fish-fillet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Prawns - Large",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067766_7-big-sams-frozen-prawns-large.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Cook - Masala Mackerel",
+    "sku_type": "95 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001538_2-gadre-ready-to-cook-masala-mackerel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Basa Chunks",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40084539_4-big-sams-frozen-basa-chunks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Medium Prawns - Soft & Juicy, Super Safe Frozen Prawns",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110124_5-itc-master-chef-prawns-medium-peeled-deveined.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salmon Smoked - Presliced",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073557_1-big-sams-salmon-smoked-presliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Freshly Frozen Shrimp - Rich In Protein & Antioxidants",
+    "sku_type": "500 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271371_1-sneha-select-freshly-frozen-shrimp-rich-in-protein-antioxidants.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Fry Snack - Fish Fry",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226132_2-haringhata-fish-fry-ready-to-fry-snack-fish-fry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Norwegian Salmon Portions Skin Off",
+    "sku_type": "220 g - Box",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003119_3-cambay-tiger-norwegian-salmon-portions-skin-off.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Fillets - Raw Meet",
+    "sku_type": "450 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001200_1-buffet-fish-fillets-raw-meet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basa Fish - Fillet Chunks",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40099678_2-seastar-basa-fish-fillet-chunks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Large",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318816_1-godrej-yummiez-large-prawns.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Catch Basa Fish Portions",
+    "sku_type": "500 g - Approx 12 - 13 pcs",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40011535_3-ifb-fresh-catch-basa-fish-portions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Atlantic Salmon - Smoked  Presliced",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40021107_1-big-sams-atlantic-salmon-smoked-presliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Medium",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318815_1-godrej-yummiez-medium-prawns.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Fry Snack - Fish Fingers",
+    "sku_type": "120 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226133_2-haringhata-fish-fingers-ready-to-fry-snack-fish-fingers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Streaky Bacon",
+    "sku_type": "150 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169474_1-big-sams-premium-streaky-bacon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basa Fish - Fillet",
+    "sku_type": "1 kg - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003121_2-cambay-tiger-basa-fish-fillet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jus-Cook - Masala Seer Fish Steak",
+    "sku_type": "150 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001537_6-gadre-jus-cook-masala-seer-fish-steak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Back Bacon",
+    "sku_type": "150 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169475_1-big-sams-premium-back-bacon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Basa Fish - Fillets",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067768_4-big-sams-frozen-basa-fish-fillets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Squid - Rings (Calamari)",
+    "sku_type": "250 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093620_1-big-sams-frozen-squid-rings-calamari.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready to Cook - Small Prawns (Peeled & Deveined)",
+    "sku_type": "250 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001204_2-buffet-ready-to-cook-small-prawns-peeled-deveined.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish - Nuggets",
+    "sku_type": "250 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40099679_4-seastar-fish-nuggets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tilapia Fillets",
+    "sku_type": "1 kg ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198403_1-cambay-tiger-tilapia-fillets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Steaks - Premium Seer Fish",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001539_1-gadre-steaks-premium-seer-fish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready to Cook - Large Prawns (Peeled & Deveined)",
+    "sku_type": "250 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001209_5-buffet-ready-to-cook-large-prawns-peeled-deveined.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salmon Fish - Fillet",
+    "sku_type": "450 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002780_1-starchik-salmon-fish-fillet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fillet - Basa Fish",
+    "sku_type": "450 g - Tray Pack",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001233_2-starchik-fillet-basa-fish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Fillets - Breaded",
+    "sku_type": "350 g - Pouch",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001214_2-buffet-fish-fillets-breaded.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Fingers - Breaded",
+    "sku_type": "250 g - Pouch",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001197_1-buffet-fish-fingers-breaded.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Fillet - Breaded",
+    "sku_type": "250 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018640_2-seastar-fish-fillet-breaded.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns DVC - Jumbo",
+    "sku_type": "300 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161236_3-cambay-tiger-prawns-dvc-jumbo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Norwegian Salmon - Portions Skin On",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198404_1-cambay-tiger-norwegian-salmon-portions-skin-on.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Norwegian Salmon Double Chunk Skin Off",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198402_1-cambay-tiger-norwegian-salmon-double-chunk-skin-off.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basa Fillet",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198405_1-cambay-tiger-basa-fillet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Catch - Prawn Cheese Balls",
+    "sku_type": "300 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169472_1-ifb-fresh-catch-prawn-cheese-balls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Cheese Ball",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331237_1-megaa-fish-cheese-ball.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Atlantic Salmon Portion Single",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068151_4-big-sams-atlantic-salmon-portion-single.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomfret - Whole",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068220_3-cambay-tiger-pomfret-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Surmai Medium",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068222_3-cambay-tiger-surmai-medium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawn - Torpedo",
+    "sku_type": "250 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018641_2-seastar-prawn-torpedo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Small (Clean & Undeveined)",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068663_2-gadre-prawns-small-clean-undeveined.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breaded Basa Fish Fingers",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106322_2-big-sams-breaded-basa-fish-fingers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Salmon Skin-on Portions",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40084540_2-big-sams-frozen-salmon-skin-on-portions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wild Yellowfin Tuna Steaks",
+    "sku_type": "120 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213594_1-big-sams-wild-yellowfin-tuna-steaks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Imitation - Shrimp Triangles",
+    "sku_type": "250 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001529_1-gadre-imitation-shrimp-triangles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns Goan Curry",
+    "sku_type": "380 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195430_2-gadre-prawns-goan-curry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Fingers",
+    "sku_type": "300 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259411_1-meatington-fish-fingers-rich-source-of-protein-fibre-crispy-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Prawns - Medium",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067765_1-big-sams-frozen-prawns-medium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns DVC - Small",
+    "sku_type": "300 g - Deveined & Cleaned",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003116_5-cambay-tiger-prawns-dvc-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Large",
+    "sku_type": "300 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003141_3-cambay-tiger-prawns-large.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready to Cook - Jumbo Prawns (Peeled & Deveined)",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001203_1-buffet-ready-to-cook-jumbo-prawns-peeled-deveined.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Pud Small",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018655_2-seastar-prawns-pud-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Pd Jumbo",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018657_2-seastar-prawns-pd-jumbo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns - Pd Xtra Large",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018658_2-seastar-prawns-pd-xtra-large.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Perch Fish - Whole Cleaned, 3 To 5 pcs",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331213_2-fresho-pink-perch-fish-whole-cleaned3-to-5-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Prawns - Small",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093619_3-big-sams-frozen-prawns-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Norgwegian Salmon Portions - Family Pack",
+    "sku_type": "450 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169479_1-big-sams-norgwegian-salmon-portions-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Prawns - Jumbo",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067767_2-big-sams-frozen-prawns-jumbo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Small Prawns",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004588_2-sumeru-small-prawns.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Large Prawns",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004587_2-sumeru-large-prawns.jpg?tr=w-154,q-80"
+  }
+]

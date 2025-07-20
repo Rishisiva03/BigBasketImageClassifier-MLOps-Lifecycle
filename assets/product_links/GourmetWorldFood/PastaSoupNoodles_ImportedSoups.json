@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Soup Cube - Vegetable",
+    "sku_type": "2 pcs - Carton",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001028_3-maggi-soup-cube-vegetable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup a Soup - Tomato & Basil",
+    "sku_type": "104 g - Carton",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003591_8-batchelors-cup-a-soup-tomato-basil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant Based Chicken-Less Bouillon & Broth Powder",
+    "sku_type": "200 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341150_1-urban-platter-plant-based-chicken-less-bouillon-broth-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ramen Instant Broth Powder",
+    "sku_type": "150 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341137_1-urban-platter-ramen-instant-broth-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Chick & Leek, Imported",
+    "sku_type": "86 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003577_5-batchelors-cup-a-soup-chick-leek-86-gm-carton.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup With Croutons - Chicken & Vegetable, Imported",
+    "sku_type": "110 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100073154_3-batchelors-cup-a-soup-with-croutons-chicken-vegetable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Chicken, Imported",
+    "sku_type": "81 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003581_5-batchelors-cup-a-soup-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Golden Vegetable, Imported",
+    "sku_type": "82 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003587_8-batchelors-cup-a-soup-golden-vegetable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Tomato, Imported",
+    "sku_type": "93 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003582_3-batchelors-cup-a-soup-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Cream Of Vegetable, Imported",
+    "sku_type": "122 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003579_3-batchelors-cup-a-soup-cream-of-vegetable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Potato & Leek, Imported",
+    "sku_type": "107 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208789_1-batchelors-cup-a-soup-potato-leek.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Cream of Asparagus & Croutons, Imported",
+    "sku_type": "117 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003463_6-batchelors-casc-soup-asparagus-croutons.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Chicken Luncheon Meat - Vitamin, Protein Rich, Gluten Free",
+    "sku_type": "340 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240194_1-kellys-chicken-luncheon-meat-vitamin-protein-rich-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Smoked Golden Franks Sausages",
+    "sku_type": "350 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196337_1-deli-chic-chicken-smoked-golden-franks-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork Ham Slice",
+    "sku_type": "250 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196344_1-deli-chic-pork-ham-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork Salami Slice",
+    "sku_type": "250 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196343_1-deli-chic-pork-salami-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Spicy Salami",
+    "sku_type": "250 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196336_1-deli-chic-chicken-spicy-salami.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork Luncheon Meat - Classic, Protein Rich, Gluten Free",
+    "sku_type": "340 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240191_1-kellys-pork-luncheon-meat-classic-protein-rich-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Plain Sausages",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196338_1-deli-chic-chicken-plain-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Spicy Seekh Kabab",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196341_1-deli-chic-chicken-spicy-seekh-kabab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ham - Protein Rich, Gluten Free",
+    "sku_type": "340 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240198_1-kellys-premium-ham-protein-rich-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Spicy Cocktail Sausages",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196339_1-deli-chic-chicken-spicy-cocktail-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork Frankfurter Sausages",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196346_1-deli-chic-pork-frankfurter-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork - Luncheon Meat",
+    "sku_type": "200 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111846_1-tulip-pork-luncheon-meat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork - Danish Luncheon Meat",
+    "sku_type": "340 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111847_1-tulip-pork-danish-luncheon-meat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork Luncheon Meat With Cheese - Protein Rich, Gluten Free",
+    "sku_type": "340 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240193_1-kellys-pork-luncheon-meat-with-cheese-protein-rich-gluten-free.jpg?tr=w-154,q-80"
+  }
+]

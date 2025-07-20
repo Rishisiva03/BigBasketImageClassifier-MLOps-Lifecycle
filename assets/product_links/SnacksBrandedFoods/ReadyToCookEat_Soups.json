@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Instant Tomato Chatpata Cup A Soup",
+    "sku_type": "13.5 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/293387_13-knorr-instant-tomato-chatpata-cup-a-soup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "International Italian Mushroom Soup",
+    "sku_type": "46 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/266568_13-knorr-international-italian-mushroom-soup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thick Tomato Soup - 100% Real Vegetables, No Added Preservatives",
+    "sku_type": "51 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019242_8-knorr-tomato-soup-classic-thick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "International Mexican Tomato Corn Soup - 100% Real Vegetables, No Added Preservatives",
+    "sku_type": "50 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40029216_8-knorr-international-mexican-tomato-corn-soup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "International Hong Kong Manchow Noodle Soup - 100% Real Vegetables, No Added Preservatives",
+    "sku_type": "44 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/291911_12-knorr-international-hong-kong-manchow-noodles-soup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Vegetable Soup - No Added Preservatives",
+    "sku_type": "44 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40029215_7-knorr-international-thai-vegetable-soup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Coriander Instant Soup  - 100% Real Vegetables",
+    "sku_type": "15 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220059_1-chings-secret-lemon-coriander-instant-soup-100-real-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thoothuvalai Soup Mix - Made With 100% Real Herbs",
+    "sku_type": "20 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40285712_2-saaral-thoothuvalai-soup-mix-made-with-100-real-herbs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Delite Cup A Soup - No Added Preservatives",
+    "sku_type": "10 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093055_11-knorr-cup-a-soup-chicken-delite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Chick & Leek, Imported",
+    "sku_type": "86 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003577_5-batchelors-cup-a-soup-chick-leek-86-gm-carton.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Tomato Soup",
+    "sku_type": "53 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30004537_9-knorr-classic-tomato-soup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Asian Hot Cook Up Soup - With Exotic Vegetables",
+    "sku_type": "55 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220064_2-chings-secret-asian-hot-cook-up-soup-with-exotic-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Cup-Soup - Manchow",
+    "sku_type": "15 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216764_1-inchi-instant-cup-soup-manchow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot N' Sour Chicken Soup - With 100% Real Chicken",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081765_4-keya-hot-n-sour-chicken-soup-with-100-real-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn Chicken Soup - With 100% Real Chicken",
+    "sku_type": "52 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081766_4-keya-sweet-corn-chicken-soup-with-100-real-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Cup-Soup - Tomato",
+    "sku_type": "15 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216762_1-inchi-instant-cup-soup-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Chicken Soup - With 100% Real Chicken",
+    "sku_type": "48 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081767_7-keya-creamy-chicken-soup-with-100-real-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot N Sour Veggie Overload Quickie Soup - Multigrain, No Maida, Single Pack",
+    "sku_type": "15 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269214_1-rasna-hot-n-sour-veggie-overload-quickie-soup-multigrain-no-maida-single-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veg Clear Soup - Heat & Drink",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283398_3-happychef-veg-clear-soup-heat-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot N Sour Vegetable Soup",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110613_4-bambino-hot-n-sour-vegetable-soup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Vegetable Soup Mix - Made With 100% Real Herbs",
+    "sku_type": "20 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40285709_2-saaral-mixed-vegetable-soup-mix-made-with-100-real-herbs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Pepper Soup - Heat & Drink",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283394_3-happychef-lemon-pepper-soup-heat-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Sour Soup With Real Vegetables - Cook-Up For Any-Time, Ready In 5 Minutes",
+    "sku_type": "48 g - Mono Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255934_1-inchi-hot-sour-soup-with-real-vegetables-cook-up-for-any-time-ready-in-5-minutes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soup Powder - Sweet Corn Vegetable",
+    "sku_type": "50 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100015928_4-bambino-soup-powder-sweet-corn-vegetable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "International Spicy Korean Kimchi Soup - Cook For 3 Mins",
+    "sku_type": "12.5 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330015_1-knorr-international-spicy-korean-kimchi-soup-cook-for-3-mins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup With Croutons - Chicken & Vegetable, Imported",
+    "sku_type": "110 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100073154_3-batchelors-cup-a-soup-with-croutons-chicken-vegetable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato Oats Cook Up Soup - With Exotic Vegetables",
+    "sku_type": "70 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220061_2-chings-secret-tomato-oats-cook-up-soup-with-exotic-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Coriander Cook Up Soup  - With Exotic Vegetables",
+    "sku_type": "55 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220063_2-chings-secret-lemon-coriander-cook-up-soup-with-exotic-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ching\u2019s Manchow Noodles Cook Up Soup - With Exotic Vegetables",
+    "sku_type": "72 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220062_2-chings-secret-chings-manchow-noodles-cook-up-soup-with-exotic-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato Veggie Overloaded - Quikie Soup, Gold Pack",
+    "sku_type": "90 g - (Pack of 5)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40284517_1-rasna-tomato-veggie-overloaded-quikie-soup-gold-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Chicken, Imported",
+    "sku_type": "81 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003581_5-batchelors-cup-a-soup-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Golden Vegetable, Imported",
+    "sku_type": "82 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003587_8-batchelors-cup-a-soup-golden-vegetable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Tomato, Imported",
+    "sku_type": "93 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003582_3-batchelors-cup-a-soup-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup A Soup - Cream Of Vegetable, Imported",
+    "sku_type": "122 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003579_3-batchelors-cup-a-soup-cream-of-vegetable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soup Powder - Hot N Sour",
+    "sku_type": "15 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110628_3-bambino-soup-powder-hot-n-sour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Manchow Veggie Overload Quickie Soup - Multigrain, No Maida, Single Pack",
+    "sku_type": "15 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269215_1-rasna-manchow-veggie-overload-quickie-soup-multigrain-no-maida-single-pack.jpg?tr=w-154,q-80"
+  }
+]

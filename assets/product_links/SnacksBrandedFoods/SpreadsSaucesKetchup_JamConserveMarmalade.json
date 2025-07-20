@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mixed Fruit Jam",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122884_4-kissan-mixed-fruit-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut & Cocoa Spread",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102776_7-nutella-hazelnut-spread-with-cocoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Gulkand - Sun-Cooked Damask Rose, Rich In Antioxidants, Aids Digestion",
+    "sku_type": "300 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189353_2-kapiva-organic-gulkand-rich-in-calcium-and-antioxidants.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apricot Jam - No Added Sugar & Preservatives",
+    "sku_type": "240 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279986_1-bhuira-apricot-jam-no-added-sugar-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cape Gooseberry Preserve Jam - Sweet & Tangy, Rich In Energy & Fibre",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203285_2-bhuira-cape-gooseberry-preserve-jam-sweet-tangy-rich-in-energy-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Jam - Blueberry",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017206_4-chabaa-fruit-jam-blueberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alphonso Mango Conserve With No Added Sugar",
+    "sku_type": "330 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107062_5-happychef-alphonso-mango-conserve-with-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Blast Fruitilicious Mixed Fruit Jam",
+    "sku_type": "450 g - (Buy 1 Get 1 Free)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184582_5-apis-fruit-blast-fruitilicious-mixed-fruit-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Marmalade With No Added Sugar",
+    "sku_type": "330 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107060_6-happychef-orange-marmalade-with-no-added-sugar.jpg?tr=w-154,q-80"
+  }
+]

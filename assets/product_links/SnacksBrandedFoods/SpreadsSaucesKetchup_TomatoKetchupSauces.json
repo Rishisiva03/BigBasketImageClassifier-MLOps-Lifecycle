@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Fresh Tomato Ketchup",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226027_6-kissan-fresh-tomato-ketchup-tasty-yummy-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Sweet Tomato Chilli Sauce",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/119705_14-maggi-hot-sweet-tomato-chilli-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Blend Tomato Ketchup",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40015687_4-del-monte-tomato-ketchup-classic-blend-rich-thick-condiment.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Sauce",
+    "sku_type": "227 g - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/177319_3-american-garden-easy-squeeze-yellow-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Sauce",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188107_3-real-thai-fish-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sauce - Fish",
+    "sku_type": "200 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004930_1-pantai-sauce-fish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Chilli Sauce",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40056357_8-real-thai-sweet-chilli-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Stir Fry Sauce",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/270526_3-chings-secret-schezwan-stir-fry-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salad Dressing Thousand Island",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134965_3-wingreens-farms-salad-dressing-thousand-island.jpg?tr=w-154,q-80"
+  }
+]

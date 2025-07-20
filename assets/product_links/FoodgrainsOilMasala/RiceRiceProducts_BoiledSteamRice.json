@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Sona Masoori Steam Rice/Akki",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000036_14-bb-royal-sona-masoori-steam-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli/Idly Rice",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000450_17-bb-royal-idli-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tamil Ponni Boiled Rice",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000460_10-bb-royal-rice-boiled-tamil-ponni.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jaya Rice/Akki (Long White Rice/Akki)",
+    "sku_type": "5 kg ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053556_6-double-horse-jaya-rice-long-white-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Minikit Parboiled Rice",
+    "sku_type": "5 kg ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117963_5-bongo-bhog-premium-minikit-parboiled-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baskati Rice",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075013_7-bb-popular-rice-baskati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dudheswar Rice",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40056483_7-bb-royal-rice-dudheswar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kurva Boiled Rice",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295237_4-bb-royal-kurva-boiled-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Boiled Rice/Kusubalakki - Ponni",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160015_7-super-saver-boiled-rice-ponni.jpg?tr=w-154,q-80"
+  }
+]

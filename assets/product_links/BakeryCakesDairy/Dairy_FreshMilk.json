@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Pasteurised Toned Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40158264_1-nandini-pasteurised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shubham Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149834_1-nandini-shubham-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Health Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147597_8-heritage-daily-health-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amul Gold",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40175764_6-amul-amul-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Milk - Pasteurized",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40148723_5-akshayakalpa-organic-cow-milk-pasteurized.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047739_6-heritage-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Homogenised Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228858_2-visakha-milk-pasteurised-homogenised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standard Milk - Green",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215940_1-verka-standard-milk-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standardised Milk - Green",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215942_2-verka-standardised-milk-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nice Pasteurised Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151382_1-aavin-pasteurised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diet Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217613_1-sapins-diet-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Pasteurised Standardised Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199930_1-sangam-premium-pasteurised-standardised-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Plus Pasteurised Full Cream Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199931_1-sangam-gold-plus-pasteurised-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Toned Milk - Superior Quality, Pasteurised",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217658_1-pddp-premium-toned-milk-superior-quality-pasteurised.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177174_2-hatsun-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shakti Pouch Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147623_1-amul-shakti-pouch-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147606_1-vijaya-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147618_2-dodla-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Cow Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326802_2-manchar-farms-premium-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Gold Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326798_1-desi-farms-cow-gold-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Desi Cow Milk",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326859_1-paavi-a2-desi-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farm Fresh A2 Desi Cow Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329275_1-paavi-farm-fresh-a2-desi-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Milk - Pasteurised",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218607_1-sudha-cow-milk-pasteurised.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Buffalo Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324503_1-mother-dairy-pure-buffalo-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Full Cream Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323008_1-namaste-india-pasteurised-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Toned Milk",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323009_1-namaste-india-pasteurised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Enrich D Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003893_6-godrej-jersey-enrich-d-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Gold Milk",
+    "sku_type": "475 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332320_6-heritage-super-gold-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Double Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147600_3-heritage-double-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141619_1-katraj-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Buffalo Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141618_1-gokul-buffalo-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159145_1-warana-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standard Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159147_1-warana-standard-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149826_2-dodla-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standardised Milk Gold",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149827_1-heritage-standardised-milk-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Pasteurised Standardised Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216459_2-vijaya-premium-pasteurised-standardised-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Regular Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276278_2-joi-farm-regular-cow-milk-35-fat-farm-fresh-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Milk -  Pasteurized, Creamy",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237662_1-verka-cow-milk-pasteurized-creamy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Cow Milk - Rich In Calcium",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40293780_2-fresh-hills-milk-pure-cow-milk-rich-in-calcium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Pasteurised Cow Milk",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341878_1-canara-farms-desi-pasteurised-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Milk",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333645_1-heritage-gold-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141622_5-indigau-a2-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Cow's A2 Milk - Boosts Immunity, Good For Health",
+    "sku_type": "1 L - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291422_2-kesar-dairy-desi-cows-a2-milk-boosts-immunity-good-for-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Cow's A2 Milk - Boosts Immunity, Good For Health",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291421_1-kesar-dairy-desi-cows-a2-milk-boosts-immunity-good-for-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Desi Gir Cow Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184245_7-daily-doodhwala-a2-desi-gir-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147632_1-thirumala-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214908_3-visakha-milk-pasteurised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Full Cream Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151384_1-aavin-pasteurised-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Slim N Trim",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147627_3-amul-slim-n-trim.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deshi - A2 Cow Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40154041_3-amul-deshi-a2-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Pasteurised Full Cream Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199928_1-sangam-gold-pasteurised-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk - Low Fat",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216458_2-vijaya-toned-milk-low-fat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Metro Cow Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344729_2-keventer-metro-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Metro Full Cream Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344731_2-keventer-metro-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Metro Rich Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344727_2-keventer-metro-rich-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Low Fat Pasteurised Homogenised Double Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199932_1-sangam-low-fat-pasteurised-homogenised-double-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Double Toned Milk - Low Fat",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216457_1-vijaya-double-toned-milk-low-fat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199929_1-sangam-pasteurised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Milk - Pasteurised Full Cream",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216455_1-vijaya-special-milk-pasteurised-full-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Metro Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344728_1-keventer-metro-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shakti Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215944_2-amul-shakti-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Homogenised Fresh Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185392_4-godrej-jersey-homogenised-fresh-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159658_1-mother-dairy-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Cow Milk - Organic",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342552_1-alepa-farm-fresh-cow-milk-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Milk (FCM)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159657_3-mother-dairy-full-cream-milk-fcm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "T-Special Milk",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40154038_3-amul-t-special-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40148686_2-arokya-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160355_2-mother-dairy-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141615_2-chitale-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Buffalo Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167828_4-amul-buffalo-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standardised Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40148685_2-arokya-standardised-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Standardised Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151383_1-aavin-pasteurised-standardised-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Live Lite - Low Fat Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160623_4-mother-dairy-live-lite-low-fat-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Delite Cow Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307439_3-aavin-pasteurised-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow's Milk",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210294_1-farm-finest-cows-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Gir Cow Milk - Rich In Protein",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273683_2-vedaaz-a2-gir-cow-milk-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Desi Gir Cow Milk - Rich In Protein, Thick, Creamy",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273686_3-manchar-farms-a2-desi-cow-milk-rich-in-protein-thick-creamy.jpg?tr=w-154,q-80"
+  }
+]

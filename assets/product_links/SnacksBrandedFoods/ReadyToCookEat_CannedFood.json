@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Gulab Jamun",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001473_5-mtr-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Olives - Sliced",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100252949_7-del-monte-sliced-black-olives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rasgulla",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/101212_2-haldirams-rasgulla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skipjack Tuna - Chunks In Water",
+    "sku_type": "185 g - Can",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000987_2-grace-skipjack-tuna-chunks-in-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skipjack Tuna - Flakes In Oil",
+    "sku_type": "185 g - Can",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000988_3-grace-jims-skipjack-tuna-flakes-in-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Jalapeno Slices",
+    "sku_type": "205 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316350_1-tify-red-jalapeno-slices.jpg?tr=w-154,q-80"
+  }
+]

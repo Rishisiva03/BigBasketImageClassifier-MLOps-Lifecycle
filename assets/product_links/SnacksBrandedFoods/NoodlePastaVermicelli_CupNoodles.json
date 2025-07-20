@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Masala Cuppa Noodles",
+    "sku_type": "70.5g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/266151_18-maggi-cuppa-noodles-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup Noodles - Veggi Manchow",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1201321_2-nissin-cup-noodles-veggi-manchow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup Noodles - Mazedaar Masala",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1201319_2-nissin-food-cup-noodles-mazedaar-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quik Mealz - Chicken Delight, Instant Noodles Bowl",
+    "sku_type": "70 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207184_2-sunfeast-yippee-quik-mealz-chicken-delight-cup-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Spicy Cheesy Instant Noodles",
+    "sku_type": "71.5 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326915_2-maggi-korean-spicy-cheesy-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Chicken Instant Cup Noodles - Zero Preservatives,",
+    "sku_type": "70 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280019_1-yu-chilli-chicken-instant-cup-noodles-zero-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Spicy Korean Chicken Ramen Cup Noodles",
+    "sku_type": "95 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332105_1-wow-hot-spicy-korean-chicken-ramen-cup-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thukpa Chicken Cup Noodles",
+    "sku_type": "60 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332103_1-wow-thukpa-chicken-cup-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Chicken Cup Noodles",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332107_1-wow-chilli-chicken-cup-noodles.jpg?tr=w-154,q-80"
+  }
+]

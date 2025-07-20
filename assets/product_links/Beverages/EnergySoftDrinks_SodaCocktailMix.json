@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Soda Water",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/288068_6-kinley-sparkling-water-club-soda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Club Soda - Extra Power",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241698_1-bisleri-club-soda-extra-power-refreshing-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Tonic Water - Contains Quinine, Soda Water With Refreshing Taste",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009568_9-schweppes-indian-tonic-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whiskey Sour - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215144_2-jimmys-cocktails-non-alcoholic-beverage-whiskey-sour-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non Alcoholic Premium Mixer - Mojito, Refreshing Flavour, Taste",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272431_1-bacardi-mixr-non-alcoholic-premium-mixer-mojito-refreshing-flavour-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Margarita - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230230_3-jimmys-cocktails-margarita-non-alcoholic-beverage-lemon-lime-chili-agave.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Tonic Water",
+    "sku_type": "250 ml - Can",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220486_3-bombay-99-tonic-water-from-the-makers-of-bailley.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Sparkling Water - Cumin",
+    "sku_type": "600 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40239140_8-paper-boat-zero-sugar-sparkling-water-no-calories-hydrating-refreshing-drink-cumin-flavoured.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Sparkling Water - Green Apple",
+    "sku_type": "600 ml - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245066_8-paper-boat-sparkling-water-green-apple-flavoured-fruit-drink-0-added-sugar-zero-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Rose Lemonade  With Lemon Juice -  Balanced Botanical Mixer, Low Calories",
+    "sku_type": "200 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243047_1-sepoy-co-pink-rose-lemonade-with-lemon-juice-balanced-botanical-mixer-low-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Popstar Martini",
+    "sku_type": "250 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329194_1-jimmys-cocktails-popstar-martini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sex On The Beach - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215143_2-jimmys-cocktails-non-alcoholic-beverage-sex-on-the-beach-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cranberry Lime Sparkling Water",
+    "sku_type": "600 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333707_1-paper-boat-zero-cranberry-lime-sparkling-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kombucha Classic - Probiotic Sparkling Super Drink",
+    "sku_type": "250 ml - Can",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338437_1-tribe-kombucha-classic-probiotic-sparkling-super-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Tonic Water -  Natural Quinine, Balanced Botanical Mixer, Low Calories",
+    "sku_type": "200 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243039_1-sepoy-co-indian-tonic-water-natural-quinine-balanced-botanical-mixer-low-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime & Mint Mojito",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187460_1-manama-lime-mint-mojito.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Grenadine Flavored",
+    "sku_type": "250 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017540_3-monin-syrup-grenadine-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Goli Soda - Classic Lime Soda, Refreshing Drink",
+    "sku_type": "220 ml - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271375_1-jst-soda-goli-soda-classic-lime-soda-refreshing-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soda - Paneer",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40034939_1-kalimark-soda-paneer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Green Apple",
+    "sku_type": "700 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001374_2-monin-syrup-green-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Lime Ginger, Natural Flavour",
+    "sku_type": "350 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244025_2-zenzi-sparkling-water-lime-ginger-naturally-flavoured-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pina Colada",
+    "sku_type": "150 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183643_5-stirred-pina-colada.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Fizzy Soda Drink - Refreshing, Flavoured Beverage, Perfect For Summers",
+    "sku_type": "220 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259331_1-mrgolisoda-orange-fizzy-drink-refreshing-flavoured-beverage-perfect-for-summers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Fizzy Soda Drink - Refreshing , Flavoured Beverage, Perfect For Summers",
+    "sku_type": "220 ML ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259330_1-mrgolisoda-lemon-fizzy-drink-refreshing-flavoured-beverage-perfect-for-summers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Mojito",
+    "sku_type": "500 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187464_1-manama-chilli-mojito.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Club Soda",
+    "sku_type": "750 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119061_7-dukes-club-soda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Club Soda",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000291_2-catch-club-soda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paneer Fizzy Soda Drink - Refreshing , Flavoured Beverage, Perfect For Summers",
+    "sku_type": "220 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259333_1-mrgolisoda-paneer-fizzy-drink-refreshing-flavoured-beverage-perfect-for-summers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mint Tonic Water - Natural Quinine, Balanced Botanical Mixer, Low Calories",
+    "sku_type": "200 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243040_1-sepoy-co-mint-tonic-water-natural-quinine-balanced-botanical-mixer-low-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Soda Water - For Mocktails, Refreshing & Delicious Taste",
+    "sku_type": "300 ml - Can",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009569_9-schweppes-original-soda-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Passion Fruit",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001377_2-monin-syrup-passion-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop Goli Marble Soda Kokum - Refreshing Soft Drink",
+    "sku_type": "225 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289858_1-dobra-pop-goli-marble-soda-kokum-refreshing-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Apple Fizzy Soda Drink - Refreshing, Flavoured Beverage, Perfect For Summers",
+    "sku_type": "220 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259329_1-mrgolisoda-green-apple-fizzy-drink-refreshing-flavoured-beverage-perfect-for-summers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kombucha - Lavender Love, Probiotic Sparkling Super Drink",
+    "sku_type": "250 ml - Can",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338438_1-tribe-kombucha-lavender-love-probiotic-sparkling-super-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Sparkling Mixer - Mint Mojito, Carbonated Water",
+    "sku_type": "300 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286475_1-schweppes-premium-sparkling-mixer-mint-mojito-carbonated-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tonic Water - Indian",
+    "sku_type": "200 ml - Bottle",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000298_2-catch-tonic-water-indian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mojito - Lemon & Mint",
+    "sku_type": "125 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120050_5-stirred-mojito-lemon-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bitter Lemon Original Mixer - Carbonated Water With Refreshing Taste & Delicious Flavour",
+    "sku_type": "300 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286474_2-schweppes-bitter-lemon-original-mixer-carbonated-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paneer - Summer Drink, Refreshing Beverage",
+    "sku_type": "250 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276936_1-lala-goli-soda-paneer-summer-drink-refreshing-beverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kombucha Gingerade - Probiotic Sparkling Super Drink",
+    "sku_type": "250 ml - Can",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338436_1-tribe-kombucha-gingerade-probiotic-sparkling-super-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Punch Goli Soda - Refreshing Taste",
+    "sku_type": "220 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291141_1-jst-soda-pineapple-punch-goli-soda-refreshing-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Mojito With Lemon & Mint Cocktail Mixer, Non-Alcoholic",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459997_1-tipsy-tiger-classic-mojito-with-lemon-mint-cocktail-mixer-non-alcoholic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Watermelon Mint, Natural Flavour",
+    "sku_type": "350 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244022_2-zenzi-sparkling-water-watermelon-mint-naturally-flavoured-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop Goli Marble Soda Orangelo - Refreshing Soft Drink",
+    "sku_type": "225 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289857_1-dobra-pop-goli-marble-soda-orangelo-refreshing-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop Goli Marble Soda Grape - Refreshing Soft Drink",
+    "sku_type": "225 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289855_1-dobra-pop-goli-marble-soda-grape-refreshing-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Cocktail - In Syrup, Distinct Flavour & Taste",
+    "sku_type": "850 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287791_1-apollo-fruit-cocktail-in-syrup-distinct-flavour-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Tonic Water - Low In Calories, Natural Quinine",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297505_1-peer-indian-tonic-water-low-in-calories-natural-quinine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mint Tonic Water - Low In Calories, Natural Quinine",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297508_1-peer-mint-tonic-water-low-in-calories-natural-quinine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bitter Lemon Tonic Water - Low In Calories, Natural Quinine",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297506_1-peer-bitter-lemon-tonic-water-low-in-calories-natural-quinine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Peach Tea with Natural Tea Extracts",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002170_2-monin-syrup-peach-tea-with-natural-tea-extracts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry - Summer Drink, Refreshing Beverage",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276934_1-lala-goli-soda-blueberry-summer-drink-refreshing-beverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aromatic Spiced Bitters - Non-alcoholic",
+    "sku_type": "120 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222861_3-bab-louie-co-aromatic-spiced-bitters-non-alcoholic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Celebration Cocktail Pack - Premium Mixers, Assorted Flavours, Low Calorie",
+    "sku_type": "250 ml - (Pack of 6)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243112_2-jimmys-cocktails-non-alcoholic-beverages-cocktail-mixers-with-bar-blade-finely-crafted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Lychee Rose, Natural Flavour",
+    "sku_type": "350 ml - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244024_2-zenzi-sparkling-water-lychee-rose-naturally-flavoured-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kamikaze Shots - Non Alcoholic",
+    "sku_type": "250 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183642_5-stirred-kamikaze-shots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Sangria",
+    "sku_type": "100 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183641_5-stirred-red-sangria.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Just Soda - Zero Calories, Sodium, Sugar",
+    "sku_type": "350 ml - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266496_2-zenzi-just-soda-zero-calories-sodium-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stockholm Infusion Peach & Orange Blossom Zero Alcohol Vodka & Tonic",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339397_1-catwalk-stockholm-infusion-peach-orange-blossom-zero-alcohol-vodka-tonic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barbados Infusion Pink Grapefruit & Rose Zero Alcohol Caribbean Vodka",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339399_1-catwalk-barbados-infusion-pink-grapefruit-rose-zero-alcohol-caribbean-vodka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barbados Infusion Pink Grapefruit & Rose Zero Alcohol Vodka & Tonic",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339398_1-catwalk-barbados-infusion-pink-grapefruit-rose-zero-alcohol-vodka-tonic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Tonic Water",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335339_1-jivo-indian-tonic-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peach Non Alcoholic Beer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341731_1-jimmys-peach-non-alcoholic-beer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malt Non Alcoholic Beer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341730_1-jimmys-malt-non-alcoholic-beer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Westminster Botanic Pink Grapefruit, Lemongrass & Hibiscus Zero Alcohol London Dry Gin",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339402_1-catwalk-westminster-botanic-pink-grapefruit-lemongrass-hibiscus-zero-alcohol-london-dry-gin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Delhi 6 Botanic Cinnamon, Cardomom & Fennel Zero Alcohol Indian Dry Gin",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339401_1-catwalk-delhi-6-botanic-cinnamon-cardomom-fennel-zero-alcohol-indian-dry-gin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stockholm Infusion Peach & Orange Blossom Zero Alcohol Swedish Vodka",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339400_1-catwalk-stockholm-infusion-peach-orange-blossom-zero-alcohol-swedish-vodka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "O Smart Natural Mixers - Soda Water",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225779_1-o-natural-mixers-o-smart-natural-mixers-soda-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop Goli Marble Soda Blueberry - Refreshing Soft Drink",
+    "sku_type": "225 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289856_1-dobra-pop-goli-marble-soda-blueberry-refreshing-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Westminster Botanic Pink Grapefruit, Lemongrass & Hibiscus Zero Alcohol Gin & Tonic",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339395_1-catwalk-westminster-botanic-pink-grapefruit-lemongrass-hibiscus-zero-alcohol-gin-tonic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Delhi 6 Botanic Cinnamon, Cardamom & Fennel Zero Alcohol Gin & Tonic",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339396_1-catwalk-delhi-6-botanic-cinnamon-cardamom-fennel-zero-alcohol-gin-tonic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Sugar Lime & Lemon Sparkling Water",
+    "sku_type": "600 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341726_1-jimmys-zero-sugar-lime-lemon-sparkling-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tonic Water Mixer",
+    "sku_type": "250 ml - Can",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345392_1-sober-co-tonic-water-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Ale Mixer",
+    "sku_type": "250 ml - Can",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345393_1-sober-co-ginger-ale-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Goli Soda - Cola Masala, Refreshing Drink",
+    "sku_type": "220 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271376_1-jst-soda-goli-soda-cola-masala-refreshing-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Sugar Indian Tonic Water",
+    "sku_type": "600 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341732_1-jimmys-zero-sugar-indian-tonic-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tonic Water Original",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329189_1-jimmys-cocktails-tonic-water-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Sugar Green Apple Sparkling Water",
+    "sku_type": "600 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341728_1-jimmys-zero-sugar-green-apple-sparkling-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Sparkling Classic Lemonade",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341734_1-jimmys-premium-sparkling-classic-lemonade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bloody Mary - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230231_4-jimmys-cocktails-bloody-mary-non-alcoholic-beverage-with-tomato-peppers-celery-tamarind.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tonic Water Elderflower",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329192_1-jimmys-cocktails-tonic-water-elderflower.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soda Water",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329188_1-jimmys-cocktails-soda-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cranberry Non Alcoholic Beer",
+    "sku_type": "250 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341729_1-jimmys-cranberry-non-alcoholic-beer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cocktail Mix - Whisky Sour",
+    "sku_type": "100 ml - Mono Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204507_3-stirred-cocktail-mix-whisky-sour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bloody Mary - Tomato & Pepper",
+    "sku_type": "125 ml ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120052_5-stirred-bloody-mary-tomato-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Apple Sour Cocktail Mixer - Non-Alcoholic Fruit Beverage",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298061_1-dash-of-rcb-green-apple-sour-cocktail-mixer-non-alcoholic-fruit-beverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Margarita - Orange, Triple Sec, Lemon, Non-alcoholic, Ready To Drink Mocktail",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264006_1-cocktail-baba-margarita-orange-triple-sec-lemon-non-alcoholic-ready-to-drink-mocktail.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whiskey Sour Cocktail Mix - Non-Alcoholic Beverage",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267408_1-tipsy-tiger-whiskey-sour-cocktail-mix-non-alcoholic-beverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mojito Mint Syrup",
+    "sku_type": "700 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217783_1-mathieu-teisseire-mojito-mint-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jalapeno Margarita Non-Alcoholic Beverage Cocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264293_2-lazy-cocktails-co-jalapeno-margarita-non-alcoholic-beverage-cocktail-mixer-tastes-best-with-tequila-ice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Mango Hibiscus, Natural Flavour",
+    "sku_type": "350 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244023_2-zenzi-sparkling-water-mango-hibiscus-naturally-flavoured-no-sugar-calories.jpg?tr=w-154,q-80"
+  }
+]

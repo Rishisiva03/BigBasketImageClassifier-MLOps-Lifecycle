@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Shankarpali Sweet - Mithai",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229173_2-tasties-origins-origins-namkeen-shankarpali-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turkish Baklava",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276395_2-fresho-signature-turkish-baklava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Delight Date Bites",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900456701_3-farmley-date-bites.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Rossogolla",
+    "sku_type": "1 kg - (20 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336279_1-balaram-mullick-and-radharaman-mullick-kolkata-white-rossogolla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soan Papdi",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336277_1-balaram-mullick-and-radharaman-mullick-kolkata-sonpapri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mahakumbh Prasad - From The Land Of Triveni Sangam, Prayagraj",
+    "sku_type": "250 g - (9 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338024_1-waayu-mahakumbh-prasad-from-the-land-of-triveni-sangam-prayagraj.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kheer - Dairy Based Dessert",
+    "sku_type": "1 kg - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215936_2-verka-kheer-dairy-based-dessert.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kheer - Dairy Based Dessert",
+    "sku_type": "85 g - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215935_2-verka-kheer-dairy-based-dessert.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee Badam Laddoo",
+    "sku_type": "200 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211786_1-tasties-ghee-badam-laddoo.jpg?tr=w-154,q-80"
+  }
+]

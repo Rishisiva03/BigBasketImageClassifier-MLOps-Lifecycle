@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Oats Breakfast Cereal - Rich In Protein, Dietary Fibre, Nutritious, Easy To Cook",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1216013_3-quaker-oats-breakfast-cereal-rich-in-protein-dietary-fibre-nutritious-easy-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rolled Oats",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40089546_17-true-elements-rolled-oats-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Rolled Oats - Breakfast Cereal, Non-GMO, Gluten Free, Golden Oatmeal",
+    "sku_type": "1 kg - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287708_1-yoga-bar-100-rolled-oats-gluten-free-non-gmo-high-in-protein-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Oats - Karara Crunch, Classic Masala, Tasty Recipe",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282038_2-saffola-masala-oats-karara-crunch-classic-masala-tasty-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Oats+ Desi Veggie, With 25% Millets, Non-Sticky",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258877_4-tata-soulfull-masala-oats-desi-veggie-ready-in-4-minutes-25-millets-like-jowar-navane-100-real-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Oats+ With 25% Millets, Mast Masala, Non-Sticky",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258876_4-tata-soulfull-masala-oats-mast-masala-ready-in-4-minutes-25-millets-like-jowar-navane-100-real-vegetables.jpg?tr=w-154,q-80"
+  }
+]

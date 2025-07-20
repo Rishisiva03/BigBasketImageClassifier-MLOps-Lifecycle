@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Chicken Curry Cut Without Skin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40048898_5-fresho-chicken-curry-cut-without-skin-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Breast Boneless",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10001001_7-fresho-chicken-breast-boneless-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Biryani Cut",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081296_4-fresho-chicken-biryani-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Wings",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192504_1-fresho-chicken-wings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Chicken Boneless Pieces",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40118810_3-fresho-chilli-chicken-pieces-boneless-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Gizzard",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000920_11-fresho-chicken-gizzard-antibiotic-residue-free-20-25-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Neck",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10001008_3-fresho-chicken-neck.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Leg Boneless",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10001002_6-fresho-chicken-leg-boneless-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Mince",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000906_9-fresho-chicken-mince-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Curry Cut With Skin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093213_5-fresho-chicken-curry-cut-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Leg Without Skin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10001007_3-fresho-chicken-leg-without-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Curry Cut With Skin",
+    "sku_type": "900 g - (22-30 pcs)",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085990_5-fresho-chicken-with-skin-curry-cut-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Thigh Boneless Without Skin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227607_1-fresho-chicken-thigh-boneless-without-skin-soft-tender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Mixed Boneless",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10001013_5-fresho-chicken-mixed-boneless-antibiotic-residue-free-6-10-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Chicken Curry",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002048_1-judes-powder-chicken-curry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Lolly Pop",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001409_6-zorabian-chicken-lolly-pop.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Chicken - Skinless, Precut",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40060845_3-punjab-maratha-frozen-chicken-skinless-precut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Bones",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188265_4-fresho-chicken-bones.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Neck",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336512_1-freshtohome-premium-chicken-neck.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Mix Cut - Neck, Wings Tail Part & Backbone Pieces",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336511_1-freshtohome-chicken-mix-cut-neck-wings-tail-part-and-backbone-pieces.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Thigh",
+    "sku_type": "350 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336519_1-freshtohome-premium-chicken-thigh-pack-of-2-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Thigh - Boneless",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336507_1-freshtohome-premium-chicken-leg-boneless-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Wings Skinless",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336517_1-freshtohome-premium-chicken-wings-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Drumstick With Skin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227604_1-fresho-chicken-drumsticks-with-skin-fleshy-tender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Lollipop",
+    "sku_type": "450 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202512_1-fresho-jhatka-lollipop.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Chicken Breast Boneless",
+    "sku_type": "250 g - (1-2 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202505_1-fresho-jhatka-breast-boneless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Soup Pieces",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122527_4-zorabian-chicken-soup-pieces.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Curry Cut With Skin",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321591_1-delfrez-chicken-curry-cut-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Minced",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321593_1-delfrez-chicken-minced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Chicken Liver",
+    "sku_type": "450 g - (9-14 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202510_1-fresho-jhatka-chicken-liver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Chicken Mince",
+    "sku_type": "450 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209220_1-fresho-jhatka-chicken-mince.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Chicken Wings",
+    "sku_type": "450 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209218_1-fresho-jhatka-chicken-wings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Whole Body",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107520_9-fresho-chicken-whole-body.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Curry Cut Skinless",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321592_1-delfrez-chicken-curry-cut-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turkey Meat",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290530_1-fresho-turkey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Country Chicken",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290481_1-fresho-country-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quail Bird",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290531_1-fresho-quail-bird.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Curry Cut Without Skin",
+    "sku_type": "1 kg - (22-28 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290472_1-fresho-chicken-without-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Duck Meat",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290532_1-fresho-duck.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Neck",
+    "sku_type": "1 kg - (70-80 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290479_1-fresho-chicken-neck.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Curry Cut - Without Skin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329325_1-abis-laziz-chicken-curry-cut-without-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Soup Bone",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329327_1-abis-laziz-chicken-soup-bone.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Curry Cut - With Skin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329326_1-abis-laziz-chicken-curry-cut-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Liver",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329328_1-abis-laziz-chicken-liver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Drumstick - Without Skin",
+    "sku_type": "5 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329334_1-abis-laziz-chicken-drum-stick-without-skin-pack-of-5.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Tandoori - Without Skin",
+    "sku_type": "4 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329335_1-abis-laziz-chicken-tandoori-without-skin-pack-of-4.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Lollipop - Without Skin",
+    "sku_type": "10 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329333_1-abis-laziz-chicken-lollipop-without-skin-pack-of-10.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken With Skin",
+    "sku_type": "1 kg - (20-25 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290471_1-fresho-chicken-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Leg Boneless",
+    "sku_type": "1 kg - (7-10 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290474_1-fresho-chicken-leg-boneless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Breast Boneless",
+    "sku_type": "1 kg - (4-6 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290473_1-fresho-chicken-breast-boneless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Wings",
+    "sku_type": "900 g - (11-16 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290476_1-fresho-chicken-wings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Gizzard",
+    "sku_type": "1 kg - (38-45 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290478_1-fresho-chicken-gizzard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Chicken Without Skin",
+    "sku_type": "1 pc - (900 g-1.2 kg)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109896_2-fresho-chicken-whole-without-skin-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Drumstick With Skin",
+    "sku_type": "900 g - (8-12 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085983_3-fresho-chicken-drumstick-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Precut, Skinless",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40061782_1-elicious-chicken-precut-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Thigh Without Skin",
+    "sku_type": "900 g - (8 -14 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085973_3-fresho-chicken-thigh-without-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Chicken With Skin, Tandoori Size",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085986_1-fresho-tandoori-size-whole-chicken-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Thigh Boneless Without Skin",
+    "sku_type": "900 g - (10-14 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085976_3-fresho-chicken-thigh-boneless-without-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Chicken Without Skin Tandoori/Spring Size",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109895_3-fresho-spring-chicken-whole-without-skin-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Chicken With Skin, Tandoori/Spring Size",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109894_3-fresho-spring-chicken-whole-with-skin-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Thigh With Skin",
+    "sku_type": "900 g - (8-14 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085982_1-fresho-chicken-thigh-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Drumsticks Skinless",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321589_1-delfrez-chicken-drumsticks-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Soup Bones For Broth / Stock",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336513_1-freshtohome-chicken-soup-bones-for-broth-stock.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken - Drumsticks Skinless",
+    "sku_type": "280 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336515_1-freshtohome-premium-chicken-drumsticks-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken With Skin - Curry Cut",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336514_1-freshtohome-premium-chicken-with-skin-curry-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Boneless Chicken Breast Fillet",
+    "sku_type": "230 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336522_1-freshtohome-premium-boneless-chicken-breast-fillet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Leg With Skin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10001006_3-fresho-chicken-leg-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Wings",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000923_9-fresho-chicken-wings-antibiotic-residue-free-4-6-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Lollipop",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000928_11-fresho-chicken-lollipop-antibiotic-residue-free-10-12-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Drumstick - Skinless",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001408_4-zorabian-chicken-drumstick-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Liver",
+    "sku_type": "450 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001411_6-zorabian-chicken-liver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Breast - Boneless",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001400_5-zorabian-chicken-breast-boneless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Breast With Bone",
+    "sku_type": "450 g - (2-3 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40059468_7-fresho-chicken-breast-with-bone-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marinated Chicken Boneless - Pahadi",
+    "sku_type": "500 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010531_2-zorabian-marinated-chicken-boneless-pahadi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marinated Chicken Boneless - Tandoori",
+    "sku_type": "500 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010530_2-zorabian-marinated-chicken-boneless-tandoori.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pre-Cut Chicken Half - Skinless",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001402_4-zorabian-pre-cut-chicken-half-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pre Cut Chicken - Skinless",
+    "sku_type": "900 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001401_4-zorabian-pre-cut-chicken-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Chicken Mince",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202508_1-fresho-jhatka-mince.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Mixed Boneless",
+    "sku_type": "900 g - (28-36 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085972_2-fresho-chicken-mixed-boneless-without-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Breast Boneless, Without Skin",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085971_3-fresho-chicken-breast-boneless-without-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Liver With Heart",
+    "sku_type": "900 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085989_1-fresho-chicken-liver-with-heart.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Boneless",
+    "sku_type": "450 g - (4-6 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001259_3-fresho-chicken-boneless-antibiotic-residue-free-4-5-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Curry Cut, Skinless",
+    "sku_type": "450 g - (Halal Cut)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001217_4-starchik-chicken-curry-cut-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Liver",
+    "sku_type": "450 g - (Halal Cut)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001222_4-starchik-chicken-liver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Whole Legs, Skinless",
+    "sku_type": "450 g - (Halal Cut)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001224_3-starchik-chicken-whole-legs-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Mince",
+    "sku_type": "450 g - (Halal Cut)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001225_3-starchik-chicken-mince.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Chicken With Skin",
+    "sku_type": "900 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000889_3-fresho-chicken-whole-with-skin-antibiotic-residue-free-1-pc.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marinated Chicken Boneless - Lahori",
+    "sku_type": "500 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010532_4-zorabian-marinated-chicken-boneless-lahori.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Wings",
+    "sku_type": "450 g - (8-10 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000922_11-fresho-chicken-wings-with-skin-antibiotic-residue-free-8-10-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Liver",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336508_1-freshtohome-premium-chicken-liver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken - Curry Cut, Skinless",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336497_1-freshtohome-premium-chicken-curry-cut-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Lollipop",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321596_1-delfrez-chicken-lollipop.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Whole Breast",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40048919_3-fresho-chicken-whole-breast-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Thigh With Bone",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10001010_5-fresho-chicken-thigh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Supreme Tender Chicken Skinless Curry Cut",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336502_1-freshtohome-supreme-tender-chicken-skinless-curry-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Drumsticks Skinless",
+    "sku_type": "1 pc - Pack of 5",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336491_1-freshtohome-premium-chicken-drumsticks-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Gizzard",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336506_1-freshtohome-premium-chicken-gizzard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Boneless Breast Fillet",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336490_1-freshtohome-premium-chicken-boneless-breast-fillet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Cubes - Boneless, Skinless",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336492_1-freshtohome-premium-chicken-cubes-boneless-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken Mince / Kheema",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336518_1-freshtohome-premium-chicken-mince-kheema.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chicken - Biryani Cut, Skinless",
+    "sku_type": "480 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336523_1-freshtohome-premium-chicken-biryani-cut-skinless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Boneless Supreme Without Skin",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096771_1-fresho-chicken-boneless-supreme-without-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Chicken Wings",
+    "sku_type": "450 g - (8-10 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196736_1-fresho-jhatka-chicken-wings-anitbiotic-residue-free-growth-hormone.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Chicken Leg Boneless",
+    "sku_type": "450 g - (4-6 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196733_1-fresho-jhatka-leg-boneless-anitbiotic-residue-free-growth-hormone.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jhatka Chicken Gizzard",
+    "sku_type": "450 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202511_1-fresho-jhatka-chicken-gizzard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Wings",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272241_3-fresho-chicken-wings-with-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Kadaknath - Whole, With Skin, Tender & Juicy",
+    "sku_type": "1 pc - (1300 g to 1500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236780_1-fresho-raw-kadaknath-whole-with-skin-tender-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Biryani Cut",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800355885_1-fresh-chicken-chicken-biryani-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken With Skin, Roughly Cut Large Pieces",
+    "sku_type": "900 g - (18-20 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10001014_2-fresho-chicken-roughly-cut-large-pieces-with-skin-antibiotic-residue-free-24-28-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Breast - Curry Cut",
+    "sku_type": "450 g - Halal Cut",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002557_4-starchik-chicken-breast-curry-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thigh - Boneless",
+    "sku_type": "450 g - (Halal Cut)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002400_3-starchik-thigh-boneless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Drumsticks",
+    "sku_type": "450 g - (Halal Cut)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001220_4-starchik-chicken-drumsticks.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Flavoured Water - Peach",
+    "sku_type": "750 ml - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000293_2-catch-flavoured-water-peach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Water - Lemon N Lime",
+    "sku_type": "750 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000292_2-catch-flavoured-water-lemon-n-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Water - Black Currant",
+    "sku_type": "750 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000294_2-catch-flavoured-water-black-currant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Water - Green Apple",
+    "sku_type": "750 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000295_1-catch-flavoured-water-green-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Watermelon Mint, Natural Flavour",
+    "sku_type": "350 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244022_2-zenzi-sparkling-water-watermelon-mint-naturally-flavoured-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Lime Ginger, Natural Flavour",
+    "sku_type": "350 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244025_2-zenzi-sparkling-water-lime-ginger-naturally-flavoured-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Lychee Rose, Natural Flavour",
+    "sku_type": "350 ml - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244024_2-zenzi-sparkling-water-lychee-rose-naturally-flavoured-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Mango Hibiscus, Natural Flavour",
+    "sku_type": "350 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244023_2-zenzi-sparkling-water-mango-hibiscus-naturally-flavoured-no-sugar-calories.jpg?tr=w-154,q-80"
+  }
+]

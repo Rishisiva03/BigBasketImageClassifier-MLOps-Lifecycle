@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Toastea Premium Bake Rusk - With Real Elaichi",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321522_2-britannia-toastea-premium-bake-rusk-with-real-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toastea Milk/Doodh Rusk - Crunchy, Zero Trans Fat, Ready To Eat",
+    "sku_type": "182 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/407839_10-britannia-toastea-milk-rusk-with-goodness-of-milk-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rusk - Suji & Elaichi",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106015_12-tasties-rusk-suji-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cinnamon Whole Wheat Rusk",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338040_1-nutrisum-cinnamon-whole-wheat-rusk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Elachi Rusk",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333085_1-karachi-bakery-elachi-rusk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cinnamon Sugar Flavoured Rusk",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333606_1-ruskle-cinnamon-sugar-flavoured-rusk.jpg?tr=w-154,q-80"
+  }
+]

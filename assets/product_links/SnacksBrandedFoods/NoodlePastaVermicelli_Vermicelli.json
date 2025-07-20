@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Roasted Vermicelli",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100015894_10-bambino-vermicelli-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vermicelli",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/268653_4-anil-vermicelli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vermicelli",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265947_9-mtr-vermicelli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vermicelli - Barnyard Millet",
+    "sku_type": "150 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129778_5-bliss-tree-vermicelli-barnyard-millet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vermicelli - Plain",
+    "sku_type": "450 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127557_3-panda-treats-vermicelli-plain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Vermicelli - Made From Wheat Semolina",
+    "sku_type": "425 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307597_1-disano-roasted-vermicelli-made-from-wheat-semolina.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vermicelli - Non Sticky, Rich In Vitamins, Protein & Calcium",
+    "sku_type": "180 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269021_1-top-star-vermicelli-non-sticky-rich-in-vitamins-protein-calcium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Rice Vermicelli",
+    "sku_type": "225 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000913_2-mama-instant-noodles-rice-vermicelli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vermicelli - Brown Rice",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125541_1-peacock-rice-vermicelli-brown-rice.jpg?tr=w-154,q-80"
+  }
+]

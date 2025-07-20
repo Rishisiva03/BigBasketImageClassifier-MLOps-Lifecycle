@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Mini Pita Bread",
+    "sku_type": "300 g - (Pack of 6)",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037502_3-fresho-signature-pita-bread-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crispy Baked Multi-grain Flat Bread - With Flax Seeds",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010748_4-wingreens-farms-crispy-baked-multi-grain-flat-bread-with-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baked Pita Bread Crisps - Chilli & Garlic",
+    "sku_type": "100 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010746_4-wingreens-farms-baked-pita-bread-crisps-chilli-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pita Bread 100% Wholewheat",
+    "sku_type": "100 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169961_3-the-bakers-dozen-pita-bread-100-wholewheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panini Bread",
+    "sku_type": "250 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037491_2-fresho-signature-bread-panini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Focaccia Bread - Olives",
+    "sku_type": "200 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037486_2-fresho-signature-focaccia-bread-olives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Focaccia Bread - Onion",
+    "sku_type": "200 g ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037487_2-fresho-signature-focaccia-bread-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ciabatta - 100% Wholewheat",
+    "sku_type": "110 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169946_3-the-bakers-dozen-ciabatta-100-wholewheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Focaccia Bread",
+    "sku_type": "100 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195753_2-sweetooth-focaccia-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Maida Focaccia Sourdough Bread",
+    "sku_type": "160 g - ( 2 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333710_1-the-health-factory-zero-maida-focaccia-sourdough-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Focaccia - 100% Wholewheat",
+    "sku_type": "170 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192816_3-the-bakers-dozen-focaccia-100-wholewheat.jpg?tr=w-154,q-80"
+  }
+]

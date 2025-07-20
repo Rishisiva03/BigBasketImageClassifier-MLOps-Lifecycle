@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Burger Bun",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001174_9-english-oven-burger-bun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pav Bun",
+    "sku_type": "250 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001176_10-english-oven-bread-pav.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bombay Pav",
+    "sku_type": "156 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310758_7-the-health-factory-zero-maida-bombay-pav-simply-whole-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread Bun Small Burger",
+    "sku_type": "300 g - (6 pcs)",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312623_1-danbro-bread-bun-small-burger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "OvenOrg Organic Multi Millet Bread",
+    "sku_type": "350 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129035_7-pristine-ovenorg-organic-multi-millet-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Family Pizza Base",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112688_3-kabhi-b-family-pizza-base.jpg?tr=w-154,q-80"
+  }
+]

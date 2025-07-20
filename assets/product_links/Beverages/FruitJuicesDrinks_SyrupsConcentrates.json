@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Dates Syrup",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124075_2-lion-syrup-dates.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rooh Afza Sharbat",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/256091_2-roohafza-sharbat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Drink Mix - Mango",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1203466_3-tang-mango-instant-drink-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Drink Mix - Lemon",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1202128_10-tang-instant-drink-mix-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Juice With Natural Lemons",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225101_1-keya-lemon-juice-with-natural-lemons.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arabian Date Syrup - All Natural Sweetener & Vegan",
+    "sku_type": "400 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210639_3-urban-platter-arabian-date-syrup-all-natural-sweetener-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sharbat-E-Azam",
+    "sku_type": "750 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/258331_4-dabur-sharbat-e-azam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Flavour Iced Tea",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40170877_10-nestea-ready-to-drink-ice-tea-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Blue Curacao",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001373_3-monin-syrup-blue-curacao.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Panna Fruit Crush",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307075_1-mothers-recipe-mango-panna-fruit-crush.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Water Powder - Natural & Healthy",
+    "sku_type": "15 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235169_1-coco-nirvanaa-coconut-water-powder-natural-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Noisette Hazelnut Flavored",
+    "sku_type": "250 ml - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002176_3-monin-syrup-noisette-hazelnut-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandali Brahmi Badam",
+    "sku_type": "750 ml - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109957_1-hitkary-sandali-brahmi-badam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Natural Lemonade Drink Mix With Sipper",
+    "sku_type": "400 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297827_1-rasna-100-natural-lemonade-with-sipper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lounge Fruit Sharbat - Blue Curacao",
+    "sku_type": "250 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300372_2-mapro-lounge-fruit-sharbat-blue-curacao.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Haldi Doodh Mix - With Ashwagandha & Mulethi",
+    "sku_type": "50 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214653_2-tata-sampann-haldi-doodh-mix-with-ashwagandha-mulethi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Instant Drink Mix",
+    "sku_type": "250 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161154_1-tang-orange-instant-drink-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Fruit Syrup",
+    "sku_type": "750 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212850_2-jai-guruji-orange-fruit-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nattfru aam-panna-powder 105 g Sachet",
+    "sku_type": "105 g - Sachet",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211894_1-nattfru-aam-panna-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nattfru bael-fruit-juice-powder-real-fruit-only-no-added-sugar 60 g Sachet",
+    "sku_type": "60 g - Sachet",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211905_1-nattfru-bael-fruit-juice-powder-real-fruit-only-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sharbat - Lemon",
+    "sku_type": "500 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128349_2-gulabs-sharbat-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavour - Gulab Jal",
+    "sku_type": "500 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103843_4-ganesh-flavour-gulab-jal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Crush - Pineapple",
+    "sku_type": "750 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126109_1-ganesh-fruit-crush-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Water",
+    "sku_type": "550 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305009_1-pou-chong-rose-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Plus Insta - Lemon",
+    "sku_type": "750 g - Pouch",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216078_4-rasna-fruit-plus-insta-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Strawberry Crush",
+    "sku_type": "1 L ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265801_3-mapro-whole-strawberry-crush.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Crush - Sweet & Tangy Flavour",
+    "sku_type": "750 ml - PET Bottle",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236732_1-malas-pineapple-crush-sweet-tangy-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butterscotch Crush - Pulpy & Creamy, Refreshing Flavour",
+    "sku_type": "750 ml - PET Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236725_1-malas-butterscotch-crush-pulpy-creamy-refreshing-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosambi Instant Drink Mix",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161152_4-tang-mosambi-instant-drink-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Juice Concentrate - Equivalent Of 70 Green Limes!",
+    "sku_type": "700 ml - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177819_3-urban-platter-lime-juice-concentrate-equivalent-of-70-green-limes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Immune Care Juice - Helps Boost Overall Immunity",
+    "sku_type": "1 L ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198938_2-kapiva-immune-care-juice-helps-boost-overall-immunity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Strawberry",
+    "sku_type": "1 L ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101474_1-guruji-syrup-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sharbat - Gulab",
+    "sku_type": "1 L ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103842_6-ganesh-sharbat-gulab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Squash - Limboo Timboo/Lemon",
+    "sku_type": "1 L - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005593_1-mapro-squash-limboo-timboolemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khus Syrup",
+    "sku_type": "750 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40011960_2-manama-khus-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Fruit Syrup",
+    "sku_type": "750 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212857_2-jai-guruji-strawberry-fruit-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crush - Pineapple",
+    "sku_type": "1 L - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265684_2-mapro-crush-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Squash - Mango Panna",
+    "sku_type": "700 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070695_3-ganesh-squash-mango-panna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Squash - Litchi",
+    "sku_type": "700 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070694_1-ganesh-fruit-squash-litchi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulbahar Rose Water",
+    "sku_type": "250 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153434_1-ganesh-gulbahar-rose-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Sarbath/Squash - 100% Vegetarian, Refreshing Drink, Soothes Nerves",
+    "sku_type": "700 ml - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251572_1-mambalam-iyers-rose-sarbathsquash-100-vegetarian-refreshing-drink-soothes-nerves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Guava Crush",
+    "sku_type": "750 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187467_1-manama-pink-guava-crush.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Ginger Sarbath/Squash - 100% Vegetarian, Refreshing Drink, Soothes Nerves",
+    "sku_type": "700 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251569_1-mambalam-iyers-lemon-ginger-sarbathsquash-100-vegetarian-refreshing-drink-soothes-nerves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Sharbat",
+    "sku_type": "750 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167300_1-777-rose-sharbat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Squash - Mango Panna",
+    "sku_type": "1 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101483_4-guruji-squash-mango-panna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Squash - Kairi Pudina",
+    "sku_type": "1 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101479_4-guruji-squash-kairi-pudina.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paan Shot Syrup - Strong & Refreshing Flavour",
+    "sku_type": "750 ml - PET Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236742_1-malas-paan-shot-syrup-strong-refreshing-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Litchi Crush",
+    "sku_type": "750 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300364_1-mapro-litchi-crush.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Squash - Lemon",
+    "sku_type": "700 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103826_1-ganesh-fruit-squash-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Khus",
+    "sku_type": "1 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101486_4-guruji-syrup-khus.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Thandai",
+    "sku_type": "750 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40027732_4-mishrambu-badam-thandai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sharbat Shahi Sandal",
+    "sku_type": "700 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109955_1-hitkary-sharbat-shahi-sandal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nattfru phalsa-juice-powder 80 g Sachet (2 Serving x 40 g each)",
+    "sku_type": "80 g - (2 Serving x 40 g each)",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/veg-placeholder.png"
+  },
+  {
+    "name": "Masala - Badam Thandai",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088475_2-nonandrai-bholanath-masala-badam-thandai.jpg?tr=w-154,q-80"
+  }
+]

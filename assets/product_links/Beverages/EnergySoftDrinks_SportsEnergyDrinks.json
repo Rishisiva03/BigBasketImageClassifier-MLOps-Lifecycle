@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Energy Drink",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100012281_10-red-bull-energy-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Electrolyte Drink - Orange",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127410_7-orsl-health-drink-plus-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Zero Sugar",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314319_2-gatorade-sports-drink-orange-bolt-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Functional Energy Drink - South Beach",
+    "sku_type": "250 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310141_1-raze-functional-energy-drink-south-beach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Activors Apple Flavour Electrolyte Energy Drink",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339750_3-glucon-d-activors-apple-flavour-electrolyte-energy-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ORS - Lemon Flavour",
+    "sku_type": "200 ml - Bottle",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316064_2-kamals-ors-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Activors Orange Flavour Electrolyte Energy Drink",
+    "sku_type": "200 ml ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339751_3-glucon-d-activors-orange-flavour-electrolyte-energy-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Green Edition Energy Drink - Dragon Fruit Flavour, Caffeinated Beverage",
+    "sku_type": "250 ml - Can",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270706_2-red-bull-the-green-edition-energy-drink-dragon-fruit-flavour-caffeinated-beverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Energy Drink - Gold Boost",
+    "sku_type": "185 ml - Can",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329402_2-campa-energy-drink-gold-boost.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Onion",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1201414_3-fresho-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40048457_18-fresho-potato-new-crop.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato - Local",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312601_2-fresho-tomato-local.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato - Cherry",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003605_3-fresho-tomato-cherry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato - Red",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162471_3-fresho-potato-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato - Chandramukhi, Organically Grown",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047637_5-fresho-potato-chandramukhi-organically-grown.jpg?tr=w-154,q-80"
+  }
+]

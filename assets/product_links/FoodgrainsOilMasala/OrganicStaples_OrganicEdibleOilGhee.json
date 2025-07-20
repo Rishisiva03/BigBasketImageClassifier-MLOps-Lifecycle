@@ -1,0 +1,566 @@
+[
+  {
+    "name": "Cold Pressed Sunflower Cooking Oil - Cooks Indian Dishes",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1220933_3-bb-royal-organic-cold-pressed-sunflower-cooking-oil-cooks-indian-dishes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cow Ghee/Tuppa",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141934_1-akshayakalpa-organic-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Cow Ghee, Slowly Cooked, Rich Aroma",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1212447_4-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mustard Oil - Unrefined",
+    "sku_type": "1 L - PET Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112945_4-organic-tattva-organic-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee/Tuppa - A2 Badri",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198151_4-himalayan-natives-cow-ghee-a2-badri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee/Tuppa - Organic Bilona",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198149_3-himalayan-natives-cow-ghee-organic-bilona.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee/Tuppa - A2 Gir",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198153_4-himalayan-natives-cow-ghee-a2-gir.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Ghee/Tuppa",
+    "sku_type": "500 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005456_12-organic-india-desi-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Desi Ghee/Tuppa",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139745_5-kapiva-a2-desi-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Sunflower Oil - Rich In Health Benefits, Cold Pressed",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246464_3-pure-sure-organic-sunflower-oil-rich-in-health-benefits-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Oil - Cold Pressed",
+    "sku_type": "500 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40137364_4-pro-nature-sunflower-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee/Tuppa",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198148_3-himalayan-natives-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Oil - Cold Pressed",
+    "sku_type": null,
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40137362_5-pro-nature-mustard-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut/Groundnut Oil",
+    "sku_type": "1 L ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197133_1-organic-shastra-peanutgroundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organics Desi Ghee/Tuppa with Amla",
+    "sku_type": "200 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205521_1-18-herbs-organics-desi-ghee-with-amla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Oil",
+    "sku_type": "1 L ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197158_1-organic-shastra-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cold Pressed Virgin Coconut Oil - Rich In Antioxidant, Great For Cooking & Hair",
+    "sku_type": "200 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238830_1-akshayakalpa-organic-cold-pressed-virgin-coconut-oil-rich-in-antioxidant-great-for-cooking-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organics Pure Sesame Oil",
+    "sku_type": "500 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160742_3-18-herbs-organics-pure-sesame-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Groundnut Oil - Cold Pressed, Lakadi Ghana",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160458_3-topales-organic-groundnut-oil-cold-pressed-lakadi-ghana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Organic Mustard Oil",
+    "sku_type": "5 L - Container",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213444_2-nutriorg-cold-pressed-organic-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Mustard Oil",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20006671_3-terra-greens-organic-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Coconut Oil Cold Pressed",
+    "sku_type": "250 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014265_5-phalada-pure-sure-organic-coconut-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Oil",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40144608_2-arya-organic-sesame-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mustard Oil - Supports Heart Health",
+    "sku_type": "1 L - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196294_1-kapiva-organic-mustard-oil-supports-heart-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Mustard Oil",
+    "sku_type": "455 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012968_2-turn-organic-organic-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Castor Oil",
+    "sku_type": "250 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014261_5-phalada-pure-sure-organic-castor-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Desi Cow Ghee",
+    "sku_type": "350 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313716_1-natureland-organics-a2-desi-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cold Pressed Premium Mustard Oil, Single Origin",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135697_4-daana-organic-cold-pressed-premium-mustard-oil-single-origin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Oil - Cold Pressed",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036608_9-conscious-food-sesame-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Oil - Cold Pressed",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036613_8-conscious-food-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee",
+    "sku_type": "500 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038536_1-mother-organic-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Rich Pure Bilona Bhartiya Desi Cow Ghee/Tuppa",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180953_5-nutriorg-a2-rich-pure-bilona-bhartiya-desi-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gir Cow's Cultured A2 Ghee",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216538_2-vedic-ghee-gir-cows-cultured-a2-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Sesame Oil - Cold Pressed, Nutty Flavour",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246462_2-pure-sure-organic-sesame-oil-cold-pressed-nutty-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Til Moti Oil",
+    "sku_type": "1 L - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231454_1-moti-til-moti-sesame-oil-enriched-with-vitamin-a-d-pure-organic-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Oil - Organic, Cold-pressed",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287494_4-conscious-food-sunflower-oil-organic-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Extra Virgin Coconut Oil",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220053_2-praakritik-organic-extra-virgin-coconut-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Gir Cow's A2 Vedic Churned Ghee - Organic Grass-fed",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220051_2-praakritik-desi-gir-cows-a2-vedic-churned-ghee-organic-grass-fed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fields Of Gold Organic Cold Pressed Sunflower Oil",
+    "sku_type": "500 ml - PET Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169348_2-pristine-fields-of-gold-organic-cold-pressed-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Oil - Organic Certified",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224466_2-turn-organic-sesame-oil-organic-certified.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organics Pure Cow Ghee/Tuppa",
+    "sku_type": "500 ml - Glass Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185105_2-18-herbs-organics-pure-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Oil, Cold Pressed & Natural",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266369_7-organic-india-sunflower-oil-cold-pressed-rich-in-omega-3-fatty-acids.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Oil - Cold Pressed",
+    "sku_type": "500 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036602_6-conscious-food-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Cow Ghee/Tuppa",
+    "sku_type": "400 ml - PET Jar",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195267_3-natureland-organics-premium-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil - Sesame",
+    "sku_type": "1 L ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129349_5-pro-nature-oil-sesame.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Sesame Oil - Promotes Heart Health",
+    "sku_type": "500 ml - Bottle",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196293_1-kapiva-organic-sesame-oil-promotes-heart-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Raw Virgin Coconut Oil - Healthiest Oil In The World",
+    "sku_type": "400 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261315_1-natureland-organics-organic-raw-virgin-coconut-oil-healthiest-oil-in-the-world.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Ghee/Tuppa",
+    "sku_type": "225 g - Bottle",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026650_1-turn-organic-organic-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197124_1-organic-shastra-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee/Tuppa - A2 Gir Bilona",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198155_4-himalayan-natives-cow-ghee-a2-gir-bilona.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Sesame Oil",
+    "sku_type": "1 L - PET Bottle",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065534_6-natureland-organics-white-sesame-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organics A2 Desi Cow Ghee/Tuppa",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185103_3-18-herbs-organics-a2-desi-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Sunflower Oil - Cold Pressed",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220041_2-praakritik-organic-sunflower-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee - A2",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129352_6-pro-nature-cow-ghee-a2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Organic Groundnut Oil",
+    "sku_type": "5 L - Container",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213446_2-nutriorg-cold-pressed-organic-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organics Desi Ghee with Turmeric",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205522_1-18-herbs-organics-desi-ghee-with-turmeric.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Buffalo Ghee - Traditional Bilona Process",
+    "sku_type": "250 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307993_2-two-brothers-organic-farms-a2-buffalo-ghee-traditional-bilona-process.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Certified A2 Ghee - From Gir Cows",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304988_1-truefarm-certified-a2-ghee-from-gir-cows.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314865_1-organic-tattva-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Single Origin Cold Pressed Organic Groundnut Oil",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183724_3-daana-single-origin-cold-pressed-organic-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organics Pure Coconut Oil",
+    "sku_type": "500 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119366_2-18-herbs-organics-pure-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cold Pressed Oil - Sesame",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119969_1-natures-pick-organic-cold-pressed-oil-sesame.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Coconut Oil For Skin - Extra Virgin, Cold Pressed",
+    "sku_type": "350 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183728_3-daana-organic-coconut-oil-for-skin-extra-virgin-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Mustard Oil (Organic)",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310824_1-pure-whites-cold-pressed-mustard-oil-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Groundnut Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322108_1-organic-tattva-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Organic Virgin Coconut Oil",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310825_1-pure-whites-cold-pressed-virgin-coconut-oil-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Oil - 100% Pure, Cold Pressed",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280093_1-essentia-extracts-coconut-oil-100-pure-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Cow Ghee",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311070_1-jivamrit-organic-desi-cow-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blackseed Oil - Organic, Cold-Pressed, Boosts Immune System",
+    "sku_type": "100 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252607_1-beejmantra-blackseed-oil-organic-cold-pressed-boosts-immune-system.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": "2 L - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252608_1-beejmantra-mustard-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252609_1-beejmantra-groundnut-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Oil - Cold Pressed",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036612_9-conscious-food-peanut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flaxseed Oil - Organic, Cold-Pressed, Improves Skin & Hair Texture",
+    "sku_type": "200 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252606_1-beejmantra-flaxseed-oil-cold-pressed-improves-skin-hair-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Extra Virgin Olive Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014267_1-phalada-pure-sure-organic-extra-virgin-olive-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Safflower Oil",
+    "sku_type": "1 L - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240041_3-24-mantra-organic-safflower-oil-expeller-pressed-unrefined-double-filtered.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold-Pressed Groundnut Oil",
+    "sku_type": "1 L - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287496_5-conscious-food-groundnut-oil-organic-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Cider Vinegar With The Mother - Fibre Rich",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242672_1-kharo-organics-apple-cider-vinegar-with-the-mother-fibre-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Bilona Desi Cow Ghee - Organic, Natural & Pure, Boosts Immunity",
+    "sku_type": "500 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233199_1-kharo-organics-a2-bilona-desi-cow-ghee-organic-natural-pure-boosts-immunity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Wood Pressed Virgin Coconut Oil - Rich In Fatty Acids, Helps Alzheimers & Good Cholesterol",
+    "sku_type": "1 L - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255076_1-amrut-shudh-organic-wood-pressed-virgin-coconut-oil-rich-in-fatty-acids-helps-alzheimers-good-cholesterol.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Organic Sunflower Oil - Naturally Filtered, 100% Pure, Unrefined, Boosts Immunity",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40256933_3-jivika-naturals-cold-pressed-organic-sunflower-oil-naturally-filtered-boosts-immunity-100-pure-unrefined.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Milk Ghee - Organic",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342556_1-alepa-farm-cow-milk-ghee-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic A2 Cow Ghee - Hand Churned Bilona Method",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301192_1-khari-foods-khari-foods-a2-cow-ghee-500ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moringa Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": "30 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252616_1-beejmantra-moringa-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Ghee/Tuppa - Certified Organic",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204181_1-nutriorg-cow-ghee-certified-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Groundnut Oil Cold Pressed",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014268_3-phalada-pure-sure-organic-groundnut-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mustard Oil - Cold Pressed, Nutrient Rich",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246466_4-pure-sure-organic-mustard-oil-cold-pressed-nutrient-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Cow Ghee, Gir Cow",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307992_2-two-brothers-organic-farms-a2-cow-cultured-ghee-desi-gir-cow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee - Authentic Traditional Style, Rich In Calcium, Healthy",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275817_3-farm-connect-ghee-authentic-traditional-style-rich-in-calcium-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": "500 ml - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252614_1-beejmantra-sesame-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Single Origin Cold Pressed Organic Sunflower Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183725_3-daana-single-origin-cold-pressed-organic-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Peanut Oil -  Cold Pressed",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220040_1-praakritik-organic-peanut-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cold Pressed Oil - Groundnut",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119967_2-natures-pick-organic-cold-pressed-oil-groundnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cold Pressed Oil - Coconut",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119968_1-natures-pick-organic-cold-pressed-oil-coconut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Oil - Edible",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40144611_5-arya-organic-coconut-oil-edible.jpg?tr=w-154,q-80"
+  }
+]

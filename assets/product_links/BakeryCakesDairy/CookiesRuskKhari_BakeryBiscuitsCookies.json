@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Little Hearts Classic Crunch Biscuits",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339755_1-britannia-little-hearts-classic-crunch-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheese Cracker Biscuits",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191072_7-malkist-cheese-crunchy-layered-crackers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Osmania",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106019_10-tasties-biscuits-osmania.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Badam Pista",
+    "sku_type": "200 g ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106020_10-tasties-biscuits-badam-pista.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Butter Chocolate Nutty Cookies",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197886_3-open-secret-nutty-cookies-peanut-butter-no-added-maida-40-50-nuts-box-of-6-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Cashew Nut",
+    "sku_type": "200 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106018_11-tasties-biscuits-cashew-nut.jpg?tr=w-154,q-80"
+  }
+]

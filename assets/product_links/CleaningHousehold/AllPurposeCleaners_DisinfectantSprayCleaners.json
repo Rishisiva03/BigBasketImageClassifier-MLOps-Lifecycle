@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Disinfectant Surface Cleaner Liquid - Citrus",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129070_9-lizol-disinfectant-surface-floor-cleaner-liquid-citrus-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Surface & Floor Cleaner Liquid - Lavender",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1200286_12-lizol-disinfectant-surface-floor-cleaner-liquid-lavender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Cleaner Liquid - Citrus",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206004_5-bb-home-disinfectant-floor-surface-cleaner-citrus-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Fresh Disinfectant Toilet Cleaner",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125581_10-domex-fresh-guard-disinfectant-toilet-cleaner-liquid-lime-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Cleaner - Citrus Joy",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327528_1-maxkleen-disinfectant-floor-cleaner-citrus-joy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Wipes - Multisurface Use",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202534_3-bb-home-disinfectant-wipes-multipurpose-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chimney Cleaner & Kitchen Degreaser",
+    "sku_type": "400 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334041_1-klenzmo-chimney-cleaner-kitchen-degreaser.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Pro Extra Strong, Kills 99.9% Germs",
+    "sku_type": "500 ml - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130352_11-bb-home-disinfectant-toilet-cleaner-pro-extra-strong.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Surface Cleaner Liquid - Neem",
+    "sku_type": "500 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130354_10-bb-home-disinfectant-floor-surface-cleaner-neem-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Surface Disinfectant Cleaner - Rose",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161290_1-cristo-disinfecting-fragrant-floor-cleaner-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Surface Disinfectant Cleaner - Lavender",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161288_1-cristo-disinfecting-fragrant-floor-cleaner-lavender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Clothes Disinfectant & Refreshing Spray - Fresh Breeze",
+    "sku_type": "230 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202679_1-savlon-clothes-disinfectant-refreshing-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mr. Strong Disinfectant Spray",
+    "sku_type": "600 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40158098_1-senu-mr-strong-disinfectant-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bathroom Power Cleaner Spray - Ocean Breeze",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129072_6-lizol-bathroom-power-cleaner-spray-removes-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Laundry Sanitizer - Spring Blossom",
+    "sku_type": "180 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189411_3-dettol-liquid-laundry-sanitizer-after-detergent-wash-spring-blossom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Laundry Sanitizer - Removes Germs, Adds Freshness, For All Fabrics, Spring Blossom",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189413_4-dettol-laundry-sanitizer-removes-germs-adds-freshness-for-all-fabrics-spring-blossom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hand Sanitiser Spray",
+    "sku_type": "250 ml - (Pack of 4)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197095_1-zm-labs-hand-sanitiser-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Antibacterial Surface Liquid Disinfectant Cleaner - Multipurpose, Kills Germs",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201551_5-dettol-antibacterial-surface-liquid-disinfectant-cleaner-multipurpose-kills-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hand Sanitizer Spray - Alcohol Based, Kills 99.9% Bacteria, Fungi & Viruses",
+    "sku_type": null,
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197103_1-zm-labs-hand-sanitiser-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Multi-Purpose Power Cleaner Liquid Spray - Lemon",
+    "sku_type": "450 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129073_7-lizol-trigger-power-multi-purpose-cleaner-450-ml-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Surface & Floor Cleaner, Citrus",
+    "sku_type": "500 ml each - (Pack of 3)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1207272_3-lizol-disinfectant-surface-cleaner-citrus.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Surface & Floor Cleaner Liquid - Pine",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/249152_12-lizol-disinfectant-surface-floor-cleaner-liquid-pine-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Spray Sanitizer For Germ-Protection - Original Pine",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213066_2-dettol-disinfectant-spray-sanitizer-for-germ-protection-original-pine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hygienic Floor White Perfumed Disinfecting Fluid",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168148_3-cross-floor-cleaner-hygienic-white-disinfectant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Spray",
+    "sku_type": "250 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202336_2-bb-home-disinfectant-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sanitizing Wipes for Skin - Refreshing Fragrance",
+    "sku_type": "25 pulls ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205493_1-hygienix-sanitizing-wipes-for-skin-from-wipro.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Germ Kill Spray",
+    "sku_type": "200 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205796_2-domex-germ-kill-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Surface Disinfectant Cleaner - Jasmine",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161285_2-cristo-disinfecting-surface-cleaner-jasmine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Germonil - White Disinfectant",
+    "sku_type": "5 L - Can",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000505_5-trishul-germonil-white-disinfectant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lens Wipes  - Gentle & Thorough Cleaning",
+    "sku_type": "30 pcs - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40194536_1-zeiss-lens-wipes-gentle-thorough-cleaning.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Surface Disinfectant Cleaner - Floral",
+    "sku_type": "975 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40063363_4-senu-disinfectant-perfumed-floor-cleaner-floral.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Perfumed Premium Cleaner",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161278_1-pynol-pine-oil-based-fragrant-floor-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bamboo Multi Use Wipes",
+    "sku_type": "25 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280614_3-beco-multipurpose-wet-wipes-enriched-with-aloe-vera-thick-soft.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor & Surface Cleaner - Floral, Kills 99.9% Germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208297_3-bb-home-disinfectant-floor-surface-cleaner-floral-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Rose - Kills 99.9% Germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208279_4-bb-home-disinfectant-toilet-cleaner-rose-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor & Surface Cleaner - Floral, Kills 99.9% Germs",
+    "sku_type": "4x500 ml - (Multipack)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208298_5-bb-home-disinfectant-floor-surface-cleaner-floral-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Lemon - Kills 99.9% Germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208281_3-bb-home-disinfectant-toilet-cleaner-lemon-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner Pro - Colour Changing Formula - Kills 99.9% germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208283_4-bb-home-disinfectant-toilet-cleaner-pro-colour-changing-formula-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner Pro - Colour Changing Formula - Kills 99.9% germs",
+    "sku_type": "4x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208284_3-bb-home-disinfectant-toilet-cleaner-pro-colour-changing-formula-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor & Surface Cleaner - Pine, Kills 99.9% Germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208285_5-bb-home-disinfectant-floor-surface-cleaner-pine-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Rose - Kills 99.9% Germs",
+    "sku_type": "4x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208280_3-bb-home-disinfectant-toilet-cleaner-rose-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor & Surface Cleaner - Pine, Kills 99.9% Germs",
+    "sku_type": "4x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208286_5-bb-home-disinfectant-floor-surface-cleaner-pine-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor & Surface Cleaner - Citrus, Kills 99.9% Germs",
+    "sku_type": "4x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208300_4-bb-home-disinfectant-floor-surface-cleaner-citrus-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor & Surface Cleaner - Neem, Kills 99.9% Germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208287_5-bb-home-disinfectant-floor-surface-cleaner-neem-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Multipurpose Spray - Infused with Neem Extract",
+    "sku_type": "120 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203402_1-nature-protect-germ-kill-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Spray For Multi-Surfaces - Alcohol Based",
+    "sku_type": "230 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196972_2-tri-activ-disinfectant-spray-for-multi-surfaces.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet & Bathroom Sanitizer Spray - Kills 99.9% Bacteria & Viruses",
+    "sku_type": "50 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276083_3-harpic-toilet-bathroom-sanitizer-spray-kills-999-bacteria-viruses.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Glass Pro Multisurface Cleaner - Removes Tough Stains, Aqua Fresh",
+    "sku_type": "500 ml - PET Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233309_1-luxor-nano-glass-pro-multisurface-cleaner-removes-tough-stains-aqua-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor & Surface Cleaner - Neem, Kills 99.9% Germs",
+    "sku_type": "4x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208296_3-bb-home-disinfectant-floor-surface-cleaner-neem-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Surface Sanitizer",
+    "sku_type": "125 ml ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193396_2-maxkleen-disinfectant-surface-sanitizer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Surface Disinfectant Spray - with Lemon Essential Oil",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200521_1-healing-touch-multi-surface-disinfectant-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Surface & Air Disinfectant Spray",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197092_1-dr-rhazes-surface-air-disinfectant-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Germ Spray - English Lavender, Suitable for Skin & Surfaces",
+    "sku_type": "75 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198194_1-yardley-london-english-lavender-anti-germ-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "No Contact Disinfectant Spray - Fresh Fragrance, For Hard & Soft Surfaces",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199925_1-maxkleen-no-contact-disinfectant-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Gym-Fitness Equipment & Yoga Mat Wipes",
+    "sku_type": "50 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300015_1-cleno-disinfectant-gym-fitness-equipment-yoga-mat-wipes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Seat Sanitizer Spray - Citrus",
+    "sku_type": "75 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459225_2-pee-safe-toilet-seat-sanitizer-spray-citrus.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Harpic Toilet Cleaner Original Power Plus 1 L + Dettol Disinfectant Liquid 1 L",
+    "sku_type": "Combo - 2 Items",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208115_4-bb-combo-harpic-toilet-cleaner-original-power-plus-1-l-dettol-disinfectant-liquid-1-l.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Laundry Sanitizer - Removes Germs, Adds Freshness, For All Fabrics, Fresh Linen",
+    "sku_type": "960 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189409_4-dettol-laundry-sanitizer-removes-germs-adds-freshness-for-all-fabrics-fresh-linen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet & Bathroom Sanitizer Spray - Kills 99.9% Bacteria & Viruses",
+    "sku_type": "90 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276084_5-harpic-toilet-bathroom-sanitizer-spray-kills-999-bacteria-viruses.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Double Concentrate Disinfectant Floor Cleaner Liquid - Citrus",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196275_7-lizol-double-concentrate-disinfectant-surface-cleaner-citrus-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegetable & Fruit Wash Spray - With Neem & Citrus Fruit Extracts, 100% Natural Action",
+    "sku_type": "450 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196351_3-nimwash-vegetable-fruit-wash-spray-with-100-natural-action.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Germ - Removal Multipurpose Wipes",
+    "sku_type": "48 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203405_1-nature-protect-germ-removal-multipurpose-wipes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Surface Sanitizer",
+    "sku_type": "500 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193397_2-maxkleen-disinfectant-surface-sanitizer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Surface Wipes - Kills 99.9% Germs & Bacteria, For Kitchen, Home & Travel, Alcohol Base",
+    "sku_type": "30 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197216_2-godrej-protekt-disinfectant-surface-wipes-kills-999-germs-bacteria-for-kitchen-home-travel-alcohol-base.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "On the Go Disinfectant Spray - Anti-Bacterial",
+    "sku_type": "85 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197223_9-godrej-protekt-on-the-go-travel-disinfectant-spray-a-kills-999-germs-alcohol-based-anti-bacterial-citrus-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Seat Disinfectant Spray",
+    "sku_type": "90 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196207_2-keepsafe-by-marico-toilet-seat-disinfectant-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Fruit & Vegetable Cleaner",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203404_1-nature-protect-disinfectant-fruit-vegetable-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mobile Disinfectant Cleaner - Provides Long Lasting Protection, Aqua Fresh",
+    "sku_type": "3 pcs - Blister Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233312_1-luxor-nano-mobile-disinfectant-cleaner-provides-long-lasting-protection-aqua-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Surface & Floor Cleaner Liquid Floral 2 L + Jasmine 2 L",
+    "sku_type": "Combo - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208852_7-lizol-disinfectant-surface-floor-cleaner-floral-2-l-jasmine-2-l.jpg?tr=w-154,q-80"
+  }
+]

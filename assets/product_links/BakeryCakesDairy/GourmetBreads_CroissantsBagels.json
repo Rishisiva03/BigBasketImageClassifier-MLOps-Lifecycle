@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Treat Croissant - Cocoa Creme",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309436_3-britannia-treat-croissant-cocoa-creme.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Treat Croissant - Vanilla Creme Filling, 100% Veg, Soft",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214488_3-britannia-treat-croissant-vanilla-creme-roll-100-veg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moonfils Croissant - Vanilla Creme",
+    "sku_type": "45 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119175_9-bauli-moonfils-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fudge It - Chocolate Brownie",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198332_1-britannia-fudge-it-chocolate-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gobbles Choco Chill\u00a0Cake",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213492_8-britannia-gobbles-choco-chill-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moonfils Croissant - Choco Creme",
+    "sku_type": "45 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/277882_8-bauli-moonfils-choco-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Croissant - Pain Au Chocolat",
+    "sku_type": "115 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007339_5-the-bakers-dozen-chocolate-croissant-pain-au-chocolat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moonfils Choco & Vanila - Puff Rolls With Creme Filling",
+    "sku_type": "110 g - (2 N x 55 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40278635_4-bauli-moonfils-choco-vanila-puff-rolls-with-creme-filling.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anytime Kreamy Magic Bread Roll - Vanilla",
+    "sku_type": "60 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342679_1-kwality-anytime-kreamy-magic-bread-roll-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate Croissants - Heat & Eat",
+    "sku_type": "180 g - (2 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296156_1-unroll-dark-chocolate-croissants-heat-eat.jpg?tr=w-154,q-80"
+  }
+]

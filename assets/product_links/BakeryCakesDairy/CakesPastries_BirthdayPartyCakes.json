@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Rich Fruit Cake - Enriched With Exotic Fruits",
+    "sku_type": "400 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289199_1-vevey-rich-fruit-cake-enriched-with-exotic-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gooey Chocolate Cake",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201823_4-fresho-signature-gooey-chocolate-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carrot Cake",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201821_4-fresho-signature-carrot-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Belgium Chocolate Truffle Cake",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201822_4-fresho-signature-belgium-chocolate-truffle-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "French Heart Cinnamon Roll",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40156323_5-fresho-signature-french-heart-cinnamon-roll.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Forest Cake",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201820_4-fresho-signature-black-forest-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Velvet Cake",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212503_1-baskin-robbins-red-velvet-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Festive Fruit Cake - Enriched With Fruits",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289198_1-vevey-festive-fruit-cake-enriched-with-fruits.jpg?tr=w-154,q-80"
+  }
+]

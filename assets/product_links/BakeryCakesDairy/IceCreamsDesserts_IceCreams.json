@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ice Cream - Vanilla Magic",
+    "sku_type": "1 L - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005429_3-amul-real-ice-cream-vanilla-magic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Chocolate Brownie",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003796_5-amul-real-ice-cream-chocolate-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cassata Slice Flavoured Ice Cream",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339210_1-arun-icecreams-casata-slice-exotic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Butterscotch Ice Cream",
+    "sku_type": "1 L - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305861_1-milky-mist-creamy-butterscotch-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Dairy Factory Butterscotch Ice Cream",
+    "sku_type": "700 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40163752_7-kwality-walls-frozen-dessert-crunchy-butterscotch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Madagascar Chocolate Guilt Free Ice Cream\u00a0Bar",
+    "sku_type": "70 ml ",
+    "rating": "2.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300612_5-gozero-vegan-omg-chocolate-bar-zero-dairy-100ml.jpg?tr=w-154,q-80"
+  }
+]

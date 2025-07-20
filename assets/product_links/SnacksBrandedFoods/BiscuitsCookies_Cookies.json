@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Good Day - Cashew Cookies",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203379_5-britannia-good-day-cashew-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platina Hide & Seek Chocolate Chip Cookies",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009931_10-parle-hide-seek-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Vanilla Flavoured Chocolatey Sandwich Biscuits",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40260443_15-cadbury-oreo-chocolatey-sandwich-biscuit-crunchy-vanilla-flavour-mega-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platina Hide & Seek Choco Chip Creme Sandwiches - Assorted Flavours",
+    "sku_type": "400 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289826_2-parle-hide-seek-creme-combi-creme-sandwiches-assorted-flavours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mast Jeera - The Spicy Jeera Biscuits",
+    "sku_type": "200 g - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004475_5-bisk-farm-mast-jeera-the-spicy-jeera-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Danish Coconut Cookies",
+    "sku_type": "300 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303001_1-unibic-foods-danish-coconut-cookies.jpg?tr=w-154,q-80"
+  }
+]

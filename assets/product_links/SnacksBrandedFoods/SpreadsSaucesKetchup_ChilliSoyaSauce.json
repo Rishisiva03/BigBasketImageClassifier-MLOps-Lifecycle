@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Secret Dark Soy Sauce",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/269234_2-chings-secret-dark-soy-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Secret Green Chilli Sauce",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/270536_5-chings-secret-green-chilli-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Secret Red Chilli Sauce",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/319721_4-chings-secret-red-chilli-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Garlic Crisp",
+    "sku_type": "170 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306711_1-masterchow-chilli-garlic-crisp-spicy-crunchy-garlicky-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barbeque Sauce Original",
+    "sku_type": "510 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/177150_5-american-garden-barbeque-sauce-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sauce - Light Soya",
+    "sku_type": "200 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004932_2-pantai-sauce-light-soya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Select American Mustard Sauce",
+    "sku_type": "320 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049002_6-veeba-american-mustard-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Sauce",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188107_3-real-thai-fish-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sauce - Fish",
+    "sku_type": "200 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004930_1-pantai-sauce-fish.jpg?tr=w-154,q-80"
+  }
+]

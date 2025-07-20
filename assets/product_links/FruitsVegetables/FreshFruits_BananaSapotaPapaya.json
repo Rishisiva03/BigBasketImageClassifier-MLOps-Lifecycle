@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Banana - Yelakki",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324709_2-fresho-banana-yelakki.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana - Robusta",
+    "sku_type": "500 g - (Approx. 3 - 4 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000027_32-fresho-banana-robusta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana - Robusta, Small",
+    "sku_type": "1 kg - (Approx. 10 -12\u00a0pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40179390_8-fresho-baby-banana-robusta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava - Pink (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083740_2-fresho-guava-pink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papaya",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296057_4-fresho-papaya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana - Madras",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201320_1-fresho-banana-madras.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava - Allahabad Chittidar Safeda, Loaded With Nutrients, Great For Skin & Hair",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238985_1-fresho-guava-allahabad-chittidar-safeda-loaded-with-nutrients-great-for-skin-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava - Pink",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000491_11-fresho-guava-pink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava - Pink",
+    "sku_type": "2 pcs - (Approx. 600 g - 1 kg)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123768_1-fresho-guava-pink.jpg?tr=w-154,q-80"
+  }
+]

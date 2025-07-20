@@ -1,0 +1,854 @@
+[
+  {
+    "name": "Tender Coconut Water",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214886_8-fresho-tender-coconut-water-no-added-sugar-flavours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Valencia Orange Cold Extracted Juice",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40086192_7-raw-pressery-cold-extracted-juice-valencia-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomegranate Cold Extracted Juice",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40086193_7-raw-pressery-cold-extracted-juice-pomegranate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dia Free Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117941_6-kapiva-diafree-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Get Slim Juice - Aids Metabolism & Digestion",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117942_8-kapiva-get-slim-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Ale",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196854_1-gunsberg-ginger-ale.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thar Aloe Vera Juice - Rejuvenates Skin & Hair, No Added Sugar",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117938_7-kapiva-aloe-vera-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheatgrass Juice - Helps Detoxify The Liver & Cleanses Digestive System",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117949_6-kapiva-wheat-grass-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Juice - Cold Pressed",
+    "sku_type": "200 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238781_7-fresho-signature-mango-juice-cold-pressed-no-added-sugar-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Extracted Juice - Grapefruit",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40157810_4-raw-pressery-cold-extracted-juice-grapefruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Normalife Healthy Squash - Kokum Tulsi Jeera, Immunity Booster, Rich In Vitamin C",
+    "sku_type": "700 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263259_3-supreem-super-foods-normalife-healthy-squash-kokum-tulsi-jeera-immunity-booster-rich-in-iron-vitamin-c.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Karela Jamun Juice - Helps Control Blood Sugar Levels, Lowers Bad Cholesterol",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117943_6-kapiva-karela-jamun-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thandai Mix - Ready To Drink",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335733_1-true-elements-thandai-mix-ready-to-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wild Amla Juice",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117939_6-kapiva-amla-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Juice - Strawberry",
+    "sku_type": "300 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100334326_6-mogu-mogu-juice-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Beer - Non Alcoholic",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196855_1-gunsberg-ginger-beer-non-alcoholic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomegranate Juice - Cold Pressed",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294762_7-fresho-signature-pomegranate-juice-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peach Lemonade - Low Calorie, Refreshing Beverage",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289551_1-sepoy-peach-lemonade-low-calorie-refreshing-beverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mischievous Mango - 100% Juice",
+    "sku_type": "355 ml - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334285_1-no-filter-mischievous-mango-100-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Juice - Cold Pressed",
+    "sku_type": "250 ml ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238784_7-fresho-signature-pineapple-juice-cold-pressed-no-added-sugar-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Juice - Mango",
+    "sku_type": "300 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100334327_7-mogu-mogu-juice-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frut Jus Premiun Apple Juice",
+    "sku_type": "300 ml - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229217_1-juice-wale-premiun-apple-juice-no-added-sugar-all-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oats Drink - Cold Coffee",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311408_1-only-earth-oats-drink-cold-coffee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Fruit Juice",
+    "sku_type": "330 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310130_1-harveys-sons-mixed-fruit-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Guava Juice With Pulp",
+    "sku_type": "250 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309022_1-vinut-white-guava-juice-with-pulp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pororo Tropical Fruits Flavor Drink",
+    "sku_type": "235 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338893_1-paldo-pororo-tropical-fruits-flavor-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Authentic Ayurvedic Thandai Powder",
+    "sku_type": "250 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279109_2-auric-instant-beverage-thandai-authentic-ayurvedic-rich-in-antioxidants.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pororo Peach Flavor Drink",
+    "sku_type": "235 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338890_1-paldo-pororo-peach-flavor-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drink - Strawberry",
+    "sku_type": "300 ml ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131103_5-u-globe-basil-seed-drink-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mojito Lime Ice Tea",
+    "sku_type": "350 ml ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40173072_5-brewhouse-tea-brewing-co-organic-mojito-lime-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Drink - Orange Flavored",
+    "sku_type": "300 ml ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119932_4-american-delight-basil-drink-orange-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prune Juice",
+    "sku_type": "946 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068062_1-sunsweet-prune-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem Juice",
+    "sku_type": "1 L ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117944_7-kapiva-neem-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Americano Basil Seed Drink - Kiwi Flavour",
+    "sku_type": "290 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40172235_6-americano-americano-basil-seed-drink-kiwi-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Drink - Cocktail Flavored",
+    "sku_type": "300 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119936_5-american-delight-basil-drink-cocktail-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Immune Care Juice - Helps Boost Overall Immunity",
+    "sku_type": "1 L ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198938_2-kapiva-immune-care-juice-helps-boost-overall-immunity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Juice - Melon With Nata De Coco",
+    "sku_type": "300 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100451325_5-kokozo-fruit-juice-melon-with-nata-de-coco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "25% Grape Juice - With Nata De Coco",
+    "sku_type": "1 L - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002227_1-mogu-mogu-juice-grape-25-with-nata-de-coco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drinks - Passion Fruit",
+    "sku_type": "290 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117544_3-americano-basil-seed-drinks-passion-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drinks - Pomegranate",
+    "sku_type": "290 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117545_4-americano-basil-seed-drinks-pomegranate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drinks - Strawberry",
+    "sku_type": "290 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085516_3-americano-basil-seed-drinks-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera Amla Juice - For Glowing Skin, Helps With Acne & Metabolism",
+    "sku_type": "1 L ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139747_3-kapiva-aloe-vera-and-amla-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Juice - Apple",
+    "sku_type": "300 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100334330_7-mogu-mogu-juice-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cantaloupe/Muskmelon Drink",
+    "sku_type": "150 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201704_1-ala-fresh-cantaloupemuskmelon-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Drink - White Grape Flavored",
+    "sku_type": "300 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119940_5-american-delight-basil-drink-white-grape-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rolled Oats Shake - Rich In Protein",
+    "sku_type": "360 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262695_2-true-elements-rolled-oats-shake-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drinks - Blueberry",
+    "sku_type": "290 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085517_3-americano-basil-seed-drinks-blueberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera Garcinia Juice - For Weight Management & Detox",
+    "sku_type": "1 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139748_5-kapiva-aloe-vera-and-garcinia-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Poko Loko Strawberry Flavoured Juice Drink With Nata De Coco",
+    "sku_type": "300 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303641_1-sapphire-poko-loko-strawberry-flavoured-juice-drink-with-nata-de-coco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drinks - Mixed",
+    "sku_type": "290 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117537_2-americano-basil-seed-drinks-mixed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chocolate - Swiss Vanilla, Blend of Chocolate & Aromatic Cocoa",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018005_5-cocosutra-hot-chocolate-swiss-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Extracted Juice - Life",
+    "sku_type": "250 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073723_3-raw-pressery-cold-extracted-juice-life.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Drink - Kiwi Flavored",
+    "sku_type": "300 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119939_4-american-delight-basil-drink-kiwi-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vitamin Drink - Lemonade",
+    "sku_type": "300 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128390_5-wild-vitamin-drink-lemonade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cuban Spritzer Cocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303243_1-sober-co-cuban-spritzer-cocktail-mixer-coffee-cinnamon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mexican Mama Cocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303245_1-sober-co-mexican-mama-cocktail-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla & Giloy Juice",
+    "sku_type": "1 L - Plastic Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199286_1-kapiva-amla-giloy-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Extracted Juice - Lean",
+    "sku_type": "250 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009255_7-raw-pressery-cold-extracted-juice-lean.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Extracted Juice - Flush",
+    "sku_type": "250 ml - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30004723_8-raw-pressery-cold-extracted-juice-flush.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chocolate - Mexican Spiced, Blend of Chocolate & Aromatic Cocoa",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018006_9-cocosutra-hot-chocolate-mexican-spiced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drinks - Lychee",
+    "sku_type": "290 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085520_4-americano-basil-seed-drinks-lychee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Poko Loko Watermelon Flavoured Juice Drink With Nata De Coco",
+    "sku_type": "300 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303640_1-sapphire-poko-loko-watermelon-flavoured-juice-drink-with-nata-de-coco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Grape Rumors - 100% Juice",
+    "sku_type": "355 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334289_1-no-filter-red-grape-rumors-100-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Drink - Mango Flavored",
+    "sku_type": "300 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119931_4-american-delight-basil-drink-mango-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Natural Cold Pressed Juice -  Mixed Fruit",
+    "sku_type": "250 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124701_3-raw-pressery-100-natural-cold-pressed-juice-mixed-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Tea - Peach, Ready To Drink",
+    "sku_type": "500 ml - Bottle",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221999_1-namaste-chai-ice-tea-peach-ready-to-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noni Juice",
+    "sku_type": "1 L ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117945_5-kapiva-noni-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drinks - Redgrape",
+    "sku_type": "290 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085521_3-americano-basil-seed-drinks-redgrape.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Forest Berry Ice Tea",
+    "sku_type": "350 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40173070_5-brewhouse-tea-brewing-co-organic-forest-berry-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smoothie - Zero Added Sugar, Strawberry",
+    "sku_type": "200 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220792_1-epigamia-smoothie-zero-added-sugar-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Classic Lemon Ice Tea",
+    "sku_type": "300 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190113_2-brewhouse-tea-brewing-co-organic-classic-lemon-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Classic Peach Ice Tea",
+    "sku_type": "350 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151555_6-brewhouse-tea-brewing-co-organic-classic-peach-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Juice - Grape With Nata De Coco",
+    "sku_type": "300 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002906_1-kokozo-fruit-juice-grape-with-nata-de-coco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tulsi Giloy Juice",
+    "sku_type": "1 L ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117947_5-kapiva-tulsi-giloy-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drinks - Orange",
+    "sku_type": "290 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085518_3-americano-basil-seed-drinks-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Melon Juice With Pulp",
+    "sku_type": "250 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309023_1-vinut-melon-juice-with-pulp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Water",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129668_1-tendo-coconut-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drink - Lychee",
+    "sku_type": "300 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126309_6-fruitoria-basil-seed-drink-lychee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drink - Peach",
+    "sku_type": "300 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126307_8-fruitoria-basil-seed-drink-peach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Natural Cold Pressed Juice -  Mango + Pineapple",
+    "sku_type": "250 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073725_4-raw-pressery-100-natural-cold-pressed-juice-mango-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon- Lime Zero Sugar Sparkling Water",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227075_3-polka-pop-sparkling-water-lemon-lime-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Zero Sugar Sparkling Water",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227074_3-polka-pop-sparkling-water-orange-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Juice - Cold Pressed",
+    "sku_type": "250 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238780_7-fresho-signature-apple-juice-cold-pressed-no-added-sugar-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Poko Loko Lychee Flavoured Juice Drink With Nata De Coco",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303636_1-sapphire-poko-loko-lychee-flavoured-juice-drink-with-nata-de-coco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheeky Lychee - 100% Juice",
+    "sku_type": "355 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334284_1-no-filter-cheeky-lychee-100-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunshine Squeeze Orange - 100% Juice",
+    "sku_type": "355 ml - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334287_1-no-filter-sunshine-squeeze-orange-100-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sinless Strawberry - 100% Juice",
+    "sku_type": "355 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334288_1-no-filter-sinless-strawberry-100-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Miracle Apple Beetroot Carrot Juice",
+    "sku_type": "355 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334282_1-no-filter-the-miracle-apple-beetroot-carrot-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Legend Pomegranate - 100% Juice",
+    "sku_type": "355 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334286_1-no-filter-the-legend-pomegranate-100-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Poko Loko Orange Flavoured Juice Drink With Nata De Coco",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303639_1-sapphire-poko-loko-orange-flavoured-juice-drink-with-nata-de-coco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Walnut Milk - Original & Unsweetened",
+    "sku_type": "330 ml - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216841_1-tendo-walnut-milk-original-unsweetened.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Water With Pink Guava",
+    "sku_type": "500 ml - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186819_1-foco-coconut-water-with-pink-guava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Drink - Apple Flavored",
+    "sku_type": "290 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119933_4-american-delight-basil-drink-apple-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drink - Orange",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126314_6-fruitoria-basil-seed-drink-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Juice With Pulp",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309016_1-vinut-mango-juice-with-pulp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tender Coconut Water - No Added Sugar",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279120_3-auric-tender-coconut-water-energy-drink-rich-in-electrolytes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lychee Juice",
+    "sku_type": "330 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310127_1-harveys-sons-lychee-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Juice",
+    "sku_type": "330 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310128_1-harveys-sons-mango-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coco Poco - Strawberry",
+    "sku_type": "320 ml - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306689_2-dobra-pop-goli-marble-soda-strawberry-refreshing-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Juice With Pulp",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309021_1-vinut-strawberry-juice-with-pulp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop Goli Soda - Apple Mojito",
+    "sku_type": "225 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316461_1-dobra-pop-goli-soda-apple-mojito.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lychee Juice With Pulp",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309015_1-vinut-lychee-juice-with-pulp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Juice",
+    "sku_type": "330 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310129_1-harveys-sons-strawberry-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Juice Drink With Nata De Coco - Strawberry",
+    "sku_type": "270 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100755_1-dolphin-juice-drink-with-nata-de-coco-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Seed Drink - Mango",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126310_4-fruitoria-basil-seed-drink-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Caribbean Punch Cocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303244_1-sober-co-caribbean-punch-cocktail-mixer-cranberry-blue-curacao-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Australian Sour Cocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303242_1-sober-co-australian-sour-cocktail-mixer-green-apple-lime-rosemary.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spanish Margarita Cocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303246_1-sober-co-spanish-margarita-cocktail-mixer-orange-lime-jalapeno.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Goan Mule Cocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303247_1-sober-co-goan-mule-cocktail-mixer-kokum-ginger-black-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera King Drink - Original, Vegan",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291172_1-okf-aloe-vera-king-drink-original-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coco Poco - Mango",
+    "sku_type": "320 ml - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306688_2-dobra-pop-goli-marble-soda-mango-refreshing-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coco Poco - Lychee",
+    "sku_type": "320 ml - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306691_2-dobra-pop-goli-marble-soda-lychee-refreshing-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peach Juice With Pulp",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309018_1-vinut-peach-juice-with-pulp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera & Turmeric Juice",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139750_3-kapiva-aloe-vera-turmeric-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Classic Peach Ice Tea",
+    "sku_type": "300 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190114_2-brewhouse-tea-brewing-co-organic-classic-peach-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Forest Berry Ice Tea",
+    "sku_type": "300 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190115_2-brewhouse-tea-brewing-co-organic-forest-berry-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera & Wheatgrass Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139751_3-kapiva-aloe-vera-wheatgrass-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Grape Juice With Pulp",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309020_1-vinut-red-grape-juice-with-pulp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Fruit Juice With Pulp",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309024_1-vinut-mixed-fruit-juice-with-pulp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thandai Powder",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343085_2-kesarco-thandai-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pororo Strawberry Flavor Drink",
+    "sku_type": "235 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338889_1-paldo-pororo-strawberry-flavor-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pororo Milk Flavor Drink",
+    "sku_type": "235 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338892_1-paldo-pororo-milk-flavor-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pororo Green Grape Flavor Drink",
+    "sku_type": "235 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338896_1-paldo-pororo-green-grape-flavor-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pororo Mango Flavor Drink",
+    "sku_type": "235 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338894_1-paldo-pororo-mango-flavor-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pororo Apple Flavor Drink",
+    "sku_type": "235 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338895_1-paldo-pororo-apple-flavor-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chocolate Mix - Ready To Drink",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335730_1-true-elements-hot-chocolate-ready-to-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Juice Drink With Nata De Coco - Mango",
+    "sku_type": "270 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100754_3-dolphin-juice-drink-with-nata-de-coco-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop Goli Soda - Mango",
+    "sku_type": "225 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316462_1-dobra-pop-goli-soda-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peach Zero Sugar Sparkling Water",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227076_3-polka-pop-sparkling-water-peach-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cranberry Unleashed - 100% Juice",
+    "sku_type": "355 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334283_1-no-filter-cranberry-unleashed-100-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cranberry Zero Sugar Sparkling Water",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227073_2-polka-pop-sparkling-water-cranberry-no-sugar-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pororo Blueberry Flavor Drink",
+    "sku_type": "235 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338891_1-paldo-pororo-blueberry-flavor-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Classic Lemon Ice Tea",
+    "sku_type": "350 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151554_6-brewhouse-tea-brewing-co-organic-classic-lemon-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Drink",
+    "sku_type": "150 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201706_1-ala-fresh-strawberry-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Cinnamon Iced Tea - Organic & Natural",
+    "sku_type": "300 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190116_2-brewhouse-tea-brewing-co-apple-cinnamon-iced-tea-organic-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frut Jus Premium Cherry Berry Juice",
+    "sku_type": "300 ml - Bottle",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229218_1-juice-wale-premium-cherry-berry-juice-no-added-sugar-all-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera & Moringa Juice",
+    "sku_type": "1 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139749_2-kapiva-aloe-vera-moringa-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Anti Hangover Drink - Apple",
+    "sku_type": "60 ml - Polypack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159636_2-armr-100-anti-hangover-drink-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Anti Hangover Drink - Lemon",
+    "sku_type": "60 ml - Polypack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159637_2-armr-100-anti-hangover-drink-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water - Lemon Flavoured, Sugar Free, Zero Calories",
+    "sku_type": "350 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289032_1-zoik-sparkling-water-lemon-flavoured-sugar-free-zero-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tender Coconut Water",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197477_1-wild-tender-coconut-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Anti Hangover Drink - Blackberry",
+    "sku_type": "60 ml - Polypack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159638_2-armr-100-anti-hangover-drink-blackberry.jpg?tr=w-154,q-80"
+  }
+]

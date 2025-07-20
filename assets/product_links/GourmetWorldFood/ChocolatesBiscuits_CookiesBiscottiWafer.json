@@ -1,0 +1,926 @@
+[
+  {
+    "name": "Choco Pie - Original, With Rich Marshmallow, No Preservatives",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126778_11-lotte-choco-pie-with-rich-cocoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Treat Croissant - Cocoa Creme",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309436_3-britannia-treat-croissant-cocoa-creme.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Treat Croissant - Vanilla Creme Filling, 100% Veg, Soft",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214488_3-britannia-treat-croissant-vanilla-creme-roll-100-veg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscotti - Almond, Gluten free",
+    "sku_type": "150 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128680_15-gooddiet-biscotti-almond-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Cookies",
+    "sku_type": "75 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177079_7-tasties-coconut-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter Cookies",
+    "sku_type": "75 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177076_6-tasties-butter-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Dark Chocolate",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100432286_4-loacker-quadratini-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shortbread - Pure Butter",
+    "sku_type": "150 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/282810_4-walkers-shortbread-pure-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Wafer Cookies - Napolitaner",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/404578_3-loacker-quadratini-wafer-cookies-napolitaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Wafer Cookies - Vanilla",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038890_5-loacker-quadratini-wafer-cookies-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Chocolate Cashew Nutty Cookies",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197885_3-open-secret-nutty-cookies-white-choco-cashew-no-added-maida-40-50-nuts-box-of-6-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cream Wafer Roll - Black",
+    "sku_type": "320 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085511_4-twister-flavoured-cream-wafer-roll-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cream Wafer Roll - Strawberry",
+    "sku_type": "320 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085508_4-twister-flavoured-cream-wafer-roll-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lex Cream Sandwich Biscuits - Lemon Flavour",
+    "sku_type": "190 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114489_3-samudra-lex-cream-sandwich-biscuits-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "5-Layer Wafers - Orange",
+    "sku_type": "60 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234825_3-tasties-premium-orange-wafers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocochip Cookies",
+    "sku_type": "75 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177083_5-tasties-chocochip-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafer Bites - Strawberry",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184546_3-tasties-premium-wafer-bites-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Oat Cookies",
+    "sku_type": "88 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40090885_3-slurrp-farm-oats-honey-banana-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Ragi Cookies",
+    "sku_type": "88 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40090886_5-slurrp-farm-ragi-chocolate-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscotti - Cranberry, Gluten Free",
+    "sku_type": "150 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128681_14-gooddiet-biscotti-cranberry-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "5-Layer Wafers - Vanilla",
+    "sku_type": "60 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234826_3-tasties-premium-vanilla-wafers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Authentic Belgian Waffles - Dairy Free & No Added Preservatives",
+    "sku_type": "4 pcs - 40 g",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220799_1-dely-authentic-belgian-waffles-dairy-free-no-added-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Cookie With Jaggery - Crunchy, Healthy, Rich In Protein, Iron",
+    "sku_type": "100 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243488_1-millet-bank-multi-millet-cookie-with-jaggery-crunchy-healthy-rich-in-protein-iron.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free - Choco Digestive Biscuits",
+    "sku_type": "270 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101533_1-gullon-sugar-free-choco-digestive-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deluxe Crackers - Original",
+    "sku_type": "200 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014616_1-kerk-deluxe-crackers-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Cream Biscuits - Lemon Flavor",
+    "sku_type": "162 g ",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/286773_2-tiffany-sugar-free-cream-biscuits-lemon-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Magic Stix Wafer Rolls - Chocolate Hazelnut Flavoured Cream",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075923_1-sapphire-magic-stix-wafer-rolls-chocolate-hazelnut-flavoured-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuit with Choco Cream",
+    "sku_type": "50 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40118017_2-meiji-biscuit-with-choco-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nocciola Wafer - With Hazelnut Cream",
+    "sku_type": "150 g - Pouch",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176528_4-gastone-lago-wafers-with-hazelnut-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafer Cube - Choco",
+    "sku_type": "100 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012083_2-jacker-wafer-cube-choco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream Wafers - Crunch n Cream Crunchiest Hazelnut Flavored",
+    "sku_type": "65 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002870_3-tiffany-cream-wafers-crunch-n-cream-crunchiest-hazelnut-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crackers - Cream",
+    "sku_type": "300 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119942_1-samudra-crackers-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream Crackers",
+    "sku_type": "300 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136096_1-munchys-cracker-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunch 'n' Cream Crunchiest Cream Wafers - Chocolate Flavored",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003707_2-tiffany-crunch-n-cream-crunchiest-cream-wafers-chocolate-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafer Rolls - Chocolate, Munchini",
+    "sku_type": "100 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136100_1-munchys-wafer-rolls-chocolate-munchini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Secrets - Choco Centered Cookies",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302861_1-dukes-choco-secrets-choco-centered-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cream Wafer Roll - Cappuccino",
+    "sku_type": "320 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085510_3-twister-flavoured-cream-wafer-roll-cappuccino.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Tiramisu",
+    "sku_type": "220 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100010328_4-loacker-quadratini-tiramisu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Wafer Cookies - Double Choc",
+    "sku_type": "125 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184674_5-loacker-quadratini-wafer-cookies-double-choc.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunch 'n' Cream Crunchiest Cream Wafers - Strawberry Flavored",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003708_2-tiffany-crunch-n-cream-crunchiest-cream-wafers-strawberry-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choc Sandwich Crackers",
+    "sku_type": "258 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136099_2-munchys-cracker-sandwich-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Stick - Hexagon Pack",
+    "sku_type": "63 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199389_1-gone-mad-choco-stick-hexagon-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Crackers",
+    "sku_type": "300 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136094_1-munchys-cracker-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vege Crackers",
+    "sku_type": "300 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136095_1-munchys-cracker-vege.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Waffle Chips - Milk Choco Drizzle",
+    "sku_type": "85 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211776_1-waffle-mill-waffle-chips-milk-choco-drizzle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunch n Cream - Vanilla Cream Wafers",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100005610_2-tiffany-crunch-n-cream-vanilla-cream-wafers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lex Cream Sandwich Biscuits - Cheese Flavour",
+    "sku_type": "190 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114487_2-samudra-lex-cream-sandwich-biscuits-cheese-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gourmets Delite  Wafers - Orange 75 gm Pouch",
+    "sku_type": "75 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017183_3-gourmets-delite-gourmets-delite-wafers-orange-75-gm-pouch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free - Marie Biscuits",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101528_2-gullon-sugar-free-marie-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Cappuccino",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/306778_5-loacker-quadratini-cappuccino.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Wafer Cookies - Cocoa & Milk",
+    "sku_type": "125 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123535_2-loacker-quadratini-wafer-cookies-cocoa-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toast Family Rusk - Made From Wheat Grain, Crispy & Crunchy",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117286_4-pran-toast-family.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunch 'n' Cream Crunchiest Cream Wafers - Hazelnut Flavored",
+    "sku_type": "135 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003709_2-tiffany-crunch-n-cream-crunchiest-cream-wafers-hazelnut-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lite Bites - Sugar Free",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002582_2-gaia-lite-bites-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafer Sticks - Luxury Cookies & Cream Flavoured",
+    "sku_type": "300 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40092100_3-monetta-wafer-sticks-luxury-cookies-cream-flavoured.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Magic Stix Wafer Rolls - Chocolate Flavoured Cream",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075925_2-sapphire-magic-stix-wafer-rolls-chocolate-flavoured-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafer - Chocolate, Richoco",
+    "sku_type": "30 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119380_2-nabati-wafer-chocolate-richoco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toast Garlic Rusk - Made From Wheat Grain, Crispy & Crunchy",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117293_4-pran-toast-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Wafer Cookies - Tiramisu",
+    "sku_type": "110 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003187_4-loacker-quadratini-wafer-cookies-tiramisu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy & Creame Wafer Biscuit - Strawberry",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161801_2-harveys-crunchy-creame-wafer-biscuit-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dip Biscuit - Creamy Strawberry Flavoured",
+    "sku_type": "50 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000002_2-yan-yan-dip-biscuit-creamy-strawberry-flavoured.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter Cookies - Original Danish Recipe",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40140349_3-sapphire-butter-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lex Cream Sandwich Biscuits - Choco Flavour",
+    "sku_type": "190 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114488_3-samudra-lex-cream-sandwich-biscuits-choco-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choc Chunk Cookies",
+    "sku_type": "120 g - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202701_3-cookie-man-choc-chunk-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted Cookies - Fruit & Nut & Choco Chip Cookies",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202699_2-cookie-man-assorted-cookies-fruit-nut-choc-chip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Maria Biscuits - Gluten Free",
+    "sku_type": "125 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161083_2-schar-maria-biscuits-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Milk Cookies - Teatime Snack, Baked",
+    "sku_type": "50 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264623_1-sri-sri-tattva-orange-milk-cookies-teatime-snack-baked.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shortbread - 100% Pure Cow Butter, Sugar Free, All Rich Creamy",
+    "sku_type": "200 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003623_2-sugarless-bliss-sugar-free-shortbread-all-rich-creamy-cow-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies -Sugar Free & Digestive (Natural Ginger & Cinnamon)",
+    "sku_type": "100 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003650_1-sugarless-bliss-cookies-sugar-free-digestive-natural-ginger-cinnamon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Pillow",
+    "sku_type": "20 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177622_5-gery-gone-mad-choco-pillow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Wafer Cookies - Espresso",
+    "sku_type": "110 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002853_6-loacker-quadratini-wafer-cookies-espresso.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Waffy Hazelnut Flavoured Rolls - Creamy",
+    "sku_type": "300 g - Tin",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228671_2-dukes-waffy-wafer-rolls-cream-filled-crispy-tasty-hazelnut-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hello Panda Biscuits - Double Chocolate Filling",
+    "sku_type": "50 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001053_2-meiji-hello-panda-biscuits-double-chocolate-filling.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew Nut Cookies - Teatime Snack, For Diet Conscious",
+    "sku_type": "50 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264617_1-sri-sri-tattva-cashew-nut-cookies-teatime-snack-for-diet-conscious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Belgian Chocolate Chunk",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066349_3-walkers-belgian-chocolate-chunk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Flavour Biscuit Stick",
+    "sku_type": "47 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339783_1-pocky-chocolate-flavour-biscuit-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Wafer Napolitaner Hazelnut",
+    "sku_type": "175 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100010312_4-loacker-classic-wafer-napolitaner-hazelnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dip Stick Snack - Fruity Strawberry Cream",
+    "sku_type": "50 g - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005499_2-yan-yan-dip-stick-snack-fruity-strawberry-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shortbread - Roasted Almond, Sugar Free",
+    "sku_type": "100 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067602_1-sugarless-bliss-sugar-free-shortbread-roasted-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Chip Cookies - Original Danish Recipe, Premium Collection",
+    "sku_type": "800 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40048573_5-sapphire-chocochip-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Badam Cookies - Teatime Snack, Baked",
+    "sku_type": "50 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264621_1-sri-sri-tattva-kesar-badam-cookies-teatime-snack-baked.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookie Coins Vanilla & Double Choco Chip",
+    "sku_type": "30 g - (Pack of 2)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335667_2-nova-nova-cookie-coins-vanilla-double-choco-chip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Flavour Biscuit Stick",
+    "sku_type": "45  g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339784_1-pocky-strawberry-flavour-biscuit-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies & Cream Flavour Biscuit Stick",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339782_1-pocky-cookies-cream-flavour-biscuit-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Sugar Crakers",
+    "sku_type": "300 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114491_3-samudra-biscuits-sugar-crakers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafers - Milk Caramel",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017191_3-gourmets-delite-gourmets-delite-wafers-milk-caramel-150-gm-pouch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafers - Luxury Cream, Strawberry",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40092476_2-redondo-wafers-luxury-cream-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter Cookies & Chocolate Chip Cookies - Baked With Fine Ingredients",
+    "sku_type": "340 g - Tin",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269897_1-royal-dansk-butter-cookies-chocolate-chip-cookies-baked-with-fine-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Badam (Cashew & Almond) Biscuits",
+    "sku_type": "400 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000858_5-karachi-bakery-kaju-badam-biscuits-healthy-crispy-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Cookies - Teatime Snack, For Diet Conscious",
+    "sku_type": "50 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264619_1-sri-sri-tattva-coconut-cookies-teatime-snack-for-diet-conscious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Cookies - Teatime Snack, Baked",
+    "sku_type": "50 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264622_1-sri-sri-tattva-milk-cookies-teatime-snack-baked.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunch 'n' Cream Crunchiest Cream Wafers - Orange Flavored",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003710_2-tiffany-crunch-n-cream-crunchiest-cream-wafers-orange-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deluxe Sandwich - Cheese",
+    "sku_type": "184 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012086_3-kerk-deluxe-sandwich-cheese.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafer Bites - Dark Hazelnut",
+    "sku_type": "100 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184548_4-tasties-premium-wafer-bites-hazelnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafer Bites - Tiramisu",
+    "sku_type": "100 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184549_3-tasties-premium-wafer-bites-tiramisu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Double Choco Flavour Biscuit Stick",
+    "sku_type": "47 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339785_1-pocky-double-choco-flavour-biscuit-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brandy Snap - Oats & Coconut Cookies",
+    "sku_type": "120 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202700_2-cookie-man-brandy-snap-cookies-flavoured.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Hazelnut Cookies - Teatime Snack, For Diet Conscious",
+    "sku_type": "50 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264618_1-sri-sri-tattva-choco-hazelnut-cookies-teatime-snack-for-diet-conscious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swirlicious Creme Cookie Cream Wafer Rolls - Mini",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324349_1-maddox-swirlicious-creme-cookie-cream-wafer-rolls-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jowar Delight Millet Cookies",
+    "sku_type": "75 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40337900_1-me-millets-jowar-delight-millet-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy & Creame Wafer Biscuit - Orange",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161802_1-harveys-crunchy-creame-wafer-biscuit-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quadratini Wafer Cookies - Coconut",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123534_2-loacker-quadratini-wafer-cookies-coconut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cracker - Shrimp Flavoured",
+    "sku_type": "75 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188100_3-nongshim-shrimp-flavoured-cracker.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter Cookies Premium Collection - Original Danish Recipe",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40140351_7-sapphire-butter-cookies-premium-collection.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Party Wafers - Hazelnut Cream",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176524_4-gastone-lago-party-wafers-hazelnut-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawn Cracker",
+    "sku_type": "70 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184694_3-bika-prawn-cracker.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocochip\u00c3\u201a\u00c2\u00a0Cookies Premium Collection - Original Danish Recipe",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40140352_7-sapphire-chocochip-cookies-premium-collection.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cinnamon Keto Cookies",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40170509_10-ketofy-cinnamon-keto-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Honey Prawn Crackers",
+    "sku_type": "70 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184699_4-bika-honey-prawn-crackers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy & Creame Wafer Biscuit - Vanilla",
+    "sku_type": "110 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161800_1-harveys-crunchy-creame-wafer-biscuit-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Jeera Cookies - Made With Refined Wheat Flour, Tea Time Snack",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267511_1-mr-bakewell-premium-jeera-cookies-made-with-refined-wheat-flour-tea-time-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Crackers",
+    "sku_type": "276 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136097_2-munchys-cracker-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream 4 Fun Sandwich Biscuits Assorted - Crunchy & Sweet",
+    "sku_type": "150 g - (Pack Of 8)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228669_1-dukes-cream-4-fun-sandwich-biscuits-assorted-crunchy-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stroopwafel Waffle Cookie - Caramel",
+    "sku_type": "30 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211778_1-waffle-mill-stroopwafel-waffle-cookie-caramel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Little Fish Snacks Anchovies",
+    "sku_type": "70 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184700_4-bika-little-fish-snacks-anchovies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Biscotti",
+    "sku_type": "250 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207554_3-cookie-man-almond-biscotti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter Cookies Danish Butter Cookies - 100% Pure",
+    "sku_type": "340 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269895_1-royal-dansk-butter-cookies-danish-butter-cookies-100-pure.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Elaichi Cookie - Crunchy, Healthy, Rich In Protein, Iron",
+    "sku_type": "100 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243487_1-millet-bank-ragi-elaichi-cookie-crunchy-healthy-rich-in-protein-iron.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gourmets Delite  Wafers - Chocolate 75 gm Pouch",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017184_4-gourmets-delite-gourmets-delite-wafers-chocolate-75-gm-pouch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Walker Toffee N Pecan",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066347_3-walkers-walker-toffee-n-pecan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter Cookies Original Danish Recipes - Gold Collection",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017690_4-sapphire-butter-cookies-gold-collection.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Honey Crab Crackers",
+    "sku_type": "70 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184698_4-bika-honey-crab-crackers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Party Wafers Vanila cream",
+    "sku_type": "125 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176522_4-gastone-lago-mini-party-wafers-vanila-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Cookies - Next",
+    "sku_type": "135 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151575_1-bogutti-crunchy-cookies-next.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnuts Wafers",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126333_1-harveys-wafers-hazelnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Osmania Biscuits - Crunchy",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283970_1-manimark-osmania-biscuits-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Chip Cookies - Baked With Finest Ingredients",
+    "sku_type": "340 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269896_1-royal-dansk-chocolate-chip-cookies-baked-with-finest-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Almond Biscotti",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333600_1-smakz-indian-almond-biscotti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Cashew Biscotti",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333601_1-smakz-indian-cashew-biscotti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Walkers Shortbread Round",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066346_3-walkers-walkers-shortbread-round.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Party Wafers - Hazelnut Cream",
+    "sku_type": "125 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176523_3-gastone-lago-mini-party-wafers-hazelnut-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Party Wafers Lemon cream",
+    "sku_type": "125 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176520_4-gastone-lago-mini-party-wafers-lemon-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Walker Ginger Stem Biscuit",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066348_2-walkers-walker-ginger-stem-biscuit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swirlicious Creme Chocolate Wafer Rolls",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324343_1-maddox-swirlicious-creme-chocolate-wafer-rolls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Funfills Chocolate Wafer Rolls",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324346_1-maddox-funfills-chocolate-wafer-rolls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puff Pastry Sticks With Butter",
+    "sku_type": "125 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002317_2-matilde-vicenzi-puff-pastry-sticks-with-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wafer Roll - Twister, Black With Vanilla Flavoured Cream",
+    "sku_type": "320 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002855_2-delfi-wafer-roll-twister-black-with-vanilla-flavoured-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Magic Stix Wafer Rolls - Strawberry Flavoured Cream",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075924_2-sapphire-magic-stix-wafer-rolls-strawberry-flavoured-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mini - Pretzel",
+    "sku_type": "40 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003138_2-huober-organic-mini-pretzel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies - Honey-Almond Crunch",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119442_5-earthspired-cookies-honey-almond-crunch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Cream Biscuits - Chocolate Flavor",
+    "sku_type": "162 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/286779_2-tiffany-sugar-free-cream-biscuits-chocolate-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Walker Shortbread Triangle",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066351_3-walkers-walker-shortbread-triangle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Teddies Animal Shaped Crackers",
+    "sku_type": "283 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344172_1-cremica-teddies-animal-shaped-crackers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Cookies - Rich In Taste, Unique Flavour, Tea Partner",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286661_1-croissant-express-coconut-cookies-rich-in-taste-unique-flavour-tea-partner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Vanilla Wafer",
+    "sku_type": "255 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248030_1-voortman-sugar-free-vanilla-wafer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter  Cookies - Rich In Taste, Unique Flavour, Tea Partner",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286662_1-croissant-express-butter-cookies-rich-in-taste-unique-flavour-tea-partner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swirlicious Creme Chocolate Wafer Rolls - Mini",
+    "sku_type": "135.6 g - (22 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324345_1-maddox-swirlicious-creme-chocolate-wafer-rolls-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Digestive Cookies - Teatime Snack, For Diet Conscious",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264620_1-sri-sri-tattva-digestive-cookies-teatime-snack-for-diet-conscious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oreo Biscuit - Strawberry, Imported",
+    "sku_type": "137 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067449_1-cadbury-oreo-biscuit-strawberry-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Dates Biscotti",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333602_1-smakz-indian-dates-biscotti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark N Creme Vanilla Flavoured Sandwich Cookies - Crunchy",
+    "sku_type": "250 g - (Pack of 3)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228661_2-dukes-dark-n-creme-sandwich-cookies-crunchy-delicious-vanilla-flavoured.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Osmania Cookies - Made With Refined Wheat Flour, Tea Time Snack",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267512_1-mr-bakewell-premium-osmania-cookies-made-with-refined-wheat-flour-tea-time-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oatmeal & Coconut Cookies - 100% Eggless, Rich, Crispy & Crunchy",
+    "sku_type": "160 g - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272426_1-chokola-oatmeal-coconut-cookies-100-eggless-rich-crispy-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies - Oatmeal",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/309811_1-gaia-cookies-oatmeal.jpg?tr=w-154,q-80"
+  }
+]

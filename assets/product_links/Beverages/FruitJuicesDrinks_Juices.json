@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Tender Coconut Water",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214886_8-fresho-tender-coconut-water-no-added-sugar-flavours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Drink",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265783_7-frooti-drink-fresh-n-juicy-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tender Coconut Water",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213832_10-storia-100-tender-coconut-water-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aamras Mango Fruit Juice",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1207000_5-paper-boat-aamras-mango-fruit-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Drink",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189384_5-slice-thickest-mango-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Cranberry Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229939_12-real-fruit-power-juice-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Juice - Orange Delight",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1200126_8-tropicana-fruit-juice-orange-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Juice - Litchi Delight",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229790_17-tropicana-fruit-juice-delight-litchi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tender Coconut Water - With Pulpy Malai",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1223168_2-fresho-tender-coconut-water-with-pulpy-malai-rich-in-electrolytes-200-ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nimbooz With Lemon Juice",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325672_3-7-up-nimbooz-soft-drink-with-real-lemon-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Drink",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265708_5-frooti-mango-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "PET Bottle",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265692_8-appy-fizz-apple-juice-based-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Juice - Mango Delight",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229794_18-tropicana-fruit-juice-delight-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Juice",
+    "sku_type": "150 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40105620_11-paper-boat-apple-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swing Juicier Drink - Slurpy Mango",
+    "sku_type": "125 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/414648_2-paper-boat-swing-juicier-drink-slurpy-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lychee Juice",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1207003_4-paper-boat-lychee-litchi-fruit-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Mixed Fruit Juice",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190763_7-real-fruit-power-juice-mixed-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Juice - With Vitamin D",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1207002_5-paper-boat-orange-juice-with-vitamin-d-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swing Zesty Pomegranate Juicer Drink",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214501_3-paperboat-swing-zesty-pomegranate-juice-enriched-with-vitamin-d-no-gmos.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dia Free Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117941_6-kapiva-diafree-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Get Slim Juice - Aids Metabolism & Digestion",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117942_8-kapiva-get-slim-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thar Aloe Vera Juice - Rejuvenates Skin & Hair, No Added Sugar",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117938_7-kapiva-aloe-vera-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tender Coconut Water",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/136297_9-cocojal-tender-coconut-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Drink",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265705_10-appy-apple-juice-drink-classic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheatgrass Juice - Helps Detoxify The Liver & Cleanses Digestive System",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117949_6-kapiva-wheat-grass-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Masala Mixed Fruit Juice",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40170924_10-real-fruit-power-juice-masala-mixed-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Pink Guava Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40194700_6-real-fruit-power-pink-guava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Juice - Cold Pressed",
+    "sku_type": "200 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238781_7-fresho-signature-mango-juice-cold-pressed-no-added-sugar-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Juice - Grape",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229928_4-real-fruit-power-juice-grapes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aamras Mango Fruit Juice",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208139_5-paper-boat-aamras-mango-fruit-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Pineapple Juice",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229917_14-real-fruit-power-juice-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Masala Pomegranate Juice",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128988_8-real-fruit-power-juice-masala-pomegranate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Juice - Guava Delight",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1200122_8-tropicana-fruit-juice-guava-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swing Juicier Drink - Lush Lychee",
+    "sku_type": "125 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/414650_2-paper-boat-swing-juicier-drink-lush-lychee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Orange Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229910_8-real-fruit-power-juice-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Squash",
+    "sku_type": "750 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265834_11-kissan-pineapple-squash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Litchi Juice",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229936_8-real-fruit-power-juice-litchi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swing Juicier Drink - Pulpy Orange",
+    "sku_type": "125 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/414652_2-paper-boat-swing-juicier-drink-pulpy-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Juice - Pineapple Delight",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229788_16-tropicana-delight-fruit-juice-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Juicy Mango Squash",
+    "sku_type": "750 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265832_14-kissan-juicy-mango-squash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lychee Nata De Coco Drink",
+    "sku_type": "250 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327075_1-paper-boat-lychee-nata-de-coco-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Mango Juice",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/229912_7-real-fruit-power-juice-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Water",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1206998_4-paper-boat-coconut-water-refreshing-flavour-vital-electrolytes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Fruit Beverage",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100496033_14-b-natural-juice-orange-oomph.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomegranate Delight Fruit Juice",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/293396_19-tropicana-delight-fruit-juice-pomegranate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Litchi Juice - Nata De Coco, Natural, Nutrition Drink",
+    "sku_type": "200 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235167_1-alpha-8-litchi-juice-nata-de-coco-natural-healthy-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Juice - Cold Pressed",
+    "sku_type": "250 ml ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238784_7-fresho-signature-pineapple-juice-cold-pressed-no-added-sugar-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swing Juicier Drink - Mixed Fruit Medley",
+    "sku_type": "125 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/414653_2-paper-boat-swing-juicier-drink-mixed-fruit-medley.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anar/Pomegranate Juice - Low Sugar",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1206951_7-paper-boat-anar-pomegranate-fruit-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Power Mixed Berries Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168139_8-real-fruit-power-juice-mixed-berries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aam Panna",
+    "sku_type": "200 ml - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008345_21-paper-boat-aam-panna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Drink",
+    "sku_type": "125 ml - (Pack of 10)",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341298_1-frooti-mango-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju Butterscotch Milkshake - With Zinc, Vitamin A & D Added, Immunity Booster",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30008756_12-cavins-milkshake-kaju-butterscotch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Triphala Juice",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117946_5-kapiva-triphala-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Juice - Aloe Vera Kiwi",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198202_2-real-aloe-kiwi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Fruit Juice - Cold Pressed",
+    "sku_type": "200 ml ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238783_7-fresho-signature-mixed-fruit-juice-cold-pressed-no-added-sugar-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Drink",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195384_2-real-mango-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berry Delight Juice - Cold Pressed",
+    "sku_type": "250 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275492_7-fresho-signature-cold-pressed-berry-delight-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango & Passion Fruit Flavour Fruit Drink",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075243_7-ocean-fruit-water-mango-passion-fruit-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swing Juicier Drink With Vitamin D - Yummy Guava, Refreshing",
+    "sku_type": "1.2 l ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251598_5-paper-boat-swing-juicier-drink-with-vitamin-d-yummy-guava-refreshing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugarcane Juice - Cold Pressed",
+    "sku_type": "250 ml ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238787_6-fresho-signature-sugarcane-juice-cold-pressed-no-added-sugar-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple With Goodness Of Nata De Coco - Naturally Twisted",
+    "sku_type": "200 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40260993_1-alpha-8-pineapple-with-goodness-of-nata-de-coco-naturally-twisted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry With Goodness Of Nata De Coco - Naturally Twisted",
+    "sku_type": "200 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40260994_1-alpha-8-strawberry-with-goodness-of-nata-de-coco-naturally-twisted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava Juice - Nata De Coco, Natural, Nutrition Drink",
+    "sku_type": "200 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235166_1-alpha-8-guava-juice-nata-de-coco-natural-healthy-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomegranate Juice",
+    "sku_type": "1 L - Carton",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100076758_20-b-natural-juice-pomegranate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Litchi Flavoured Drink",
+    "sku_type": "170 ml - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312560_1-kamals-litchi-flavoured-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Mango Nectar",
+    "sku_type": "250 ml - PET Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264942_1-frussh-green-mango-nectar-rich-in-vitamin-a-c-b6-sweet-sour-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Squash - Rich In Vitamin C, Refreshing Taste",
+    "sku_type": "700 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273045_2-prime-lemon-squash-rich-in-vitamin-c-refreshing-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Healthy Wheatgrass Juice",
+    "sku_type": "200 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335338_1-jivo-rose-healthy-wheatgrass-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crush - Nannari Syrup",
+    "sku_type": "700 ml - PET Bottle",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169775_2-kanchana-crush-nannari-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil/Sabja Seeds Drink - Mixed Fruit Flavour",
+    "sku_type": "250 ml ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327077_1-paper-boat-basilsabja-seeds-drink-mixed-fruit-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Juice - Giloy",
+    "sku_type": "500 ml ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017842_4-patanjali-juice-giloy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Tender Coconut Water - Unsweetened",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1221534_1-earthmade-organix-organic-tender-coconut-water-unsweetened-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Drink With Fruit Pulp, Enrich Alphonso",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315637_1-dailee-mango-drink-with-fruit-pulp-enrich-alphonso.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cloud Lemon Soft Drink",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315652_1-dailee-cloud-lemon-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Fruit Power Juice",
+    "sku_type": "200 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265840_1-real-juice-fruit-power-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peach & Passion Fruit Flavour Fruit Drink",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075242_6-ocean-fruit-water-peach-passion-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anar-E-Kali Pomegranate & Apple Natural Fruit Powder Mix With Free Shaker - No Added Preservatives",
+    "sku_type": "96 g - (4N X 24 g each)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276041_1-flistaa-anar-e-kali-pomegranate-apple-natural-fruit-powder-mix-with-free-shaker-no-added-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dillagi Watermelon & Strawberry Juice Mix Powder - No Added Preservatives & Free Shaker",
+    "sku_type": "96 g - (4 N x 24 g each)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276043_1-flistaa-dillagi-watermelon-strawberry-juice-mix-powder-no-added-preservatives-free-shaker.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Forest Berry Ice Tea",
+    "sku_type": "350 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40173070_5-brewhouse-tea-brewing-co-organic-forest-berry-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Drink - Guava",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067106_10-minute-maid-fruit-drink-guava.jpg?tr=w-154,q-80"
+  }
+]

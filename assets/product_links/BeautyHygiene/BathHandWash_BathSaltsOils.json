@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Coconut Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": "500 ml - PET Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252615_1-beejmantra-coconut-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soulflower Rose Geranium Bath Salt for Body, Foot Spa, Muscle Pain Relief, Aromatherapy",
+    "sku_type": "500 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40079184_5-soulflower-rose-geranium-aroma-bath-salt-for-moisturised-soft-skin-controls-acne.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Ageing After-Bath Body Oil - Carrot Seed",
+    "sku_type": "120 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120583_13-biotique-bio-carrot-seed-anti-aging-after-bath-body-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lavender Bath Salt - With Epsom & Himalayan Pink Salt, Makes Skin Smooth",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231005_1-shrida-lavender-bath-salt-with-epsom-himalayan-pink-salt-makes-skin-smooth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pamper Bath Salt - Cherry Blossom & Pink Clay",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152355_4-callesta-pamper-bath-salt-cherry-blossom-pink-clay.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "De-stress  Bath Salt - Green Clay & Tulsi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152354_5-callesta-de-stress-bath-salt-green-clay-tulsi.jpg?tr=w-154,q-80"
+  }
+]

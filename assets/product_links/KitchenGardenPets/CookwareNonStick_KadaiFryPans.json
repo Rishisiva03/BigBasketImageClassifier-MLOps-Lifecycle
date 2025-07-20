@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Tri-Ply Stainless Steel Deep Fry Pan/Kadai With Glass Lid - 3 Layer, Induction Base, 28 cm, 3 mm, SSK40G",
+    "sku_type": "4 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244458_2-hawkins-tri-ply-stainless-steel-deep-kadhai-with-glass-lid-induction-compatible-silver-ssk40g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diecast Non-Stick Appe Pan/Appam Patra/Paniyarakkal/Paddu Maker - 22 Cm, 12 Cups, Glass Lid",
+    "sku_type": "1 pc ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230512_1-hawkins-futura-nonstick-appe-pan-with-glass-lid-diameter-22-cm-black-nape22g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tri-Ply Stainless Steel Deep Fry Pan/Kadai - 3 Layer, Induction Base, 26 cm, 3 mm, SSD25",
+    "sku_type": "2.5 l ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193998_4-hawkins-stainless-steel-tri-ply-deep-fry-pankadhai-26-cm-ssd25.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Kadhai - Riveted Handle Size, Heavy Gauge Induction Friendly",
+    "sku_type": "4 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291740_1-segovia-stainless-steel-kadhai-riveted-handle-size-heavy-gauge-induction-friendly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omega Deluxe Granite Fry Pan - 5 Layer, Induction Base, Non Stick Coated, 24 cm, Bakelite Handle, 36305",
+    "sku_type": "1.7 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40104348_5-prestige-deluxe-granite-non-stick-fry-pan-wo-lid-240-mm-36305.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omega Deluxe Granite Non-stick Round Base Fry Pan - 20 cm, Black",
+    "sku_type": "1.1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186127_4-prestige-omega-deluxe-granite-200-mm-fry-pan-wo-lid-36304.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omega Deluxe Granite Non-stick Round Base 28 cm Fry Pan - Black",
+    "sku_type": "3 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40104349_7-prestige-deluxe-granite-non-stick-fry-pan-wo-lid-280-mm-36306.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Kadai - Induction Bottom, 24 cm, 0.5 mm, Glass Lid",
+    "sku_type": "2.7 l ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40166685_8-vinod-stainless-steel-kadai-induction-bottom-with-glass-lid-24-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Non-Stick Deep Fry Pan/Kadhai - 22 cm, NK15",
+    "sku_type": "1.5 l ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230525_1-hawkins-futura-nonstick-deep-fry-pankadhai-round-bottom-diameter-22-cm-thickness-325-mm-black-nk15.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Kadai - 3 Layer, Induction Base, 22 cm, 2.7 mm",
+    "sku_type": "2 L ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273813_5-navrang-nonstick-kadai-220-mm-induction-based-triple-layer-coating-sturdy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omega Select Plus Superior Non-Stick Coating Round Base Kadai With Lid - 20cm, Black",
+    "sku_type": "1.7 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009193_5-prestige-omega-select-plus-non-stick-kadai-200mm-with-lid-30719.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Sandwich Gas Toaster - 14 cm, Thickness 1.2 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40166708_7-omega-sandwich-toaster-non-stick-gas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Iron Kadai - 21 cm, with Handle",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211555_3-trm-traditional-pure-iron-kadai-round-bottom-8-inch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Kadai For Tadka, Small Portion Gravy - 16 cm, Venice, Purple, Serves 1-2",
+    "sku_type": "1.5 L ",
+    "rating": "2.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311699_3-wonderchef-venice-mini-kadhai-16-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Iron Tadka Pan - 13 cm, with Handle",
+    "sku_type": "1 pc ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211552_8-trm-traditional-pure-iron-tadka-pan-5-inch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Tadka Pan - Small, 90 mm, Black",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313956_2-bb-home-hard-anodised-tadka-pan-small-90-mm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Iron Kadai - 18 cm , with Handle",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211554_5-trm-traditional-pure-iron-kadai-round-bottom-7-inch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Appachetty - With Steel Lid, 23 cm",
+    "sku_type": "1.1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273801_3-navrang-nonstick-appachetty-with-stainless-steel-lid-230-mm-sturdy-highly-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Induction Kadai With Stainless Steel Lid Aluminium Black",
+    "sku_type": "1.5 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083765_1-nirlon-induction-kadai-with-stainless-steel-lid-aluminium-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Royale Tri-Ply Stainless Steel Kadai - 3 Layer, Induction Bottom, 24 cm, Glass Lid, With Handle",
+    "sku_type": "2 l ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221347_1-butterfly-royale-tri-ply-stainless-steel-kadai-240-mm-with-glass-lid-long-lasting.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Plus Gas & Induction Compatible Kadai - With Glass Lid, 30 cm, Black",
+    "sku_type": "3.8 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307677_1-prestige-hard-anodised-plus-gas-induction-compatible-kadai-with-glass-lid-30-cm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Kadai - Non-Stick Coating, 22 cm, 2.4 mm, Bakelite Handle",
+    "sku_type": "2.2 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302267_1-le-kaviraj-aluminium-kadai-non-stick-coating-22-cm-24-mm-bakelite-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zest Non-Stick Square Aluminium Appam Patra/Paniyarakkal/Paddu Maker - 3 mm, 9 Pits",
+    "sku_type": "1 pc ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222909_2-vinod-zest-square-paniyarakal-kadhai-non-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Regal Purple Non-Stick Aluminium Fry Pan - Induction Bottom, With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "1.9 l ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235917_1-nirlon-regal-purple-frying-pan-with-glass-lid-aluminium-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Deep Kadai - 20 cm, Glass Lid, Bakelite Handles",
+    "sku_type": "3.1 l ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222923_2-vinod-hard-anodised-deep-kadai-with-glass-lid-31-l.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Kadai - Induction Bottom, With Glass Lid, Ceramic Coated, 24 cm, 3 mm",
+    "sku_type": "3 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235954_1-nirlon-ceramic-kadhai-with-glass-lid-aluminium-durable-easy-to-clean.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Wok - 26.6 cm, Glass Lid, with Handle, Royal Velvet",
+    "sku_type": "1 pc ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266786_2-wonderchef-royal-velvet-wok-with-glass-lid-sturdy-handle-long-lasting-24-cm-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platina Popular Stainless Steel Unique Impact Forged Bottom Kadai - With Toughened Glass Lid, 30 cm, Silver",
+    "sku_type": "5.5 l ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307689_1-prestige-platina-popular-stainless-steel-unique-impact-forged-bottom-kadai-with-toughened-glass-lid-30-cm-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nonstick Frypan 260 With Induction Base & Inner Granite, Maroon & Spatter",
+    "sku_type": "1 pc ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301484_1-navrang-nonstick-frypan-260-with-induction-base-inner-granite-coating.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Non-Stick Deep Fry Pan Flat Bottom - Non Stick, 26 cm, 3.25 mm, ND25",
+    "sku_type": "2.5 l ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230522_1-hawkins-futura-nonstick-deep-fry-pan-flat-bottom-diameter-26-cm-thickness-325-mm-black-nd25.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminium Deep Fry Pan/Kadhai - Flat Bottom Induction Base, 30 cm, 4.06 mm, Steel Lid, IAD375",
+    "sku_type": "3.75 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230499_2-hawkins-futura-hard-anodised-induction-compatible-deep-fry-pan-flat-bottom-diameter-30-cm-thickness-406-mm-black-iad375.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "New Bling Non-Stick Aluminium Kadai - Induction Base, With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "3 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235927_1-nirlon-bling-kadhai-with-glass-lid-aluminium-durable-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quartz Nonstick Fry Pan 24 Cm - Greblon German Technology, Non-Toxic PFOA & BPA-Free",
+    "sku_type": "1.7 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311959_1-fackelmann-quartz-nonstick-fry-pan-24-cm-greblon-german-technology-non-toxic-pfoa-bpa-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tri-Ply Stainless Steel Cook N Serve Handi - With Glass Lid, 3 Layer, Induction Base, 22 cm, 3.25 mm, SSH30G",
+    "sku_type": "3 L ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230541_2-hawkins-tri-ply-stainless-steel-induction-compatible-cook-n-serve-handi-with-glass-lid-diameter-22-cm-thickness-3-mm-silver-ssh30g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Handi (Saucepan) with Lid 21 cm, 4.06 mm AH3S",
+    "sku_type": "3 L ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230497_1-hawkins-futura-hard-anodised-handi-saucepan-2-short-handles-with-hard-anodised-lid-diameter-21-cm-thickness-406-mm-black-ah3s.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Grill Pan - 26 cm",
+    "sku_type": "1.8 l ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128811_2-wonderchef-grill-pan-royal-velvet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Fry Pan - 3 Layer, Induction Base, 24 cm, 2.5 mm, with Handle, Argent",
+    "sku_type": "1 pc ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227035_1-bergner-argent-tri-ply-stainless-steel-frypan-durable-24-cm-induction-base-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Kadai - Non Stick, 23 cm, 2.2 mm, Bakelite Handle",
+    "sku_type": "2.1 l ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273820_3-navrang-nonstick-kadai-230mm-maroon-sturdy-highly-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cast Iron Fry Pan - 25 cm, With Handle, Pre Seasoned",
+    "sku_type": "1 L ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242439_1-petals-pre-seasoned-cast-iron-fry-panskillet-25-cm-induction-compatible.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Non-Stick Stir Deep Fry Pan - 26 cm, 3.25 mm,Steel Lid, NDL20S",
+    "sku_type": "2 l ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014071_3-hawkins-futura-nonstick-stir-fry-wokdeep-fry-pan-wwith-stainless-steel-lid-flat-bottom-diameter-26-cm-thickness-325-mm-black-ndl20s.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Non-Stick Stir Deep Fry Pan - 26 cm, 3.25 mm, Glass Lid, NDL20G",
+    "sku_type": "2 l ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014072_3-hawkins-futura-nonstick-stir-fry-wokdeep-fry-pan-with-glass-lid-flat-bottom-diameter-26-cm-thickness-325-mm-black-ndl20g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Kadai - Induction Base, Non Toxic, 20 cm",
+    "sku_type": "4.5 l ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128819_2-wonderchef-induction-kadhai-wok-with-lid-hard-anodized-ebony.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Kadai 240 With Induction Base With Inner Granite Coating, Maroon & Spatter",
+    "sku_type": "2.2 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301486_1-navrang-non-stick-kadai-240-with-induction-base-with-inner-granite-coating.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Tadka Pan - 3 Layer, 12 cm, 2.5 mm, with Lid, Handle, Argent",
+    "sku_type": "1 pc ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227038_1-bergner-argent-tri-ply-stainless-steel-tadka-pan-long-lasting-12-cm-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tri-Ply Stainless Steel Deep Fry Pan/Kadai With Glass Lid - 3 Layer, Induction Base, 26 cm, 3 mm, SSD25G",
+    "sku_type": "2.5 l ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193999_3-hawkins-stainless-steel-tri-ply-deep-fry-pankadhai-with-glass-lid-26-cm-ssd25g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platinum Stainless Steel Kadai - 3 Layer, Induction Bottom, 27.5 cm, With Lid & Handle",
+    "sku_type": "3.7 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193989_2-vinod-platinum-triply-stainless-steel-induction-base-extra-deep-kadhai-with-lid-26-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Frying Pan - Induction Base, 26 cm, 3.25 mm, IAF26",
+    "sku_type": "1.5 l ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014044_5-hawkins-futura-non-stick-frying-pan-26-cm-inf26.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tri-Ply Stainless Steel Frying Pan With Glass Lid - 3 Layer, Induction Base, 24 cm, 3 mm, SSF24G",
+    "sku_type": "1 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193996_4-hawkins-stainless-steel-tri-ply-frying-pan-with-glass-lid-26-cm-ssf26g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Deep Kadai - 20 cm, Glass Lid, Bakelite Handles",
+    "sku_type": "2.1 l ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222922_1-vinod-hard-anodized-deep-kadai-with-lid-21-l.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminium Deep Fry Pan/Kadhai - Round Bottom, 26 cm, 3.25 mm, Glass Lid, AFFK25G",
+    "sku_type": "2.5 l ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230491_1-hawkins-futura-hard-anodised-fish-fry-kadhai-round-bottom-with-glass-lid-diameter-25-cm-thickness-325-mm-black-affk25g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tri-Ply Stainless Steel Frying Pan - 3 Layer, Induction Base, 26 cm, 3 mm, SSF26",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193997_3-hawkins-stainless-steel-tri-ply-frying-pan-26-cm-ssf26.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Tadka Pan - 11 cm, 2.1 mm",
+    "sku_type": "350 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273814_4-navrang-aluminium-tadka-pan-110-mm-sturdy-highly-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nonstick Casting Uttapam - Purple, Non-Induction",
+    "sku_type": "1 pc ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291197_1-navrang-nonstick-casting-uttapam-purple-non-induction.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Appachetty - 2 Layer, Scratch Resistant, 7 Cups, 28 cm, 3 mm, With Lid, Bakelite Handle, Diamond Series",
+    "sku_type": "1 pc ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114260_4-anjali-non-stick-appam-patrapanniyarkal-with-steel-lid-diamond-series.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Kadai - Induction Bottom, Non-Stick Coated, 25 cm",
+    "sku_type": "2.8 l ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227026_2-kaviraj-aluminium-induction-bottom-kadai-25-cm-28-l.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminum Tadka Pan - 10.4 cm, 3.25 mm, With Handle, Durable",
+    "sku_type": "240 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014023_3-hawkins-futura-hard-anodised-tadkaspice-heating-pan-1-cup-l31.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Argent Tri-Ply Stainless Steel Kadai - 3 Layer, Induction Base, With Steel Lid, 28 cm, 2.5 mm",
+    "sku_type": "3.9 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227033_1-bergner-argent-tri-ply-stainless-steel-kadhai-with-lid-28-cm-induction-base-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminium Deep Fry Pan/Kadhai - Flat Bottom Induction Base, 26 cm, 4.06 mm, Steel Lid, IAD25S",
+    "sku_type": "2.5 l ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014058_4-hawkins-futura-hard-anodised-deep-fry-pankadai-with-steel-lid-26-cm-iad25s.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nonstick Casting Uttapam - Maroon, Non-Induction",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291196_1-navrang-nonstick-casting-uttapam-maroon-non-induction.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Kadai - With Steel Lid, 22cm, Fiesta Pro",
+    "sku_type": "2.2 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290350_2-anjali-fiesta-pro-kadai-with-lid-fpkd22-size-22-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platinum Triply Stainless Steel Kadai - 3 Layer, Induction Base, Steel Lid, 24 cm",
+    "sku_type": "3.2 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193988_2-vinod-platinum-triply-stainless-steel-induction-base-extra-deep-kadai-with-lid-24-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Fry Pan - 2 Layer, Non Stick Coated, 24 cm, Bakelite Handle",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227053_1-bergner-die-cast-aluminium-non-stick-fry-pan-durable-strong-24-cm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Cook-N-Serve Bowl/Kadhai - 23 cm, 4.06 mm, Glass Lid, ACB30",
+    "sku_type": "3 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230473_1-hawkins-futura-hard-anodised-cook-n-serve-bowl-with-lid-diameter-23-cm-thickness-406-mm-black-acb30.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zest Non-Stick Aluminium Kadai - With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "3.1 l ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222903_2-vinod-zest-deep-kadai-with-glass-lid-non-stick-24-cm-31-l.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Appachetty - 2 Layer, With Lid, 3 mm",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224150_2-nandi-non-stick-aluminium-appamchetty-long-lasting-easy-to-clean-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tri-Ply Stainless Steel Frying Pan - 3 Layer, Induction Base, 20 cm, 3 mm, SSF20",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230545_3-hawkins-tri-ply-stainless-steel-induction-compatible-frying-pan-diameter-22-cm-thickness-3-mm-silver-ssf22.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Sauce Pan - 3 Layer, Induction Friendly, 15.5 cm, 2.5 mm",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291127_5-kaviraj-stainless-steel-triply-sauce-pan-with-lid-strong-durable-14-cm-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Bread Toaster - Non-Stick, Bakelite Handle, Big",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301482_1-navrang-aluminium-bread-toaster-non-stick-bakelite-handle-big.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Everyday Aluminium Non-Stick Cookware Fry Pan 24 cm - Black",
+    "sku_type": "1.6 l - (Free Spatula & Scrub)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311853_2-judge-by-prestige-everyday-aluminium-non-stick-cookware-fry-pan-24-cm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omega Select Plus Non-Stick 20 cm Appachatty With Stainless Steel Lid - Black",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009204_7-prestige-omega-select-plus-non-stick-appachetty-30731.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Biryani Pot/Handi/Kadai/Stew Pot - With Glass Lid, 24 cm, 2.6 mm",
+    "sku_type": "4 l ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178163_1-le-kaviraj-non-stick-biryani-pothandi-with-glass-lid-maroon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Tadka Pan - 2 Layers, 2 mm, With Handle, No.4",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302248_1-le-kaviraj-aluminium-tadka-pan-2-layers-2-mm-with-handle-no4.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Vagariya/Tadka Pan - 2 Layers, 10 cm, 2 mm, With Handle",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302272_1-le-kaviraj-hard-anodised-vagariyatadka-pan-2-layers-10-cm-2-mm-with-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zest Non-Stick Aluminium Fry Pan - Induction Base, 24 cm, 3 mm",
+    "sku_type": "2.8 l ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222915_2-vinod-zest-fry-pan-non-stick-induction-friendly-24-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Futura Hard Anodised Cook-N-Serve Stewpot - Non Stick, 20 cm, 3.25 mm, Glass Lid",
+    "sku_type": "3 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230514_1-hawkins-futura-nonstick-cook-n-serve-stewpot-with-glass-lid-diameter-20-cm-thickness-325-mm-black-nst30g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Multi Purpose Kadai - Induction Base, with Idly Plates, 12 cm, 0.7 mm, with Handle, 2 Plates (8 Idly), Dakshin",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246339_2-coconut-stainless-steel-dakshin-multi-kadai-8-idly-steamer-strong-durable-induction-safe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Multipurpose Pan - Non-Stick Inner Granite Coating, Maroon & Spatter, 24 cm, 2.5 mm, With Glass Lid, Bakelite Handle",
+    "sku_type": "1.6 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301485_1-navrang-aluminium-multipurpose-pan-non-stick-24-cm-25-mm-with-glass-lid-bakelite-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tri-Ply Splendor Stainless Steel Thick Gauge Fry Pan - 22 cm, Silver",
+    "sku_type": "1.2 l ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307695_1-prestige-tri-ply-splendor-stainless-steel-thick-gauge-fry-pan-22-cm-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Die Cast Plus Aluminium Square Grill Pan - 24 cm, Black",
+    "sku_type": "3 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307644_1-prestige-die-cast-plus-aluminium-square-grill-pan-24-cm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Iron Fry Pan - Flat Bottom, 21 cm",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211562_3-trm-traditional-pure-iron-kadai-cum-flat-bottom-fry-pan-8-inch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Non-Stick Curry/Saute Pan - 20 cm, 3.25 mm, Stainless Steel Lid, NCP20S",
+    "sku_type": "2 l ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014100_4-hawkins-futura-nonstick-curry-pansaute-pan-with-stainless-steel-lid-diameter-20-cm-thickness-325-mm-black-ncp20s.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminum Tadka Pan - Dishwasher Safe, 10 cm, Backlite Handle",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40031330_5-prestige-hard-anodised-tadka-pan-vagaria-100-mm-35037.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Frying Pan - Diameter 29 cm, Thickness 4.06 mm, Black, AF29",
+    "sku_type": "2.6 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230495_2-hawkins-futura-hard-anodised-frying-pan-stainless-steel-handle-diameter-30-cm-thickness-406-mm-black-af30.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Duralite Die-Cast Non Stick Fry Pan - 24 Cm, Grey",
+    "sku_type": "1.2 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326701_1-wonderchef-duralite-die-cast-non-stick-fry-pan-24-cm-grey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omega Select Plus 12 Pits Paniyarakkal - With Lid, 24 cm, Aluminium, Non-stick",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152208_5-prestige-omega-select-plus-paniyarakkal-with-lid-240-mm-30880.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Tadka Pan - Medium, 110 mm, Black",
+    "sku_type": "275 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313957_2-bb-home-hard-anodised-tadka-pan-medium-110-mm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Waffle Maker/Square French Egg Pancake Mould - 14.5 cm, 1.5 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244821_4-omega-waffle-maker-aluminium-body-non-stick-coating-durable-multipurpose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zest Non-Stick Aluminium Deep Kadai - Induction Base, With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "3.1 l ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222917_2-vinod-zest-deep-kadai-with-glass-lid-non-stick-induction-friendly-31-l.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omega Select Plus Teflon Coating Residue-Free Round Base 7 Pits Paniyarakkal - 20 cm, Black",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009199_4-prestige-omega-select-plus-non-stick-paniyarakkal-7-holes-30726.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Multi Purpose Kadai Pot - 2 Idly Plates, Induction Base, With Steel Lid, 28 cm, 0.6 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131748_6-kitchen-essentials-stainless-steel-idli-maker-induction-bottom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Grill Pan - Non Stick Coated, 24 cm, Bakelite Handle",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227056_5-bergner-die-cast-aluminium-non-stick-grill-pan-durable-strong-24-cm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Frying Pan With Steel Lid - Diameter 17 cm, Thickness 4.06 mm, Black, AF17S",
+    "sku_type": "600 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014026_4-hawkins-futura-hard-anodised-frying-pan-with-stainless-steel-lid-diameter-18-cm-thickness-406-mm-black-af18s.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminium Deep Fry Pan/Kadhai - 26 cm, 4.06 mm, With Steel Lid, AK275S",
+    "sku_type": "2.75 l ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014060_4-hawkins-futura-hard-anodised-deep-fry-pankadhai-round-bottom-diameter-26-cm-thickness-406-mm-black-ak275.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Argent Tri-Ply Stainless Steel Kadai - 3 Layer, Induction Base, With Steel Lid & Handle, 24 cm, 2.5 mm",
+    "sku_type": "2.5 l ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227031_1-bergner-argent-tri-ply-stainless-steel-kadhai-with-lid-durable-24-cm-induction-base-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Grill Pan - 3 Layer, Non Stick Coated, Backlite Handle",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273808_3-navrang-nonstick-grill-pan-triple-coating-layer-longlasting-sturdy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Biryani Pot/Handi - Induction Base, With Glass Lid, 23.5 cm",
+    "sku_type": "4.25 l ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220140_8-kitchen-essentials-non-stick-induction-base-biryani-handipot-with-glass-lid-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omega Select Plus Teflon Non-Stick Coated Fry Pan - 20cm, Black",
+    "sku_type": "900 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009190_5-prestige-omega-select-plus-non-stick-fry-pan-200-mm-30714.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Grill Pan - 5-Layer, Non-Stick Coating, Induction-Friendly, 24 cm, With Handle",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083793_3-wonderchef-granite-grill-pan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Appachetty - 2 Layer, Scratch Resistant, 12 Cups, 28 cm, Stainless Steel Lid, Bakelite Handle",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114261_4-anjali-non-stick-appam-patrapanniyarkal-with-steel-lid-diamond-series.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Kadai - 16 cm, 2.4 mm, With Handle",
+    "sku_type": "800 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302271_1-le-kaviraj-hard-anodised-kadai-16-cm-24-mm-with-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminium All-Purpose Pan/Frying Pan - Non Stick, 22 cm, 3.25 mm, Steel Lid, NAP30",
+    "sku_type": "3 l ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230511_1-hawkins-futura-nonstick-all-purpose-pan-with-stainless-steel-lid-diameter-22-cm-thickness-325-mm-black-nap30.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Kadai - Induction Base, 2.4 mm, Stainless Steel Lid, Bakelite Handle",
+    "sku_type": "2.2 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302240_1-le-kaviraj-aluminium-kadai-with-stainless-steel-lid-bakelite-handle-induction-base-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Casserole - Non Stick Coated, 28 cm, Stainless Steel Lid",
+    "sku_type": "4 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230650_1-iveo-non-stick-casserole-with-stainless-steel-lid-240-mm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Fry Pan - 18 cm, 2 mm, Induction Bottom, Bakelite Handle",
+    "sku_type": "750 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178397_3-le-kaviraj-aluminium-baby-fry-pan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Kadai - 20 cm, with Lid, Handle, Essential",
+    "sku_type": "1 pc ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227050_1-bergner-essential-stainless-steel-kadhai-durable-long-lasting-20-cm-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Duralite Die-Cast Kadhai - With Lid, 24 cm, Grey",
+    "sku_type": "2.4 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326702_2-wonderchef-duralite-die-cast-kadhai-with-lid-24-cm-grey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Toaster - Aluminum, Non-Stick, Usable On Gas Stove",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114262_2-anjali-non-stick-gas-toaster-super-diamond-series.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Induction Base Non-Stick Kadai With Glass Lid - Durable, Sturdy, 26 cm",
+    "sku_type": "4 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199713_6-kitchen-essentials-induction-base-non-stick-kadhai-with-glass-lid-big-24-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Mini Kadai - 16 cm, 2.6 mm, Small",
+    "sku_type": "1 L ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186894_1-le-kaviraj-non-stick-mini-deep-kadhai-16-cm-maroon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Tadka Pan - 11 cm, Wired Handle, Taurus, Black",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311700_3-wonderchef-taurus-tadka-pan-11-cm-wired-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Stick Aluminium Mini Kadhai - 16.5 cm, Small",
+    "sku_type": "1 L ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268210_8-le-kaviraj-non-stick-mini-deep-kadhai-durable-16-cm-maroon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Kadhai - Mirror Finish, 15.5 cm",
+    "sku_type": "1 L ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023184_4-namoo-aluminium-kadhai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread/Snack Roaster - Non-Stick, Assorted Colour",
+    "sku_type": "1 pc ",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168467_4-master-breadsnack-roaster-non-stick-assorted-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Fry Pan - Non Stick Coated, 20 cm, 2.6 mm, Bakelite Handle",
+    "sku_type": "1 pc ",
+    "rating": "3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083760_3-nirlon-non-stick-tapper-fry-pan-20-cm-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zest Virgin Non-Stick Aluminium Kadai - With Glass Lid, 26 cm, 3 mm",
+    "sku_type": "4.1 l ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222904_2-vinod-zest-deep-kadai-with-glass-lid-non-stick-24-cm-41-l.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butterfly Aluminium Tadka Pan - Non Stick Coated, 10 cm, 3 mm, Backlite Handle, Raga",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221334_1-butterfly-raga-non-stick-tadka-panvagaria-100-mm-long-lasting-durablensrtdp200001.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminium Deep-Fry Pan/Kadhai - 26 cm, 4.06 mm, With Steel Lid, AD25S",
+    "sku_type": "2.5 l ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231096_1-hawkins-futura-hard-anodised-deep-fry-pan-with-stainless-steel-lid-diameter-26-cm-thickness-406-mm-black-ad25s.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Kadai - 2 Layer, Non Stick Coated, 3 mm, Stainless Steel Lid, Backlite Handle",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224152_2-nandi-non-stick-kadai-with-lid-long-lasting-heavy-duty-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Fry Pan - Non Stick Coated, 40.5 cm, 3 mm, with Lid, Backlite Handle",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222898_2-vinod-deep-frypan-with-lid-non-stick-22-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Single Browni Non-Stick Aluminium Fry Pan - With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "1.9 l ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235921_1-nirlon-browni-frying-pan-with-glass-lid-aluminium-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Single Red Stone Non-Stick Aluminium Fry Pan - With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "1.9 l ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235918_1-nirlon-red-stone-frying-pan-with-glass-lid-aluminium-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Grill Pan - Induction Base, Ceramic Coated, 3 mm, with Handle",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235960_1-nirlon-ceramic-grill-pan-aluminium-durable-easy-to-clean.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Cook N Serve Stewpot/Kadhai - 24 cm, 4.06 mm, Glass Lid, AST50G",
+    "sku_type": "3 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230475_1-hawkins-futura-hard-anodised-cook-n-serve-stewpot-with-glass-lid-diameter-24-cm-thickness-406-mm-black-ast50g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Aluminium Deep-Fry Pan/Kadhai - 30 cm, 4.06 mm with Steel Lid, AD375S",
+    "sku_type": "3.75 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230480_1-hawkins-futura-hard-anodised-deep-fry-pan-flat-bottom-with-stainless-steel-lid-diameter-30-cm-thickness-406-mm-black-ad375s.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Single Greenochef Non-Stick Aluminium Kadai - With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "3 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235933_1-nirlon-greenochef-kadai-with-glass-lid-aluminium-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Single Orchid Granite Non-Stick Aluminium Kadai - With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "3 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235932_1-nirlon-orchid-granite-kadai-with-glass-lid-aluminium-durable-pink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "New Ultimate Non-Stick Aluminium Kadai - Induction Bottom, 24 cm, 3 mm",
+    "sku_type": "3 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235929_1-nirlon-ultimate-kadhai-with-glass-lid-aluminium-durable-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "New Regal Purple Non-Stick Aluminium Kadai - With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "3 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235930_1-nirlon-regal-purple-kadhai-with-glass-lid-aluminium-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Kadai - Induction Bottom, With Glass Lid & Handle, 20 cm, 0.5 mm",
+    "sku_type": "1.5 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186753_4-vinayak-steel-kadhai-induction-bottom-with-glass-lid-20-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Kadai - Induction Base, Non Stick Coated, 26 cm, Stainless Steel Lid, Backlite Handle",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234608_1-pigeon-non-stick-kadai-with-stainless-steel-lid-non-induction-base-32-cm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Iron Kadai - Flat Bottom, 25 cm, with Handle",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211561_2-trm-traditional-pure-iron-flat-bottom-kadai-10-inch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Non-Stick Aluminium Kadai - 13 cm, 2.3 mm, Small",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210896_3-hazel-23mm-hard-aluminium-anodised-frying-baby-kadhai-13-cm-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Single Ruby Non-Stick Aluminium Fry Pan - Induction Bottom, With Glass Lid, 24 cm, 3 mm",
+    "sku_type": "1.9 l ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235922_1-nirlon-ruby-frying-pan-with-glass-lid-aluminium-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Casserole - 2 Layer, Induction Bottom, Non Stick Coated, 3 mm, Glass Lid, With Handle",
+    "sku_type": "2.6 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235957_1-nirlon-ceramic-casserole-with-glass-lid-aluminium-durable-easy-to-clean.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aluminium Casserole - 2 Layer, Induction Bottom, Non Stick, Ceramic Coated, 24 cm, 3 mm, Glass Lid, With Handle",
+    "sku_type": "3.1 l ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235958_1-nirlon-ceramic-casserole-with-glass-lid-aluminium-durable-easy-to-clean.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Multi Purpose Kadai - Induction Base With Lid, 26 cm",
+    "sku_type": "4 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226760_2-vinod-hard-anodised-multi-kadai-induction-base-26-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Anodised Frying Pan - Induction Base, 22 cm, 3.25 mm, IAF22",
+    "sku_type": "1.1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40194662_3-hawkins-futura-non-stick-frying-pan-inf22.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Fry Pan - 3 Layer, Induction Base, Dishwasher Safe, 27 cm, With Handle, Platinum",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193991_3-vinod-platinum-triply-stainless-steel-induction-base-fry-pan-24-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paniyarakkal - Non Stick Coated, 7 Pits, 10 cm, 2.6 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178165_1-le-kaviraj-appam-patrapanniyarkal-7-rounds-maroon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Steel Tri Ply Kadai With Lid - Induction Base, 22 cm",
+    "sku_type": "2.25 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220037_1-nosh-by-neelam-steel-tri-ply-kadai-with-lid-induction-base-22-cm.jpg?tr=w-154,q-80"
+  }
+]

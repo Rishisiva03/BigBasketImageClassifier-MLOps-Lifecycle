@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Turkey - Ham With Olives",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40108418_2-alf-farms-turkey-ham-with-olives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turkey - Salami",
+    "sku_type": "250 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40108419_1-alf-farms-turkey-salami.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turkey - Stuffed",
+    "sku_type": "1 pc - Approx. 2.3 to 2.6 kg",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005702_3-fresho-turkey-stuffed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Turkey With Skin - Curry Cut, Tender & Juicy",
+    "sku_type": "500 g - ( 15 to 20 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236777_1-fresho-raw-turkey-with-skin-curry-cut-tender-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Turkey With Skin - Whole, Tastier & Juicy",
+    "sku_type": "1 pc - (3250 g to 3500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236778_1-fresho-raw-turkey-with-skin-whole-tastier-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted & Stuffed Turkey - Tender & Juicy",
+    "sku_type": "1 pc - (2200 g to 2400 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236772_1-fresho-roasted-stuffed-turkey-tender-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turkey With Skin - Cleaned & Cut",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000998_3-fresho-turkey-with-skin-cleaned-cut.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,1244 @@
+[
+  {
+    "name": "Hazelnut Ice Cream",
+    "sku_type": "65 ml ",
+    "rating": "2.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212500_2-baskin-robbins-hazelnut-rocher.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut Cone Ice Cream",
+    "sku_type": "110 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323296_2-baskin-robbins-hazelnut-rocher-cone-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Madagascar Chocolate Guilt Free Ice Cream\u00a0Bar",
+    "sku_type": "70 ml ",
+    "rating": "2.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300612_5-gozero-vegan-omg-chocolate-bar-zero-dairy-100ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Black Currant",
+    "sku_type": "450 ml ",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126053_4-baskin-robbins-ice-cream-black-currant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Almond Guilt Free Ice Cream\u00a0Tub - Happy Pint",
+    "sku_type": "500 ml - Jar",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338900_1-go-zero-roasted-almond-guilt-free-ice-cream-tub-happy-pint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mississippi Mud Stick Ice Cream",
+    "sku_type": "65 ml ",
+    "rating": "2.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126079_3-baskin-robbins-ice-cream-bar-mississippi-mud.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Alphonso Mango",
+    "sku_type": "700 ml - Tub",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40171114_7-baskin-robbins-alphanso-mango-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bavarian Chocolate Cone Ice Cream",
+    "sku_type": "110 ml ",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226107_2-baskin-robbins-ice-cream-cone-bavarian-chocolate-with-cashew-pralines.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Classic Vanilla",
+    "sku_type": null,
+    "rating": "2.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40171117_6-baskin-robbins-classic-vanilla-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cotton Candy Cone Ice Cream",
+    "sku_type": "110 ml ",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226108_2-baskin-robbins-cotton-candy-ice-cream-cone-with-milk-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vanilla N Chocolate Bar Ice Cream",
+    "sku_type": "65 ml ",
+    "rating": "2.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126075_4-baskin-robbins-vanilla-chocolate-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Belgian Dark Chocolate Guilt Free Ice Cream\u00a0Scoops",
+    "sku_type": "100 ml ",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300604_5-gozero-medium-fat-ice-cream-zero-sugar-belgian-dark-chocolate-guilt-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Cheesecake Guilt Free Ice Cream",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300609_5-gozero-medium-fat-ice-cream-blueberry-cheesecake-25x-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almonds N Caramel Bar Ice Cream",
+    "sku_type": "65 ml ",
+    "rating": "2.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126078_4-baskin-robbins-ice-cream-bar-almonds-n-caramel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Mississippi Mud",
+    "sku_type": "450 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126056_4-baskin-robbins-ice-cream-mississippi-mud.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Sundae - Fruit Overload",
+    "sku_type": "165 ml ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126069_3-baskin-robbins-ice-cream-sundae-fruit-overload.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bite-Sized Hazelnut Ice Cream Rocks",
+    "sku_type": "192 ml - (16 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333696_1-baskin-robbins-bite-sized-hazelnut-ice-cream-rocks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Vanilla",
+    "sku_type": null,
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008514_13-london-dairy-ice-cream-premium-vanilla-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Simply Strawberry",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008513_13-london-dairy-ice-cream-natural-strawberry-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Death\u00a0By\u00a0Chocolate Guilt Free Ice Cream\u00a0Cone",
+    "sku_type": "120 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332464_1-go-zero-death-by-chocolate-ice-cream-cones.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "X Rhea Kapoor - The Chocolate Influence, Belgian Chocolate Ice Cream",
+    "sku_type": "450 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209547_2-papacream-x-rhea-kapoor-the-chocolate-influence-belgian-chocolate-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Chocolate & Coconut Ice Cream",
+    "sku_type": "450 ml - Tub",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212506_1-the-brooklyn-creamery-vegan-chocolate-coconut-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Super Premium, Double Chocolate Therapy",
+    "sku_type": "500 ml ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220796_1-hokey-pokey-ice-cream-super-premium-double-chocolate-therapy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sea Salt Caramel Chocobar - No Added Sugar, 60% Lower Fat, Plant Based Sweetener",
+    "sku_type": "220 ml - (55ml x 4 Pcs)",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221120_2-the-brooklyn-creamery-chocolate-coated-ice-cream-bar-salted-peanut-butter-vegan-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Pops - Popsicle Mix, Strawberry, High In Vitamin C",
+    "sku_type": "50 g - (Pack of 2)",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40285351_1-whip-up-magic-fruit-pops-popsicle-mix-strawberry-high-in-vitamin-c.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Rocks Cotton Candy - 19 pcs",
+    "sku_type": "228 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304135_2-baskin-robbins-ice-cream-rocks-cotton-candy-19-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Caramel Frozen Dessert",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233779_1-noto-ice-cream-the-dreamy-vegan-frozen-dessert-delicious-salted-caramel-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Coated Ice Cream Bar - Chocolate & Coconut, Vegan, No Added Sugar",
+    "sku_type": "4 pcs - 55 ml",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221119_1-the-brooklyn-creamery-chocolate-coated-ice-cream-bar-chocolate-coconut-vegan-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate Ice Cream",
+    "sku_type": "500 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233773_1-noto-ice-cream-ice-cream-high-in-protein-gluten-free-dark-chocolate-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alphonso Mango Ice Cream",
+    "sku_type": "100 ml - Cup",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212490_1-baskin-robbins-alphonso-mango-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rabri Malai Ice Cream",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298843_1-red-cow-dairy-rabri-malai-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mocha Almond Vegan Frozen Dessert",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233780_1-noto-ice-cream-the-witty-vegan-frozen-dessert-delicious-mocha-almond-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Chocolate, Made with Cow Milk",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126050_4-baskin-robbins-ice-cream-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Pista Gelato Ice Cream",
+    "sku_type": "100 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301731_1-noto-ice-cream-kesar-pista-gelato-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Real Mango Ice Cream",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298840_1-red-cow-dairy-real-mango-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Rocks Mississippi Mud",
+    "sku_type": "228 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304134_2-baskin-robbins-ice-cream-rocks-mississippi-mud.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Belgian Choco Chunk Ice Cream",
+    "sku_type": "475 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202573_3-papacream-belgian-choco-chunk-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rich Chocolate Ice Cream",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298846_1-red-cow-dairy-rich-chocolate-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Acai Berry Banana",
+    "sku_type": "450 ml - Tub",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212521_1-the-brooklyn-creamery-acai-berry-banana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream With Yoghurt - Mango",
+    "sku_type": "500 ml - Tub",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094561_9-london-dairy-ice-cream-with-yoghurt-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Kulfi",
+    "sku_type": "500 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180392_3-london-dairy-ice-cream-kulfi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Fig Walnut",
+    "sku_type": "500 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125497_6-london-dairy-ice-cream-fig-walnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Belgian Chocolate",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002593_1-haagen-dazs-ice-cream-belgian-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocoholic Ice Cream",
+    "sku_type": "450 ml - Tub",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187309_4-the-brooklyn-creamery-chocoholic-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Fudge Doublet Bar Stickless Ice Cream",
+    "sku_type": "65 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333699_1-baskin-robbins-choco-fudge-doublet-bar-stickless-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Cheesecake Ice Cream - Keto Friendly, Low Carbs, No Added Sugar",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265470_1-get-a-whey-blueberry-cheesecake-ice-cream-keto-friendly-low-carbs-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Vanilla Bonbons Ice Cream",
+    "sku_type": "144 ml - (12 pcs x 12 ml)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304125_1-the-brooklyn-creamery-classic-vanilla-ice-cream-bonbons-low-calorie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brooklyn's Cookie Brownie",
+    "sku_type": "450 ml - Tub",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222176_2-the-brooklyn-creamery-dessert-vegan-cookie-brownie-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brownie Cupcake Ice Cream Sundae",
+    "sku_type": "175 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304137_4-baskin-robbins-brownie-sundae-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop - Kala Jamun",
+    "sku_type": "70 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224132_2-noto-ice-cream-pop-kala-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sundae Ice Cream - Softy Choco Break, With Vanilla, Has Rich & Creamy Texture",
+    "sku_type": "125 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220777_2-baskin-robbins-sundae-ice-cream-softy-choco-break-with-vanilla-has-rich-creamy-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ferro Crunch Ice Cream",
+    "sku_type": "450 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202570_3-papacream-ferro-crunch-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Caramel Biscuit",
+    "sku_type": "500 ml - Tub",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094562_8-london-dairy-ice-cream-caramel-biscuit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate Vegan Frozen Dessert",
+    "sku_type": "500 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233778_1-noto-ice-cream-the-hearty-vegan-frozen-dessert-delicious-dark-chocolate-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Mocha Almond Fudge",
+    "sku_type": "1 L - Tub",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008516_12-london-dairy-ice-cream-mocha-almond-fudge-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Mango Raspberry",
+    "sku_type": "473 ml - Tub",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001511_3-haagen-dazs-ice-cream-mango-raspberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream With Yoghurt - Berry Delight",
+    "sku_type": "500 ml - Tub",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008525_12-london-dairy-ice-cream-yoghurt-berry-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Strawberry Cheese Cake, Contains Egg",
+    "sku_type": "500 ml - Tub",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008521_13-london-dairy-ice-cream-strawberry-cheese-cake-contains-egg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Funwich Butterscotch & Caramel Ice Cream",
+    "sku_type": "90 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333698_1-baskin-robbins-butterscotch-caramel-funwich-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Dutch Chocolate, Mega Saver Pack",
+    "sku_type": "700 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240758_2-baskin-robbins-ice-cream-dutch-chocolate-mega-saver-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Chocolate Hazelnut",
+    "sku_type": "500 ml - Tub",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008528_9-london-dairy-ice-cream-chocolate-hazelnut-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Chocolate Brownie Delight",
+    "sku_type": "500 ml - Tub",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008527_8-london-dairy-ice-cream-chocolate-brownie-delight-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Chocolate Ice Cream",
+    "sku_type": "475 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183750_5-papacream-vegan-chocolate-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Chocofudgy cake Ice Cream",
+    "sku_type": "475 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183751_5-papacream-vegan-chocofudgy-cake-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Black Currant, Made with Cow Milk",
+    "sku_type": "450 ml - Tub",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/255655_9-baskin-robbins-ice-cream-black-currant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop - Imli",
+    "sku_type": "70 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224129_2-noto-ice-cream-pop-imli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Tiramisu",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159866_4-london-dairy-premium-ice-cream-tiramisu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Three Cheers Chocolate",
+    "sku_type": "450 ml ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126061_4-baskin-robbins-ice-cream-three-cheers-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Cotton Candy",
+    "sku_type": "450 ml ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126060_3-baskin-robbins-ice-cream-cotton-candy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Ultimate Hazelnut Chocobar Ice Cream Stick x Seema Sajdeh",
+    "sku_type": "55 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338768_1-the-brooklyn-creamery-the-ultimate-hazelnut-chocobar-ice-cream-stick-x-seema-sajdeh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Very Berry Strawberry, Made with Cow Milk",
+    "sku_type": "700 ml - Tub",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40171115_6-baskin-robbins-very-berry-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut Chocolate Guilt Free Ice Cream\u00a0Bar",
+    "sku_type": "70 ml - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338901_1-go-zero-hazelnut-chocolate-guilt-free-ice-cream-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Roasted Californain Almond, Made with Cow Milk",
+    "sku_type": "450 ml ",
+    "rating": "2.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126054_3-baskin-robbins-ice-cream-roasted-californain-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "French Vanilla Guilt Free Ice Cream\u00a0Scoops",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332463_1-go-zero-french-vanilla-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Cookies & Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008503_14-london-dairy-ice-cream-cookies-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butterscotch Ribbon Ice Cream",
+    "sku_type": "700 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212476_2-baskin-robbins-butterscotch-ribbon-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Guilt Free Duets Ice Cream Bar",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323562_4-go-zero-mango-duet-low-calorie-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream Stick - Belgian Chocolate",
+    "sku_type": "100 ml - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008518_4-london-dairy-ice-cream-belgian-chocolate-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Vanilla Lite",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008505_11-london-dairy-ice-cream-vanilla-lite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Belgian Chocolate",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203125_1-get-a-whey-belgian-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alphonso Mango Creamsicle Ice Cream Stick",
+    "sku_type": "55 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338766_1-the-brooklyn-creamery-alphonso-mango-creamsicle-ice-cream-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "French Vanilla Ice Cream",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40182798_3-noto-french-vanilla-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Cheesecake Ice Cream - High Protein, No Added Sugar",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203131_2-get-a-whey-keto-friendly-belgian-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Sticks - Cookies & Cream",
+    "sku_type": "80 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184680_3-haagen-dazs-ice-cream-cookies-cream-sticks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "X Rhea Kapoor - Hazelnut Cold Coffee Ice Cream",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209546_7-papacream-x-rhea-kapoor-hazelnut-cold-coffee-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mangoes & Cream Ice Cream",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233777_1-noto-ice-cream-ice-cream-high-in-protein-gluten-free-mangoes-cream-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pop - Strawberry Raspberry",
+    "sku_type": "70 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224128_2-noto-ice-cream-pop-strawberry-raspberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Caramel Ice Cream",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40182799_3-noto-salted-caramel-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coffee Roasted Almond",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203129_1-get-a-whey-coffee-roasted-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "X Rhea Kapoor - Brown Butter Biskut Ice Cream",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209545_2-papacream-x-rhea-kapoor-brown-butter-biskut-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Coconutello",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180393_2-london-dairy-ice-cream-coconutello.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Coffee Mocha Chunk",
+    "sku_type": "475 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200025_2-papacream-vegan-coffee-mocha-chunk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Alphonso & Peach - Frozen Dessert",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300610_1-gozero-medium-fat-frozen-dessert-vegan-alphonso-peach-zero-dairy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Gold Medal Ribbon",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126058_4-baskin-robbins-ice-cream-gold-medal-ribbon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Stick - Strawberry & Cream",
+    "sku_type": "80 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40086147_3-haagen-dazs-stick-strawberry-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Mango Ice Cream",
+    "sku_type": "475 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183752_5-papacream-vegan-mango-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Raspberry Sorbet Ice Cream",
+    "sku_type": "475 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183754_5-papacream-vegan-raspberry-sorbet-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Summer Strawberries Ice Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212516_1-the-brooklyn-creamery-summer-strawberries-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sundae Ice Cream - Banana Split, Has Rich & Creamy Texture",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220774_1-baskin-robbins-sundae-ice-cream-banana-split-has-rich-creamy-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ferro Crunch",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325396_1-papacream-ferro-crunch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookie Dough Ice Cream",
+    "sku_type": "465 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323555_1-ben-jerrys-cookie-dough-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "French Vanilla Ice Cream",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233775_1-noto-ice-cream-ice-cream-high-in-protein-gluten-free-french-vanilla-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Hazelnut Ice Cream - Vegan, Zero Added Sugar",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295843_1-noto-choco-hazelnut-ice-cream-vegan-zero-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Belgian Chocolate, High Protein",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295842_1-noto-ice-cream-belgian-chocolate-high-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutty Butterscotch Ice Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298849_1-red-cow-dairy-nutty-butterscotch-ice-cream-rich-creamy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Bites - Vanilla, Zero Added Sugar",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295849_1-noto-mini-bites-vanilla-zero-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookie Dough S'Wich Up Ice Cream",
+    "sku_type": "465 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280413_2-ben-jerrys-cookie-dough-swich-up-vanilla-ice-cream-with-chocolatey-cookie-swirls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Caramel Brownie Ice Cream - Movie Night",
+    "sku_type": "465 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323556_1-ben-jerrys-caramel-brownie-ice-cream-movie-night.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Cheesecake Ice Cream",
+    "sku_type": "465 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323558_1-ben-jerrys-strawberry-cheesecake-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Pops - Popsicle Mix, Belgian Chocolate, Real Taste",
+    "sku_type": "50 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40285352_1-whip-up-magic-choco-pops-popsicle-mix-belgian-chocolate-real-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Ice Cream Minis - Chocolate Hazelnut",
+    "sku_type": "240 ml - (4 x 60 ml)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323936_1-the-brooklyn-creamery-protein-ice-cream-minis-chocolate-hazelnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Caramel Chew Chew Ice Cream",
+    "sku_type": "465 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323557_1-ben-jerrys-caramel-chew-chew-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies & Cream Ice Cream - Made With Cow Milk",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325395_1-papacream-cookies-cream-ice-cream-made-with-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vintage Vanilla Ice Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298834_1-red-cow-dairy-vintage-vanilla-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Vegan Belgian Chocolate",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301202_1-papacream-sugar-free-vegan-belgian-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "X Rhea Kapoor - Brown Butter Biskut Ice Cream",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325394_1-papacream-x-rhea-kapoor-brown-butter-biskut-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Persian Pistachio - Frozen Dessert",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300611_1-gozero-frozen-dessert-vegan-persian-pistachio-zero-dairy-guilt-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Very Berry Strawberry, Made with Cow Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126055_2-baskin-robbins-ice-cream-very-berry-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Stick - Vanilla Caramel Almond",
+    "sku_type": "80 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40086145_1-haagen-dazs-stick-vanilla-caramel-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Stick - Chocolate Choc Almond",
+    "sku_type": "80 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40086146_1-haagen-dazs-stick-chocolate-choc-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate Ice Cream",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40182803_3-noto-dark-chocolate-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mangoes & Cream Ice Cream",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40182801_4-noto-mangoes-cream-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Fudge Brownie\u00a0Ice Cream",
+    "sku_type": "100 ml - CUP",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212514_1-the-brooklyn-creamery-chocolate-fudge-brownie-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cafe Mocha Ice Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212513_1-the-brooklyn-creamery-cafe-mocha-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pina Colada Ice Cream",
+    "sku_type": "450 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212509_1-the-brooklyn-creamery-pina-colada-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soho Berry Ice Cream",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212511_1-the-brooklyn-creamery-soho-berry-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kulfi Falooda Sundae Ice Cream - Made With Cow Milk & Tree Nuts, Premium, Rich",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220775_2-baskin-robbins-sundae-ice-cream-kulfi-falooda-has-rich-creamy-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Salted Caramel, Made with Cow Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202572_3-papacream-salted-caramel-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sea Salt Caramel Ice Cream - Low Calorie, No Added Sugar",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212510_1-the-brooklyn-creamery-sea-salt-caramel-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multipack Stick - Creamery Chocolate & Coconut",
+    "sku_type": "220 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212494_1-baskin-robbins-multipack-stick-creamery-chocolate-coconut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Holy Moly Mango Ice Cream",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212512_1-the-brooklyn-creamery-holy-moly-mango-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kulfi Ice Cream Cup",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212519_2-the-brooklyn-creamery-kulfi-ice-cream-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brooklyn Bridge Butterscotch\u00a0Ice Cream - Low Calorie, No Added Sugar",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212517_1-the-brooklyn-creamery-brooklyn-bridge-butterscotch-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tutti Frutti Ice Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212520_1-the-brooklyn-creamery-tutti-frutti-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Caramel Nut Ice Cream",
+    "sku_type": "450 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212484_1-baskin-robbins-choco-caramel-nut-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Velvet Cake",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212503_1-baskin-robbins-red-velvet-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Sundae - Fudge",
+    "sku_type": "165 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126071_2-baskin-robbins-ice-cream-sundae-fudge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anjeer Gelato Ice Cream",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301730_1-noto-ice-cream-anjeer-gelato-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Pista Gelato Ice cream",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301732_1-noto-ice-cream-rose-pista-gelato-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Pop Ice Cream - Made With Real Fruit",
+    "sku_type": "70 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301729_1-noto-ice-cream-lemon-pop-ice-cream-made-with-real-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malai Kulfi Ice Cream - 75% Less Sugar, 2X Protein",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301728_1-noto-ice-cream-malai-kulfi-ice-cream-75-less-sugar-2x-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Caramel",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203128_1-get-a-whey-salted-caramel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Tender Coconut",
+    "sku_type": "700 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40171113_4-baskin-robbins-tender-coconut-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconutterly Caramel'd Non-Dairy Ice Cream - With Cookie Swirls & Chocolatey Chunks",
+    "sku_type": "465 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280425_1-ben-jerrys-coconutterly-carameld-non-dairy-ice-cream-with-cookie-swirls-chocolatey-chunks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cotton Candy Ice Cream",
+    "sku_type": "700 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212480_1-baskin-robbins-cotton-candy-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Caramel Ice Cream",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233774_1-noto-ice-cream-ice-cream-high-in-protein-gluten-free-salted-caramel-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancake Syrup",
+    "sku_type": "355 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303130_1-noto-ice-cream-pancake-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies On Cookie Dough Ice Cream - Non Dairy",
+    "sku_type": "465 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280418_2-ben-jerrys-cookies-on-cookie-dough-non-dairy-ice-cream-with-chocolatey-chunks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Strawberry Sensation",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299863_1-hokey-pokey-ice-cream-strawberry-sensation.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Chocolate Frenzy",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299865_1-hokey-pokey-ice-cream-chocolate-frenzy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Rose Cashew Delight",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299864_1-hokey-pokey-ice-cream-rose-cashew-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Blueberry Blast",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299861_1-hokey-pokey-ice-cream-blueberry-blast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Vanilla Ice Cream Cake - Zero Added Sugar",
+    "sku_type": "285 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295847_1-noto-chocolate-vanilla-ice-cream-cake-zero-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Sugar Ice Cream - Nutty Butterscotch",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300608_1-gozero-medium-fat-ice-cream-zero-sugar-nutty-butterscotch-guilt-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies N Cream Ice Cream",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304138_3-baskin-robbins-cookies-n-cream-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raspberry Creamsicle Ice Cream Stick",
+    "sku_type": "55 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338767_1-the-brooklyn-creamery-raspberry-creamsicle-ice-cream-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mississippi Mud & Almond 'N Caramel Mini Ice Cream Sticks",
+    "sku_type": "200 ml - (4 N x 50 ml each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343742_1-baskin-robbins-mississippi-mud-almond-n-caramel-mini-ice-cream-sticks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Iranian Pistachio Kulfi Ice Cream Slice",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343739_1-baskin-robbins-iranian-pistachio-kulfi-ice-cream-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Summer Berries & Cream",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001513_3-haagen-dazs-ice-cream-summer-berries-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Triple Chocolate Ice Cream Stick",
+    "sku_type": "55 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338769_1-the-brooklyn-creamery-triple-chocolate-ice-cream-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jamun Masala Ice Candy Popsies",
+    "sku_type": "70 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338938_1-papacream-jamun-masala-ice-candy-popsies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Cheesecake Ice Cream",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338937_1-papacream-strawberry-cheesecake-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Popz - Tangy Imli, Truly Mango, Very Berry, Masala Cola",
+    "sku_type": "840 ml - (12 pcs x 70 ml each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324087_1-go-desi-ice-popz-tangy-imli-truly-mango-very-berry-masala-cola.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malai Kulfi Guilt Free Ice Cream",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323560_1-go-zero-zero-sugar-range-malai-kulfi-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Chocolate Lite, Family Pack",
+    "sku_type": "500 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008517_7-london-dairy-ice-cream-chocolate-lite-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Mango Sorbet",
+    "sku_type": "500 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008504_9-london-dairy-ice-cream-mango-sorbet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Strawberry",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002590_4-haagen-dazs-ice-cream-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Vanilla",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002591_3-haagen-dazs-ice-cream-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Velvet Ice Cream Pastry",
+    "sku_type": "150 ml - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339082_1-get-a-way-red-velvet-ice-cream-pastry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Caramel Brownie Ice Cream - Non Dairy",
+    "sku_type": "465 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323554_1-ben-jerrys-salted-caramel-brownie-ice-cream-non-dairy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mocha Fudge Brownie Low Calorie Guilt Free Ice Cream",
+    "sku_type": "500 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344510_1-go-zero-mocha-fudge-brownie-low-calorie-guilt-free-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vanilla\u00a0Choco\u00a0Fudge Guilt Free Ice Cream\u00a0Cone",
+    "sku_type": "120 ml - Cone",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338903_1-go-zero-vanilla-choco-fudge-guilt-free-ice-cream-cone.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Chocolate Almond Lite",
+    "sku_type": "110 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125499_1-london-dairy-ice-cream-chocolate-almond-lite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hop Scotch Butterscotch Ribbon Ice Cream",
+    "sku_type": "450 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212485_3-baskin-robbins-hop-scotch-butterscotch-ribbon-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raspberry Vanilla Doublet Bar Stickless Ice Cream",
+    "sku_type": "65 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333700_1-baskin-robbins-raspberry-vanilla-doublet-bar-stickless-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Almond Low Calorie Guilt Free Ice Cream",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344512_1-go-zero-roasted-almond-low-calorie-guilt-free-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The OG Vanilla Chocobar Ice Cream Stick",
+    "sku_type": "55 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338763_1-the-brooklyn-creamery-the-og-vanilla-chocobar-ice-cream-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Kulfi",
+    "sku_type": "450 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187310_6-the-brooklyn-creamery-kulfi-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Currant Guilt Free Duets Ice Cream Bar",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332468_4-go-zero-black-currant-duet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Forest Ice Cream Pastry",
+    "sku_type": "150 ml - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339081_1-get-a-way-black-forest-ice-cream-pastry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Simply Sitaphal Low Calorie Guilt Free Ice Cream",
+    "sku_type": "500 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344511_1-go-zero-simply-sitaphal-low-calorie-guilt-free-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Holy Moly Mango Ice Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187302_5-the-brooklyn-creamery-holy-moly-mango-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tropical Mango Guilt Free Ice Cream Popsicle",
+    "sku_type": "70 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332467_4-go-zero-tropical-mango-ice-candy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Valencia Orange Guilt Free Ice Cream Popsicle",
+    "sku_type": "70 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332466_4-go-zero-valencia-orange-ice-candy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Roll Cake Slice - Classic Fudge",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233765_2-baskin-robbins-ice-cream-roll-cake-slice-classic-fudge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream - Honey Nut Crunch, With Rich Caramel and Honey Almond Pralines, Made with Cow Milk",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126057_4-baskin-robbins-ice-cream-honey-nut-crunch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Double Chocolate Bonbons Ice Cream",
+    "sku_type": "144 ml - (12 pcs x 12 ml)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304124_1-the-brooklyn-creamery-double-chocolate-ice-cream-bonbons-low-calorie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Original Triple Chocolate Ice Cream Bar",
+    "sku_type": "65 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343738_1-baskin-robbins-the-original-triple-chocolate-ice-cream-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocoholic Ice Cream",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212518_1-the-brooklyn-creamery-chocoholic-ice-cream-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Ice Cream Minis - Cookies & Cream",
+    "sku_type": "240 ml - (4 x 60 ml)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323938_1-the-brooklyn-creamery-protein-ice-cream-minis-cookies-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Funwich Dark Chocolate Cookie With Vanilla Ice Cream",
+    "sku_type": "90 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304136_3-baskin-robbins-funwich-dark-chocolate-cookie-with-vanilla-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Simply Sitaphal Guilt Free Ice Cream",
+    "sku_type": "100 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338899_1-go-zero-simply-sitaphal-guilt-free-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butterscotch\u00a0Caramel Guilt Free Ice Cream\u00a0Cone",
+    "sku_type": "120 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332465_1-go-zero-butterscotch-caramel-ice-cream-cones.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Brownie Fudge",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203126_1-get-a-whey-chocolate-brownie-fudge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cone - Crunchy Butterscotch",
+    "sku_type": "80 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212502_1-baskin-robbins-crunchy-butterscotch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Therapy Dessert",
+    "sku_type": "450 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212505_3-the-brooklyn-creamery-vegan-chocolate-therapy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Death By Chocolate Chocobar Ice Cream Stick",
+    "sku_type": "55 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338764_1-the-brooklyn-creamery-death-by-chocolate-chocobar-ice-cream-stick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Hazelnut Crunch Ice Cream Bar",
+    "sku_type": "70 ml - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339080_1-get-a-way-choco-hazelnut-crunch-ice-cream-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Strawberry Surprise Ice Cream Cone",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343737_1-baskin-robbins-super-strawberry-surprise-ice-cream-cone.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut Rocher Ice Cream",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304139_3-baskin-robbins-hazelnut-rocher-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bavarian Chocolate Ice Cream",
+    "sku_type": "700 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212477_3-baskin-robbins-bavarian-chocolate-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The 99 Calorie Choco Fudge Sundae",
+    "sku_type": "125 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338765_1-the-brooklyn-creamery-99-calorie-choco-fudge-sundae-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vintage Vanilla Giant Cookie Sandwich - Plant Based",
+    "sku_type": "80 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338770_1-the-brooklyn-creamery-vintage-vanilla-giant-cookie-sandwich-plant-based.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Low Calories Ice Cream - Brooklyn Bridge Butterscotch, No Added Sugars",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187308_5-the-brooklyn-creamery-brooklyn-bridge-butterscotch-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ice Cream - Chocolate Lite",
+    "sku_type": "125 ml - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008524_10-london-dairy-ice-cream-chocolate-lite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brownie Crunch Ice Cream Bars",
+    "sku_type": "70 ml - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339079_1-get-a-way-brownie-crunch-ice-cream-bars.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soho Berry Ice Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187289_5-the-brooklyn-creamery-soho-berry-mf-ice-cream.jpg?tr=w-154,q-80"
+  }
+]

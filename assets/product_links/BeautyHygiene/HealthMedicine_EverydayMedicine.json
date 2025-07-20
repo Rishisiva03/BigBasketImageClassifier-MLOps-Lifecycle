@@ -1,0 +1,2162 @@
+[
+  {
+    "name": "Fruit Salt - Lemon Flavour",
+    "sku_type": "5 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005354_5-eno-fruit-salt-lemon-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Liquid - Orange",
+    "sku_type": "200 ml - Tetra Pak",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262569_3-prolyte-ors-liquid-orange-ready-to-drink-maintain-electrolyte-balance-instant-energy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Electrolyte Drink - Orange",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127410_7-orsl-health-drink-plus-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vapo Rub With Menthol, Camphor & Eucalyptus Oil - Relieves Cold & Cough, Clears Blocked Nose",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/263850_8-vicks-vapo-rub-with-menthol-camphor-eucalyptus-oil-provides-relief-from-cold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Germicide Gargle 2% - Mint",
+    "sku_type": "100 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334269_1-betadine-germicide-gargle-2-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Absorbent Cotton Wool",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109792_1-prabhat-absorbent-cotton-wool.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eno Regular Digestive Antacid",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1222068_1-eno-regular-digestive-antacid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Pain Relief Spray",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/281175_6-moov-pain-relief-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Electrolyte Drink - Apple",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127409_4-orsl-health-drink-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eucalyptus Oil",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020801_1-sri-swastik-eucalyptus-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eno Lemon Digestive Antacid",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1222067_1-eno-lemon-digestive-antacid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Preg-Oh! Midstream Pregnancy Test Kit For Women - Single Step Hygienic",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40253694_4-plush-preg-oh-midstream-pregnancy-test-kit-for-women-single-step-hygienic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chyawanprakash - Sugar-Free, Helps Boost Immune System",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236900_3-dabur-chyawanprakash-sugar-free-helps-boost-immune-system.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Serum",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330985_1-q-sera-q-sera-hair-serum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ZzzQuil Natura Non Addictive Sleep Aid Gummy - Melatonin Helps You Fall Asleep Fast",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288891_2-vicks-zzzquil-natura-melatonin-helps-fall-asleep-fast-non-addictive-no-next-day-drowsiness.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relief Gel - Quick & Long Lasting",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290857_1-volini-pain-relief-gel-quick-long-lasting.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amlapittari Vati - Hyperacidity, 300 mg",
+    "sku_type": "60 pcs ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190931_2-sri-sri-tattva-amlapittari-vati-hyperacidity-300-mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brahmi Tablet - Memory Enhancer, 500mg",
+    "sku_type": "60 pcs ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190940_1-sri-sri-tattva-brahmi-memory-enhancer-500mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla Candy - Paan Flavour, Delicious, Healthy & Digestive",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014685_2-sri-sri-tattva-amla-candy-paan-flavored-delicious-healthy-and-digestive.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancharishta Ayurvedic Tonic - For Digestion, Acidity, Constipation & Gas Relief",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181327_4-zandu-pancharishta-ayurvedic-tonic-for-digestion-acidity-constipation-gas-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strong Pain Balm Headache Balm Massage - Faster Relaxation, Double Power",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/258369_2-amrutanjan-strong-pain-balm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Candy - Amla, Delicious, Healthy & Digestive",
+    "sku_type": "400 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014683_2-sri-sri-tattva-amla-candy-delicious-healthy-and-digestive.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesari Jivan Ayurvedic Immunity Booster Chyawanprash- Fit For Diabetes, Builds Energy, Sugar Free",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153844_3-zandu-kesari-jivan-ayurvedic-immunity-booster-chyawanprash-fit-for-diabetes-builds-energy-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Power Balm - For Quick Pain Relief, Headache, Sprain",
+    "sku_type": "8 ml - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004411_3-zandu-ultra-power-balm-for-quick-pain-relief-headache-sprain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Balm",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/274874_1-zandu-balm-ayurvedic-solution-for-quick-pain-relief-headache-sprain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oral Suspension - Relief From Heartburn & Indigestion, Peppermint",
+    "sku_type": "150 ml ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241647_1-gaviscon-oral-suspension-relief-from-heartburn-indigestion-peppermint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Triphala Tablet, Tridosha Balancer, 60 Tabs",
+    "sku_type": "500mg ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014682_6-sri-sri-tattva-triphala-tablet-tridosha-balancer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "BabyRub",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120055_3-vicks-babyrub.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Antiseptic Skin Hygiene Spray - Neem",
+    "sku_type": "100 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130346_3-suthol-antiseptic-skin-hygiene-spray-neem.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vapo Rub - Extra Strong, For Cough, Cold, Headache",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225155_1-vicks-vapo-rub-extra-strong-for-cough-cold-headache.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Electro Plus Rehydrate Apple Drink",
+    "sku_type": "200 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111051_3-amrutanjan-fruitnik-electro-ors-apple-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kasahari Cough Syrup, 250mg",
+    "sku_type": "100 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014702_6-sri-sri-tattva-kasahari-cough-syrup-250mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oorja Tablet 500 mg",
+    "sku_type": "60 pcs ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014678_3-sri-sri-tattva-oorja-tablet-500-mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Symptom Saline Nasal Spray With Tulsi",
+    "sku_type": "15 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334271_1-bibo-multi-symptom-saline-nasal-spray-with-tulsi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Digestive Anatacid - Jaljeera Flavour, Fruit Salt, Fast Relief From Acidity",
+    "sku_type": "5 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269264_1-eno-digestive-anatacid-jaljeera-flavour-fruit-salt-fast-relief-from-acidity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Balm Extra Power",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/258364_2-amrutanjan-pain-balm-extra-power.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Srinetra Eye Drops - Soothing & Cooling",
+    "sku_type": "5 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014716_3-sri-sri-tattva-srinetra-eye-drops-soothing-cooling.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem Oil",
+    "sku_type": "100 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088162_1-swastik-neem-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rapid Action Spray - Inflammation Relief, 5 Active Ingredients",
+    "sku_type": "60 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232843_1-iodex-rapid-action-spray-inflammation-relief-5-active-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cremaffin Gel Plain 225 ml",
+    "sku_type": "225ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323615_1-cremaffin-cremaffin-gel-plain-225-ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesari Jivan Ayurvedic Immunity Booster Chyawanprash- With Saffron & Pearl, For Adults, Builds Energy",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005356_4-zandu-kesari-jivan-ayurvedic-immunity-booster-chyawanprash-with-saffron-pearl-for-adults-builds-energy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Period Pain Relief Heat Patch,",
+    "sku_type": "3 pcs - Pack of 3",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245422_2-nua-cramp-comfort-heat-patches-for-period-pain-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gentle & Effective Chewable Antacid Tablet - Tangy Lemon Flavour",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307419_1-eno-chewy-bites-gentle-effective-chewable-antacid-tablet-tangy-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Back Pain Roll-On",
+    "sku_type": "50 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006274_4-amrutanjan-back-pain-roll-on.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Balm - Multi-Purpose",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/263751_7-iodex-pain-balm-multi-purpose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vaporub Steampods - For Steam Inhalation, Quick Relief From Blocked Nose, Sinus Congestion, Headache, Cough, Cold.",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313169_2-vicks-vaporub-steampods-for-steam-inhalation-quick-relief-from-blocked-nose-sinus-congestion-headache-cough-cold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Antiseptic Skin Liquid - Neem",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006268_3-suthol-antiseptic-skin-liquid-neem.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Divya Swasari Pravahi",
+    "sku_type": "250 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016327_4-patanjali-divya-swasari-pravahi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anu Taila - Nasal Drops",
+    "sku_type": "10 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014720_3-sri-sri-tattva-anu-taila-nasal-drops.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cough Drops Double Power - Cooling Menthol",
+    "sku_type": "25 pcs ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326839_2-vicks-cough-drops-double-power-cooling-menthol.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nivedana - Head Ache Relieving Balm",
+    "sku_type": "10 g - Bottle",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40024928_1-gou-ganga-nivedana-head-ache-relieving-balm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nasal Inhaler",
+    "sku_type": "0.75 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023539_2-amrutanjan-nasal-inhaler.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemolate Nasal Adult Spray - For Blocked Nose, Dry Nose & Allergy",
+    "sku_type": "10 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214149_1-dr-morepen-lemolate-nasal-adult-spray-for-blocked-nose-dry-nose-allergy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Comfy Period Pain Relief Roll-on",
+    "sku_type": "50 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304907_1-amrutanjan-comfy-period-pain-relief-roll-on.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ashwagandha - Stress Reliever, 500 mg",
+    "sku_type": "60 pcs ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190936_2-sri-sri-tattva-ashwagandha-stress-reliever-500-mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla Candy - Mango Flavour, Delicious, Healthy & Digestive",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014684_2-sri-sri-tattva-amla-candy-mango-flavored-delicious-healthy-and-digestive.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chandraprabha Vati",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189319_4-patanjali-chandraprabha-vati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pro+ Hydragel Sunscreen SPF 80+",
+    "sku_type": "50 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330956_1-photostable-photostable-pro-hydragel-sunscreen-spf-80.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Matte Finish Sunscreen Gel PA+++ SPF 55",
+    "sku_type": "50 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330903_1-photostable-photostable-gold-matte-finish-sunscreen-gel-pa-spf-55.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relieving Oil - Effective, For Shoulder, Joint, Neck & Lower Back Pain",
+    "sku_type": "50 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275943_2-kwik-pain-relieving-oil-effective-for-shoulder-joint-neck-lower-back-pain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Stretch Mark & Scar Cream - Lightens Appearance",
+    "sku_type": "60 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227217_1-inostretch-anti-stretch-mark-scar-cream-lightens-appearance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moisturising Paediatric Nasal Drops - For Blocked Nose & Dryness, For Infants",
+    "sku_type": "10 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268878_1-otrivin-moisturising-paediatric-nasal-drops-for-blocked-nose-dryness-for-infants.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Saridon Quick Relief from Headache,Tablet Strips",
+    "sku_type": "10 pcs ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217981_3-saridon-quick-relief-tablet-strips-for-all-kinds-headache.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "SPF 15 Lip Care Lip Balm - Paraben-Free",
+    "sku_type": "10 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331085_1-chaptex-chaptex-spf-15-lip-care-lip-balm-paraben-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Proxa NS Interdental Brushes",
+    "sku_type": "5 pcs ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331117_1-thermoseal-thermoseal-proxa-ns-interdental-brushes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Water - Bag",
+    "sku_type": "1 pc ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005843_2-coronation-hot-water-bag.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roll-On For Headaches - Fast Action in 2 Minutes",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333737_1-vicks-roll-on-for-headaches-fast-action-in-2-minutes-with-menthol-camphor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shvet Musli Churna",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189291_5-patanjali-shvet-musli-churna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Activ Herbal Pain Relief Gel",
+    "sku_type": "50 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318760_1-volini-activ-herbal-pain-relief-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sudanta Tooth Drops",
+    "sku_type": "10 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273564_1-sri-sri-tattva-sudanta-tooth-drops.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Drink - Electrolytes & Vitamin C",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323290_2-orsl-lemon-drink-electrolytes-vitamin-c.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ear Drops",
+    "sku_type": "10 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334281_1-soliwax-ear-drops.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cool Spray",
+    "sku_type": null,
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324375_7-moov-cool-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Gel Body Pain Expert - With Natural Ingredients",
+    "sku_type": "30 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307074_1-iodex-power-gel-body-pain-expert-with-natural-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Hygiene Soap - 24 Hours Gems Protection, Gentle On Skin, Removes Body Odour",
+    "sku_type": "100 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233668_1-neko-daily-hygiene-soap-24-hours-gems-protection-gentle-on-skin-removes-body-odour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chyavanprash Avaleha with Jaggery/Gur, Ayurvedic Immunity Booster, Rich in Vitamins & Micro-Nutrients",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221059_3-zandu-chyavanprash-avaleha-with-jaggerygur-ayurvedic-immunity-booster-rich-in-vitamins-micro-nutrients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Twaqure Ointment",
+    "sku_type": "30 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190993_2-sri-sri-tattva-twaqure-ointment.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Balm - Fast Relief",
+    "sku_type": "8 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005347_2-iodex-balm-fast-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Antacid Antigas Liquid - Sugar Free",
+    "sku_type": "200 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334277_1-gelusil-antacid-antigas-liquid-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Conditioner",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330978_1-triflow-triflow-hair-conditioner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Divya Hridyamrit Vati - Extra Power",
+    "sku_type": "40 pcs ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189322_4-patanjali-divya-hridyamrit-vati-extra-power.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quick Heal Cream",
+    "sku_type": "25 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014697_4-sri-sri-tattva-quick-heal-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Antiseptic Skin Hygiene Liquid - Fresh",
+    "sku_type": "100 ml - Bottle",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130343_2-suthol-antiseptic-skin-hygiene-liquid-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kabasura Kudineer Tablet",
+    "sku_type": "60 pcs ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206041_2-sri-sri-tattva-kabasura-kudineer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plus Cream",
+    "sku_type": "20 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/237448_3-itch-guard-itch-guard-plus-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Liv-Amrit Syrup",
+    "sku_type": "200 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189296_3-patanjali-liv-amrit-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muscular Pain Spray",
+    "sku_type": "30 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006275_1-amrutanjan-muscular-pain-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nightout Instant Hangover Relief Lemon Effervescent",
+    "sku_type": "10 pcs - Tube",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324800_3-fastup-nightout-instant-hangover-relief-effervescent-tablets-fizzy-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Virechana Vati 1000mg Tablet - Used For Constipation",
+    "sku_type": "10 pcs - (Pack of 10)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268251_1-sri-sri-tattva-virechana-vati-1000mg-tablet-used-for-constipation.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancharishta Ayurvedic Digestive Tonic Suitable For Diabetic, Sugarfree",
+    "sku_type": "450 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279807_2-zandu-pancharishta-ayurvedic-digestive-tonic-helps-relief-gas-constipation-suitable-for-diabetic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Joint Muscle Spray",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/298650_3-amrutanjan-joint-muscle-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem Ghan Vati",
+    "sku_type": "40 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189304_3-patanjali-neem-ghan-vati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Joint Xpert Pain Relief Gel - Quick & Long Lasting",
+    "sku_type": "20 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290858_1-volini-joint-xpert-pain-relief-gel-quick-long-lasting.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Maha Strong Balm",
+    "sku_type": "8 ml - Carton",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023538_2-amrutanjan-maha-strong-balm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sucrestat Capsules - Healthy Metabolic Management, Bitter Melon Extract",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238855_1-sucrestat-ayurvedic-capsules-bitter-melon-extract-for-healthy-metabolic-management.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Balm Plus - Fast Relief From Joints, Body, & Muscles Pain, 100% Natural Ingredients",
+    "sku_type": "22 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254325_1-achoo-pain-balm-plus-fast-relief-from-joints-body-muscles-pain-100-natural-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Medicated Soap - Permethrin",
+    "sku_type": "100 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217984_1-tetmosol-medicated-soap-permethrin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Plus 500mg Tablet With Pepper - Antioxidant, Provides Immunity Support",
+    "sku_type": "60 pcs ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190992_3-sri-sri-tattva-turmeric-tablet-anti-cardiac-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skin Allergy Lotion - Expert Skin Soothing Solution",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217972_1-caladryl-skin-allergy-lotion-expert-skin-soothing-solution.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Energy & Electrolyte Drink Powder With 5 Vital Electrolytes - Orange",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330979_1-enerzal-enerzal-enerzal-energy-electrolyte-drink-with-5-vital-electrolytes-for-stomach-care-flavour-powder-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "UltraSmooth Antiseptic Ayurvedic Cream - On Dry, Chapped, Cracked, Rough Skin",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120926_1-boroline-ultrasmooth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amruth - Immuno Modulator, 500 mg",
+    "sku_type": "60 pcs ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190933_2-sri-sri-tattva-amruth-immuno-modulator-500-mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "E-Gen Vitamin E Capsules 400 mg",
+    "sku_type": "10 pcs - (Pack of 5)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334278_1-genone-e-gen-vitamin-e-capsules-400-mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pudina Gels Acidity Relief Medicine For Indigestion &B Gas Relief",
+    "sku_type": "10 pcs - (Pack of 2)",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207688_1-dr-morepen-pudina-gels-acidity-relief-medicine-for-indigestion-b-gas-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dusting Powder - Anti-Fungal, Controls Itching, Fights Skin Infection & Prickly Heat",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233661_1-tetmosol-dusting-powder-anti-fungal-controls-itching-fights-skin-infection-prickly-heat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Intimate Wash - Lactic Acid, Neem, Tulsi, Aloevera & Tea Tree Oil",
+    "sku_type": "100 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218445_1-i-feel-intimate-wash-lactic-acid-neem-tulsi-aloevera-tea-tree-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Giloy Ghanvati",
+    "sku_type": "60 pcs ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075267_5-patanjali-giloy-ghan-vati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vedanantaka Liniment - Pain Relief",
+    "sku_type": "60 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190996_4-sri-sri-tattva-vedanantaka-liniment-pain-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "NAOQ19 Anti-Viral & Anti-Inflammatory Tablets - 500 mg, Boosts Immune System",
+    "sku_type": "60 pcs ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265688_1-sri-sri-tattva-naoq19-anti-viral-anti-inflammatory-tablets-500-mg-boosts-immune-system.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Unani Medicine",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004423_2-zinda-tilismath-unani-medicine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cough Drops Menthol, Ginger, Honey Double Power Jar",
+    "sku_type": "110 pcs - Jar",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/275438_2-vicks-cough-drops-provides-instant-relief-from-throat-irritation.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pudin Hara Pearls - Relieves Indigestion & Stomach Issues",
+    "sku_type": "30 g - (Pack of 2)",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262802_1-dabur-pearls-relieves-indigestion-stomach-issues.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sitophaladi Churna - Cold & Cough Remedy",
+    "sku_type": "80 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014689_4-sri-sri-tattva-sitophaladi-churna-cold-cough-remedy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Acidity-X Fizz, Indigestion/Acidity Medicine & Gas Relief",
+    "sku_type": "50 Sachet ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207664_1-dr-morepen-acidity-x-fizz-indigestionacidity-medicine-gas-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium ORS Drink With Electrolytes - For Instant Hydration, Apple",
+    "sku_type": "200 ml ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224761_2-dr-morepen-premium-ors-drink-with-electrolytes-for-instant-hydration-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multipurpos Healing Oil",
+    "sku_type": "100 ml ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40043860_1-franch-multipurpos-healing-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Feminine Pain Relief Patches For Period Pain & Menstrual Cramps",
+    "sku_type": "5 pcs ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103450_4-sirona-feminine-pain-relief-patches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arogya Vati",
+    "sku_type": "40 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189303_3-patanjali-arogya-vati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cool Gel",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324373_6-moov-cool-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amrit Rasayan",
+    "sku_type": "500 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189307_5-patanjali-amrit-rasayan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Liniment Oil - Pain Relief",
+    "sku_type": "71 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217982_1-sloans-liniment-oil-pain-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Surgical Face Mask - Blue, 3 Ply Spun Bound, From Harmful Protection",
+    "sku_type": "10 pcs - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246058_1-o2pro-surgical-face-mask-blue-3-ply-spun-bound-from-harmful-protection.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tulasi 500mg Tablet - Provides Relief From Cough & Cold",
+    "sku_type": "60 pcs ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268250_1-sri-sri-tattva-tulasi-500mg-tablet-provides-relief-from-cough-cold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Go Amruth Arka - Ayurvedic Medicine, Promotes Digestion",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265681_1-sri-sri-tattva-go-amruth-arka-ayurvedic-medicine-promotes-digestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Tulasi Arka - Anti-Viral",
+    "sku_type": "30 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014648_4-sri-sri-tattva-organic-tulasi-arka-anti-viral.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Clove Oil",
+    "sku_type": "5 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109675_1-pure-oil-clove.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cough Drops - Menthol, Ginger, Honey",
+    "sku_type": "280 pcs - Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/414558_1-vicks-cough-drops-menthol-ginger-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream",
+    "sku_type": "12 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/237449_2-itch-guard-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Balm - Multi-Purpose",
+    "sku_type": "9 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/263768_2-iodex-pain-balm-multi-purpose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem Tablet - Complete Skin Care, 300mg",
+    "sku_type": "60 pcs ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190964_2-sri-sri-tattva-neem-tablet-complete-skin-care-300mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cough Drops - Ginger, Provides Relief From Throat Irritation",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120611_4-vicks-cough-drops-ginger-provides-relief-from-throat-irritation.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cough Drops Double Power - Warming Ginger",
+    "sku_type": "25 pcs ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326840_2-vicks-cough-drops-double-power-warming-ginger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain-X Body Pain Relief Gel For Muscle, Joints, Knee, Neck & Back Pain",
+    "sku_type": "30 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207684_1-dr-morepen-pain-x-body-pain-relief-gel-for-muscle-joints-knee-neck-back-pain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zandu Balm | Effective relief from Headache, Body Pain, Sprain and Cold | No. 1 Ayurvedic Balm for Quick Pain Relief, 50ml",
+    "sku_type": "50 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290147_1-zandu-zandu-balm-effective-relief-from-headache-body-pain-sprain-and-cold-no-1-ayurvedic-balm-for-quick-pain-relief-50ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Electro Plus Rehydrate Orange Drink",
+    "sku_type": "200 ml - PET",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193137_3-amrutanjan-fruitnik-electro-plus-ors-orange-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sona Chandi Chyawanplus Ayurvedic Immunity Booster - Improves Memory & Learning Ability",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40074050_3-zandu-sona-chandi-chyawanplus-ayurvedic-immunity-booster-improves-memory-learning-ability.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain-X Max Body Pain Relief Gel For Muscle, Joints, Knee, Neck & Back Pain",
+    "sku_type": "30 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207685_1-dr-morepen-pain-x-max-body-pain-relief-gel-for-muscle-joints-knee-neck-back-pain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Adult Nasal Spray - Menthol Freshness",
+    "sku_type": "10 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318568_2-otrivin-advance-adult-nasal-spray-menthol-freshness.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chyawanprash - 2X Immunity",
+    "sku_type": "1 kg ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135130_8-dabur-chyawanprash-2x-immunity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Divya Mukta Vati - Extra Power",
+    "sku_type": "30 pcs - (Pack of 4)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189328_2-patanjali-divya-mukta-vati-extra-power.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Divya Medha Vati - Extra Power",
+    "sku_type": "30 pcs - (Pack of 4)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189326_2-patanjali-divya-medha-vati-extra-power.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Digestive Anatacid - Nimbu Masala Flavour, Fruit Salt, Fast Relief From Acidity",
+    "sku_type": "5 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269265_1-eno-digestive-anatacid-nimbu-masala-flavour-fruit-salt-fast-relief-from-acidity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla - Anti Oxidant, 500mg",
+    "sku_type": "60 pcs ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190930_2-sri-sri-tattva-amla-anti-oxidant-500mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Universal Oil - for Quick Relief of Cold & Headache",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017059_1-axe-brand-universal-oil-for-quick-relief-of-cold-headache.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar",
+    "sku_type": "1 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017865_8-patanjali-kesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vedanantaka Balm - Pain Relief",
+    "sku_type": "30 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190995_2-sri-sri-tattva-vedanantaka-balm-pain-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Liquid - Apple",
+    "sku_type": "200 ml - Tetra Pak",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262568_3-prolyte-ors-liquid-apple-ready-to-drink-maintain-electrolyte-balance-instant-energy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Balm",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016321_12-patanjali-balm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gas-O-Fast, Active Jeera",
+    "sku_type": "5 g - (Pack of 6)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204088_1-mankind-gas-o-fast-active-jeera.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "3 In 1 With Real Jeera, Ajwain & Kala Namak For Fast & Effective Relief From Acidity, Gas & Indigestion",
+    "sku_type": "30 g - (6 Sachets X 5 g each)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328220_1-eno-3-in-1-with-real-jeera-ajwain-kala-namak-for-fast-effective-relief-from-acidity-gas-indigestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nitron Pain Relief Cooling Spray - Future Healing Technology",
+    "sku_type": "48 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178694_6-relispray-nitron-icepac-action.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Acidity-X Syrup - Relief From Acidity, Gas & Indigestion",
+    "sku_type": "170 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207687_1-dr-morepen-acidity-x-syrup-relief-from-acidity-gas-indigestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Balm - Pain Relief",
+    "sku_type": "20 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128726_2-sloans-balm-pain-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pinda Taila",
+    "sku_type": "100 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014706_3-sri-sri-tattva-pinda-taila.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium ORS Drink With Electrolytes - For Instant Hydration, Orange",
+    "sku_type": "200 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224762_2-dr-morepen-premium-ors-drink-with-electrolytes-for-instant-hydration-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fast Relief - Ayurvedic Pain Relief Ointment For Instant & Long Lasting Ache",
+    "sku_type": "45 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265349_2-himani-fast-relief-ayurvedic-pain-relief-ointment-for-instant-long-lasting-ache.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nomarks - Ayurvedic Antimarks Cream For Normal Skin",
+    "sku_type": "25 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007309_4-bajaj-nomarks-ayurvedic-antimarks-cream-for-normal-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chyavanprashad Ayurvedic Immunity Booster - With Amla, Ashwagandha & Shilajit, Sugarfree",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153842_3-zandu-chyavanprashad-ayurvedic-immunity-booster-with-amla-ashwagandha-shilajit-sugarfree.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rebalanz VITORS - Electrolyte & Mineral-Rich ORS Drink, Provides Energy, Keeps Hydrated, Orange Flavour",
+    "sku_type": "200 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224166_3-dr-reddys-rebalanz-vitors-electrolyte-mineral-rich-ors-drink-provides-energy-keeps-hydrated-orange-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Drink - Electrolyte & Vitamin C",
+    "sku_type": "200 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216907_2-prolyte-orange-drink-electrolyte-vitamin-c.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relief Oil",
+    "sku_type": "60 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203606_2-my-dr-pain-relief-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relief Cream",
+    "sku_type": "15 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214203_1-my-dr-pain-relief-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Triphala Churna",
+    "sku_type": "80 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190991_3-sri-sri-tattva-triphala-churna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Divya Gulab Jal",
+    "sku_type": "120 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016312_6-patanjali-divya-gulab-jal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hajmola Amla Candy - Tasty Digestive",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261130_1-dabur-hajmola-amla-candy-tasty-digestive.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nomarks - Ayurvedic Antimarks Cream For Oily Skin",
+    "sku_type": "25 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007310_4-bajaj-nomarks-ayurvedic-antimarks-cream-for-oily-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ortho - Knee & Joints Pain Relief Cream",
+    "sku_type": "15 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121244_2-moov-ortho-knee-joints-pain-relief-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Burnol Spray For Burn Relief",
+    "sku_type": "35 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207661_1-dr-morepen-burnol-spray-for-burn-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nomarks Calendula Antimarks Soap",
+    "sku_type": "125 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007209_4-bajaj-nomarks-antimarks-soap-for-normal-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relief Balm - White",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/302771_2-tiger-balm-pain-relief-balm-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rebalanz VITORS - Electrolyte & Mineral-Rich ORS Drink, Provides Energy, Keeps Hydrated, Apple Flavour",
+    "sku_type": "200 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224167_3-dr-reddys-rebalanz-vitors-electrolyte-mineral-rich-ors-drink-provides-energy-keeps-hydrated-apple-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Boric - Acid",
+    "sku_type": "100 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004550_4-skc-boric-acid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shatavar Churna",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075278_7-patanjali-shatavar-churna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Drink - Electrolyte & Vitamin C",
+    "sku_type": "200 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216906_2-prolyte-apple-drink-electrolyte-vitamin-c.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Medhyarasyana Syrup - Memory Booster",
+    "sku_type": "200 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014703_3-sri-sri-tattva-medhyarasyana-syrup-memory-booster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relief Spray - Ayurvedic",
+    "sku_type": "60 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234336_1-stanrelief-pain-relief-spray-ayurvedic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ajwain With Aloevera",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189292_3-patanjali-ajwain-with-aloevera.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Gel",
+    "sku_type": "30 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/288015_2-iodex-ultra-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ratnaprash - Chyawanprash For All Seasons",
+    "sku_type": "450 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009462_7-dabur-ratnaprash-chyawanprash-for-all-seasons.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chyawanprash, 500g - Herbal Immunity Booster with 40+ Ayurvedic Ingredients for Better Strength and Stamina",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190945_5-sri-sri-tattva-chyawanprash-herbal-immunity-booster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Gel +",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318566_2-iodex-ultra-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal Antacid Suspension - 3 In 1 Action, Relieves Flatulence, Stomach Issues",
+    "sku_type": "200 g - Bottle",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262803_1-dabur-herbal-antacid-suspension-3-in-1-action-relieves-flatulence-stomach-issues.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Haritaki - Digestive Aid, 500mg",
+    "sku_type": "60 pcs ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190950_2-sri-sri-tattva-haritaki-digestive-aid-500mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fast Relief Spray - Quick Absorption",
+    "sku_type": "50 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301534_2-zandu-fast-relief-spray-quick-absorption.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mouth Freshener",
+    "sku_type": "15 ml - Bottle",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014656_3-sri-sri-tattva-mouth-freshener.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chyawanprash For Kids & Adults - Ayurvedic Immunity Booster",
+    "sku_type": "500 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207681_1-dr-morepen-chyawanprash-for-kids-adults-ayurvedic-immunity-booster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Natural Anti Mosquito Repellent Patches (Green, 48 Patches)",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202356_2-bodyguard-premium-natural-anti-mosquito-patches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shilajit Capsule",
+    "sku_type": "20 pcs ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189294_2-patanjali-shilajit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Narayana Taila - Vata Related Problem & Fatigue",
+    "sku_type": "100 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014707_3-sri-sri-tattva-narayana-taila-vata-related-problem-fatigue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soap",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331045_1-ethiglo-ethiglo-soap.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "P Aceclofenac & Paracetamol Tablets",
+    "sku_type": "15 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338374_1-hifenac-p-aceclofenac-paracetamol-tablets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Post Sport & Workout Recovery Cryo Gel",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333368_2-upurfit-cryo-gel-post-sport-workout-recovery.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Azelac RU Liposomal Serum With Tranexamic Acid Booster - For Skin Depigmentation",
+    "sku_type": "30 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330902_1-sesderma-sesderma-azelac-ru-liposomal-serum-with-tranexamic-acid-booster-for-skin-depigmentation.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chewable Tabets - Mixed Fruit Flavour, Gas Relief & Acidity",
+    "sku_type": "15 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323612_1-digene-chewable-tabets-mixed-fruit-flavour-gas-relief-acidity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oral Solution, Expert Constipation Relief, Prebiotic Effect, Lemon Flavour",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323620_1-duphalac-oral-solution-expert-constipation-relief-prebiotic-effect-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pro+ Hair Growth Serum With Anagain, Capixyl, Procapil & Redensyl",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330899_1-bontress-bontress-pro-hair-growth-serum-with-anagain-capixyl-procapil-redensyl-reverse-hair-fall-reactivate-hair-cells-strengthen-weak-hair-grow-thicker-hair-for-men-women-hair-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2 In 1 Inhaler And Roll On - Relieves Headache, Cold & Nasal Congestion With Natural Ingredients",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254324_1-achoo-2-in-1-inhaler-and-roll-on-relieves-headache-cold-nasal-congestion-with-natural-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Fizz - Orange Flavour, Quick & Effective Relief From Acidity",
+    "sku_type": "6.25 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213296_1-digene-ultra-fizz-orange-flavour-quick-effective-relief-from-acidity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Covid-19 Antigen Self Test - Home Kit, Easy To Use, Results In 15 Minutes",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243653_1-panbio-covid-19-antigen-self-test-home-kit-easy-to-use-results-in-15-minutes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Anti Hangover Drink - Apple",
+    "sku_type": "60 ml - Polypack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159636_2-armr-100-anti-hangover-drink-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ball Tip Roll on - Formiula 1 With 2 cc",
+    "sku_type": "10 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205753_1-siang-pure-ball-tip-roll-on-formiula-1-with-2-cc.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Fizz - Lemon Flavour, Quick & Effective Relief From Acidity",
+    "sku_type": "6.25 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213295_1-digene-ultra-fizz-lemon-flavour-quick-effective-relief-from-acidity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Anti Hangover Drink - Lemon",
+    "sku_type": "60 ml - Polypack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159637_2-armr-100-anti-hangover-drink-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lunifixs Anti Fungal Infection Cream",
+    "sku_type": "10 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207686_1-dr-morepen-lunifixs-anti-fungal-infection-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strong Diclofenac Gel - Pain Relief Specialist",
+    "sku_type": "20 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206824_1-moov-strong-diclofenac-gel-pain-relief-specialist.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arnicap - Herbal Pain Relieving Ointment",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215295_1-green-cure-arnicap-herbal-pain-relieving-ointment.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pavanahara Churna - Gas Reliever",
+    "sku_type": "60 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190969_2-sri-sri-tattva-pavanahara-churna-gas-reliever.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Compact Compressor Nebulizer For Kids and Adults With Masks, Low-Noise Compressor - White",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199652_1-prozo-plus-compact-compressor-nebulizer-for-kids-and-adults-with-masks-low-noise-compressor-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Divya Kayakalp Vati - Extra Power",
+    "sku_type": "80 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189324_2-patanjali-divya-kayakalp-vati-extra-power.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Shilajit Resin - For Strength, Stamina, Power & Energy",
+    "sku_type": "30 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191198_2-upakarma-pure-shilajit-resin-for-strength-stamina-power-energy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cool Pack Ice Bag - Solid Colour",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316221_1-xclent-ice-cool-pack-ice-bag-solid-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Matte Gel Sunscreen Gel",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331120_1-sunheal-sunheal-ultra-matte-gel-sunscreen-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2.5% Benzoyl Peroxide Cleansing Bar For Acne & Skin Infections",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331126_1-perobar-perobar-25-benzoyl-peroxide-cleansing-bar-for-acne-skin-infections.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Caffeine Shampoo With Biotin & Arginine For Healthy Hair",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331123_1-trigaine-trigaine-caffeine-shampoo-with-biotin-arginine-for-healthy-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "C-Vit Radiance Glowing Facial Fluid - Face Care Product With Antiox Booster System",
+    "sku_type": "50 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331131_1-sesderma-sesderma-c-vit-radiance-glowing-facial-fluid-face-care-product-with-antiox-booster-system.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pro Anti Dandruff Shampoo For Strong Hair & Conditioning, Hair Care",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331132_1-scalpe-scalpe-pro-anti-dandruff-shampoo-for-strong-hair-conditioning-hair-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Revitalising Shampoo - For Hair Growth & Hair Care",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331136_1-bontress-bontress-hair-revitalising-shampoo-for-hair-growth-hair-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Feminine Hygiene Wash",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330975_1-lactacyd-lactacyd-feminine-hygiene-wash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "AHF Anti Hair Fall Shampoo With Hair Growth Peptides - Paraben & Sulphate-Free",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330976_1-mildy-mildy-ahf-anti-hair-fall-shampoo-with-hair-growth-peptides-paraben-sulphate-free-shampoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Matte Finish Sunscreen SPF 50+ PA+++ Water Resistant Gel",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330983_1-suncros-suncros-matte-finish-sunscreen-spf-50-pa-water-resistant-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salicylic Acid & Niacinamide Gel For Pimples & Oily Skin - Paraben Free",
+    "sku_type": "30 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330984_1-sebogel-sebogel-salicylic-acid-niacinamide-gel-for-pimples-oily-skin-paraben-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Hair Fall Serum For Hair Care",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330977_1-anaboom-anaboom-anti-hair-fall-serum-for-hair-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Sunscreen Gel SPF 55 PA+++ - Matte-Finish, Sweat & Water-Resistant",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331098_1-sunstop-sunstop-gold-sunscreen-gel-spf-55-pa-matte-finish-sweatwater-resistant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Moisturiser - Prevents Frizz",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331106_1-curlzmoist-curlzmoist-hair-moisturiser-prevents-frizz.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Face Wash - Sulphate Free Face Care Product",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331104_1-dermadew-dermadew-face-wash-sulphate-free-face-care-product.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "4-In-1 Pimple Clear Face Wash",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331109_1-acnelak-acnelak-4in1-pimple-clear-face-wash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Face Wash For Oily & Acnegenic Skin",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331145_1-klm-klin-klm-klin-face-wash-for-oily-acnegenic-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shampoo With Caffeine Advantage",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331150_1-hair-4u-hair-4u-shampoo-with-caffeine-advantage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gandha Thailam",
+    "sku_type": "10 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318626_1-kairali-gandha-thailam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eladi Kera Thailam",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318625_1-kairali-eladi-kera-thailam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem Capsules",
+    "sku_type": "60 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318618_1-kairali-neem-capsules.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Karpasasthyadi Thailam",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318628_1-kairali-karpasasthyadi-thailam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Foam For Gentle Skin Cleansing & Excess Oil Removal",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331153_1-fash-fash-foam-for-gentle-skin-cleansing-excess-oil-removal-sulfate-free-face-care-product-with-skin-friendly-ph.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blue Light Sunscreen Gel SPF 50 PA+++ - Water-Resistant, For All Skin Types",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331073_1-uv-doux-uv-doux-blue-light-sunscreen-gel-spf-50-pa-water-resistant-for-all-skin-types.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Intense Brightening Serum - For Dark Spots, Paraben & Allergen-Free",
+    "sku_type": "50 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331115_1-brilante-brilante-intense-brightening-serum-for-dark-spots-paraben-allergen-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Truderma Stabilized Vitamin C 20% Serum",
+    "sku_type": "20 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331139_1-regaliz-regaliz-truderma-stabilized-vitamin-c-20-serum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stimulex Capsules - 14 Powerful Ayurvedic Ingredients, For Stamina, Vitality, Stress Relief",
+    "sku_type": "12 pcs - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40278623_1-dabur-stimulex-capsules-14-powerful-ayurvedic-ingredients-for-stamina-vitality-stress-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal Pain Relief Patches for Headaches and Migraine (16 Patches)",
+    "sku_type": "16 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261484_1-sirona-sirona-herbal-pain-relief-patches-pack-of-16-patches-instant-relief-from-headaches-and-migraine-with-natural-herbal-ingredients-like-menthol-camphor-eucalyptus-oil-and-clove-oil-no-side-effects.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ImmunoCold - Daily Multi Vitamin Tablets, Supports Immune Health",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288893_2-vicks-immunocold-daily-multi-vitamin-tablets-supports-immune-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "SX Antiseptic Ayurvedic Cream",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321765_1-boroline-sx-antiseptic-ayurvedic-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Under Eye Cream - For Dark Circles, For All Skin Type",
+    "sku_type": "15 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330954_1-eyebliss-eyebliss-under-eye-cream-for-dark-circles-for-all-skin-type.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Advance Skin Brightening Face Wash With Vitamin E - For All Skin Types",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331165_1-biluma-biluma-advance-skin-brightening-face-wash-with-vitamin-e-for-all-skin-types.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skin Rejuvenating Gel Face Wash - For Oily & Acne Prone Skin",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331176_1-sebonac-sebonac-skin-rejuvenating-gel-face-wash-for-oily-acne-prone-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Omni Ortho Oil For Joint Pain",
+    "sku_type": "120 ml - (100 ml + 20 ml Extra)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329214_2-omnigel-omni-ortho-oil-for-joint-pain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Active Spray - Fast, Effective & Powerful Pain Relief",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329212_1-omnigel-active-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Serum - Reduces Hair Fall & Promotes Hair Growth",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330949_1-folirich-folirich-hair-serum-reduces-hair-fall-promotes-hair-growth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Under Eye Serum - For Under Eye Dark Circles, Puffiness & Eye Care",
+    "sku_type": "15 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331093_1-melalumin-melalumin-under-eye-serum-for-under-eye-dark-circles-puffiness-eye-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lip Lightener SPF 15",
+    "sku_type": "10 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330990_1-melalumin-melalumin-lip-lightener-spf-15.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Reti Age Anti-Aging Cream - Face Care For Dry Skin",
+    "sku_type": "50 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330991_1-sesderma-sesderma-reti-age-anti-aging-cream-face-care-product-for-dry-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shampoo With Aloe Vera For Healthy Hair, Paraben Free, Hair Care",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330992_1-mildy-mildy-shampoo-with-aloe-vera-for-healthy-hair-paraben-free-hair-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel For 3-In-1 Constipation Relief - Mixed Fruit Flavour",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323616_1-cremaffin-gel-for-3-in-1-constipation-relief-mixed-fruit-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toothpaste Foaming Fluoridated, Bubble Gum Flavour",
+    "sku_type": "70 g - (With Free Kids Toothbrush)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323623_1-candycop-toothpaste-foaming-fluoridated-bubble-gum-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "SPF 50+ Silicone Sunscreen Gel PA+++ With Vitamin C & Vitamin E",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330965_1-solasafe-solasafe-spf-50-silicone-sunscreen-gel-pa-with-vitamin-c-vitamin-e.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Hydroquinone Cream For Depigmentation - Paraben Free",
+    "sku_type": "15 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331162_1-ibglow-ibglow-ultra-hydroquinone-cream-for-depigmentation-paraben-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Night Serum - Revitalises Skin, Dermatologically Tested & Paraben Free",
+    "sku_type": "30 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331155_1-retiglow-retiglow-night-serum-revitalises-skin-dermatologically-tested-paraben-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Fruit Electrolyte Drink",
+    "sku_type": "200 ml - Tetra Pak",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326447_1-prolyte-ors-mixed-fruit-electrolyte.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arachitol Nano Daily 2K IU Vitamin D3 Oral Solution, Sugar Free",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323624_1-arachitol-arachitol-nano-daily-2k-iu-vitamin-d3-oral-solution-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Electric Hot Water Bag for Instant Pain Relief | Heating Pad for Menstrual Cramps, Arthritis Aches, and Back Pain | 2 Hours Heat Retention | Quick Charging | Automatic Heat Control",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280788_1-sirona-electric-hot-water-bag-instant-pain-relief-for-menstrual-cramps-arthritis-aches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Knee Pain Relief Patch - Ayurvedic, For Pain & Stiffness, Lasts Up To 8 Hours",
+    "sku_type": "5 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277444_1-zandu-knee-pain-relief-patch-ayurvedic-for-pain-stiffness-lasts-up-to-8-hours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Non-Aerosol Insect Repellent Spray - Maximum",
+    "sku_type": "75 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323600_1-jungle-formula-non-aerosol-insect-repellent-spray-maximum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Head Lice & Egg Treatment Shampoo",
+    "sku_type": "25 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323601_1-jungle-formula-head-lice-egg-treatment-shampoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soft Nano Zinc Dry-Touch Sunscreen SPF 50+",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331185_1-sunban-sunban-soft-nano-zinc-dry-touch-sunscreen-spf-50.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "OC Sebum Regulating Moisturizer - Non-Comedogenic & Paraben Free Hydrating Face Care",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330945_1-acne-acne-oc-sebum-regulating-moisturizer-non-comedogenic-and-paraben-free-hydrating-face-care-product.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Purpose Pain Balm",
+    "sku_type": "3 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40058689_1-iodex-multi-purpose-pain-balm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2 Lozenges - Orange",
+    "sku_type": "4 pcs - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020180_1-strepsils-2-lozenges-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2 Lonzenges - Soothing Honey & Lemon",
+    "sku_type": "4 pcs - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020179_1-strepsils-2-lonzenges-soothing-honey-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pro Hair Care Serum",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331062_1-morr-morr-pro-hair-hair-care-serum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Rub Vaporizing Ointment, APV0003",
+    "sku_type": "20 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40044366_1-apollo-pharmacy-cold-rub-vaporizing-ointment-apv0003.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deep Heat Rub",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40108262_1-mentholatum-acnes-deep-heat-rub.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2 Lonzenges - Warm Ginger & Lemon",
+    "sku_type": "4 pcs - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020178_1-strepsils-2-lonzenges-warm-ginger-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Anti Hangover Drink - Blackberry",
+    "sku_type": "60 ml - Polypack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159638_2-armr-100-anti-hangover-drink-blackberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orthopaedic Back Support/Back Rest Cushion - With Adjustable Belt, PU Form",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270990_1-dr-ortho-orthopaedic-back-supportback-rest-cushion-with-adjustable-belt-pu-form.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orthopaedic Back Support/Back Rest Cushion - With Adjustable Belt, Memory Form",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270989_1-dr-ortho-orthopaedic-back-supportback-rest-cushion-with-adjustable-belt-memory-form.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Isotine Plus Eye Drops",
+    "sku_type": "10 ml - (6 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Regular 325 Mg Effervescent Tablet - Provides Relief From Pain, Headache",
+    "sku_type": "10 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232029_1-disprin-regular-325-mg-effervescent-tablet-provides-relief-from-pain-headache.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relieving Gel - Effective, For Shoulder, Muscle, Joint & Lower Back Pain",
+    "sku_type": "30 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275970_1-kwik-pain-relieving-gel-effective-for-shoulder-muscle-joint-lower-back-pain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relieving Oil - Ayurvedic, For Shoulder, Joint, Muscle & Lower Back Pain",
+    "sku_type": "100 ml - (Get 20 ml Extra)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275971_2-kwik-pain-relieving-oil-ayurvedic-for-shoulder-joint-muscle-lower-back-pain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relief Herbal Oil - Relieves Joint Pain, Body & Muscle Ache, Ayurvedic Formulation",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254329_1-achoo-pain-relief-herbal-oil-relieves-joint-pain-body-muscle-ache-ayurvedic-formulation.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Face Guard",
+    "sku_type": "4 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198563_1-raho-safe-face-guard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "GarcicuminTM - Garcinia Cambogia & Kalonji Extracts, Healthy Weight Management",
+    "sku_type": "90 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238854_1-garcicumin-ayurvedic-capsules-garcinia-cambogia-kalonji-extracts-for-healthy-weight-management.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Superejuven Capsules - Bone Health Management, Asthishrunkala & Ashwagandha Extracts",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238879_1-suprejuven-ayurvedic-capsule-for-bone-health-management-ashwagandha-extracts-helps-prevent-joint-pain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Odour & Rash-Free Menstrual Cup For Women - Large Size",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283558_3-azah-menstrual-cup-small-pad-free-periods-comfort-upto-10-hours-soft-sustainable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sukesha Kalpa Tablets - 500 mg, Hair Vitalizer, Controls Hair-Fall",
+    "sku_type": "60 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265699_1-sri-sri-tattva-sukesha-kalpa-tablets-500-mg-hair-vitalizer-controls-hair-fall.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Acidity-X Fizz - Instant Relief From Acidity, Indigestion & Gas, Tangy, Lemon Flavour",
+    "sku_type": "4.5 g - (Pack of 6)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265006_2-dr-morepen-acidity-x-fizz-instant-relief-from-acidity-indigestion-gas-tangy-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Knee Support Cap - Cotton Fabric, Anti-Slip, Relives Joint Pain, Black, Universal",
+    "sku_type": "1 Pair ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270992_1-dr-ortho-knee-support-cap-cotton-fabric-anti-slip-relives-joint-pain-black-universal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nasya Nasal Inhaler - Herbal Formulation For Instant Relief",
+    "sku_type": "0.5 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268247_1-sri-sri-tattva-nasya-nasal-inhaler-herbal-formulation-for-instant-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breathe Clean Daily Nasal Wash - With Natural Glycerin, Removes Pollutions From Nose",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248237_1-otrivin-breathe-clean-daily-nasal-wash-with-natural-glycerin-removes-pollutions-from-nose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural After Bite Recovery Roll-On",
+    "sku_type": "40 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313097_1-softsens-baby-natural-after-bite-recovery-roll-on.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Itone Eye Drops",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Reon Vision - Made With Aloe Vera Extract",
+    "sku_type": "10 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Rosa Period Pain Relief Oil",
+    "sku_type": "15 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301846_1-imbue-natural-rosa-period-pain-relief-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skin Rejuvenating Glow Treatment Face Wash With Glycolic Acid, Salicylic Acid & Pentylene Glycol",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331033_1-recharm-recharm-skin-rejuvenating-glow-treatment-face-wash-with-glycolic-acid-salicylic-acid-pentylene-glycol.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium ORS Powder - Liquid Hydration Drink, Orange Flavour",
+    "sku_type": "110 g - (Pack of 5)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207683_1-dr-morepen-premium-ors-powder-liquid-hydration-drink-orange-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cryo Spray For Sport & Workout Injury Pain Relief",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333366_1-upurfit-cryo-spray-sport-workout-injury-pain-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thermo Spray For Muscle & Joint Pain Relief",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333367_1-upurfit-thermo-spray-muscle-joint-pain-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mouth Ulcer Gel",
+    "sku_type": "10 g - Mono Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334280_1-smyle-mouth-ulcer-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Flavour ORS - Ready To Drink",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335720_1-electrorush-apple-flavour-ors-ready-to-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plus Apple Drink",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335723_1-electrorush-plus-apple-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plus Orange Drink",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335724_1-electrorush-plus-orange-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Flavour ORS - Ready To Drink",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335721_1-electrorush-orange-flavour-ors-ready-to-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cola Flavour ORS - Ready to Drink",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335722_1-electrorush-cola-flavour-ors-ready-to-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hangover Fix Drink",
+    "sku_type": "60 ml - (Pack of 4)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333605_1-rebound-hangover-fix-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pre Sport & Workout Activation Thermo Gel",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333369_2-upurfit-thermo-gel-pre-sport-workout-activation.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dental Gel With Xylitol - For Gum & Teeth Health",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331173_1-omnident-omnident-dental-gel-with-xylitol-for-gum-teeth-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skin Renewing Lightweight Moisturizer - Paraben Free",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331069_1-hydravo-hydravo-skin-renewing-lightweight-moisturizer-paraben-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disposable Surgical Face Mask - 3 Ply, Multi Structures, Harmful Material Protection",
+    "sku_type": "10 pcs - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246063_1-o2pro-disposable-surgical-face-mask-3-ply-multi-structures-harmful-material-protection.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orthopaedic Cervical Pillow - Memory Form, Adjustable, For Neck Pain",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270991_1-dr-ortho-orthopaedic-cervical-pillow-memory-form-adjustable-for-neck-pain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relief Spray",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119068_1-volini-pain-relief-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "PMS Buddy Roll On - Lasts Upto 3 Cycles, Relieves Cramps, Uplifts Mood",
+    "sku_type": "10 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229373_1-sanfe-pms-buddy-roll-on-lasts-upto-3-cycles-relieves-cramps-uplifts-mood.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vedanantaka Vati Tablet - Aches and Pains 500 mg",
+    "sku_type": "60 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014680_2-sri-sri-tattva-vedanantaka-vati-tablet-aches-and-pains-500-mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "For Dental Cleaning",
+    "sku_type": "50 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331188_1-younifloss-younifloss-for-dental-cleaning.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toothpaste",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331071_1-enafix-enafix-toothpaste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "For Throat Relief",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005892_1-yogi-kanthika-for-throat-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "India's No.1 Self Defence Pepper Spray - Fits In Hand, Easy To Use",
+    "sku_type": "12 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010064_4-bodygard-self-defense-pepper-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zandu Balm",
+    "sku_type": "25 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Spray - Neck & Shoulder",
+    "sku_type": "35 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/284818_1-moov-spray-neck-shoulder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Original Burns Cream",
+    "sku_type": "20 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005845_1-burnol-the-original-burns-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ayurvedic",
+    "sku_type": "55 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/268215_1-strepsils-ayurvedic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kshirabala Taila - Strengthening & Useful for Arthritis",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014708_3-sri-sri-tattva-kshirabala-taila-strengthening-useful-for-arthritis.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Advance",
+    "sku_type": "15 Tablets - Pack of 25",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Nasal Spray",
+    "sku_type": "10 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/259240_2-otrivin-nasal-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Suspension",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/254621_1-crocin-syrup-suspension.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger, Tulsi Honey, Cinnamon Throat Lozenges",
+    "sku_type": "110 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/268216_2-strepsils-ginger-tulsi-honey-cinnamon-throat-lozenges.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gentle & Effective Chewable Antacid Tablet - Zesty Orange Flavour",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307420_1-eno-chewy-bites-gentle-effective-chewable-antacid-tablet-zesty-orange-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Constipation Relief - Mixed Fruit Flavour",
+    "sku_type": "225 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323614_1-cremaffin-gel-constipation-relief-mixed-fruit-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Lice Cream Wash",
+    "sku_type": "30 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345043_1-hairshield-anti-lice-cream-wash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Glow Body Oil",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345068_1-puretive-daily-glow-body-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Migraine Ease Roll On",
+    "sku_type": "10 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345067_1-puretive-migraine-ease-roll-on.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Knee Oil",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345049_1-diclowin-knee-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Acne Recovery Spot Patch",
+    "sku_type": "(72 Patches) ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345073_1-total-routine-co-acne-recovery-spot-patch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Destress Massage Oil",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345069_1-puretive-destress-massage-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Relief Ortho Oil",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345070_1-puretive-ultra-relief-ortho-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry + Wet Cough Syrup",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346244_1-vicks-dry-wet-cough-syrup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wellness Roll On Kit",
+    "sku_type": "40 ml - (4 x 10 ml)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345072_1-puretive-wellness-roll-on-kit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Moringa",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345071_1-puretive-pure-moringa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Medicated Throat Lozenges",
+    "sku_type": "16 pcs - (2.5 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346245_1-vicks-medicated-throat-lozenges.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pain Relief Gel For Mouth Ulcers",
+    "sku_type": "12 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345047_1-orasore-pain-relief-gel-for-mouth-ulcers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cracked Heel Repair Specialist Cream",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345045_1-heelmate-cracked-heel-repair-specialist-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream Wash - For Removing Lice, Nymph, Nits & Eggs",
+    "sku_type": "30 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345044_1-medilice-cream-wash-for-removing-lice-nymph-nits-eggs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Antacid Antigas Gel - Mixed Fruit Flavour",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323605_1-digene-antacid-antigas-gel-mixed-fruit-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tablets",
+    "sku_type": "10 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005951_1-saridon-tablets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vitamin C Chewable Tablet - Improves Overall Health, Orange Flavour",
+    "sku_type": "300 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232000_1-limcee-vitamin-c-chewable-tablet-improves-overall-health-orange-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "CoviSelf Kit - COVID 19 Rapid Antigen Test, Single-Use, For Self Testing At Home",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1216923_2-mylab-coviself-kit-covid-19-rapid-antigen-test-single-use-for-self-testing-at-home.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Water Bottle, Double Side Ribbed Hot Water Bag For Pain Relief with 2 Lt Water Capacity - Assorted Colours",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199650_1-prozo-plus-hot-water-bottle-double-side-ribbed-hot-water-bag-for-pain-relief-with-2-lt-water-capacity-assorted-colours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nose Better Breathe Nasal Strips",
+    "sku_type": "10 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334272_1-cozy-cozy-nose-better-breathe-nasal-strips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Magnesio Rest & Restore Lime & Lemon Flavour Effervescent",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188189_2-fastup-magnesio-effervescent-tablets-with-magnesium-and-zinc-lime-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ointment - Microbicidal Water Soluble",
+    "sku_type": "20 g - Mono Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334270_1-betadine-ointment-microbicidal-water-soluble.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ORS Powder - Oral Rehydration Salts",
+    "sku_type": "21.8 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334274_1-electral-ors-powder-oral-rehydration-salts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Lemon Lozenges",
+    "sku_type": "240 pcs - (24 Strips x 10 pcs each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325870_5-cofsils-ginger-lemon-lozenges.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paracetamol Tablets 650 mg",
+    "sku_type": "15 pcs - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334273_1-dolo-paracetamol-tablets-650-mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toothpaste - SLS & Paraben Free",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331090_1-shy-nm-new-shy-nm-toothpaste-sls-paraben-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "N 95 Face Mask - Grey, Harmful Material Protection",
+    "sku_type": "1 pc - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246062_1-drfresh-n-95-face-mask-grey-harmful-material-protection.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Strengthening Shampoo - Nourishes Scalp & Protects From Hair Damage, Sulphate & Paraben-Free",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331052_1-imxia-plus-imxia-plus-hair-strengthening-shampoo-nourishes-scalp-protects-from-hair-damage-sulphate-paraben-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vitamin C Chewable Tablet 500 mg Orange Flavour",
+    "sku_type": "15 pcs - (20 x 15 Tablets)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323622_1-limcee-vitamin-c-chewable-tablet-500-mg-orange-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Lozenges",
+    "sku_type": "240 pcs - (24 Strips x 10 pcs each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325871_1-cofsils-orange-lozenges.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Isabgol Husk Powder - Orange",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217978_1-naturolax-isabgol-husk-powder-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Silicone Sunscreen Gel SPF 50 - With Vitamin C & E For All Skin Types",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331179_1-uv-doux-uv-doux-gold-silicone-sunscreen-gel-spf-50-with-vitamin-c-e-for-all-skin-types.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Bisacodyl Tablets, Laxatives 5 mg",
+    "sku_type": "10 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323617_1-cremaffin-fresh-bisacodyl-tablets-laxatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quickchek Digital Pregnancy Test Kit",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214164_1-dr-morepen-quickchek-digital-pregnancy-test-kit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chewable Tabets - Orange Flavour, Gas Relief & Acidity",
+    "sku_type": "15 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323611_1-digene-chewable-tabets-orange-flavour-gas-relief-acidity.jpg?tr=w-154,q-80"
+  }
+]

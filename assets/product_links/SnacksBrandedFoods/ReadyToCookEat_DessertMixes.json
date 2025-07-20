@@ -1,0 +1,764 @@
+[
+  {
+    "name": "100 % Natural Bourbon Vanilla Extract - For Chefs & Home Use, Baking & Desserts",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095601_3-sprig-100-natural-bourbon-vanilla-extract-for-chefs-home-use-baking-desserts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun - Ready Mix",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265965_7-mtr-ready-mix-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whipping Cream",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009313_4-amul-whipping-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Baking Bar",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102502_7-happychef-dark-baking-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Cocoa Chocolate Drink Mix",
+    "sku_type": "300 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129019_2-cocoacraft-powder-hot-cocoa-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dessert Mix - Gulab Jamun",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100008191_3-gits-gulab-jamun-dessert-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals - Mango Flavour",
+    "sku_type": "90 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100005764_7-weikfield-jelly-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Chocolate",
+    "sku_type": "150 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075543_3-ask-foods-chocolate-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Baking/Cooking Bar",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102503_3-happychef-milk-baking-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rich & Dark Cocoa Powder - 20-22% Cocoa Butter",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042250_4-cocoacraft-powder-rich-dark-cocoa-20-22-cocoa-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals Mix - Strawberry Flavour",
+    "sku_type": "90 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100005756_7-weikfield-jelly-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate Buttons",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102505_4-happychef-dark-button-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Mix Powder - Vanilla Flavour",
+    "sku_type": "100 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283329_1-bakers-ice-cream-mix-powder-vanilla-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Oats Kheer Mix - With Nuts, Dates & Raisins",
+    "sku_type": "240 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328225_3-right-shift-millet-oats-kheer-mix-with-nuts-dates-rasins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Chocolate - 38% Cacao Couverture",
+    "sku_type": "210 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042259_4-cocoacraft-chocolate-38-milk-cocoa-couverture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Kesar",
+    "sku_type": "100 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40054513_5-cookwell-falooda-mix-kesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Rose",
+    "sku_type": "100 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40054512_4-cookwell-falooda-mix-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Vanilla Pods",
+    "sku_type": "5 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053594_2-goodness-natural-vanilla-pods.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cacao Fine Dark Cocoa Powder",
+    "sku_type": null,
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002846_3-hintz-cacao-fine-dark-cocoa-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Compound Slab (CO W33)",
+    "sku_type": "400 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112604_4-morde-chocolate-white-compound-cow33.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Compound Slab (CO D15)",
+    "sku_type": "400 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112603_2-morde-chocolate-dark-compound-cod15.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Paal Payasam Mix",
+    "sku_type": "300 g - Box",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169766_2-kanchana-instant-paal-payasam-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Semia Payasam Mix",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168666_7-brahmins-semia-payasam-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Vanilla Flavour",
+    "sku_type": "100 g - Box",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283314_1-bakers-custard-powder-vanilla-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Compound Slab (CO M21)",
+    "sku_type": "400 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112605_2-morde-chocolate-milk-compound-com21.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custurd Powder - Pineapple",
+    "sku_type": "100 g - (Get 30gm Free)",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114672_5-cookwell-custurd-powder-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Mango",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139612_2-blue-bird-falooda-mix-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals - Lemon, 100% Veg",
+    "sku_type": "100 g - Carton",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139647_2-blue-bird-jelly-crystals-lemon-100-veg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vanilla Beans - World's Finest, For Cakes, Custard, Ice Cream",
+    "sku_type": "2 pcs ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095622_3-sprig-vanilla-beans-worlds-finest-for-cakes-custard-ice-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals - Blackcurrant, 100% Veg",
+    "sku_type": "100 g - Carton",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139649_2-blue-bird-jelly-crystals-blackcurrant-100-veg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix - Semiya Payasam",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100593852_3-aachi-mix-semiya-payasam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dessert Mix - Vermicelli Kheer",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125935_5-gits-vermicelli-kheer-dessert-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar-Free Jelly - Pineapple",
+    "sku_type": "10 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139650_1-blue-bird-sugar-free-jelly-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gothambu Payasam - Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338509_1-eastern-gothambu-payasam-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Kesar Elaichi",
+    "sku_type": "100 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000206_4-tops-custard-powder-kesar-elaichi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Til Candy Chikki",
+    "sku_type": "120 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169773_1-kanchana-til-candy-chikki.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Strawberry Flavour, Makes Smooth & Creamy Custard, Contains Quality Ingredients",
+    "sku_type": "75 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067871_8-weikfield-custard-powder-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dessert Mix - Basundi",
+    "sku_type": "125 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100112463_6-gits-basundi-dessert-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Chocolate Buttons - 35% Cocoa",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102506_8-happychef-milk-button-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Ready Mix - Badam & Pista",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125942_8-gits-falooda-ready-mix-badam-pista.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Strawberry",
+    "sku_type": "100 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000204_2-tops-custard-powder-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dessert Mix - Rose Falooda Drink",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125940_12-gits-rose-falooda-drink-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Rose",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139609_2-blue-bird-falooda-mix-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Ada Pradhaman",
+    "sku_type": "300 g - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169763_3-kanchana-instant-ada-pradhaman.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dessert Mix - Shahi Gulab Jamun",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125927_8-gits-shahi-gulab-jamun-dessert-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun Mix",
+    "sku_type": "180 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40165503_1-haldirams-gulab-jamun-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dessert Mix - Phirni",
+    "sku_type": "100 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100112464_2-gits-phirni-dessert-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate - 70% Cacao Couverture",
+    "sku_type": "210 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042257_4-cocoacraft-chocolate-70-cocoa-bitter-sweet-couverture-premium-from-the-bean-chocolate-slab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Rose",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30004021_1-moments-falooda-mix-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Payasam Mix",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188228_2-ambika-payasam-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate - 52% Cacao Couverture",
+    "sku_type": "210 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042258_4-cocoacraft-chocolate-52-cocoa-dark-chocolate-couverture-premium-from-the-bean-chocolate-slab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bombay Halwa Mix",
+    "sku_type": "80 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100112465_4-gits-bombay-halwa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Vanila",
+    "sku_type": "100 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000203_2-tops-custard-powder-vanila.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dessert Mix - Kalakand, Malai Burfi",
+    "sku_type": "200 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100203767_2-gits-kalakand-dessert-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix - Badam Milk",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40006936_2-nandini-mix-badam-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready Badam Drink Mix",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125941_5-gits-badam-drink-mix-made-with-real-almonds-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals - Orange Flavour",
+    "sku_type": "85 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100152015_3-blue-bird-jelly-crystals-orange-100-veg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zafrani Kheer/Phirni Mix",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310011_1-nawabs-secret-zafrani-kheerphirni.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zafrani Sheer Khurma Mix",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310010_1-nawabs-secret-zafrani-sheer-khurma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Pudding - Mango",
+    "sku_type": "100 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139655_2-blue-bird-instant-pudding-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Samiya Payasam Mix",
+    "sku_type": "200 g - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169087_1-pavizham-samiya-payasam-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Strawberry",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139611_2-blue-bird-falooda-mix-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kara Pongal Mix - Traditional Recipe",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292305_1-sarati-instant-kara-pongal-mix-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Kesar Pista",
+    "sku_type": "100 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000207_2-tops-custard-powder-kesar-pista.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dessert Mix - Rasmalai",
+    "sku_type": "150 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100008206_2-gits-rasmalai-dessert-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Topping - Whipped Cream",
+    "sku_type": "50 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100152010_2-blue-bird-instant-topping-whipped-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals - Pineapple, 100% Veg",
+    "sku_type": "100 g - Carton",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006877_2-blue-bird-jelly-crystals-pineapple-100-veg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar-Free Jelly - Strawberry",
+    "sku_type": "10 g - Carton",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139651_1-blue-bird-sugar-free-jelly-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rabadi Falooda",
+    "sku_type": "200 g - BOX",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212861_1-moments-rabadi-falooda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Vanilla Flavour",
+    "sku_type": "100 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100152011_1-blue-bird-custard-powder-vanilla-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals - Raspberry",
+    "sku_type": "85 g - Carton",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100152014_4-blue-bird-jelly-crystals-raspberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly - Guava",
+    "sku_type": "500 g - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40007699_1-druk-jelly-guava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Pineapple",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004675_1-blue-bird-custard-powder-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139605_2-blue-bird-gulab-jamun-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun",
+    "sku_type": "500 g - Can",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169797_1-milma-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Chocolate - 33% Cacao Couverture",
+    "sku_type": "210 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129031_3-cocoacraft-chocolate-white-32-cocoa-couverture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oven Cake Mix - Chocolate Flavour, Dry Mix, 100% Vegetarian, Makes Soft & Yummy Cake",
+    "sku_type": "225 g - Carton",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067877_7-weikfield-oven-cake-mix-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Jelly - Raspberry",
+    "sku_type": "10 g - Carton",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139652_1-blue-bird-sugar-free-jelly-raspberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Jelly - Orange",
+    "sku_type": "10 g - Carton",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139653_1-blue-bird-sugar-free-jelly-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Millet Pancake Mix",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280108_2-gooddiet-chocolate-millet-pancake-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Millet Pancake Mix",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280110_2-gooddiet-blueberry-millet-pancake-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Millet Pancake Mix",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280109_2-gooddiet-classic-millet-pancake-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals - Strawberry",
+    "sku_type": "85 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100152013_8-blue-bird-jelly-crystals-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bajji Bonda Hittu Mix - Traditional Recipe",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292312_1-sarati-instant-bajji-bonda-hittu-mix-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Pancake With Sprouted Jowar & Oats",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339913_1-gladful-strawberry-pancake-with-sprouted-jowar-oats.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Vermicelli Payasam",
+    "sku_type": "300 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169771_2-kanchana-instant-vermicelli-payasam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun Mix",
+    "sku_type": "175 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212341_6-nilons-gulab-jamun-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Wheat Payasam Mix",
+    "sku_type": "300 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169772_2-kanchana-instant-wheat-payasam-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun Mix - Premium",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130492_1-suruchi-gulab-jamun-mix-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesari Bath Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292307_1-sarati-instant-kesari-bath-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Strawberry Flavour",
+    "sku_type": "200 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283321_1-bakers-falooda-mix-strawberry-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oven Cake Mix - Vanilla Flavour, Dry Mix, 100% Vegetarian, Makes Light, Moist & Spongy Cake",
+    "sku_type": "225 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067878_7-weikfield-oven-cake-mix-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Filling or Topping - Strawberry",
+    "sku_type": "595 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017665_2-mothers-maid-filling-or-topping-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Mix Powder - Chocolate Flavour",
+    "sku_type": "100 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283330_1-bakers-ice-cream-mix-powder-chocolate-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Mango Flavour",
+    "sku_type": "100 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283315_1-bakers-custard-powder-mango-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Butterscotch Flavour",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283318_1-bakers-falooda-mix-butterscotch-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Palada Mix",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299496_1-eastern-palada-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Gulab Jamun - Instant Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310012_1-nawabs-secret-premium-gulab-jamun-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desserts - Caramel Pudding, Creamy Bliss, Mithai, Indian Sweets",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312746_1-epigamia-desserts-caramel-pudding-creamy-bliss-mithai-indian-sweets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desserts Rice Kheer",
+    "sku_type": "70  g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324271_1-epigamia-desserts-rice-kheer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basundi - Instant Mix",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291362_1-satvam-basundi-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Palada - Authentic Taste, Mouthwatering Dessert",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266502_1-tasty-nibbles-rice-palada-authentic-taste-mouthwatering-dessert.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Whipping Cream",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026444_1-purez-whipping-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jelly Crystals - Raw Mango, 100% Veg",
+    "sku_type": "100 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139648_1-blue-bird-jelly-crystals-raw-mango-100-veg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Mango",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40054510_5-cookwell-falooda-mix-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ice Cream Mix - Strawberry",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114670_4-cookwell-ice-cream-mix-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Chocolate Flavour",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40283323_1-bakers-falooda-mix-chocolate-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gajar Halwa - Instant, Handcrafted, Ready-Made Indian Sweet",
+    "sku_type": "95 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40239336_1-yu-gajar-halwa-instant-handcrafted-ready-made-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Pongal Mix - Traditional Recipe",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292306_1-sarati-instant-sweet-pongal-mix-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaccha Mango Flavoured Jelly Crystals Mix",
+    "sku_type": "90 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339963_1-weikfield-kaccha-mango-flavoured-jelly-crystals-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Suji Halwa With Millet & Gur",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333434_1-puresome-pantry-instant-suji-halwa-with-millet-gur.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Atta Halwa With Millet & Gur",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333435_1-puresome-pantry-instant-atta-halwa-with-millet-gur.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Moong Dal Halwa",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333436_1-puresome-pantry-instant-moong-dal-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate - 85% Cacao Couverture",
+    "sku_type": "210 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042256_4-cocoacraft-chocolate-bitter-dark-couverture-85-cocoa-premium-from-the-bean-chocolate-slab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Mango",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295352_3-moments-falooda-mix-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Guava Flavoured Jelly Crystals Mix",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339964_1-weikfield-chilli-guava-flavoured-jelly-crystals-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Pie Date Bites",
+    "sku_type": "20 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346281_1-farmley-apple-pie-date-bites.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345711_1-suhana-gulab-jamun-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Hazelnut Pudding",
+    "sku_type": "70  g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312745_2-epigamia-desserts-chocolate-pudding-mithai-indian-sweets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Parippu Payasam - Ready Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338510_1-eastern-parippu-payasam-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Dal Halwa - Instant, Handcrafted, Ready-Made Indian Sweet",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40239335_1-yu-moong-dal-halwa-instant-handcrafted-ready-made-indian-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Pudding - Strawberry",
+    "sku_type": "100 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006864_1-blue-bird-instant-pudding-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate - 99.5% Cacao Couverture",
+    "sku_type": "210 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129030_3-cocoacraft-chocolate-995-cocoa-extra-bitter-dark-chocolate-couverture-premium-from-the-bean-chocolate-slab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Butter Scotch",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295338_3-moments-falooda-mix-butter-scotch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Chocolate",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295343_3-moments-falooda-mix-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Strawberry",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295348_3-moments-falooda-mix-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Falooda Mix - Kesar",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295335_3-moments-falooda-mix-kesar.jpg?tr=w-154,q-80"
+  }
+]

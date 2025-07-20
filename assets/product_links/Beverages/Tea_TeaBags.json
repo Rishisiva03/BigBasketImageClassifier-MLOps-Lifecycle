@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Tea",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/266564_14-taj-mahal-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Tea",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/240040_7-tetley-black-tea-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tulsi Honey Chamomile Tea",
+    "sku_type": "43.5 g - (25 Bags x 1.7 g each)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005449_2-organic-india-chamomile-tea-tulsi-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tea - Spicy Ginger",
+    "sku_type": "50 g - (25 Bags x 2 g each)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100440572_6-taj-mahal-tea-spicy-ginger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Zing Tea - Flavoured, Assam Blend, Staple-Free, Environment Friendly Bags",
+    "sku_type": "100 g - (50 Bags x 2 each)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/297481_7-tetley-ginger-zing-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Tea - Premix Express",
+    "sku_type": "140 g - (10 Bags x 14 g each)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120794_1-girnar-instant-tea-premix-express.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Dreams Chamomile Tea Bags",
+    "sku_type": "32 g - (16 Bags x 2 g each)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191122_4-tgl-co-sweet-dreams-chamomile-tea-bags.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Tulsi Tea",
+    "sku_type": "34 g - (20 Bags x 1.7 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228624_2-indisecrets-organic-tea-infusion-pure-tulsi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Spiced Herbal Tea - Supports Immune Function, Improves Energy",
+    "sku_type": "2 g - (50 Bags x 2 g Each)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227007_1-vahdam-turmeric-spiced-herbal-tea-supports-immune-function-improves-energy.jpg?tr=w-154,q-80"
+  }
+]

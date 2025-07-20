@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Pineapple - Slices",
+    "sku_type": "840 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/256647_5-del-monte-pineapple-slices.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fiesta - Fruit Cocktail",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/256681_3-del-monte-fiesta-fruit-cocktail.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Fruit Pulp - Frozen Dessert",
+    "sku_type": "500 g - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309599_1-id-fresho-mango-blend.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prunes",
+    "sku_type": "340 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102150_8-del-monte-prunes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Grape Preserve - Natural, No Added Preservatives & Tastes Delicious",
+    "sku_type": "240 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40172926_6-bhuira-black-grape-preserve-natural-no-added-preservatives-tastes-delicious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tidbits - Pineapple",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120133_4-del-monte-tidbits-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alphonso Mango Pulp - Natural/ Unsweetened",
+    "sku_type": "1 kg ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295356_1-home-fresh-alphonso-mango-pulp-natural-unsweetened.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Slice",
+    "sku_type": "850 g - Tin",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185839_1-habit-pineapple-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chickoo Blend",
+    "sku_type": "500 g - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309598_1-id-fresho-chickoo-blend.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Fruit Pulp - Frozen Dessert",
+    "sku_type": "500 g - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309601_1-id-fresho-pineapple-blend.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tender Coconut Pulp - Frozen Dessert",
+    "sku_type": "500 g - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309600_1-id-fresho-tender-coconut-blend.jpg?tr=w-154,q-80"
+  }
+]

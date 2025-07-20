@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Fruit & Nut cake",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309528_1-the-bakers-dozen-fruit-nut-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "20g Protein Bar - Chocolate Brownie, No Added Sugar, Loaded With Fibre",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095298_7-yoga-bar-whey-protein-bar-chocolate-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plum Cake - Classic",
+    "sku_type": "680 g - Box",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169155_4-elite-plum-cake-classic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cake Bar - Chocolate Delight",
+    "sku_type": "50 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075668_2-bisk-farm-biscuits-cake-chocolate-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pastry Cake - Strawberry",
+    "sku_type": "23 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125241_1-pillsbury-pillsbury-pastry-cake-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dates Pudding Cake",
+    "sku_type": "250 g - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169133_3-elite-dates-pudding-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggless Butter Scotch Cake - Spongy, Soft",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251439_2-la-americana-eggless-butter-scotch-cake-spongy-soft.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pastry Cake - Choco",
+    "sku_type": "23 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120848_2-pillsbury-pillsbury-cake-pastry-choco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Double Chocolate Brownie",
+    "sku_type": "85 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329566_5-cakezone-double-chocolate-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggless Choco Vanilla Cake - Low Trans Fat, Spongy, Soft",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251440_2-la-americana-eggless-choco-vanilla-cake-low-trans-fat-spongy-soft.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Walnut Cake - Spongy, Soft",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251437_2-la-americana-banana-walnut-cake-spongy-soft.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Bis-coop Cheesecake",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324077_1-caketale-light-creamy-cheesecake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Walnut Brownie",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324073_1-caketale-chocolate-walnut-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Chip Brownie",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324078_1-caketale-choco-chip-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Chip Brownie",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324074_1-caketale-choco-chip-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brow Wow Soft Choco Brownie",
+    "sku_type": "90 g - (5 N x 18 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342117_1-danko-brow-wow-soft-choco-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutty Brownie",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40021090_3-brownies-basket-nutty-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggless Hazelnut Brownie",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343109_1-brown-baking-company-eggless-hazelnut-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whey Protein Brownie",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344196_1-unifit-whey-protein-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brownie - Just Chocolate",
+    "sku_type": "100 g - 1pcs",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40040739_4-but-er-brownie-just-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whey Protein Almond Brownie",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344197_1-unifit-whey-protein-almond-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggless Walnut Brownie",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343110_1-brown-baking-company-eggless-walnut-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Blueberry Cheesecake",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324076_1-caketale-light-creamy-cheesecake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Classic Baked Cheesecake",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324075_1-caketale-light-creamy-baked-cheesecake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gluten Free Soft  Gooey Brownie",
+    "sku_type": "80 g - Pouch",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209258_1-sprinng-gluten-free-soft-gooey-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Cheese Cake",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181382_5-fresho-signature-blueberry-cheese-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Velvet Cake",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181378_4-fresho-signature-red-velvet-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rainbow Cake",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181379_4-fresho-signature-rainbow-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Cheese Cake - Eggless",
+    "sku_type": "200 g ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181381_5-fresho-signature-chocolate-cheese-cake-eggless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted French Macarons",
+    "sku_type": "70 g - (5 pcs)",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185200_5-lindberg-assorted-french-macarons.jpg?tr=w-154,q-80"
+  }
+]

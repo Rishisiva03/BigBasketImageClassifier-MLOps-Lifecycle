@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Chicken - Seekh Kebab Hot & Spicy",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40059420_8-meatzza-chicken-seekh-kebab-hot-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Chicken Momos",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177263_7-prasuma-chicken-momos-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zing Boneless Chicken Breast Strips",
+    "sku_type": "500 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200850_1-meatzza-zing-boneless-chicken-breast-strips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Spicy Breast Strips",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183635_4-meatzza-chicken-spicy-breast-strips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Nuggets",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018664_5-sfp-chicken-nuggets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Popcorn",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049542_8-meatzza-chicken-popcorn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Chicken Wings",
+    "sku_type": "300 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259406_1-meatington-chicken-peri-peri-wings-rich-source-of-protein-fibre-crispy-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Tandoori Sheekh Kebab",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211959_1-total-chicken-tandoori-sheekh-kebab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Seekh Kebab",
+    "sku_type": "500 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223904_1-oasis-chicken-seekh-kebab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smoked Chicken Ham - Ready To Serve",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002872_1-buffet-smoked-chicken-ham-ready-to-serve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Italian Salami",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40062713_5-total-chicken-italian-salami.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Garlic Finger",
+    "sku_type": "400 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40062709_6-total-chicken-garlic-finger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Kebab",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40041052_1-alf-farms-chicken-kebab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pops - Chicken",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/268713_6-venkys-pops-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken & Cheese Jalapeno Sausages",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176626_3-zorabian-chicken-cheese-jalapeno-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Cheese Pops - Jalapeno",
+    "sku_type": "400 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223911_1-meatzza-chicken-cheese-pops-jalapeno.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Cheese Onion Sausages",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223910_1-meatzza-chicken-cheese-onion-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Breast - Boneless, Raw, Frozen",
+    "sku_type": "450 g - Tray Pack",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177465_7-zorabian-chicken-breast-boneless-raw-frozen.jpg?tr=w-154,q-80"
+  }
+]

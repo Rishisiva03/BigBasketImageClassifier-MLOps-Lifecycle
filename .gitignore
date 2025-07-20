@@ -1,0 +1,14 @@
+.venv/
+mlruns/
+
+__pycache__/
+*.pyc
+assets/images/
+*.pkl
+*.pt
+*.pth
+**/*.pkl
+**/*.pt
+**/**/*.pth
+assets/grocery_model1.pth
+assets/grocery_model2.pth

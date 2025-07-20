@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Probiotic Fermented Milk Drink",
+    "sku_type": "65 ml - (Pack of 5)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/292620_14-yakult-probiotic-health-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kool Flavoured Milk - Premium Kesar",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005022_5-amul-kool-kesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Probiotic Nutrition Drink - Light",
+    "sku_type": "65 ml - (Pack of 5)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121084_13-yakult-probiotic-health-drink-light.jpg?tr=w-154,q-80"
+  }
+]

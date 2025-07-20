@@ -1,0 +1,2750 @@
+[
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Vegetables",
+    "sub_category_2": "Potato, Onion & Tomato",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/potato-onion-tomato/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Vegetables",
+    "sub_category_2": "Cucumber & Capsicum",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/cucumber-capsicum/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Vegetables",
+    "sub_category_2": "Leafy Vegetables",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/leafy-vegetables/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Vegetables",
+    "sub_category_2": "Root Vegetables",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/root-vegetables/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Vegetables",
+    "sub_category_2": "Beans, Brinjals & Okra",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/beans-brinjals-okra/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Vegetables",
+    "sub_category_2": "Cabbage & Cauliflower",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/cabbage-cauliflower/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Vegetables",
+    "sub_category_2": "Gourd, Pumpkin, Drumstick",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/gourd-pumpkin-drumstick/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Vegetables",
+    "sub_category_2": "Specialty",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/specialty/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Herbs & Seasonings",
+    "sub_category_2": "Lemon, Ginger & Garlic",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/herbs-seasonings/lemon-ginger-garlic/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Herbs & Seasonings",
+    "sub_category_2": "Indian & Exotic Herbs",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/herbs-seasonings/indian-exotic-herbs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Fruits",
+    "sub_category_2": "Banana, Sapota & Papaya",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-fruits/banana-sapota-papaya/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Fruits",
+    "sub_category_2": "Kiwi, Melon, Citrus Fruit",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-fruits/kiwi-melon-citrus-fruit/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Fruits",
+    "sub_category_2": "Apples & Pomegranate",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-fruits/apples-pomegranate/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Fruits",
+    "sub_category_2": "Seasonal Fruits",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-fruits/seasonal-fruits/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Fruits",
+    "sub_category_2": "Mangoes",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-fruits/mangoes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Fresh Fruits",
+    "sub_category_2": "Fruit Baskets",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/fresh-fruits/fruit-baskets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Organic Fruits & Vegetables",
+    "sub_category_2": "Organic Vegetables",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/organic-fruits-vegetables/organic-vegetables/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Organic Fruits & Vegetables",
+    "sub_category_2": "Organic Fruits",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/organic-fruits-vegetables/organic-fruits/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Cuts & Sprouts",
+    "sub_category_2": "Cut Fruit, Tender Coconut",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/cuts-sprouts/cut-fruit-tender-coconut/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Cuts & Sprouts",
+    "sub_category_2": "Cut & Peeled Veggies",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/cuts-sprouts/cut-peeled-veggies/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Cuts & Sprouts",
+    "sub_category_2": "Fresh Salads & Sprouts",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/cuts-sprouts/fresh-salads-sprouts/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Cuts & Sprouts",
+    "sub_category_2": "Recipe Packs",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/cuts-sprouts/recipe-packs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Cuts & Sprouts",
+    "sub_category_2": "Fresh Juices & Milkshakes",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/cuts-sprouts/fresh-juices-milkshakes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Exotic Fruits & Veggies",
+    "sub_category_2": "Exotic Vegetables",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/exotic-fruits-veggies/exotic-vegetables/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Exotic Fruits & Veggies",
+    "sub_category_2": "Exotic Fruits",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/exotic-fruits-veggies/exotic-fruits/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Flower Bouquets, Bunches",
+    "sub_category_2": "Other Flowers",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/flower-bouquets-bunches/other-flowers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Flower Bouquets, Bunches",
+    "sub_category_2": "Roses",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/flower-bouquets-bunches/roses/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Flower Bouquets, Bunches",
+    "sub_category_2": "Gifting Flower & Bouquets",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/flower-bouquets-bunches/gifting-flower-bouquets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Flower Bouquets, Bunches",
+    "sub_category_2": "Pooja Flowers",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/flower-bouquets-bunches/pooja-flowers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "sub_category_1": "Flower Bouquets, Bunches",
+    "sub_category_2": "Pooja Leaves",
+    "link": "https://www.bigbasket.com/pc/fruits-vegetables/flower-bouquets-bunches/pooja-leaves/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Atta, Flours & Sooji",
+    "sub_category_2": "Atta Whole Wheat",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/atta-flours-sooji/atta-whole-wheat/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Atta, Flours & Sooji",
+    "sub_category_2": "Sooji, Maida & Besan",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/atta-flours-sooji/sooji-maida-besan/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Atta, Flours & Sooji",
+    "sub_category_2": "Rice & Other Flours",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/atta-flours-sooji/rice-other-flours/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Rice & Rice Products",
+    "sub_category_2": "Raw Rice",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/rice-rice-products/raw-rice/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Rice & Rice Products",
+    "sub_category_2": "Poha, Sabudana & Murmura",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/rice-rice-products/poha-sabudana-murmura/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Rice & Rice Products",
+    "sub_category_2": "Basmati Rice",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/rice-rice-products/basmati-rice/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Rice & Rice Products",
+    "sub_category_2": "Boiled & Steam Rice",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/rice-rice-products/boiled-steam-rice/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dals & Pulses",
+    "sub_category_2": "Toor, Channa & Moong Dal",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dals-pulses/toor-channa-moong-dal/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dals & Pulses",
+    "sub_category_2": "Cereals & Millets",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dals-pulses/cereals-millets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dals & Pulses",
+    "sub_category_2": "Urad & Other Dals",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dals-pulses/urad-other-dals/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Organic Staples",
+    "sub_category_2": "Organic Dry Fruits",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/organic-dry-fruits/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Organic Staples",
+    "sub_category_2": "Organic Dals & Pulses",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/organic-dals-pulses/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Organic Staples",
+    "sub_category_2": "Organic Millet & Flours",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/organic-millet-flours/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Organic Staples",
+    "sub_category_2": "Organic Sugar, Jaggery",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/organic-sugar-jaggery/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Organic Staples",
+    "sub_category_2": "Organic Masalas & Spices",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/organic-masalas-spices/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Organic Staples",
+    "sub_category_2": "Organic Rice, Other Rice",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/organic-rice-other-rice/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Organic Staples",
+    "sub_category_2": "Organic Flours",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/organic-flours/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Organic Staples",
+    "sub_category_2": "Organic Edible Oil, Ghee",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/organic-edible-oil-ghee/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Blended Cooking Oils",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/blended-cooking-oils/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Sunflower, Rice Bran Oil",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/sunflower-rice-bran-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Soya & Mustard Oils",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/soya-mustard-oils/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Ghee & Vanaspati",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/ghee-vanaspati/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Gingelly Oil",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/gingelly-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Groundnut Oil",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/groundnut-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Cooking Coconut Oil",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/cooking-coconut-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Olive & Canola Oils",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/olive-canola-oils/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Other Edible Oils",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/other-edible-oils/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Edible Oils & Ghee",
+    "sub_category_2": "Cold Pressed Oil",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/cold-pressed-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Salt, Sugar & Jaggery",
+    "sub_category_2": "Sugar & Jaggery",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugar-jaggery/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Salt, Sugar & Jaggery",
+    "sub_category_2": "Salts",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/salt-sugar-jaggery/salts/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Salt, Sugar & Jaggery",
+    "sub_category_2": "Sugarfree Sweeteners",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugarfree-sweeteners/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Masalas & Spices",
+    "sub_category_2": "Whole Spices",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/masalas-spices/whole-spices/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Masalas & Spices",
+    "sub_category_2": "Powdered Spices",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/masalas-spices/powdered-spices/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Masalas & Spices",
+    "sub_category_2": "Cooking Pastes",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/masalas-spices/cooking-pastes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Masalas & Spices",
+    "sub_category_2": "Herbs & Seasoning",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/masalas-spices/herbs-seasoning/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Masalas & Spices",
+    "sub_category_2": "Blended Masalas",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/masalas-spices/blended-masalas/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Almonds",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/almonds/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Cashews",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/cashews/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Mukhwas",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/mukhwas/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Other Dry Fruits",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/other-dry-fruits/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Dates, Figs & Raisins",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/dates-figs-raisins/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Dried Fruits & Berries",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/dried-fruits-berries/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Makhana",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/makhana/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Snacking Dry Fruits,Seeds",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/snacking-dry-fruitsseeds/?nc=cs#!page=1"
+  },
+  {
+    "category": "Foodgrains, Oil & Masala",
+    "sub_category_1": "Dry Fruits",
+    "sub_category_2": "Walnut & Pistachio",
+    "link": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/walnut-pistachio/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Milk",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/milk/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Curd",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/curd/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Paneer, Tofu & Cream",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/paneer-tofu-cream/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Butter & Margarine",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/butter-margarine/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Condensed, Powdered Milk",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/condensed-powdered-milk/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Cheese",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/cheese/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Buttermilk & Lassi",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/buttermilk-lassi/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Yogurt & Shrikhand",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/yogurt-shrikhand/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Flavoured, Soya Milk",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/flavoured-soya-milk/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Dairy",
+    "sub_category_2": "Fresh Milk",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/fresh-milk/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Breads & Buns",
+    "sub_category_2": "Brown, Wheat & Multigrain",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/breads-buns/brown-wheat-multigrain/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Breads & Buns",
+    "sub_category_2": "Milk, White & Sandwich",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/breads-buns/milk-white-sandwich/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Breads & Buns",
+    "sub_category_2": "Buns, Pavs & Pizza Base",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/breads-buns/buns-pavs-pizza-base/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Non Dairy",
+    "sub_category_2": "Dairy Free (Vegan)",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/non-dairy/dairy-free-vegan/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Gourmet Breads",
+    "sub_category_2": "Croissants, Bagels",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/gourmet-breads/croissants-bagels/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Gourmet Breads",
+    "sub_category_2": "Panini, Focaccia & Pita",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/gourmet-breads/panini-focaccia-pita/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Gourmet Breads",
+    "sub_category_2": "Bagels & Baguette",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/gourmet-breads/bagels-baguette/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Gourmet Breads",
+    "sub_category_2": "Gourmet Bread",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/gourmet-breads/gourmet-bread/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cookies, Rusk & Khari",
+    "sub_category_2": "Rusks",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cookies-rusk-khari/rusks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cookies, Rusk & Khari",
+    "sub_category_2": "Khari & Cream Rolls",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cookies-rusk-khari/khari-cream-rolls/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cookies, Rusk & Khari",
+    "sub_category_2": "Premium Cookies",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cookies-rusk-khari/premium-cookies/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cookies, Rusk & Khari",
+    "sub_category_2": "Bakery Biscuits, Cookies",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cookies-rusk-khari/bakery-biscuits-cookies/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Ice Creams & Desserts",
+    "sub_category_2": "Ice Creams",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/ice-creams-desserts/ice-creams/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Bakery Snacks",
+    "sub_category_2": "Bread Sticks & Lavash",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/bakery-snacks/bread-sticks-lavash/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Bakery Snacks",
+    "sub_category_2": "Cheese & Garlic Bread",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/bakery-snacks/cheese-garlic-bread/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Bakery Snacks",
+    "sub_category_2": "Puffs, Patties, Sandwiches",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/bakery-snacks/puffs-patties-sandwiches/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Bakery Snacks",
+    "sub_category_2": "Breadcrumbs & Croutons",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/bakery-snacks/breadcrumbs-croutons/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cakes & Pastries",
+    "sub_category_2": "Tea Cakes & Slice Cakes",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cakes-pastries/tea-cakes-slice-cakes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cakes & Pastries",
+    "sub_category_2": "Muffins & Cup Cakes",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cakes-pastries/muffins-cup-cakes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cakes & Pastries",
+    "sub_category_2": "Pastries & Brownies",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cakes-pastries/pastries-brownies/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cakes & Pastries",
+    "sub_category_2": "Birthday & Party Cakes",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cakes-pastries/birthday-party-cakes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Bakery, Cakes & Dairy",
+    "sub_category_1": "Cakes & Pastries",
+    "sub_category_2": "Doughnuts & Mousses",
+    "link": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cakes-pastries/doughnuts-mousses/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Energy & Soft Drinks",
+    "sub_category_2": "Soda & Cocktail Mix",
+    "link": "https://www.bigbasket.com/pc/beverages/energy-soft-drinks/soda-cocktail-mix/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Energy & Soft Drinks",
+    "sub_category_2": "Cold Drinks",
+    "link": "https://www.bigbasket.com/pc/beverages/energy-soft-drinks/cold-drinks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Energy & Soft Drinks",
+    "sub_category_2": "Sports & Energy Drinks",
+    "link": "https://www.bigbasket.com/pc/beverages/energy-soft-drinks/sports-energy-drinks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Energy & Soft Drinks",
+    "sub_category_2": "Non Alcoholic Drinks",
+    "link": "https://www.bigbasket.com/pc/beverages/energy-soft-drinks/non-alcoholic-drinks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Energy & Soft Drinks",
+    "sub_category_2": "Glucose Powder, Tablets",
+    "link": "https://www.bigbasket.com/pc/beverages/energy-soft-drinks/glucose-powder-tablets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Water",
+    "sub_category_2": "Packaged Water",
+    "link": "https://www.bigbasket.com/pc/beverages/water/packaged-water/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Water",
+    "sub_category_2": "Spring Water",
+    "link": "https://www.bigbasket.com/pc/beverages/water/spring-water/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Water",
+    "sub_category_2": "Flavoured Water",
+    "link": "https://www.bigbasket.com/pc/beverages/water/flavoured-water/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Tea",
+    "sub_category_2": "Leaf & Dust Tea",
+    "link": "https://www.bigbasket.com/pc/beverages/tea/leaf-dust-tea/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Tea",
+    "sub_category_2": "Green Tea",
+    "link": "https://www.bigbasket.com/pc/beverages/tea/green-tea/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Tea",
+    "sub_category_2": "Exotic & Flavoured Tea",
+    "link": "https://www.bigbasket.com/pc/beverages/tea/exotic-flavoured-tea/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Tea",
+    "sub_category_2": "Tea Bags",
+    "link": "https://www.bigbasket.com/pc/beverages/tea/tea-bags/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Coffee",
+    "sub_category_2": "Ground Coffee",
+    "link": "https://www.bigbasket.com/pc/beverages/coffee/ground-coffee/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Coffee",
+    "sub_category_2": "Instant Coffee",
+    "link": "https://www.bigbasket.com/pc/beverages/coffee/instant-coffee/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Fruit Juices & Drinks",
+    "sub_category_2": "Unsweetened, Cold Press",
+    "link": "https://www.bigbasket.com/pc/beverages/fruit-juices-drinks/unsweetened-cold-press/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Fruit Juices & Drinks",
+    "sub_category_2": "Juices",
+    "link": "https://www.bigbasket.com/pc/beverages/fruit-juices-drinks/juices/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Fruit Juices & Drinks",
+    "sub_category_2": "Syrups & Concentrates",
+    "link": "https://www.bigbasket.com/pc/beverages/fruit-juices-drinks/syrups-concentrates/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Nutrition Mix, Supplement",
+    "sub_category_2": "Kids (5+Yrs)",
+    "link": "https://www.bigbasket.com/pc/beverages/nutrition-mix-supplement/kids-5yrs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Nutrition Mix, Supplement",
+    "sub_category_2": "Children (2-5 Yrs)",
+    "link": "https://www.bigbasket.com/pc/beverages/nutrition-mix-supplement/children-2-5-yrs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Nutrition Mix, Supplement",
+    "sub_category_2": "Men & Women",
+    "link": "https://www.bigbasket.com/pc/beverages/nutrition-mix-supplement/men-women/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beverages",
+    "sub_category_1": "Nutrition Mix, Supplement",
+    "sub_category_2": "Diabetic Drinks",
+    "link": "https://www.bigbasket.com/pc/beverages/nutrition-mix-supplement/diabetic-drinks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Noodle, Pasta, Vermicelli",
+    "sub_category_2": "Instant Noodles",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/noodle-pasta-vermicelli/instant-noodles/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Noodle, Pasta, Vermicelli",
+    "sub_category_2": "Hakka Noodles",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/noodle-pasta-vermicelli/hakka-noodles/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Noodle, Pasta, Vermicelli",
+    "sub_category_2": "Cup Noodles",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/noodle-pasta-vermicelli/cup-noodles/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Noodle, Pasta, Vermicelli",
+    "sub_category_2": "Vermicelli",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/noodle-pasta-vermicelli/vermicelli/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Noodle, Pasta, Vermicelli",
+    "sub_category_2": "Instant Pasta",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/noodle-pasta-vermicelli/instant-pasta/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Noodle, Pasta, Vermicelli",
+    "sub_category_2": "Pasta & Macaroni",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/noodle-pasta-vermicelli/pasta-macaroni/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Breakfast Cereals",
+    "sub_category_2": "Oats & Porridge",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/breakfast-cereals/oats-porridge/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Breakfast Cereals",
+    "sub_category_2": "Kids Cereal",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/breakfast-cereals/kids-cereal/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Breakfast Cereals",
+    "sub_category_2": "Muesli",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/breakfast-cereals/muesli/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Breakfast Cereals",
+    "sub_category_2": "Flakes",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/breakfast-cereals/flakes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Breakfast Cereals",
+    "sub_category_2": "Granola & Cereal Bars",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/breakfast-cereals/granola-cereal-bars/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Frozen Veggies & Snacks",
+    "sub_category_2": "Frozen Vegetables",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/frozen-veggies-snacks/frozen-vegetables/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Frozen Veggies & Snacks",
+    "sub_category_2": "Frozen Indian Breads",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/frozen-veggies-snacks/frozen-indian-breads/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Frozen Veggies & Snacks",
+    "sub_category_2": "Frozen Veg Snacks",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/frozen-veggies-snacks/frozen-veg-snacks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Frozen Veggies & Snacks",
+    "sub_category_2": "Frozen Non-Veg Snacks",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/frozen-veggies-snacks/frozen-non-veg-snacks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Biscuits & Cookies",
+    "sub_category_2": "Salted Biscuits",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/biscuits-cookies/salted-biscuits/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Biscuits & Cookies",
+    "sub_category_2": "Marie, Health, Digestive",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/biscuits-cookies/marie-health-digestive/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Biscuits & Cookies",
+    "sub_category_2": "Cream Biscuits & Wafers",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/biscuits-cookies/cream-biscuits-wafers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Biscuits & Cookies",
+    "sub_category_2": "Glucose & Milk Biscuits",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/biscuits-cookies/glucose-milk-biscuits/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Biscuits & Cookies",
+    "sub_category_2": "Cookies",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/biscuits-cookies/cookies/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Snacks & Namkeen",
+    "sub_category_2": "Chips & Corn Snacks",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/snacks-namkeen/chips-corn-snacks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Snacks & Namkeen",
+    "sub_category_2": "Namkeen & Savoury Snacks",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/snacks-namkeen/namkeen-savoury-snacks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Spreads, Sauces, Ketchup",
+    "sub_category_2": "Honey",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/honey/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Spreads, Sauces, Ketchup",
+    "sub_category_2": "Mayonnaise",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/mayonnaise/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Spreads, Sauces, Ketchup",
+    "sub_category_2": "Tomato Ketchup & Sauces",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/tomato-ketchup-sauces/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Spreads, Sauces, Ketchup",
+    "sub_category_2": "Jam, Conserve, Marmalade",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/jam-conserve-marmalade/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Spreads, Sauces, Ketchup",
+    "sub_category_2": "Chilli & Soya Sauce",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/chilli-soya-sauce/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Spreads, Sauces, Ketchup",
+    "sub_category_2": "Choco & Nut Spread",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/choco-nut-spread/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Spreads, Sauces, Ketchup",
+    "sub_category_2": "Vinegar",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/vinegar/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Spreads, Sauces, Ketchup",
+    "sub_category_2": "Dips & Dressings",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/dips-dressings/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Ready To Cook & Eat",
+    "sub_category_2": "Breakfast & Snack Mixes",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/breakfast-snack-mixes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Ready To Cook & Eat",
+    "sub_category_2": "Soups",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/soups/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Ready To Cook & Eat",
+    "sub_category_2": "Home Baking",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/home-baking/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Ready To Cook & Eat",
+    "sub_category_2": "Papads, Ready To Fry",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/papads-ready-to-fry/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Ready To Cook & Eat",
+    "sub_category_2": "Heat & Eat Ready Meals",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/heat-eat-ready-meals/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Ready To Cook & Eat",
+    "sub_category_2": "Dessert Mixes",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/dessert-mixes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Ready To Cook & Eat",
+    "sub_category_2": "Canned Food",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/canned-food/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Chocolates & Candies",
+    "sub_category_2": "Chocolates",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/chocolates-candies/chocolates/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Chocolates & Candies",
+    "sub_category_2": "Toffee, Candy & Lollypop",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/chocolates-candies/toffee-candy-lollypop/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Chocolates & Candies",
+    "sub_category_2": "Mints & Chewing Gum",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/chocolates-candies/mints-chewing-gum/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Chocolates & Candies",
+    "sub_category_2": "Gift Boxes",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/chocolates-candies/gift-boxes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Pickles & Chutney",
+    "sub_category_2": "Chutney Powder",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/pickles-chutney/chutney-powder/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Pickles & Chutney",
+    "sub_category_2": "Lime & Mango Pickle",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/pickles-chutney/lime-mango-pickle/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Pickles & Chutney",
+    "sub_category_2": "Other Veg Pickle",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/pickles-chutney/other-veg-pickle/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Pickles & Chutney",
+    "sub_category_2": "Non Veg Pickle",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/pickles-chutney/non-veg-pickle/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Indian Mithai",
+    "sub_category_2": "Chikki & Gajjak",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/indian-mithai/chikki-gajjak/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Indian Mithai",
+    "sub_category_2": "Tinned, Packed Sweets",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/indian-mithai/tinned-packed-sweets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Snacks & Branded Foods",
+    "sub_category_1": "Indian Mithai",
+    "sub_category_2": "Fresh Sweets",
+    "link": "https://www.bigbasket.com/pc/snacks-branded-foods/indian-mithai/fresh-sweets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Oral Care",
+    "sub_category_2": "Toothpaste",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/oral-care/toothpaste/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Oral Care",
+    "sub_category_2": "Mouthwash",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/oral-care/mouthwash/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Oral Care",
+    "sub_category_2": "Toothbrush",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/oral-care/toothbrush/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Oral Care",
+    "sub_category_2": "Floss & Tongue Cleaner",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/oral-care/floss-tongue-cleaner/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Oral Care",
+    "sub_category_2": "Electric Toothbrush",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/oral-care/electric-toothbrush/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Feminine Hygiene",
+    "sub_category_2": "Sanitary Napkins",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/feminine-hygiene/sanitary-napkins/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Feminine Hygiene",
+    "sub_category_2": "Panty Liners",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/feminine-hygiene/panty-liners/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Feminine Hygiene",
+    "sub_category_2": "Intimate Wash & Care",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/feminine-hygiene/intimate-wash-care/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Feminine Hygiene",
+    "sub_category_2": "Hair Removal",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/feminine-hygiene/hair-removal/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Feminine Hygiene",
+    "sub_category_2": "Tampons & Menstrual Cups",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/feminine-hygiene/tampons-menstrual-cups/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Bath & Hand Wash",
+    "sub_category_2": "Hand Wash & Sanitizers",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/bath-hand-wash/hand-wash-sanitizers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Bath & Hand Wash",
+    "sub_category_2": "Bathing Bars & Soaps",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/bath-hand-wash/bathing-bars-soaps/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Bath & Hand Wash",
+    "sub_category_2": "Shower Gel & Body Wash",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/bath-hand-wash/shower-gel-body-wash/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Bath & Hand Wash",
+    "sub_category_2": "Talcum Powder",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/bath-hand-wash/talcum-powder/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Bath & Hand Wash",
+    "sub_category_2": "Bathing Accessories",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/bath-hand-wash/bathing-accessories/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Bath & Hand Wash",
+    "sub_category_2": "Bath Salts & Oils",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/bath-hand-wash/bath-salts-oils/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Bath & Hand Wash",
+    "sub_category_2": "Body Scrubs & Exfoliants",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/bath-hand-wash/body-scrubs-exfoliants/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Hair Care",
+    "sub_category_2": "Hair Color",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/hair-care/hair-color/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Hair Care",
+    "sub_category_2": "Hair Oil & Serum",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/hair-care/hair-oil-serum/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Hair Care",
+    "sub_category_2": "Shampoo & Conditioner",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/hair-care/shampoo-conditioner/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Hair Care",
+    "sub_category_2": "Hair & Scalp Treatment",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/hair-care/hair-scalp-treatment/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Hair Care",
+    "sub_category_2": "Hair Styling",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/hair-care/hair-styling/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Hair Care",
+    "sub_category_2": "Dry Shampoo & Conditioner",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/hair-care/dry-shampoo-conditioner/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Hair Care",
+    "sub_category_2": "Tools & Accessories",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/hair-care/tools-accessories/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Antiseptics & Bandages",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/antiseptics-bandages/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Cotton & Ear Buds",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/cotton-ear-buds/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Everyday Medicine",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/everyday-medicine/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Face Masks & Safety Gears",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/face-masks-safety-gears/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Ayurveda",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/ayurveda/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Supplements & Proteins",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/supplements-proteins/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Adult Diapers",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/adult-diapers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Slimming Products",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/slimming-products/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Health & Medicine",
+    "sub_category_2": "Healthcare Devices",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/healthcare-devices/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Men's Grooming",
+    "sub_category_2": "Shaving Care",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/shaving-care/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Men's Grooming",
+    "sub_category_2": "Face & Body",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/face-body/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Men's Grooming",
+    "sub_category_2": "Bath & Shower",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/bath-shower/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Men's Grooming",
+    "sub_category_2": "Talc",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/talc/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Men's Grooming",
+    "sub_category_2": "Hair Care & Styling",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/hair-care-styling/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Men's Grooming",
+    "sub_category_2": "Moustache & Beard Care",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/moustache-beard-care/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Men's Grooming",
+    "sub_category_2": "Combos & Gift Sets",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/combos-gift-sets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Men's Grooming",
+    "sub_category_2": "Deodorant",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/deodorant/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Sexual Wellness",
+    "sub_category_2": "Adult Games",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/sexual-wellness/adult-games/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Sexual Wellness",
+    "sub_category_2": "Condoms",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/sexual-wellness/condoms/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Sexual Wellness",
+    "sub_category_2": "Kits & Contraceptive",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/sexual-wellness/kits-contraceptive/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Sexual Wellness",
+    "sub_category_2": "Lubricants",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/sexual-wellness/lubricants/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Sexual Wellness",
+    "sub_category_2": "Massagers",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/sexual-wellness/massagers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Sexual Wellness",
+    "sub_category_2": "Performance Enhancers",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/sexual-wellness/performance-enhancers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Skin Care",
+    "sub_category_2": "Body Care",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/skin-care/body-care/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Skin Care",
+    "sub_category_2": "Face Care",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/skin-care/face-care/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Skin Care",
+    "sub_category_2": "Lip Care",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/skin-care/lip-care/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Skin Care",
+    "sub_category_2": "Eye Care",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/skin-care/eye-care/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Skin Care",
+    "sub_category_2": "Aromatherapy",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/skin-care/aromatherapy/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Makeup",
+    "sub_category_2": "Nails",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/makeup/nails/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Makeup",
+    "sub_category_2": "Face",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/makeup/face/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Makeup",
+    "sub_category_2": "Lips",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/makeup/lips/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Makeup",
+    "sub_category_2": "Eyes",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/makeup/eyes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Makeup",
+    "sub_category_2": "Makeup Accessories",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/makeup/makeup-accessories/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Makeup",
+    "sub_category_2": "Makeup Kits & Gift Sets",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/makeup/makeup-kits-gift-sets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Gift Sets",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/gift-sets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Women's Deodorants",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/womens-deodorants/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Men's Deodorants",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/mens-deodorants/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Perfume",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/perfume/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Eau De Cologne",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/eau-de-cologne/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Body Sprays & Mists",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/body-sprays-mists/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Eau De Parfum",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/eau-de-parfum/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Eau De Toilette",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/eau-de-toilette/?nc=cs#!page=1"
+  },
+  {
+    "category": "Beauty & Hygiene",
+    "sub_category_1": "Fragrances & Deos",
+    "sub_category_2": "Attar",
+    "link": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/attar/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Detergents & Dishwash",
+    "sub_category_2": "Detergent Powder, Liquid",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/detergents-dishwash/detergent-powder-liquid/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Detergents & Dishwash",
+    "sub_category_2": "Fabric Pre, Post Wash",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/detergents-dishwash/fabric-pre-post-wash/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Detergents & Dishwash",
+    "sub_category_2": "Dishwash Liquids & Pastes",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/detergents-dishwash/dishwash-liquids-pastes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Detergents & Dishwash",
+    "sub_category_2": "Dishwash Bars & Powders",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/detergents-dishwash/dishwash-bars-powders/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Detergents & Dishwash",
+    "sub_category_2": "Detergent Bars",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/detergents-dishwash/detergent-bars/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Detergents & Dishwash",
+    "sub_category_2": "Descaler",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/detergents-dishwash/descaler/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Detergents & Dishwash",
+    "sub_category_2": "Imported Home Care",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/detergents-dishwash/imported-home-care/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Detergents & Dishwash",
+    "sub_category_2": "Machine Dishwasher",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/detergents-dishwash/machine-dishwasher/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "All Purpose Cleaners",
+    "sub_category_2": "Toilet Cleaners",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/all-purpose-cleaners/toilet-cleaners/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "All Purpose Cleaners",
+    "sub_category_2": "Kitchen, Glass & Drain",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/all-purpose-cleaners/kitchen-glass-drain/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "All Purpose Cleaners",
+    "sub_category_2": "Floor & Other Cleaners",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/all-purpose-cleaners/floor-other-cleaners/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "All Purpose Cleaners",
+    "sub_category_2": "Disinfectant Spray & Cleaners",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/all-purpose-cleaners/disinfectant-spray-cleaners/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "All Purpose Cleaners",
+    "sub_category_2": "Metal, Furniture Cleaner",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/all-purpose-cleaners/metal-furniture-cleaner/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "All Purpose Cleaners",
+    "sub_category_2": "Imported Cleaners",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/all-purpose-cleaners/imported-cleaners/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Disposables, Garbage Bag",
+    "sub_category_2": "Kitchen Rolls",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/disposables-garbage-bag/kitchen-rolls/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Disposables, Garbage Bag",
+    "sub_category_2": "Wet Wipe, Pocket Tissues",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/disposables-garbage-bag/wet-wipe-pocket-tissues/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Disposables, Garbage Bag",
+    "sub_category_2": "Garbage Bags",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/disposables-garbage-bag/garbage-bags/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Disposables, Garbage Bag",
+    "sub_category_2": "Toilet Paper",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/disposables-garbage-bag/toilet-paper/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Disposables, Garbage Bag",
+    "sub_category_2": "Aluminium Foil, Clingwrap",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/disposables-garbage-bag/aluminium-foil-clingwrap/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Disposables, Garbage Bag",
+    "sub_category_2": "Paper Napkin, Tissue Box",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/disposables-garbage-bag/paper-napkin-tissue-box/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Fresheners & Repellents",
+    "sub_category_2": "Insect Repellent",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/fresheners-repellents/insect-repellent/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Fresheners & Repellents",
+    "sub_category_2": "Mosquito Repellent",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/fresheners-repellents/mosquito-repellent/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Fresheners & Repellents",
+    "sub_category_2": "Air Freshener",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/fresheners-repellents/air-freshener/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Mops, Brushes & Scrubs",
+    "sub_category_2": "Utensil Scrub-Pad, Glove",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/mops-brushes-scrubs/utensil-scrub-pad-glove/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Mops, Brushes & Scrubs",
+    "sub_category_2": "Brooms & Dust Pans",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/mops-brushes-scrubs/brooms-dust-pans/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Mops, Brushes & Scrubs",
+    "sub_category_2": "Dust Cloth & Wipes",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/mops-brushes-scrubs/dust-cloth-wipes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Mops, Brushes & Scrubs",
+    "sub_category_2": "Mops, Wipers",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/mops-brushes-scrubs/mops-wipers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Mops, Brushes & Scrubs",
+    "sub_category_2": "Toilet & Other Brushes",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/mops-brushes-scrubs/toilet-other-brushes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Car & Shoe Care",
+    "sub_category_2": "Car Freshener",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/car-shoe-care/car-freshener/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Car & Shoe Care",
+    "sub_category_2": "Shoe Polish",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/car-shoe-care/shoe-polish/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Car & Shoe Care",
+    "sub_category_2": "Car Polish & Cleaners",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/car-shoe-care/car-polish-cleaners/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Car & Shoe Care",
+    "sub_category_2": "Shoe Shiners & Brushes",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/car-shoe-care/shoe-shiners-brushes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Pooja Needs",
+    "sub_category_2": "Camphor & Wicks",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/pooja-needs/camphor-wicks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Pooja Needs",
+    "sub_category_2": "Lamp & Lamp Oil",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/pooja-needs/lamp-lamp-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Pooja Needs",
+    "sub_category_2": "Candles & Match Box",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/pooja-needs/candles-match-box/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Pooja Needs",
+    "sub_category_2": "Agarbatti, Incense Sticks",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/pooja-needs/agarbatti-incense-sticks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Pooja Needs",
+    "sub_category_2": "Other Pooja Needs",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/pooja-needs/other-pooja-needs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Pooja Needs",
+    "sub_category_2": "Pooja Thali & Bells",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/pooja-needs/pooja-thali-bells/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Stationery",
+    "sub_category_2": "Scissor, Glue & Tape",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/stationery/scissor-glue-tape/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Stationery",
+    "sub_category_2": "Art Supplies",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/stationery/art-supplies/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Stationery",
+    "sub_category_2": "Exam Pads & Pencil Boxes",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/stationery/exam-pads-pencil-boxes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Stationery",
+    "sub_category_2": "Notebook & Journal",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/stationery/notebook-journal/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Stationery",
+    "sub_category_2": "Office Supplies",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/stationery/office-supplies/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Stationery",
+    "sub_category_2": "Pencil, Eraser & Sharpener",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/stationery/pencil-eraser-sharpener/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Stationery",
+    "sub_category_2": "Pens & Markers",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/stationery/pens-markers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Stationery",
+    "sub_category_2": "Stationery Kits",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/stationery/stationery-kits/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Bins & Bathroom Ware",
+    "sub_category_2": "Hangers, Clips & Rope",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/bins-bathroom-ware/hangers-clips-rope/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Bins & Bathroom Ware",
+    "sub_category_2": "Buckets & Mugs",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/bins-bathroom-ware/buckets-mugs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Bins & Bathroom Ware",
+    "sub_category_2": "Dustbins",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/bins-bathroom-ware/dustbins/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Bins & Bathroom Ware",
+    "sub_category_2": "Laundry, Storage Baskets",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/bins-bathroom-ware/laundry-storage-baskets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Bins & Bathroom Ware",
+    "sub_category_2": "Soap Cases & Dispensers",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/bins-bathroom-ware/soap-cases-dispensers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Bins & Bathroom Ware",
+    "sub_category_2": "Bath Stool, Basin & Sets",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/bins-bathroom-ware/bath-stool-basin-sets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Bins & Bathroom Ware",
+    "sub_category_2": "Other Plastic Ware",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/bins-bathroom-ware/other-plastic-ware/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Party & Festive Needs",
+    "sub_category_2": "Disposable Cups & Plates",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/party-festive-needs/disposable-cups-plates/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Party & Festive Needs",
+    "sub_category_2": "Caps, Balloons & Candles",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/party-festive-needs/caps-balloons-candles/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Party & Festive Needs",
+    "sub_category_2": "Gift Wraps & Bags",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/party-festive-needs/gift-wraps-bags/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Party & Festive Needs",
+    "sub_category_2": "Decorations",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/party-festive-needs/decorations/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Party & Festive Needs",
+    "sub_category_2": "Seasonal Accessories",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/party-festive-needs/seasonal-accessories/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Party & Festive Needs",
+    "sub_category_2": "Gifts",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/party-festive-needs/gifts/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Party & Festive Needs",
+    "sub_category_2": "Coins & Bars",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/party-festive-needs/coins-bars/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Automotive Accessories",
+    "sub_category_2": "Helmets",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/automotive-accessories/helmets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Books",
+    "sub_category_2": "Children's Books",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/books/childrens-books/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Books",
+    "sub_category_2": "Fiction",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/books/fiction/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Books",
+    "sub_category_2": "Non-Fiction",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/books/non-fiction/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Sports & Fitness",
+    "sub_category_2": "Exercise & Fitness",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/sports-fitness/exercise-fitness/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Sports & Fitness",
+    "sub_category_2": "Indoor Sports",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/sports-fitness/indoor-sports/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Sports & Fitness",
+    "sub_category_2": "Outdoor Sports",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/sports-fitness/outdoor-sports/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Sports & Fitness",
+    "sub_category_2": "Swimming",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/sports-fitness/swimming/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Toys & Games",
+    "sub_category_2": "Baby & Toddler Toys",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/toys-games/baby-toddler-toys/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Toys & Games",
+    "sub_category_2": "Board Games & Puzzles",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/toys-games/board-games-puzzles/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Toys & Games",
+    "sub_category_2": "Cards & Party Games",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/toys-games/cards-party-games/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Toys & Games",
+    "sub_category_2": "Dolls & Soft Toys",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/toys-games/dolls-soft-toys/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Toys & Games",
+    "sub_category_2": "Learning & Education",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/toys-games/learning-education/?nc=cs#!page=1"
+  },
+  {
+    "category": "Cleaning & Household",
+    "sub_category_1": "Toys & Games",
+    "sub_category_2": "Vehicle & Action Toys",
+    "link": "https://www.bigbasket.com/pc/cleaning-household/toys-games/vehicle-action-toys/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Pet Food & Accessories",
+    "sub_category_2": "Pet Meals & Treats",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/pet-food-accessories/pet-meals-treats/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Pet Food & Accessories",
+    "sub_category_2": "Health Supplements",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/pet-food-accessories/health-supplements/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Pet Food & Accessories",
+    "sub_category_2": "Pet Feeding Support",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/pet-food-accessories/pet-feeding-support/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Pet Food & Accessories",
+    "sub_category_2": "Pet Cleaning & Grooming",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/pet-food-accessories/pet-cleaning-grooming/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Pet Food & Accessories",
+    "sub_category_2": "Pet Collars & Leashes",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/pet-food-accessories/pet-collars-leashes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Pet Food & Accessories",
+    "sub_category_2": "Pet Toys",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/pet-food-accessories/pet-toys/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Steel Utensils",
+    "sub_category_2": "Steel Storage Containers",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/steel-utensils/steel-storage-containers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Steel Utensils",
+    "sub_category_2": "Plates & Tumblers",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/steel-utensils/plates-tumblers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Steel Utensils",
+    "sub_category_2": "Copper Utensils",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/steel-utensils/copper-utensils/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Steel Utensils",
+    "sub_category_2": "Bowls & Vessels",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/steel-utensils/bowls-vessels/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Steel Utensils",
+    "sub_category_2": "Steel Lunch Boxes",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/steel-utensils/steel-lunch-boxes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Gardening",
+    "sub_category_2": "Fertilizers & Pesticides",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/gardening/fertilizers-pesticides/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Gardening",
+    "sub_category_2": "Gardening Tools",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/gardening/gardening-tools/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Gardening",
+    "sub_category_2": "Pots, Planters & Trays",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/gardening/pots-planters-trays/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Gardening",
+    "sub_category_2": "Seeds & Sapling",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/gardening/seeds-sapling/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Gardening",
+    "sub_category_2": "Live Plants",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/gardening/live-plants/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Kitchen Accessories",
+    "sub_category_2": "Lighters",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/kitchen-accessories/lighters/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Kitchen Accessories",
+    "sub_category_2": "Strainer, Ladle, Spatula",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/kitchen-accessories/strainer-ladle-spatula/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Kitchen Accessories",
+    "sub_category_2": "Choppers & Graters",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/kitchen-accessories/choppers-graters/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Kitchen Accessories",
+    "sub_category_2": "Kitchen Tools & Other Accessories",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/kitchen-accessories/kitchen-tools-other-accessories/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Kitchen Accessories",
+    "sub_category_2": "Knives & Peelers",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/kitchen-accessories/knives-peelers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Cookware & Non Stick",
+    "sub_category_2": "Gas Stove",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/cookware-non-stick/gas-stove/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Cookware & Non Stick",
+    "sub_category_2": "Tawa & Sauce Pan",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/cookware-non-stick/tawa-sauce-pan/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Cookware & Non Stick",
+    "sub_category_2": "Pressure Cookers",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/cookware-non-stick/pressure-cookers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Cookware & Non Stick",
+    "sub_category_2": "Cookware Sets",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/cookware-non-stick/cookware-sets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Cookware & Non Stick",
+    "sub_category_2": "Kadai & Fry Pans",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/cookware-non-stick/kadai-fry-pans/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Cookware & Non Stick",
+    "sub_category_2": "Cook And Serve",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/cookware-non-stick/cook-and-serve/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Cookware & Non Stick",
+    "sub_category_2": "Microwavable Cookware",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/cookware-non-stick/microwavable-cookware/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Flask & Casserole",
+    "sub_category_2": "Vacuum Flask",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/flask-casserole/vacuum-flask/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Flask & Casserole",
+    "sub_category_2": "Casserole",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/flask-casserole/casserole/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Bakeware",
+    "sub_category_2": "Baking Tools & Brushes",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/bakeware/baking-tools-brushes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Bakeware",
+    "sub_category_2": "Bakeware Accessories",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/bakeware/bakeware-accessories/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Bakeware",
+    "sub_category_2": "Bakeware Moulds, Cutters",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/bakeware/bakeware-moulds-cutters/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Crockery & Cutlery",
+    "sub_category_2": "Glassware",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/crockery-cutlery/glassware/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Crockery & Cutlery",
+    "sub_category_2": "Cups, Mugs & Tumblers",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/crockery-cutlery/cups-mugs-tumblers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Crockery & Cutlery",
+    "sub_category_2": "Plates & Bowls",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/crockery-cutlery/plates-bowls/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Crockery & Cutlery",
+    "sub_category_2": "Dinner Sets",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/crockery-cutlery/dinner-sets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Crockery & Cutlery",
+    "sub_category_2": "Cutlery, Spoon & Fork",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/crockery-cutlery/cutlery-spoon-fork/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Storage & Accessories",
+    "sub_category_2": "Wall Hooks & Hangers",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/storage-accessories/wall-hooks-hangers/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Storage & Accessories",
+    "sub_category_2": "Containers Sets",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/storage-accessories/containers-sets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Storage & Accessories",
+    "sub_category_2": "Water & Fridge Bottles",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/storage-accessories/water-fridge-bottles/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Storage & Accessories",
+    "sub_category_2": "Racks & Holders",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/storage-accessories/racks-holders/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Storage & Accessories",
+    "sub_category_2": "Cloth Dryer & Iron Table",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/storage-accessories/cloth-dryer-iron-table/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Storage & Accessories",
+    "sub_category_2": "Lunch Boxes & Bags",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/storage-accessories/lunch-boxes-bags/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Storage & Accessories",
+    "sub_category_2": "Umbrellas & Rainwear",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/storage-accessories/umbrellas-rainwear/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Electricals",
+    "sub_category_2": "LED Bulbs & Battens",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/electricals/led-bulbs-battens/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Electronics & Devices\u00a0",
+    "sub_category_2": "Battery & Power Bank",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/electronics-devices/battery-power-bank/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Electronics & Devices\u00a0",
+    "sub_category_2": "Beauty Grooming Devices",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/electronics-devices/beauty-grooming-devices/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Home Furnishing",
+    "sub_category_2": "Bath Linen",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/home-furnishing/bath-linen/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Home Furnishing",
+    "sub_category_2": "Bedsheets",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/home-furnishing/bedsheets/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Home Furnishing",
+    "sub_category_2": "Blankets & Comforters",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/home-furnishing/blankets-comforters/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Home Furnishing",
+    "sub_category_2": "Curtains",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/home-furnishing/curtains/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Home Furnishing",
+    "sub_category_2": "Mats & Doormats",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/home-furnishing/mats-doormats/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Home Furnishing",
+    "sub_category_2": "Pillows & Cushions",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/home-furnishing/pillows-cushions/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Umbrella & Rainwear",
+    "sub_category_2": "Umbrella",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/umbrella-rainwear/umbrella/?nc=cs#!page=1"
+  },
+  {
+    "category": "Kitchen, Garden & Pets",
+    "sub_category_1": "Umbrella & Rainwear",
+    "sub_category_2": "Rainwear & Accessories",
+    "link": "https://www.bigbasket.com/pc/kitchen-garden-pets/umbrella-rainwear/rainwear-accessories/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Eggs",
+    "sub_category_2": "Farm Eggs",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/eggs/farm-eggs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Eggs",
+    "sub_category_2": "Country Eggs",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/eggs/country-eggs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Eggs",
+    "sub_category_2": "Protein Eggs",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/eggs/protein-eggs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Eggs",
+    "sub_category_2": "Other Eggs",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/eggs/other-eggs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Poultry",
+    "sub_category_2": "Turkey",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/poultry/turkey/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Poultry",
+    "sub_category_2": "Fresh Chicken",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/poultry/fresh-chicken/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Poultry",
+    "sub_category_2": "Frozen Chicken",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/poultry/frozen-chicken/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Sausages, Bacon & Salami",
+    "sub_category_2": "Chicken Sausages",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/sausages-bacon-salami/chicken-sausages/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Sausages, Bacon & Salami",
+    "sub_category_2": "Pork & Ham",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/sausages-bacon-salami/pork-ham/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Sausages, Bacon & Salami",
+    "sub_category_2": "Turkey & Duck",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/sausages-bacon-salami/turkey-duck/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Sausages, Bacon & Salami",
+    "sub_category_2": "Lamb",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/sausages-bacon-salami/lamb/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Mutton & Lamb",
+    "sub_category_2": "Fresh Mutton",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/mutton-lamb/fresh-mutton/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Mutton & Lamb",
+    "sub_category_2": "Frozen Mutton",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/mutton-lamb/frozen-mutton/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Marinades",
+    "sub_category_2": "Marinated Meat",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/marinades/marinated-meat/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Fish & Seafood",
+    "sub_category_2": "Fresh Water Fish",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/fish-seafood/fresh-water-fish/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Fish & Seafood",
+    "sub_category_2": "Dry Fish",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/fish-seafood/dry-fish/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Fish & Seafood",
+    "sub_category_2": "Frozen Fish & Seafood",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/fish-seafood/frozen-fish-seafood/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Fish & Seafood",
+    "sub_category_2": "Marine Water Fish",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/fish-seafood/marine-water-fish/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Fish & Seafood",
+    "sub_category_2": "Canned Seafood",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/fish-seafood/canned-seafood/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Fish & Seafood",
+    "sub_category_2": "Prawns & Shrimps",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/fish-seafood/prawns-shrimps/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Fish & Seafood",
+    "sub_category_2": "Other Seafood",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/fish-seafood/other-seafood/?nc=cs#!page=1"
+  },
+  {
+    "category": "Eggs, Meat & Fish",
+    "sub_category_1": "Pork & Other Meats",
+    "sub_category_2": "Fresh & Frozen Pork",
+    "link": "https://www.bigbasket.com/pc/eggs-meat-fish/pork-other-meats/fresh-frozen-pork/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Oils & Vinegar",
+    "sub_category_2": "Extra Virgin Olive Oil",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/oils-vinegar/extra-virgin-olive-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Oils & Vinegar",
+    "sub_category_2": "Canola & Rapeseed Oil",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/oils-vinegar/canola-rapeseed-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Oils & Vinegar",
+    "sub_category_2": "Pure, Pomace Olive Oil",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/oils-vinegar/pure-pomace-olive-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Oils & Vinegar",
+    "sub_category_2": "Balsamic & Cider Vinegar",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/oils-vinegar/balsamic-cider-vinegar/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Oils & Vinegar",
+    "sub_category_2": "Organic & Cold Press Oil",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/oils-vinegar/organic-cold-press-oil/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Oils & Vinegar",
+    "sub_category_2": "Regular & White Vinegar",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/oils-vinegar/regular-white-vinegar/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Oils & Vinegar",
+    "sub_category_2": "Flavoured & Other Oils",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/oils-vinegar/flavoured-other-oils/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Oils & Vinegar",
+    "sub_category_2": "Wine & Rice Vinegar",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/oils-vinegar/wine-rice-vinegar/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Dairy & Cheese",
+    "sub_category_2": "Flavoured & Greek Yogurt",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/dairy-cheese/flavoured-greek-yogurt/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Dairy & Cheese",
+    "sub_category_2": "Tofu",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/dairy-cheese/tofu/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Dairy & Cheese",
+    "sub_category_2": "Milk & Soya Drinks",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/dairy-cheese/milk-soya-drinks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Dairy & Cheese",
+    "sub_category_2": "Cream & Cheese Spreads",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/dairy-cheese/cream-cheese-spreads/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Dairy & Cheese",
+    "sub_category_2": "International Cheese",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/dairy-cheese/international-cheese/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Dairy & Cheese",
+    "sub_category_2": "Gourmet Ice Cream",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/dairy-cheese/gourmet-ice-cream/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Dairy & Cheese",
+    "sub_category_2": "Butter & Cream",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/dairy-cheese/butter-cream/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Snacks, Dry Fruits, Nuts",
+    "sub_category_2": "Nachos & Chips",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/snacks-dry-fruits-nuts/nachos-chips/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Snacks, Dry Fruits, Nuts",
+    "sub_category_2": "Dry Fruits & Berries",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/snacks-dry-fruits-nuts/dry-fruits-berries/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Snacks, Dry Fruits, Nuts",
+    "sub_category_2": "Gourmet Popcorn",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/snacks-dry-fruits-nuts/gourmet-popcorn/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Snacks, Dry Fruits, Nuts",
+    "sub_category_2": "Healthy, Baked Snacks",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/snacks-dry-fruits-nuts/healthy-baked-snacks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Snacks, Dry Fruits, Nuts",
+    "sub_category_2": "Roasted Seeds & Nuts",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/snacks-dry-fruits-nuts/roasted-seeds-nuts/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Snacks, Dry Fruits, Nuts",
+    "sub_category_2": "Trail & Cocktail Mixes",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/snacks-dry-fruits-nuts/trail-cocktail-mixes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Pasta, Soup & Noodles",
+    "sub_category_2": "Pastas & Spaghetti",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/pasta-soup-noodles/pastas-spaghetti/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Pasta, Soup & Noodles",
+    "sub_category_2": "Imported Noodles",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/pasta-soup-noodles/imported-noodles/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Pasta, Soup & Noodles",
+    "sub_category_2": "Imported Soups",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/pasta-soup-noodles/imported-soups/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Pasta, Soup & Noodles",
+    "sub_category_2": "Jasmine & Sushi Rice",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/pasta-soup-noodles/jasmine-sushi-rice/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cereals & Breakfast",
+    "sub_category_2": "Muesli & Rice Cakes",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cereals-breakfast/muesli-rice-cakes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cereals & Breakfast",
+    "sub_category_2": "Imported Oats & Porridge",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cereals-breakfast/imported-oats-porridge/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cereals & Breakfast",
+    "sub_category_2": "Cereal & Granola Bars",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cereals-breakfast/cereal-granola-bars/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cereals & Breakfast",
+    "sub_category_2": "Gourmet Flakes",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cereals-breakfast/gourmet-flakes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Sauces, Spreads & Dips",
+    "sub_category_2": "Chocolate, Peanut Spread",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/sauces-spreads-dips/chocolate-peanut-spread/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Sauces, Spreads & Dips",
+    "sub_category_2": "Jams, Marmalade, Spreads",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/sauces-spreads-dips/jams-marmalade-spreads/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Sauces, Spreads & Dips",
+    "sub_category_2": "Hummus, Cheese, Salsa Dip",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/sauces-spreads-dips/hummus-cheese-salsa-dip/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Sauces, Spreads & Dips",
+    "sub_category_2": "Mustard & Cheese Sauces",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/sauces-spreads-dips/mustard-cheese-sauces/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Sauces, Spreads & Dips",
+    "sub_category_2": "Salad Dressings",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/sauces-spreads-dips/salad-dressings/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Sauces, Spreads & Dips",
+    "sub_category_2": "Thai & Asian Sauces",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/sauces-spreads-dips/thai-asian-sauces/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Sauces, Spreads & Dips",
+    "sub_category_2": "Honey & Maple Syrup",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/sauces-spreads-dips/honey-maple-syrup/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Chocolates & Biscuits",
+    "sub_category_2": "International Chocolates",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/chocolates-biscuits/international-chocolates/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Chocolates & Biscuits",
+    "sub_category_2": "Luxury Chocolates, Gifts",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/chocolates-biscuits/luxury-chocolates-gifts/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Chocolates & Biscuits",
+    "sub_category_2": "Crackers & Digestive",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/chocolates-biscuits/crackers-digestive/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Chocolates & Biscuits",
+    "sub_category_2": "Marshmallow, Candy, Jelly",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/chocolates-biscuits/marshmallow-candy-jelly/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Chocolates & Biscuits",
+    "sub_category_2": "Cookies, Biscotti, Wafer",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/chocolates-biscuits/cookies-biscotti-wafer/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cooking & Baking Needs",
+    "sub_category_2": "Curry Paste, Coconut Milk",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cooking-baking-needs/curry-paste-coconut-milk/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cooking & Baking Needs",
+    "sub_category_2": "Cooking Chocolate, Cocoa",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cooking-baking-needs/cooking-chocolate-cocoa/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cooking & Baking Needs",
+    "sub_category_2": "Exotic Sugar & Salt",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cooking-baking-needs/exotic-sugar-salt/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cooking & Baking Needs",
+    "sub_category_2": "Quinoa & Grains",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cooking-baking-needs/quinoa-grains/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cooking & Baking Needs",
+    "sub_category_2": "Baking, Cake Decorations",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cooking-baking-needs/baking-cake-decorations/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cooking & Baking Needs",
+    "sub_category_2": "Flours & Pre-Mixes",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cooking-baking-needs/flours-pre-mixes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cooking & Baking Needs",
+    "sub_category_2": "Baking Accessories",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cooking-baking-needs/baking-accessories/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Cooking & Baking Needs",
+    "sub_category_2": "Herbs, Seasonings & Rubs",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/cooking-baking-needs/herbs-seasonings-rubs/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Drinks & Beverages",
+    "sub_category_2": "Coffee & Pre-Mix",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/drinks-beverages/coffee-pre-mix/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Drinks & Beverages",
+    "sub_category_2": "Aerated, Still, Sparkling",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/drinks-beverages/aerated-still-sparkling/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Drinks & Beverages",
+    "sub_category_2": "Cocktail Mixes",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/drinks-beverages/cocktail-mixes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Drinks & Beverages",
+    "sub_category_2": "Health Drinks",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/drinks-beverages/health-drinks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Drinks & Beverages",
+    "sub_category_2": "Non-Alcoholic Beer, Wine",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/drinks-beverages/non-alcoholic-beer-wine/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Drinks & Beverages",
+    "sub_category_2": "Gourmet Juices & Drinks",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/drinks-beverages/gourmet-juices-drinks/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Drinks & Beverages",
+    "sub_category_2": "Gourmet Tea & Tea Bags",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/drinks-beverages/gourmet-tea-tea-bags/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Drinks & Beverages",
+    "sub_category_2": "Nutrition Drink & Mixes",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/drinks-beverages/nutrition-drink-mixes/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Tinned & Processed Food",
+    "sub_category_2": "Olive, Jalapeno, Gherkin",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/tinned-processed-food/olive-jalapeno-gherkin/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Tinned & Processed Food",
+    "sub_category_2": "Beans & Pulses",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/tinned-processed-food/beans-pulses/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Tinned & Processed Food",
+    "sub_category_2": "Fruits & Pulps",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/tinned-processed-food/fruits-pulps/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Tinned & Processed Food",
+    "sub_category_2": "Tomatoes & Vegetables",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/tinned-processed-food/tomatoes-vegetables/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Tinned & Processed Food",
+    "sub_category_2": "Fish & Tuna",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/tinned-processed-food/fish-tuna/?nc=cs#!page=1"
+  },
+  {
+    "category": "Gourmet & World Food",
+    "sub_category_1": "Tinned & Processed Food",
+    "sub_category_2": "Meats & Sausages",
+    "link": "https://www.bigbasket.com/pc/gourmet-world-food/tinned-processed-food/meats-sausages/?nc=cs#!page=1"
+  }
+]

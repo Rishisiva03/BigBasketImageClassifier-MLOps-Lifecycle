@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Country Cage Free Eggs-Medium",
+    "sku_type": "6 pcs ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185807_2-fresho-country-cage-free-eggs-medium-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Eggs - Infertile, Rich In Protein",
+    "sku_type": null,
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282580_3-sams-fresh-organic-eggs-infertile-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farm Quail Eggs-Small",
+    "sku_type": "12 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094157_5-fresho-farm-quail-eggs-small-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Duck Eggs-Large",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094162_5-fresho-duck-eggs-large-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Liquid Egg White",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313723_2-yellows-whites-pasteurised-liquid-egg-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Egg White - Liquid",
+    "sku_type": "250 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122451_4-skm-best-egg-white-liquid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Egg White - Cube",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122449_5-skm-best-egg-white-cube.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium 10 Brown Eggs-Indian Breed-HighProtein- No-antibiotics 100% All Natural",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000517_13-henfruit-power-brown-eggs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farm Economy Egg -Small, Antibiotic",
+    "sku_type": "6 pcs - Box",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40163853_1-fresho-popular-eggs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Cage Free Eggs(6 pcs) - 100% Natural",
+    "sku_type": "6 pcs ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111036_2-henfruit-cage-free-eggs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Country Corn Fed Eggs-Medium",
+    "sku_type": "10 pcs ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185808_2-fresho-country-corn-fed-eggs-medium-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farm No-Hatch Herbal Eggs - Medium, Antibiotic Residue-Free",
+    "sku_type": "6 pcs - Box",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185809_1-fresho-farm-no-hatch-herbal-eggs-medium-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quail Eggs",
+    "sku_type": "12 pcs ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40041960_1-mpm-quail-eggs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Free Range Eggs",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208096_1-fresho-free-range-eggs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Liquid Egg Yolk",
+    "sku_type": "500 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313621_2-yellows-whites-pasteurised-egg-yolk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Liquid Whole Egg",
+    "sku_type": "500 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313622_2-yellows-whites-pasteurised-liquid-whole-egg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Egg - Liquid",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122453_5-skm-best-whole-egg-liquid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrition Free Range Herbal Fed Brown Eggs",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276382_2-eggoz-nutrition-free-range-herbal-eggs-premium-local-farm-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farm Sunny Eggs - Medium, Antibiotic Residue-Free",
+    "sku_type": "10 pcs - Tray Pack",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185810_1-fresho-farm-sunny-eggs-medium-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Desi Tan Shell eggs - 100% Natural, No - antibiotics,hormone, steroids",
+    "sku_type": "10 pcs ",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199587_2-henfruit-desi-tan-egg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggs - Free range",
+    "sku_type": "6 pcs ",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119192_1-ayush-eggs-eggs-free-range.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggs - Herbal",
+    "sku_type": "6 pcs ",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103371_1-eggon-eggs-herbal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggs - Panchakavya",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129036_4-mpm-eggs-panchakavya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pullet Eggs - New Born, Fresh, 100% Natural, High Protein",
+    "sku_type": "10 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263401_2-hen-fruit-pullet-eggs-new-born-fresh-100-natural-high-protein.jpg?tr=w-154,q-80"
+  }
+]

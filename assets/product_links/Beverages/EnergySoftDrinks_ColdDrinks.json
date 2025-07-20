@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Zero Sugar - No Calories Soft Drink, Carbonated Water",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269290_1-coca-cola-zero-sugar-no-calories-soft-drink-carbonated-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon-Lime Flavoured Soft Drink",
+    "sku_type": "740 ml - PET Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000732_9-sprite-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Taste Soft Drink - Refreshing",
+    "sku_type": "2 L - PET Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/251037_14-coca-cola-soft-drink-original-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soft Drink",
+    "sku_type": "250 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/401587_1-thums-up-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soft Drink - Orange Flavour",
+    "sku_type": "2.25 L - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222668_1-fanta-soft-drink-orange-flavoured.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Limonata - Limey Minty cooler",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40097836_3-bisleri-limonata-limey-minty-cooler.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soft Drink",
+    "sku_type": "250 ml - (Pack of 8)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204558_2-thums-up-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soft Drink",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40015868_11-mountain-dew-soft-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "PET Bottle",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265692_8-appy-fizz-apple-juice-based-drink.jpg?tr=w-154,q-80"
+  }
+]

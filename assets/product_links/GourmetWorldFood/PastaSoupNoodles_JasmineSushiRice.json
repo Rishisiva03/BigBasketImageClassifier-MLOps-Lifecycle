@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Thai Jasmine Rice - Aromatic",
+    "sku_type": "300 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341173_1-urban-platter-thai-jasmine-rice-aromatic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Royal Thai Cuisine Jasmine Rice - Rich In Flavour & Fragrance, Long Grains",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190688_1-blue-elephant-royal-thai-cuisine-jasmine-rice-rich-in-flavour-fragrance-long-grains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Short Grain Sushi Rice",
+    "sku_type": "300 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341178_1-urban-platter-short-grain-sushi-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Authentic Italian Arborio Rice - Medium Grained, Delicious",
+    "sku_type": "1 kg ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225969_1-abbies-authentic-italian-arborio-rice-medium-grained-delicious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jasmine Rice",
+    "sku_type": "5 kg ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207365_1-royal-umbrella-jasmine-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shirataki Rice",
+    "sku_type": "220 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332629_1-urban-platter-shirataki-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arborio - Riso",
+    "sku_type": "1 kg ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40115006_4-scotti-arborio-riso.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shirataki Long Grain Rice",
+    "sku_type": "220 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332628_1-urban-platter-shirataki-long-grain-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Rice Vermicelli",
+    "sku_type": "225 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000913_2-mama-instant-noodles-rice-vermicelli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sushi Nori Sheets",
+    "sku_type": "30 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341181_1-urban-platter-sushi-nori-sheets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arborio Italian Rice",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177317_3-cascina-belvedere-arborio-italian-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Long Grain Thai Jasmine Rice - Aromatic",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341156_1-urban-platter-long-grain-thai-jasmine-rice-aromatic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sushi Rice - Tasty & Healthy, Product Of Japan",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266948_1-future-foods-sushi-rice-tasty-healthy-product-of-japan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brown Rice Paper",
+    "sku_type": "100 g - 10 pcs",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344181_1-moi-soi-brown-rice-paper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dried Wakame Seaweed - Earthy & Tender",
+    "sku_type": "50 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341176_1-urban-platter-dried-wakame-seaweed-earthy-tender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Rice Paper",
+    "sku_type": "100 g - 10 pcs",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344180_1-moi-soi-white-rice-paper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Vermicelli",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009959_2-star-lion-rice-vermicelli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice - Jasmine",
+    "sku_type": "1 kg ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004954_1-japanese-choice-rice-jasmine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rice Vermicelli - Oriental Style (Clear Soup)",
+    "sku_type": "55 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004113_4-mama-instant-rice-vermicelli-oriental-style-clear-soup.jpg?tr=w-154,q-80"
+  }
+]

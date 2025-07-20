@@ -1,0 +1,2708 @@
+[
+  {
+    "name": "Idly & Dosa Batter",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/294904_7-id-idly-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly & Dosa Batter",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40007855_7-asal-idly-dosa-batter-ready-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Minute Fresh Dosa Batter",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40253863_1-mtr-foods-minute-fresh-dosa-batter-no-added-preservatives-soda-colours-or-flavours-authentic-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puliogare Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003526_2-grb-powder-puliogare.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Mix - Palappam",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30004883_4-double-horse-easy-mix-palappam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Choco Chip Millet Pancake Mix - No Wheat, No Refined Sugar",
+    "sku_type": "250 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307565_1-mille-a-supergrain-co-banana-choco-chip-millet-pancake-mix-no-wheat-no-refined-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Upma Mix",
+    "sku_type": "160 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265942_9-mtr-breakfast-mix-masala-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Crunch Breakfast Cereal - Ragi Stars & Moons",
+    "sku_type": "400 g - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230867_3-slurrp-farm-chocolate-breakfast-cereal-stars-moons-healthy-millet-no-maida-or-refined-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancake Mix - Butterscotch Flavour, Makes Soft & Fluffy Pancakes",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276543_2-pillsbury-pancake-mix-butterscotch-flavour-makes-soft-fluffy-pancakes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Bajji Bonda Snack Mix",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/266005_1-mtr-snack-mix-bajji-bonda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268793_2-lakshmi-fresh-multi-millet-dosa-instant-mix-great-source-of-protein-vitamins-maintain-healthy-weight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasta Sauce - Cheesy Creamy Mix, Instant Pasta Sauce",
+    "sku_type": "30 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005492_3-weikfield-pasta-sauce-cheesy-creamy-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rich Choco Oven Cake Mix",
+    "sku_type": "270 g - Box",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009214_8-pillsbury-cake-mix-rich-choco-egg-less.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Complete Buttermilk Pancake Mix",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083956_3-betty-crocker-pancake-mix-buttermilk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Uttappam Mix",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265957_6-mtr-breakfast-mix-uttappam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Vita Nutrition Drink",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112443_8-gooddiet-health-drink-millet-vita.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Idli Mix",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265954_7-mtr-breakfast-mix-rice-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli Dosa Chutney Powder",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075561_2-ask-foods-chutney-powder-idli-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa Breakfast Mix",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100005356_2-gits-rice-dosa-breakfast-mix-crispy-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Idli Instant Mix",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273498_4-aashirvaad-rava-idli-instant-mix-rich-in-taste-with-added-cashews-easy-to-make.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Palada Payasam Mix",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30004900_2-double-horse-payasam-mix-instant-palada.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bajra Dosa Batter",
+    "sku_type": "1 kg ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229138_1-batter-box-bajra-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Sambar Ready Mix",
+    "sku_type": "180 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/260772_6-mtr-ready-mix-sambar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Dosa Breakfast Mix",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100005369_4-gits-rava-dosa-breakfast-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Chutney Powder",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075559_2-ask-foods-chutney-powder-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mangaluru Buns Ready Mix For Breakfast Time",
+    "sku_type": "500 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312896_1-mtr-mangaluru-buns-ready-mix-for-breakfast-time.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Dosa",
+    "sku_type": "400 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112444_8-gooddiet-breakfast-mix-multi-millet-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seviyan Upma",
+    "sku_type": "160 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40059896_6-mtr-3-min-seviyan-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appam/Palappam Batter without Yeast  - Kerala Cuisine, Home-Style & Stone Ground",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255911_2-batter-box-appam-batter-for-dosa-or-pancake-kerala-cuisine-home-style-stone-ground.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Upma",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112448_8-gooddiet-breakfast-mix-little-millet-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Spinach Dosa Mix",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125757_4-slurrp-farm-millet-dosa-mix-supergrains-spinach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "20g Protein Bar - Double Chocolate, No Added Sugar, Loaded With Fibre",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095300_19-yoga-bar-protein-bar-chocolate-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "3 Minute Breakfast Kesari Halwa",
+    "sku_type": "60 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40105368_6-mtr-3-minute-breakfast-kesari-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idiyappam - Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338507_1-eastern-idiyappam-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Ragi Dosa Batter",
+    "sku_type": "750 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242046_2-akshayakalpa-organic-ragi-dosa-batter-unsalted-no-soda-rich-in-iron-fibre-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Mix - Dhokla",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004610_2-mtr-snack-mix-dhokla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancake Mix - Dark Chocolate",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329056_1-yoga-bar-pancake-mix-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Mix - Dosa",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265949_7-mtr-breakfast-mix-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Ragi Dosa Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206874_3-organic-tattva-organic-ragi-dosa-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brown Rice Idly/Dosa Batter - No White Rice",
+    "sku_type": "750 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229139_1-batter-box-brown-rice-idlydosa-batter-no-white-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kodo Millet Idli",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112441_8-gooddiet-breakfast-mix-kodo-millet-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Foxtail/Bajra Millet Dosa",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112439_8-gooddiet-breakfast-mix-foxtail-millet-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apricot Fig Protein Bar",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131386_5-yoga-bar-breakfast-protein-bar-apricot-fig.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Ragi Dosa",
+    "sku_type": "400 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112446_8-gooddiet-breakfast-mix-finger-millet-ragi-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oats Pongal",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112437_8-gooddiet-breakfast-mix-oats-pongal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Moong Beetroot Chilla Mix - High In Protein & Fibre",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276250_3-gladful-sprouted-moong-beetroot-chilla-mix-high-in-protein-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khichu Flour - Healthy & Tasty, Makes 8 Servings",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233510_2-talod-khichu-flour-healthy-tasty-makes-8-servings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Gulab Jamun",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095556_1-talati-instant-mix-gulab-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alsande Masala Vada Mix - Traditional Recipe",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292313_1-sarati-instant-alsande-masala-vada-mix-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Vegan Omelette Mix - Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302688_1-the-better-flour-instant-vegan-omelette-mix-with-white-chickpea-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Parippu Pradhaman",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314836_1-double-horse-instant-parippu-pradhaman.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly & Dosa Batter",
+    "sku_type": "1 kg ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329466_1-petphool-idly-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Handvo - Instant Mix",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291363_1-satvam-handvo-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dakor Gota - Instant Mix",
+    "sku_type": "400 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291373_1-satvam-dakor-gota-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khaman - Instant Mix",
+    "sku_type": "200 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291372_1-satvam-khaman-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhokla - Instant Mix",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291371_1-satvam-dhokla-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Navane Idli Instant Mix - Great Source Of Vitamins, Minerals, For Healthy Heart",
+    "sku_type": "500 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268794_1-lakshmi-fresh-navane-idli-instant-mix-great-source-of-vitamins-minerals-for-healthy-heart.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Rich Oats, Ragi & Multigrain Cheela Mix Combo",
+    "sku_type": "250 g - (Pack of 3)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315905_1-the-naturik-co-protein-rich-oats-ragi-multigrain-cheela-mix-combo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Semia Kheer",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022302_1-udupi-ruchi-instant-mix-semia-kheer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bombay Mixture Desi Swaad",
+    "sku_type": "396 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310288_1-good-morning-bombay-mixture-desi-swaad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Pearl Millet Powder",
+    "sku_type": "100 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110158_3-sprouvita-sprouted-pearl-millet-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khatta Mittha Lite",
+    "sku_type": "396 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310289_1-good-morning-khatta-mittha-lite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Sambhar",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095537_1-talati-instant-mix-sambhar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Masala Idli Mix",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292299_1-sarati-instant-rava-masala-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shavige Rava Upma Mix - Traditional Breakfast",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292303_1-sarati-instant-shavige-rava-upma-mix-traditional-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shavige Rava Idli Mix",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292301_1-sarati-instant-shavige-rava-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Tiffins Ghee Kharabath Mix - Healthy & Tasty",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232589_1-hallimane-easy-tiffins-ghee-kharabath-mix-healthy-tasty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kodo Millet/Koden",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314479_1-desi-nutri-kodo-milletkoden.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Palappam - Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338506_1-eastern-palappam-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Oats - Gluten Free, Fibre Rich, For Healthy Breakfast, Cooking, Baking Use",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252091_2-graminway-instant-oats-gluten-free-fibre-rich-for-healthy-breakfast-cooking-baking-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Oats Upma Mix",
+    "sku_type": "240 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328226_3-right-shift-millet-oats-upma-mix-power-of-7-grains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Millet Pancake Mix - No Wheat, No Refined Sugar",
+    "sku_type": "250 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307566_1-mille-a-supergrain-co-chocolate-millet-pancake-mix-no-wheat-no-refined-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Mix - Dhoka",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125932_5-gits-dhoka-snack-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Pongal",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112449_8-gooddiet-breakfast-mix-little-millet-pongal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Shavige Payasa Mix",
+    "sku_type": "250 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40024718_3-sanketi-adukale-shavige-payasa-semiya-kheer-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Dosa",
+    "sku_type": null,
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095530_1-talati-instant-mix-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Rich Oats & Multigrain Cheela Mix Combo",
+    "sku_type": "250 g - (Pack of 2)",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315904_1-the-naturik-co-protein-rich-oats-multigrain-cheela-mix-combo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa - Premium, Protein Rich Superfood",
+    "sku_type": null,
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112630_1-nutriwish-quinoa-premium-protein-rich-superfood.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muffie Tutti Frutti",
+    "sku_type": "30 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310302_1-good-morning-muffie-tutti-frutti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Eat Poha - 100% Natural, No Added Colours Or Preservatives",
+    "sku_type": "80 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262357_1-freshway-ready-to-eat-poha-100-natural-no-added-colours-or-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Crunchy Nut Mix - 100% Natural, No Added Sugar, Improves Digestion",
+    "sku_type": "40 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301326_1-eat-better-co-sweet-crunchy-nut-mix-100-natural-no-added-sugar-improves-digestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Vada Mix - Traditional Recipe",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292314_1-sarati-instant-masala-vada-mix-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Poha Mix - Traditional Recipe",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292308_1-sarati-instant-poha-mix-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Tur Dal Mix - Adds Flavour & Taste",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292318_1-sarati-instant-instant-tur-dal-mix-adds-flavour-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Rawa Idli",
+    "sku_type": "500 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022297_1-udupi-ruchi-instant-mix-rawa-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli - Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338503_1-eastern-idli-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Dosa Mix - Multi Millet + Spinach + Beetroot",
+    "sku_type": "450 g - (3 pcs x 150 g each)",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219973_1-timios-organic-dosa-mix-multi-millet-spinach-beetroot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kulfi Powder Mix - With Badam, Pista, Kesar, Elaichi, Just Add Milk",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241560_1-dadaji-kulfi-powder-mix-with-badam-pista-kesar-elaichi-just-add-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Handwa Flour",
+    "sku_type": "400 g - Box",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330537_2-talod-handwa-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Moong & Millet Dosa Instant Mix - Classic Salted, High Protein, Rich Breakfast",
+    "sku_type": "150 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259393_1-foodstrong-sprouted-moong-millet-dosa-instant-mix-classic-salted-high-protein-rich-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chushi Pithe - Premium, Bengal Special, Hand Rolled, No Preservatives & Artificial Flavour",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238096_1-menu-maker-chushi-pithe-premium-bengal-special-hand-rolled-no-preservatives-artificial-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puranpoli Mix",
+    "sku_type": "200 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007093_6-tanawades-smart-food-instant-mix-puranpoli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mashed Potato - Quick & Convenient, For Aloo Paratha, Pav Bhaji, Cutlets",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272858_1-amul-instant-mashed-potato-quick-convenient-for-aloo-paratha-pav-bhaji-cutlets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bhatura Mix - Ready To Cook",
+    "sku_type": "500 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251136_4-indimix-bhatura-mix-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Flour Mix - Gluten Free Low GI Diabetic Friendly, 100% Natural",
+    "sku_type": "200 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287795_2-sugar-watchers-almond-flour-mix-gluten-free-low-gi-diabetic-friendly-100-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ghee Upmavu - Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338505_1-eastern-ghee-upmavu-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Rich Multigrain Cheela Mix",
+    "sku_type": null,
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315899_1-the-naturik-co-protein-rich-multigrain-cheela-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Avalose Podi Roasted Rice Ball Mix",
+    "sku_type": "500 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053550_1-double-horse-avalose-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rolled Oats - Gluten Free, Fibre Rich, For Healthy Breakfast, Cooking, Baking Use",
+    "sku_type": "500 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252092_3-graminway-rolled-oats-gluten-free-fibre-rich-for-healthy-breakfast-cooking-baking-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Millet Pancake & Waffle Mix - Vanilla Banana With Jowar & Oats",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340988_1-the-naturik-co-sprouted-millet-pancake-waffle-mix-vanilla-banana-with-jowar-oats.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nylon Khaman Flour - Healthy & Tasty, Makes 63 Servings",
+    "sku_type": "500 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233501_1-talod-nylon-khaman-flour-healthy-tasty-makes-63-servings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Ragi Dosa",
+    "sku_type": "500 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022294_1-udupi-ruchi-instant-mix-ragi-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Dosa Mix - Sprouted Protein",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318165_1-gladful-ragi-dosa-mix-sprouted-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Upma Mix",
+    "sku_type": "170 g - Polypack",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178026_2-bambino-instant-upma-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Handwa/Spicy Cake Flour - Healthy & Tasty, Makes 15 Servings",
+    "sku_type": "500 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233504_1-talod-handwaspicy-cake-flour-healthy-tasty-makes-15-servings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Low GI Instant Idli Mix | Diabetic Friendly | Gluten Free",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218055_2-sugar-watchers-millet-low-gi-instant-idli-mix-diabetic-friendly-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upwas Thalipeeth Mix",
+    "sku_type": "180 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184749_3-tanawades-instant-premix-upwas-thalipeeth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Idli",
+    "sku_type": "250 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135745_2-farmveda-instant-mix-ragi-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mangalore Bonda - Traditional Recipe",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292311_1-sarati-instant-mangalore-bonda-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Grains Health Mix",
+    "sku_type": "400 g - Box",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110156_3-sprouvita-sprouted-grains-health-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Rice Mix",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007102_6-tanawades-instant-mix-masala-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Triple Choco Brownie Mix",
+    "sku_type": "425 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094302_4-betty-crocker-brownie-mix-triple-choco-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dalwada Flour - Healthy & Tasty, Makes 52 Servings",
+    "sku_type": "500 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233508_2-talod-dalwada-flour-healthy-tasty-makes-52-servings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sheera Mix",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184746_5-tanawades-instant-premix-sheera.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Ragi & Oats Dosa Mix - Rich In Protein & Fibre, Easy To Digest",
+    "sku_type": "400 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280455_1-foodstrong-sprouted-ragi-oats-dosa-mix-rich-in-protein-fibre-easy-to-digest.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Upma Rava - Rich In Fibre, Gluten Free, Improves Digestion",
+    "sku_type": "450 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286640_1-desi-nutri-multi-millet-upma-rava-rich-in-fibre-gluten-free-improves-digestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tadka Masala Supergrain Mix Protein Active",
+    "sku_type": "400 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212798_1-kapiva-tadka-masala-supergrain-mix-protein-active.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mom's Style Upma - Instant Mix",
+    "sku_type": "80 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213013_1-mothers-recipe-moms-style-upma-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Satwik Thalipith Bhajani",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003276_2-bedekar-bhajni-thalipith.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Dosa & Idli Batter",
+    "sku_type": "900 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152395_4-attagirl-multigrain-batter-for-idlis-dosas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Vanilla Flavoured",
+    "sku_type": "100 g - Box",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009213_2-pillsbury-custard-powder-golden-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cocoa Powder",
+    "sku_type": "50 g - Carton",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20006196_1-harima-coco-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana Kichadi Mix",
+    "sku_type": "180 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184748_4-tanawades-instant-premix-sabudana-khichadi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Milk",
+    "sku_type": "180 ml - Tetra Pak",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206048_4-maggi-liquid-coconut-milk-adds-creaminess-flavour-to-gravies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Idli Dosa Batter",
+    "sku_type": "1 kg - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228044_1-shwethas-batterstore-ragi-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farali Dosa Mix / Upwas Dosa Mix",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191749_1-geetarth-upwas-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "For Soft 'n' Fluffy Rava Idli Instant Mix",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134081_1-ogara-instant-mix-rava-idly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Mix - Karaisutir Kachori Bengali",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129646_3-gits-bengali-kachori-meal-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Missi Roti Mix - Ready To Cook, Protein Rich",
+    "sku_type": "500 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251143_4-indimix-missi-roti-mix-ready-to-cook-protein-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Dal",
+    "sku_type": "110 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310291_1-good-morning-moong-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix - Instant Khichdi",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129645_3-gits-khichadi-meal-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Multigrain Rava Dosa Ready Mix - Millets & More, Kodo ,Little Millet & Jowar",
+    "sku_type": "180 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221711_1-manna-instant-multigrain-rava-dosa-ready-mix-millets-more-kodo-little-millet-jowar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Uttapam Ready Mix - Crispy, Source Of Protein, Zero Cholesterol",
+    "sku_type": "200 g - Mono Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259478_4-organic-tattva-organic-uttapam-ready-mix-crispy-source-of-protein-zero-cholesterol.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Sweet & Salt Chiwda - Spice Blend Of Flattened Rice With Groundnut",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237055_2-phalada-pure-sure-organic-sweet-salt-chiwda-spice-blend-of-flattened-rice-with-groundnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sorghum Millet/Jowar Pasta",
+    "sku_type": "180 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264664_4-immunit-jowarsorghum-millet-pasta-helps-control-diabetes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhokar Dalna Mix - Premium, Lentil Cake, Bengal's Traditional Recipe",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238098_1-menu-maker-dhokar-dalna-mix-premium-lentil-cake-bengals-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhoka - Snack Of Matar & Chana Dal, Mild Spice, Instant Mix",
+    "sku_type": "200 g - Box",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268402_2-mothers-recipe-dhoka-snack-of-matar-chana-dal-mild-spice-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Huri Hittu Instant Mix",
+    "sku_type": "500 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268795_2-lakshmi-fresh-ragi-huri-hittu-instant-mix-rich-in-protein-calcium-easy-to-digest-best-for-weight-loss.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rawa Idli Instant Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000199_2-tops-instant-mix-rava-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Caramel Instant Oats - Healthy Breakfast, Rich In Fibre & Protein",
+    "sku_type": "55 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229268_1-yu-instant-fruit-oats-banana-caramel-ready-to-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Tiffins Ghee Bisibele Bath Mix - Healthy & Tasty",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232592_1-hallimane-easy-tiffins-ghee-bisibelebath-mix-healthy-tasty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Health Bar - No Added Sugar, Weight Management, Healthy Snack, Vegan",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800401503_8-fabbox-raw-almond-health-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix Lemon Poha",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103773_3-farmveda-instant-mix-lemon-poha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Lal Math Paratha Mix",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007094_5-tanawades-instant-mix-multigrain-lal-math-paratha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Granola - Choco Almond & Cookies, Prebiotic Fiber, Breakfast Cereal",
+    "sku_type": "275 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206052_1-fit-flex-granola-choco-almond-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vermicelli Payasam Mix",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001456_1-mtr-sweet-mix-vermicelli-payasam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Rich Multi Dal Chilla Mix, Ready To Cook Mix",
+    "sku_type": "180 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125390_8-tata-sampann-multi-dal-chilla-mix-protein-rich-perfect-for-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dahi Vada Mix",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40165506_1-haldirams-dahi-vada-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Unblanched Almond Flakes",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205970_1-nutriwish-unblanched-almond-flakes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Appam Batter - Packed With Nutrients, Healthy Breakfast Option",
+    "sku_type": "1 kg - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250705_1-better-choice-instant-appam-batter-packed-with-nutrients-healthy-breakfast-option.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancake Mix - Funfetti",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219145_2-pillsbury-pancake-mix-funfetti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma Mix",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184747_3-tanawades-instant-premix-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Idli Mix",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130494_1-suruchi-mix-idli-instant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thepla Flour - Healthy & Tasty, Makes 30 Servings",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233515_2-talod-thepla-flour-healthy-tasty-makes-30-servings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Idli Instant Mix",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40097053_5-gangwal-instant-mix-rice-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Dahi Vada",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095528_1-talati-instant-mix-dahi-vada.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Dosa Mix - Easy & Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279118_3-auric-multi-millet-dosa-mix-rich-in-protein-calcium-no-colours-added.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli & Dosa Batter - No Preservatives",
+    "sku_type": "1 kg - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298016_1-tom-idli-dosa-batter-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Idli Mix Flour",
+    "sku_type": "400 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057424_1-uttam-instant-mix-rava-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cr\u00c3\u00a8me Roll",
+    "sku_type": "40 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310304_1-good-morning-creme-roll.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Handvo Snack Mix",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125937_2-gits-ready-mix-handvo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pearl Millet/Bajra Noodles",
+    "sku_type": "175 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264658_4-immunit-bajrapearl-millet-noodles-controls-diabetes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oats & Millet Pancake Mix - Vanilla Banana, Made With Jaggery, Rich In Fibre",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280453_1-foodstrong-oats-millet-pancake-mix-vanilla-banana-made-with-jaggery-rich-in-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dahi Vada Snack Mix",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100005374_3-gits-dahi-vada-snack-mix-crispy-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jave Bhune (Handmade)",
+    "sku_type": "400 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000692_1-mehak-jave-bhune-handmade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant China Grass - Milk Jelly & Chocolate Flavoured",
+    "sku_type": "100 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100152003_1-blue-bird-instant-china-grass-chocolate-flavoured.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Rawa Upma",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022299_1-udupi-ruchi-instant-mix-rawa-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shahi Shevai Kheer Mix - With Added Dry Fruits",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007100_7-tanawades-smart-food-instant-mix-shahi-shevai-kheer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Thalipeeth Mix - Made with 10 Grains",
+    "sku_type": "180 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007098_6-tanawades-smart-food-instant-mix-multigrain-thalipith-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Uppuma",
+    "sku_type": "200 g - Box",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169770_2-kanchana-instant-upma-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Methi Paratha Mix",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007103_7-tanawades-smart-food-instant-mix-multigrain-methi-paratha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun Sweet Mix",
+    "sku_type": "175 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004695_3-priya-instant-gulab-jamun-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rava Dosa Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004699_1-priya-mix-rava-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Dosa Instant Mix",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313868_3-aashirvaad-rice-dosa-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Rich Ragi Cheela Mix",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315898_1-the-naturik-co-protein-rich-ragi-cheela-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Dosa",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103767_2-farmveda-instant-mix-multi-millet-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kolhapuri Misal Mix with Matki",
+    "sku_type": "70 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184742_5-tanawades-instant-premix-kolhapuri-misal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Medu Vada Instant Mix",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40165513_1-haldirams-medu-vada-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oats Idli Instant Mix",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40165509_1-haldirams-oats-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Idiyappam",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169764_1-kanchana-instant-idiyappam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Food Millet Mexican Salsa Khichdi - Ready To Cook, Rich In Protein",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245928_1-fortune-superfood-millet-mexican-salsa-khichdi-enriched-with-5-grains-protein-rich-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Wheat Puff - Crunchy Healthy Snack, No Preservatives Or Artificial Ingredients",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252927_1-geetarth-roasted-wheat-puff-crunchy-healthy-snack-no-preservatives-or-artificial-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Dosa Batter - 100% Natural, No Preservatives, Need To Add Salt",
+    "sku_type": "1 kg - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267968_1-srimathi-foods-ragi-dosa-batter-100-natural-no-preservatives-need-to-add-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Medu Vada Breakfast Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100005358_4-gits-medu-vada-breakfast-mix-crispy-soft-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berry Apple Cinnamon Instant Oats - Healthy Breakfast, Rich In Fibre, Protein",
+    "sku_type": "55 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229267_1-yu-instant-fruit-oats-berry-apple-cinnamon-ready-to-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Rice Dosa Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206877_3-organic-tattva-organic-rice-dosa-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix Upma",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103772_4-farmveda-instant-mix-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma Instant Mix",
+    "sku_type": "170 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003371_7-motherss-recipe-instant-mix-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Gujrati Dhokla",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022285_1-udupi-ruchi-instant-mix-gujrati-dhokla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Kheer Payasam Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004696_1-priya-mix-kheer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rava Idli Mix",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/266433_4-bambino-instant-mix-rava-idli-with-cashewnuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Dosa Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004694_1-priya-instant-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sambar Breakfast Mix",
+    "sku_type": "100 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100005360_2-gits-sambar-breakfast-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancake Mix - Classic Flavour, Makes Soft & Fluffy Pancakes",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276545_2-pillsbury-pancake-mix-classic-flavour-makes-soft-fluffy-pancakes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma Breakfast Mix",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125936_5-gits-upma-breakfast-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Idli",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103770_2-farmveda-instant-mix-rava-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds Chutney Powder",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075564_2-ask-foods-chutney-powder-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "6 Grain Khichdi Mix, Ready To Cook Mix, Power Of 6 Grains",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125391_6-tata-sampann-6-grain-khichdi-mix-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilla Mix - Moong Dal/Hesaru Bele",
+    "sku_type": "180 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125389_6-tata-sampann-protein-rich-moong-dal-chilla-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "3 Minute Breakfast Khatta Meetha Poha",
+    "sku_type": "80 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40069080_6-mtr-ready-to-eat-khatta-meetha-poha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Kesari Bath/Halwa",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112450_8-gooddiet-breakfast-mix-little-millet-kesari-bath-halwa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli & Dosa Batter",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203705_3-farmtodine-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Moong Chilla/Dosa Instant Mix With The Goodness Of Millets",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250719_1-foodstrong-sprouted-moong-chilladosa-instant-mix-with-the-goodness-of-millets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli Dosa Batter - Goodness Of Our Healthy Grains, Traditional Indian Meal",
+    "sku_type": "1 kg - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250706_1-4e-idli-dosa-batter-goodness-of-our-healthy-grains-traditional-indian-meal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly Batter - Gold",
+    "sku_type": "1 kg ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216557_1-ready-cook-idly-batter-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Rice Idli Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206878_3-organic-tattva-organic-rice-idli-ready-mi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Idli Mix",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40165507_1-haldirams-rice-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Batter - Fresh, For Crispy Dosa, Soft Idli, Fluffy Uttpam",
+    "sku_type": "1 L - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268233_1-nokhaelals-instant-batter-fresh-for-crispy-dosa-soft-idli-fluffy-uttpam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oats & Millet Pancake Mix - Chocolate Banana, Made With Jaggery, Rich In Fibre",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280454_1-foodstrong-oats-millet-pancake-mix-chocolate-banana-made-with-jaggery-rich-in-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma - Instant Mix",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291376_1-satvam-upma-insatnt-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khichu - Instant Mix",
+    "sku_type": "200 g - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291380_1-satvam-khichu-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Party Mix",
+    "sku_type": "125 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332532_1-rs-by-true-elements-party-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Idly Rava - Rich In Fibre, Improves Digestion",
+    "sku_type": "450 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286639_1-desi-nutri-multi-millet-idly-rava-rich-in-fibre-improves-digestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bajji Bonda Mix",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075878_3-annapoorna-ready-mix-bajji-bonda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa Mix - Jowar",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40028613_3-aaha-oho-organic-dosa-mix-jowar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Khaman Dhokla",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40097054_5-gangwal-instant-mix-khaman-dhokla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2-In-1 Idli Dosa Batter",
+    "sku_type": "1 kg ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096746_2-hallimane-2-in-1-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Multigrain Dosa Ready Mix - Crispy, Source Of Iron & Calcium, Zero Trans Fat",
+    "sku_type": "200 g - Mono Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259477_4-organic-tattva-organic-multigrain-dosa-ready-mix-crispy-source-of-iron-calcium-zero-trans-fat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Batter for Idly & Dosa",
+    "sku_type": "1 kg ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168677_1-farm-grainz-idly-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Custard Powder - Vanilla Flavour",
+    "sku_type": "100 g - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180730_4-kwality-custard-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Drink Mix",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134083_1-ogara-instant-mix-badam-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plain Dosa Mix",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40165510_1-haldirams-plain-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Little Millet Pasta",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264665_4-immunit-little-millet-pasta-nutritious-rich-in-magnesium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Foxtail Millet Pasta",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264666_4-immunit-foxtail-millet-pasta-controls-cholesterol-rich-in-vitamin-b12.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Tiffins Ghee Pongal Mix - Healthy & Tasty",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232591_1-hallimane-easy-tiffins-ghee-pongal-mix-healthy-tasty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Idli Instant Mix",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313869_3-aashirvaad-rice-idli-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Dhokla Snack Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100168463_3-gits-sandwich-dhokla-snack-mix-soft-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Noodles",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314471_2-desi-nutri-multi-millet-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Butter Berry Oats - Healthy Breakfast, Rich In Fibre, Protein",
+    "sku_type": "60 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229269_1-yu-instant-fruit-oats-peanut-butter-berry-ready-to-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Adai Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103768_5-farmveda-instant-mix-adai-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rice Idly Mix",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40024686_3-sanketi-adukale-instant-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Idli Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004698_1-priya-mix-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vermicelli Kheer Mix",
+    "sku_type": "300 g - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30004899_2-double-horse-payasam-mix-instant-semiya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Vermicelli Kheer Mix",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016491_2-melam-easy-mix-vermicelli-kheer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seviyan Kheer Instant Mix",
+    "sku_type": "180 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003376_9-motherss-recipe-mix-vermicelli-payasam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Badam Milk Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004688_1-priya-badam-milk-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rava Idli Mix",
+    "sku_type": "200 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004701_1-priya-mix-rava-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Idli Breakfast Mix",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125938_2-gits-rice-idli-breakfast-mix-with-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Chia Seeds - Gluten Free",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103023_4-nourish-you-authentic-chia-seeds-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cup Vegetable Upma",
+    "sku_type": "80 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40069082_6-mtr-cup-vegetable-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly Dosa Uttapam Batter",
+    "sku_type": "1 kg ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187434_1-a-one-fresh-idly-dosa-uttapam-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vangi Bhath (Brinjal Rice) Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003519_1-grb-powder-vangi-bhath.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fibre Rich Moong Dal Pakoda/Vada Mix, Ready To Cook Mix",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191086_5-tata-sampann-moong-dal-vada-mix-fibre-rich-with-unpolished-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "3 Minute Breakfast Magic Masala Upma",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40105363_3-mtr-3-minute-breakfast-magic-masala-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Khatta Meetha Poha",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214906_3-aashirvaad-instant-khatta-meetha-poha-with-millets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma Flour - Healthy & Tasty, Makes 10 Servings",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233509_2-talod-upma-flour-healthy-tasty-makes-10-servings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma - Nutty Rava, Ready In 3 Mins",
+    "sku_type": "48 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226509_1-kelloggs-upma-nutty-rava-ready-in-3-mins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mug Treats Brownie Mix",
+    "sku_type": "264 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192758_2-betty-crocker-mug-treat-brownie-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Dal Chilla - Ready To Cook",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251101_3-indimix-moong-dal-chilla-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Multigrain Mix Diet Bhel - High Fibre, Protein, For Healthy Snacking",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252923_1-geetarth-roasted-multigrain-mix-diet-bhel-high-fibre-protein-for-healthy-snacking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancake Mix - Choco Chips",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219142_1-pillsbury-pancake-mix-choco-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Chapathi - For Physical & Mental Growth",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40256984_1-4e-multi-millet-chapathi-for-physical-mental-growth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly Dosa Batter - 100% Natural, Mildy Salted",
+    "sku_type": "1 kg ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299124_1-vaidyam-idly-dosa-batter-100-natural-mildy-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khaman Dhokla Mix",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212339_2-nilons-khaman-dhokla-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli & Dosa Batter",
+    "sku_type": "1 kg ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40285161_2-fresheys-idly-dosa-batter-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puli Kachal Rice Mix",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088470_3-grand-sweets-mix-pulli-kachal-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Corn Flakes Crunchy - Premium Quality",
+    "sku_type": "500 g - (Buy 1 Get 1 Free)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262571_1-mums-corn-flakes-crunchy-premium-quality.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli & Dosa Batter",
+    "sku_type": "800 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263076_1-thaayar-idli-dosa-batter-easy-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sambhar Instant Mix",
+    "sku_type": "100 g - Carton",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000198_2-tops-instant-mix-sambhar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grams Chutney Powder - Fried Grams, Spices, Chilies",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075562_2-ask-foods-chutney-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix - Rava Dosa",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003521_1-grb-mix-rava-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Rava Idli Mix",
+    "sku_type": "250 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014327_2-phalada-pure-sure-organic-rava-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kulfi Mix - Malai",
+    "sku_type": "100 g - Box",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006856_1-blue-bird-kulfi-mix-malai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Millet Pancake Mix",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197765_5-slurrp-farm-millet-pancake-waffle-mix-blueberry-supergrains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oats Dosa",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112435_8-gooddiet-breakfast-mix-oats-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khaman Dhokla Instant Mix",
+    "sku_type": "180 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003364_4-motherss-recipe-khaman-dhokla-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Ragi Idli",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022295_1-udupi-ruchi-instant-mix-ragi-idli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Dosa",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112438_8-gooddiet-breakfast-mix-multigrain-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Multi Millet Dosa Mix",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219972_1-timios-organic-multi-millet-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa Batter - Gold",
+    "sku_type": "1 kg ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216556_1-ready-cook-dosa-batter-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khatta Dhokla Instant Mix",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130499_1-suruchi-mix-khatta-dhokla-instant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Rava Dosa Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206875_3-organic-tattva-organic-rava-dosa-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Millet Upma - Ghee Masala, Zero Palm Oil, Protein & Fiber Rich",
+    "sku_type": "50 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286480_2-slurrp-farm-instant-millet-upma-ghee-masala-zero-palm-oil-protein-fiber-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mysore Millet Dosa Mix - Ready To Cook Breakfast, Rich In Fibre",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254785_3-true-elements-mysore-millet-dosa-mix-rich-in-fibre-protein-easy-to-make.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Methi Gota - Instant Mix",
+    "sku_type": "400 g - Box",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291364_1-satvam-methi-gota-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Sari Instant Mix - Rich In Protein, Calcium, Strengthen Bones",
+    "sku_type": "500 g - Box",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268797_1-lakshmi-fresh-ragi-sari-instant-mix-rich-in-protein-calcium-strengthen-bones-aids-in-weight-loss.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cuppa Poha",
+    "sku_type": "80 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40056689_2-suhana-cuppa-poha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Badam Milk Mix",
+    "sku_type": "200 g - Box",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180729_3-kwality-premium-badam-milk-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bedmi Poori Mix - Ready To Cook",
+    "sku_type": "500 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251135_4-indimix-bedmi-poori-mix-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puffed Multigrain Mixture",
+    "sku_type": "80 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147749_3-graminway-puffed-multigrain-mixture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Sambar - With Added Vegetables",
+    "sku_type": "30 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286633_4-aashirvaad-instant-sambhar-with-added-vegetables-no-cooking-just-add-hot-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sticks - Carrot & Cumin",
+    "sku_type": "30 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40090982_3-timios-snacks-sticks-carrot-cumin-2-years-100-natural-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli Mix",
+    "sku_type": "200 g - Box",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002801_2-nilons-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa Batter - 100% Natural, No Preservatives, Need To Add Salt",
+    "sku_type": "1 kg - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267966_1-srimathi-foods-dosa-batter-100-natural-no-preservatives-need-to-add-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa - Ready Mix",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338504_1-eastern-dosa-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jowar Poha",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310737_1-true-elements-jowar-poha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rava Pongal Mix",
+    "sku_type": "250 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40024690_4-sanketi-adukale-instant-khara-pongal-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mom's Style Poha - Instant Mix",
+    "sku_type": "55 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213012_4-mothers-recipe-moms-style-poha-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Nimki Crispy & Crunchy Snacks",
+    "sku_type": "500 g - (Pack of 14)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310286_1-good-morning-masala-nimki-crispy-crunchy-snacks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Kadi",
+    "sku_type": "125 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095540_1-talati-instant-mix-kadi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli & Dosa Batter",
+    "sku_type": "1 kg ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038237_3-ammas-special-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Sambhar",
+    "sku_type": "1 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305964_1-aasai-fresh-sambhar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Aloo Bhujiya - Fun & Healthy Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237049_1-phalada-pure-sure-organic-aloo-bhujiya-fun-healthy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Adai Dosa Batter - Easy To Cook",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263079_1-thaayar-adai-dosa-batter-easy-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Kara Sev - Fun & Healthy Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237050_1-phalada-pure-sure-organic-kara-sev-fun-healthy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Idli mix",
+    "sku_type": "500 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292298_1-sarati-instant-ragi-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khaman Dhokla Instant Mix",
+    "sku_type": "160 g - Carton",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000197_6-tops-instant-mix-dhokla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rings - Tomato & Cheese",
+    "sku_type": "30 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40090980_4-timios-snacks-rings-tomato-cheese-2-years-100-natural-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Cereals - Crunchies, 100% Natural & Healthy",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127468_4-timios-breakfast-cereals-crunchies-100-natural-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coin Parota - Half Cooked, Soft, Delicious, Ready To Cook",
+    "sku_type": "180 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185059_4-asal-coin-parota-half-cooked.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mini Idli Sambar",
+    "sku_type": "75 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200619_7-aashirvaad-instant-meals-mini-idli-sambhar-cup.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Suji Halwa - With Jaggery",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214908_4-aashirvaad-instant-suji-halwa-with-jaggery.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fibre Rich Idli Mix - Ready to Cook Breakfast Mix, Soft, Fluffy & Tasty Idlis, Idli Batter",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300031_5-tata-sampann-fiber-rich-idli-mix-with-brown-rice-instant-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Protein Bar - Apple Cinnamon, Healthy Snack, Rich In Protein & Fibre",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131385_4-yoga-bar-breakfast-protein-bar-apple-cinnamon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Multi Lentil Spinach Chilla Mix - High In Protein & Fibre",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276251_3-gladful-sprouted-multi-lentil-spinach-chilla-mix-high-in-protein-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Rava Dosa",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112440_8-gooddiet-breakfast-mix-kodo-millet-rava-dosa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli Dosa Batter -Fresh, Soft, Delicious, Authentic Taste, Flavour",
+    "sku_type": "1 kg - Pouch",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264509_1-sri-murugan-idli-dosa-batter-fresh-soft-delicious-authentic-taste-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Protein Bar - Almond Coconut, Healthy Snack, Rich In Protein & Fibre",
+    "sku_type": "50 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131384_4-yoga-bar-breakfast-protein-bar-almond-coconut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli-Dosa Batter",
+    "sku_type": "500 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112615_5-freshmania-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puffs - Spinach & Lime",
+    "sku_type": "30 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40090981_3-timios-snacks-puffs-spinach-lime-2-years-100-natural-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Veggie Upma",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214907_3-aashirvaad-instant-veggie-upma-with-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Millet Pancake Mix",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280108_2-gooddiet-chocolate-millet-pancake-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Millet Pancake Mix",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280110_2-gooddiet-blueberry-millet-pancake-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Idly & Dosa Batter",
+    "sku_type": "1 kg ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117894_8-id-fresho-ragi-idly-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stars - Banana & Honey",
+    "sku_type": "30 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40090983_4-timios-snacks-stars-banana-honey-2-years-100-natural-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancake Mix Powder - Banana & Choco Chips",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329057_1-yoga-bar-pancake-mix-powder-banana-choco-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma - Variety Pack",
+    "sku_type": "48 g - (Pack of 12)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226511_1-kelloggs-upma-variety-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Beetroot Millet Dosa Mix",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219967_1-timios-organic-beetroot-millet-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa Batter",
+    "sku_type": "800 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40247666_2-foodeaz-dosa-batter-instant-mix-healthy-carbs-perfect-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barley Flakes",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205974_1-nutriwish-barley-flakes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix Millet Upma",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129793_1-bliss-tree-mix-millet-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rice Sevai",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169767_2-kanchana-instant-rice-seva.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli Dosa Batter - Crispy & Tasty Dosas, Soft Idly, Natural Ingredients",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251542_2-moms-fresh-idli-dosa-batter-crispy-tasty-dosas-soft-idly-natural-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma - Veggie Masala Burst, Ready To Cook",
+    "sku_type": "48 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226510_1-kelloggs-upma-veggie-masala-burst-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Masala Upma Ready Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206879_3-organic-tattva-organic-masala-upma-ready-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dahi Vada Instant Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40097049_2-gangwal-instant-mix-dahiwada.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa Flour - Healthy & Tasty, Makes 16 Servings",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233506_2-talod-dosa-flour-healthy-tasty-makes-16-servings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Multigrain Idli Ready Mix - Millets & More,  Foxtail, Kodo & Little Millet",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221712_1-manna-instant-multigrain-idli-ready-mix-millets-more-foxtail-kodo-little-millet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Idli Dosa Batter - Mildly Salted, Ready To Use",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228042_1-shwethas-batterstore-multigrain-idli-dosa-batter-mildly-salted-ready-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dahiwada Flour - Healthy & Tasty, Makes 45 Servings",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233507_2-talod-dahiwada-flour-healthy-tasty-makes-45-servings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli Fruit & Nuts - Whole Oats, Multigrain, Protein & Fibre Rich, Healthy Breakfast",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254181_1-mamafeast-muesli-fruit-nuts-whole-oats-multigrain-protein-fibre-rich-healthy-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nuts & Seeds Trail Mix - Spicy Masala",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195869_1-yoga-bar-nuts-seeds-trail-mix-spicy-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Vada",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095532_1-talati-instant-mix-vada.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ajwain Besan Cheela/Dosa Mix",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252077_2-graminway-ajwain-besan-cheela-mix-spices-blended-authentic-taste-for-cheela-chapatis-parantha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Badam Milk Mix",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180727_3-kwality-super-badam-milk-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Khatta Dhokhla",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095546_1-talati-instant-mix-khatta-dhokhla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shahi Mixture",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310292_1-good-morning-shahi-mixture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Moong Bhajia",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095545_1-talati-instant-mix-moong-bhajia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Uttapam",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095534_1-talati-instant-mix-uttapam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Upma",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095536_1-talati-instant-mix-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix - Chakli",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40097048_1-gangwal-mix-chakli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jeera Rice Mix - Traditional Recipe",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292310_1-sarati-instant-jeera-rice-mix-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli - Instant Mix",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291382_1-satvam-idli-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Plain Dosa Mix - Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302689_1-the-better-flour-instant-plain-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vati Dal Khaman - Instant Mix",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291341_1-satvam-vati-dal-khaman-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appam Batter",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328989_1-home-spring-appam-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Idli Dosa Batter",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328994_1-home-spring-multi-millet-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Idli Dosa Batter",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328995_1-home-spring-ragi-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Low GI Instant Khichdi Mix - Diabetic Friendly, 100% Natural",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287796_2-sugar-watchers-millet-low-gi-instant-khichdi-mix-diabetic-friendly-100-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Upma Mix - Healthy Breakfast",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292302_1-sarati-instant-instant-upma-mix-healthy-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulab Jamun Instant Mix - Soft, Easy To Make",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266029_1-grb-gulab-jamun-instant-mix-soft-easy-to-make.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rice Idli Mix - Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316572_1-the-better-flour-instant-rice-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Khaman Dhokla Mix With White Chickpea Flour - Just Add Water",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316575_1-the-better-flour-instant-khaman-dhokla-mix-with-white-chickpea-flour-just-add-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Multigrain Dosa Mix - Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316573_1-the-better-flour-instant-multi-grain-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Sprouted Moong Dosa Mix - Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316574_1-the-better-flour-instant-sprouted-moon-dosa-light-healthy-ready-in-10-minutes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dahiwada - Instant Mix",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291361_1-satvam-dahiwada-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dalwada - Instant Mix",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291374_1-satvam-dalwada-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa - Instant Mix",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291383_1-satvam-dosa-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nylon Khaman - Instant Mix",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291384_1-satvam-nylon-khaman-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Spinach Dosa Mix - Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302691_1-the-better-flour-instant-spinach-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhokla Flour",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330536_2-talod-dhokla-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Masala Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292290_1-sarati-instant-rava-masala-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Masala Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292291_1-sarati-instant-ragi-masala-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/veg-placeholder.png"
+  },
+  {
+    "name": "Jowar Flour Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292293_1-sarati-instant-jowar-flour-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Idly Instant Mix - Soft, Fluffy",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266192_1-grb-rava-idly-instant-mix-soft-fluffy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oats Chilla Mix - Rich In Plant-Based Protein",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290796_1-prolicious-oats-chilla-mix-rich-in-plant-based-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nylon Khaman Flour",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330535_2-talod-nylon-khaman-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muthiya Flour",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330538_2-talod-muthiya-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Adai Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292296_1-sarati-instant-adai-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Finger Millet Flour - Rich In Fibre, Gluten Free",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286641_1-desi-nutri-finger-millet-flour-rich-in-fibre-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Beetroot Dosa Mix - Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302690_1-the-better-flour-instant-beetroot-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Pancake - Banana, Sprouted Protein",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318172_1-gladful-sprouted-millet-pancake-banana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ven Pongal Mix - South Indian Delicacy",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287214_1-mahathri-ven-pongal-mix-south-indian-delicacy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Pancake - Choco Banana, Sprouted Protein",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318173_1-gladful-sprouted-millet-pancake-choco-banana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protien Rich Ragi & Oats Cheela Mix Combo",
+    "sku_type": "250 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315902_1-the-naturik-co-protien-rich-ragi-oats-cheela-mix-combo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Dosa Mix - Rich In Calcium & Fibre",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286638_1-desi-nutri-multi-millet-dosa-mix-rich-in-calcium-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Roti Mix - Rich In Calcium & Fibre",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286637_1-desi-nutri-multi-millet-roti-mix-rich-in-calcium-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Palada Mix",
+    "sku_type": "200 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016496_2-melam-easy-mix-palada.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa White Seeds",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042974_6-voila-quinoa-white-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diet Chiwda Diet Friendly",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310293_1-good-morning-diet-chiwda-diet-friendly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Chakli",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095542_1-talati-instant-mix-chakli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Khaman",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095526_1-talati-instant-mix-khaman.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Idli Instant Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40054507_5-cookwell-rice-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Poha",
+    "sku_type": "87 g - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40105185_3-mom-poha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Eat Bisibele Bath",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152637_2-instafeast-ready-to-eat-bisibelebath.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Dosa Pro Tiffin Mix - Rich In Protein, Easy To Make",
+    "sku_type": "250 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228320_1-ammae-insta-dosa-pro-tiffin-mix-rich-in-protein-easy-to-make.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Masala Idli Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292300_1-sarati-instant-ragi-masala-idli-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Flakes - Crunchy & Nutritious Breakfast Mix, Iron & Vitamins Rich",
+    "sku_type": "500 g - (250 g free)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249786_1-chozen-choco-flakes-crunchy-nutritious-breakfast-mix-iron-vitamins-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Rice Rava Upma Mix - Traditional Breakfast",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292304_1-sarati-instant-instant-rice-rava-upma-mix-traditional-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouts Idli Dosa  Batter - Fresh, Soft, Delicious, Authentic Taste, Flavour",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264510_1-sri-murugan-sprouts-idli-dosa-batter-fresh-soft-delicious-authentic-taste-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli & Dosa Batter",
+    "sku_type": "425 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305959_1-south-fresh-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Idli Dosa Batter",
+    "sku_type": "900 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305958_1-aasai-fresh-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli Batter - 100% Natural, No Preservatives, Need To Add Salt",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267967_1-srimathi-foods-idli-batter-100-natural-no-preservatives-need-to-add-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Idli Mix - Ready to Cook, With Added Cashews",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312840_1-tata-sampann-rava-idli-mix-with-added-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amaranth Cheela Mix / Dosa Mix - Gluten Free, Blended Flour Mix",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252070_2-graminway-amaranth-cheela-mix-dosa-mix-gluten-free-blended-flour-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chowpatty Bombay Pav",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310311_1-good-morning-chowpatty-bombay-pav.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli-Dosa Batter",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277412_2-grah-laxmi-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toasted Cornflakes - Rich In Protein & Iron, Cholesterol Free, Breakfast Cereal",
+    "sku_type": "500 g - Buy 1 Get 1 Free",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245068_2-apis-toasted-cornflakes-rich-in-protein-iron-cholesterol-free-breakfast-cereal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barnyard Millet/Sanwa Noodles",
+    "sku_type": "175 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264659_4-immunit-samabarnyard-millet-noodles-controls-diabetes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Upma Mix - Ready To Cook",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251116_3-indimix-upma-mix-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Millet Upma - Tomato Masala, Protein & Fiber Rich",
+    "sku_type": "50 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286481_2-slurrp-farm-instant-millet-upma-tomato-masala-protein-fiber-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sorghum Millet/Jowar Papad",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264643_4-immunit-jowarsorghum-millet-papad-controls-diabetes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli Nuts Delight - Whole Oats, Multigrains, No Sugar Infused Fruits",
+    "sku_type": "400 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254180_1-mamafeast-muesli-nuts-delight-whole-oats-multigrains-no-sugar-infused-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Palak Chakli - Fun & Healthy Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237053_1-phalada-pure-sure-organic-palak-chakli-fun-healthy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly Dosa Uttapam Special Batter - Natural & Healthy, Gluten Free, No Preservatives",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243561_2-aannaji-idly-dosa-uttapam-special-batter-natural-healthy-gluten-free-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Adai Dosa Instant Mix - High Protein, No Added Preservatives",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255117_1-gourmet-craft-multigrain-adai-dosa-instant-mix-premium-ingredients-no-preservatives-healthy-breakfast-option.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Golden Corn Spinach Oats - Healthy Breakfast, Rich In Iron",
+    "sku_type": "45 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252884_2-yu-golden-corn-spinach-oats-instant-ready-meal-with-vegetables-no-preservatives-additives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Emmer/Khapli Wheat Noodles",
+    "sku_type": "175 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264662_4-immunit-emmerkhapli-wheat-noodles-boosts-immunity-100-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco-Hazelnut Dibs With Breadsticks",
+    "sku_type": "52 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309026_1-beanly-choco-hazelnut-dibs-with-breadsticks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Pancake & Waffle Mix - Double Chocolate",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340981_1-the-naturik-co-millet-pancake-waffle-mix-double-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouts Meal Super 3 - Moong, Moth, Lobia",
+    "sku_type": "120 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340982_1-the-naturik-co-sprouts-meal-super-3-moong-moth-lobia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jowar Millet Idli Dosa Batter",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900456944_1-khetika-jowar-millet-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Idli Dosa Batter",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900456943_1-khetika-ragi-idli-dosa-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Adai Dosa Mix",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343333_1-chummy-adai-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut Cold Coffee",
+    "sku_type": "280 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339910_1-beanly-hazelnut-cold-coffee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Mix - Dosa Mix",
+    "sku_type": "200 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000196_1-tops-instant-mix-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Namkeen Daliya With Barley",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333431_1-puresome-pantry-instant-namkeen-daliya-with-barley.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Almond Bytes - Cranberry",
+    "sku_type": "200 g - (10 N x 20 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340983_1-the-naturik-co-protein-almond-bytes-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Almond Bytes - Coffee",
+    "sku_type": "200 g - (10 N x 20 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340984_1-the-naturik-co-protein-almond-bytes-coffee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fibre Rich Ragi Instant Chilla Premix - With Free Chutney",
+    "sku_type": "270 g - Carton",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458810_1-madmix-fibre-rich-ragi-instant-chilla-premix-with-free-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Pancake Mix - Chocolate Flavour",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334368_1-little-joys-millet-pancake-mix-chocolate-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Daliya With Millet",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333432_1-puresome-pantry-instant-daliya-with-millet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Punch Quinoa Instant Idli Premix - With Free Chutney",
+    "sku_type": "270 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458813_1-madmix-protein-punch-quinoa-instant-idli-premix-with-free-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314482_1-desi-nutri-quinoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Punch Quinoa Instant Chilla Premix - With Free Chutney",
+    "sku_type": "270 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458811_1-madmix-protein-punch-quinoa-instant-chilla-premix-with-free-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Masala Peanut - Fun & Healthy Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237054_1-phalada-pure-sure-organic-masala-peanut-fun-healthy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Flour Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292292_1-sarati-instant-wheat-flour-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready to Mix - Rava Idly",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40069237_2-swastiks-ready-to-mix-rava-idly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fibre Rich Ragi Instant Idli Premix - With Free Chutney",
+    "sku_type": "270 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458815_1-madmix-fibre-rich-ragi-instant-idli-premix-with-free-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Upma Mix",
+    "sku_type": "200 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004702_1-priya-mix-upma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Dosa Mix",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292294_1-sarati-instant-rava-dosa-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Oats - Peanut Butter Chocolate",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340814_1-fit-flex-power-oats-peanut-butter-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Upma Instant Mix",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345428_1-yours-freshly-rava-upma-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rava Idli Instant Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345427_1-yours-freshly-rava-idli-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Medu Vada Instant Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345429_1-yours-freshly-medu-vada-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Puff - Lemon & Mint",
+    "sku_type": "55 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340815_1-fit-flex-protein-puff-lemon-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Mixture - Cheesy Cheese Flavour, Baked, Extra Crunchy, Source Of Protein",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40260560_1-fit-flex-multigrain-mixture-cheesy-cheese-flavour-great-source-of-protein-baked-extra-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pearl Millet/Bajra Pasta",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302898_2-immunit-pearl-milletbajra-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dosa & Idli Batter",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345433_1-yours-freshly-dosa-idli-batter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Dosa Pesarattu Batter With Millets",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345435_1-yours-freshly-moong-dosa-pesarattu-batter-with-millets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Pancake Mix - Chickpea Flour",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316571_1-the-better-flour-strawberry-pancake-mix-with-chickpea-flour-ready-in-minutes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Masala Boondi - Crispy Fried Gram Flour Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237051_2-phalada-pure-sure-organic-masala-boondi-crispy-fried-gram-flour-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spinach Moringa Mix Cheela",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340986_1-the-naturik-co-spinach-moringa-mix-cheela.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Choco Chip Millet Pancake Mix",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280107_2-gooddiet-banana-choco-chip-millet-pancake-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kerala Instant Sadya Palada Payasam Mix For Onam, Vishu & All Festivities",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40257833_1-tasty-nibbles-kerala-instant-sadya-palada-payasam-mix-for-onam-vishu-all-festivities.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Low GI Instant Dosa Mix | Diabetic Friendly | Gluten Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218056_2-sugar-watchers-millet-low-gi-instant-dosa-mix-diabetic-friendly-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajgira/Amaranth Cheela Mix - Gluten Free , High Protein, For A Healthy Breakfast, Snack",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252006_2-graminway-rajgiraamaranth-cheela-mix-gluten-free-high-protein-for-a-healthy-breakfast-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Khichdi (Pongal Mix)",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169329_3-nutty-yogi-multi-millet-khichdipongal-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Idiyappam 6 pcs approx",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342839_1-batter-box-rice-idiyappam-6-pcs-approx.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly Dosa Podi",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343330_1-chummy-idly-dosa-podi.jpg?tr=w-154,q-80"
+  }
+]

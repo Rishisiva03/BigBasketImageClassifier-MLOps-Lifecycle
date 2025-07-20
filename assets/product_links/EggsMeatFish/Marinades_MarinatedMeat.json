@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Malai Chicken Tikka, Marinated",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231692_3-fresho-chicken-malai-tikka-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Chicken, Marinated",
+    "sku_type": null,
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231668_3-fresho-tandoori-chicken-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Chicken Cubes, Marinated",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231719_3-fresho-peri-peri-chicken-cubes-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Basa Fish Steak, Marinated",
+    "sku_type": "220 g - (2-3 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240469_4-fresho-peri-peri-basa-fish-steak-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lush Hariyali Chicken Tikka, Marinated",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231663_3-fresho-lush-hariyali-chicken-tikka-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Afghani Chicken Tikka, Marinated",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231680_3-fresho-creamy-afghani-chicken-tikka-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Hariyali Rohu Fish Steak",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240465_4-fresho-classic-hariyali-rohu-fish-steak-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Honey Mustard Tilapia Fillets, Marinated",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240467_4-fresho-honey-mustard-tilapia-fillets-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Chicken Wings, Marinated",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231704_3-fresho-peri-peri-chicken-wings-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Chicken Wings, Marinated",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231725_3-fresho-tandoori-chicken-wings-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marinated Boneless Chicken Tandoori Tikka",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329525_1-meatzza-marinated-boneless-chicken-tandoori-tikka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork - Chorizo",
+    "sku_type": "250 g - Vacuum Packed",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800350711_1-alf-farms-pork-chorizo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Chicken Amritsari Tandoori - Leg",
+    "sku_type": "500 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40060840_1-punjab-maratha-frozen-chicken-amritsari-tandoori-leg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marinated Boneless Chicken Malai Tikka",
+    "sku_type": "500 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329524_1-meatzza-marinated-boneless-chicken-malai-tikka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marinated Boneless Chicken Peri Peri",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329523_1-meatzza-marinated-boneless-chicken-peri-peri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Honey Mustard Fish, Marinated",
+    "sku_type": "220 g - (12-16 pcs)",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231695_3-fresho-honey-mustard-fish-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lush Hariyali Fish Tikka, Marinated",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231674_2-fresho-lush-hariyali-fish-tikka-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chettinad Chicken Cubes, Marinated",
+    "sku_type": "220 g - (12-14 pcs)",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231686_3-fresho-chicken-chettinad-cubes-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Mackerel Fish Fry Curry Mix - 2 Full Fish, Marinated",
+    "sku_type": "275 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332010_1-taazameatonline-spicy-mackerel-fish-fry-curry-mix-2-full-fish-marinated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hyderabadi Chicken Kheema Masala - Marinated",
+    "sku_type": "225 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332008_1-taazameatonline-hyderabadi-chicken-kheema-masala-marinated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Awadhi Tundey Kabab Minced - Fresh & Juicy",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290550_1-fresho-awadhi-tundey-kabab-minced-fresh-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hariyali Chicken Lollipop, Marinated",
+    "sku_type": "220 g - (8-10 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240481_4-fresho-chicken-hariyali-lollypop-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crispy Fish Finger",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250798_1-fresho-crispy-fish-finger-crunchy-outside-juicy-inside-with-natural-ingredients-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hyderabadi Chicken Dum Biryani Mix - Marinated",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332006_1-taazameatonline-hyderabadi-chicken-dum-biryani-mix-marinated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Chicken Drumsticks - Frozen, Marinated, Protein-Rich, Medium Spicy",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271363_1-sneha-select-tandoori-chicken-drumsticks-frozen-marinated-protein-rich-medium-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Wings - With Skin",
+    "sku_type": "8 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329336_1-abis-laziz-chicken-wings-without-skin-pack-of-8.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Dimsum",
+    "sku_type": "400 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800305640_3-republic-of-chicken-chicken-dimsum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Nuggets",
+    "sku_type": "400 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800305638_2-republic-of-chicken-chicken-nuggets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Smoked Breast",
+    "sku_type": "300 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800305635_2-republic-of-chicken-chicken-smoked-breast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dragon Chicken Kebab - Frozen, Marinated, Protein-Rich, Medium Spicy",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271366_1-sneha-select-dragon-chicken-kebab-frozen-marinated-protein-rich-medium-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Burger Patty",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250804_1-fresho-chicken-burger-patty-crunchy-outside-juicy-inside-with-natural-ingredients-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Chicken Malai Tikka",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40060843_1-punjab-maratha-frozen-chicken-malai-tikka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Leg Kabab/Kebab boneless",
+    "sku_type": "300 g - (15-18 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125265_1-fresho-kabab-chicken-boneless-leg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Tikka, Marinated",
+    "sku_type": "220 g - (12-16 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40055156_1-fresho-fish-tikka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Kabab/Kebab, Tangri/Tangdi",
+    "sku_type": "220 g - (2-4 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40055168_3-fresho-chicken-tangri-kebab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kabab - Chicken, Boneless, Breast",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125266_1-fresho-kabab-chicken-boneless-breast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Chicken Malai Tangdi Kebab",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40060844_1-punjab-maratha-frozen-chicken-malai-tangdi-kebab.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kolhapur Gravy Mix, Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273704_2-fresho-kolhapuri-gravy-mix-ready-to-cook-zero-cholesterol-authentic-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Honey Mustard Chicken, Marinated",
+    "sku_type": "220 g - (12-14 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231698_3-fresho-honey-mustard-chicken-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crispy\u00a0Chicken Pops",
+    "sku_type": "220 g - (24-28 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250792_1-fresho-crispy-chicken-pops-crunchy-outside-juicy-inside-with-natural-ingredients-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crispy Chicken Strips",
+    "sku_type": "220 g - (10-14 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250794_1-fresho-crispy-chicken-supreme-juicy-texture-with-natural-ingredients-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jalfrezi Gravy Mix, Ready To Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273706_2-fresho-jalfrezi-gravy-mix-ready-to-cook-zero-cholesterol-authentic-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Malai Tikka - Juicy & Fresh",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290546_1-fresho-chicken-malai-tikka-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Chicken Wings - Frozen, Marinated, Natural Spices, Protein-Rich",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271368_1-sneha-select-spicy-chicken-wings-frozen-marinated-natural-spices-protein-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Prawns, Marinated",
+    "sku_type": "220 g - (16-20 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231707_3-fresho-peri-peri-prawns-juicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "BBQ Pepper Chicken Wings, Marinated",
+    "sku_type": "220 g - (3-4 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240477_4-fresho-bbq-pepper-exotic-whole-chicken-wings-with-skin-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Makhani Gravy Mix, Ready to Cook",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273708_2-fresho-makhani-gravy-mix-ready-to-cook-zero-cholesterol-authentic-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Tikka With Schezwan Sauce",
+    "sku_type": "220 g - (12-16 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196900_1-fresho-fish-tikka-with-schezwan-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chilli Chicken Lollipop, Marinated",
+    "sku_type": "220 g - (8-10 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177556_4-fresho-lollipop-hot-chilli-marinade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Chicken",
+    "sku_type": "220 g - (5-6 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40048908_3-fresho-chicken-tandoori.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Chicken Drumstick, Marinated",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240485_4-fresho-peri-peri-chicken-drumstick-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Chicken Whole Leg",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240483_4-fresho-chicken-tandoori-whole-leg-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Chicken Drumstick, Marinated",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240479_4-fresho-tandoori-chicken-drumstick-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Chicken Wings - Frozen, Marinated, Protein-Rich, Spicy",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271367_1-sneha-select-peri-peri-chicken-wings-frozen-marinated-protein-rich-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Malai Tikka",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196876_3-fresho-chicken-malai-tikka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Tandoori Tikka",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196898_1-fresho-fish-tandoori-tikka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Tandoori",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196892_1-fresho-chicken-tandoori.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Chicken Wings",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196915_3-fresho-tandoori-chicken-wings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted Spicy Kabab Platter - Tandoori Hot, Malai, Nawabi, Juicy",
+    "sku_type": "480 g - Vacuum Packed",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249145_1-fresho-fresho-assorted-spicy-kabab-plater-tandoori-hot-2-pcs-167g-malai-2pcs-167g-nawabi-seekh-kabab2-pcs-167g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malabar Prawns, Marinated",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231683_3-fresho-malabar-prawns-juicy-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malabar Whole Mackerel, Marinated",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240471_4-fresho-malabar-whole-mackerel-fresh-juicy-marinated-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Seekh Kabab Plater - Tandoori Hot, Nawabi & Pudina, Juicy",
+    "sku_type": "480 g - Vacuum Packed",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249146_1-fresho-fresho-mix-seekh-kabab-plater-tandoori-hot-2pcs-167g-nawabi-seekh-2pcs-167g-pudina-seekh-kabab-2pcs-167g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Achari Chicken Tikka - Frozen, Marinated, Protein-Rich, Medium Spicy",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271369_1-sneha-select-achari-chicken-tikka-frozen-marinated-protein-rich-medium-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Finger",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800305643_3-republic-of-chicken-chicken-finger.jpg?tr=w-154,q-80"
+  }
+]

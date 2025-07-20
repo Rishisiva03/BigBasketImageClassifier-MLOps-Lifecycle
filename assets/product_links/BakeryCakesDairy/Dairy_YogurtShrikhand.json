@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Greek Yogurt",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281258_2-milky-mist-greek-yogurt-natural-high-protein-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skyr High Protein Plain Yogurt",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276320_2-milky-mist-skyr-plain-yogurt-high-in-protein-low-fat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mishti Doi",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/294186_3-mother-dairy-mishti-doi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turbo 15 g Protein Yogurt - Mixed Berries",
+    "sku_type": "140 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329276_2-epigamia-turbo-12-g-protein-yogurt-mixed-berries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Yogurt - Alphonso Mango",
+    "sku_type": "75 g - Cup",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200834_3-epigamia-probiotic-yogurt-alphonso-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cereals Greek Yogurt",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330845_1-milky-mist-greek-yoghurt-cereals.jpg?tr=w-154,q-80"
+  }
+]

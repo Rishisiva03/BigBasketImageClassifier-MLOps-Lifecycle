@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Namkeen - Bhujia Sev",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100022552_1-haldirams-namkeen-bhujia-sev.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Bhel",
+    "sku_type": "44 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004456_1-haldirams-instant-bhel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Peanuts",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206303_1-haldirams-salted-peanut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Namkeen - Ratlami Sev",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100022493_2-haldirams-namkeen-ratlami-sev.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tasty Nuts Spice Coated Fried Peanuts",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002444_1-haldirams-namkeen-tasty-nuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shankarpali Sweet - Mithai",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229173_2-tasties-origins-origins-namkeen-shankarpali-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter Murukku",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900460025_1-townbus-butter-murukku.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Makhana - Black Salt",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311784_4-mr-makhana-makhana-black-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ribbon Pakoda",
+    "sku_type": "135 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123672_5-townbus-namkeen-ribbon-pakoda.jpg?tr=w-154,q-80"
+  }
+]

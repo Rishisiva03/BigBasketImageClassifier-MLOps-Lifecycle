@@ -1,0 +1,356 @@
+[
+  {
+    "name": "Frozen Green Peas",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40163718_11-fresho-frozen-green-peas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic - Peeled",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005201_5-fresho-garlic-peeled.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pumpkin Green - Cut",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40050087_5-fresho-pumpkin-green-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cut Cauliflower, Washed",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005790_9-fresho-cut-cauliflower-washed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carrot - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005784_7-fresho-carrots-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Beans - Diced",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40035693_1-fresho-beans-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yam - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005846_7-fresho-yam-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carrot - Grated",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005786_6-fresho-carrots-grated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Beetroot - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005772_7-fresho-beetroot-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yellow Pumpkin - Avial Cut",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005850_15-fresho-yellow-pumpkin-avial-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander Leaves - Chopped",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005796_10-fresho-coriander-leaves-chopped.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spinach - Chopped",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40055177_1-fresho-spinach-chopped.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bean Cluster - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005805_9-fresho-beans-cluster-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Onion - Diced",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40035573_1-fresho-onion-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Stem - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005821_4-fresho-banana-stem-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Radish - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005844_12-fresho-white-radish-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Cabbage - Grated",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005800_6-fresho-green-cabbage-grated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Choliya",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066294_1-fresho-green-choliya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Cabbage - Grated",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005831_3-fresho-red-cabbage-grated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Broccoli - Salad",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012471_6-fresho-broccoli-salad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajma - Naturally Steamed",
+    "sku_type": "220 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196764_1-tadaa-rajma-naturally-steamed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snake gourd - Diced",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004773_2-fresho-snake-gourd-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Methi - Chopped",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005204_4-fresho-methi-chopped.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Onion - Thin Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005205_1-fresho-onion-thin-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Copra Coconut",
+    "sku_type": "1 pc - (Approx. 100-125 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220155_1-fresho-dry-copracoconut-bulk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato - Wedges",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010689_4-fresho-potato-wedges.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mint - Chopped",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40055174_1-fresho-mint-chopped.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato - French Fries",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005825_6-fresho-ready-to-cook-potato-french-fries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana - Raw, Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005827_5-fresho-banana-raw-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana - Raw, Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005829_5-fresho-banana-raw-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ladies' Fingers - Diced (Loose)",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005811_6-fresho-ladies-finger-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Beans - Julienne",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005769_6-fresho-beans-julienne.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bitter Gourd - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005778_6-fresho-bitter-gourd-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bitter Gourd - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005776_17-fresho-bitter-gourd-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Board Beans - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005765_9-fresho-broad-beans-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Blossom - Peeled",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005815_6-fresho-banana-blossom-peeled.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005780_4-fresho-capsicum-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005207_1-fresho-potato-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005206_1-fresho-potato-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spinach - Chopped",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005209_1-fresho-spinach-chopped.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veg Salad Pack",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005891_10-fresho-veg-salad-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Onion Skinned - Peeled",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005834_5-fresho-red-onion-skinned-peeled.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amaranthus - Chopped",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005792_5-fresho-amaranthus-chopped.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carrot - Julienne",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005788_4-fresho-carrots-julienne.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yam - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005848_5-fresho-yam-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ridge Gourd - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005837_11-fresho-ridge-gourd-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ladies\u2019 Fingers - Fry Cut",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005529_1-fresho-ladies-finger-fry-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ladies Finger - Sambar Cut",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005530_1-fresho-ladies-finger-sambar-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carrot - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005782_6-fresho-carrot-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Chilly - Chopped",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40035690_2-fresho-green-chilly-chopped.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn Kernels",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093314_7-supa-corn-sweet-corn-kernels.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cucumber - Sliced",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40035689_1-fresho-cucumber-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mushroom - Cut",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40021066_4-fresho-cut-mushroom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005198_10-fresho-capsicum-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn - Pellets",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001012_13-fresho-sweet-corn-pellets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato - Diced",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40035571_1-fresho-tomato-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sambar Onion - Peeled",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40013421_2-edanta-foods-sambar-onion-peeled.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Cook - Potato French Fries",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101315_1-fresho-ready-to-cook-potato-french-fries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Delhi Carrot - Sliced",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004775_3-fresho-delhi-carrot-sliced.jpg?tr=w-154,q-80"
+  }
+]

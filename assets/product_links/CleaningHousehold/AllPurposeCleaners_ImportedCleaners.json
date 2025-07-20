@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Dishwasher All in 1 Max Powerball",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214241_6-finish-dishwasher-tablets-all-in-1-max-powerball.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paper Towel - 3 Ply, Super Absorbent",
+    "sku_type": "6 pcs - 540 Sheets",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40108875_5-selpak-paper-towel-3-ply-super-absorbent.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dishwasher Salt",
+    "sku_type": "2 kg ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40069039_15-finish-dishwasher-saltworlds-no-1-dishwashing-brand.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fridge & Microwave Hygiene Cleaner - Cleans Thoroughly & Neutralises Odours, Contains Organic Alcohol",
+    "sku_type": "250 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230760_1-dr-beckmann-fridge-microwave-hygiene-cleaner-cleans-thoroughly-neutralises-odours-contains-organic-alcohol.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dishwasher Salt",
+    "sku_type": "2 kg ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208348_1-fortune-dishwasher-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bathroom Surface Wipes - Imported",
+    "sku_type": "70 pcs - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001029_3-green-shield-bathroom-surface-wipes-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carpet Stain Remover - Eliminates Tough Stains & Odours",
+    "sku_type": "650 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212007_2-dr-beckmann-carpet-stain-remover-eliminates-tough-stains-odours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oven Cleaner - Imported",
+    "sku_type": "300 ml ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208501_1-mr-muscles-oven-cleaner-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rinse Aid",
+    "sku_type": "500 ml ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208349_1-fortune-rinse-aid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Furniture Polish",
+    "sku_type": "400 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208474_1-smac-furniture-polish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ironing Spray Starch - Heavy Finish, Lemon Scent",
+    "sku_type": "567 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100229182_4-faultless-heavy-starch-lemon-fresh-scent.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Colour Catcher Sheets",
+    "sku_type": "40 Sheets ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211980_1-dylon-colour-catcher-sheets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Solid Rim Power Active - Flowers, Twin Pack",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177304_4-bloo-solid-rim-power-active-flowers-twin-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Shower Shine Cleaner - Disinfects, Eliminates Odours",
+    "sku_type": "750 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40050553_2-astonish-daily-shower-shine-cleaner-disinfects-eliminates-odours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Astonish Powerful Sparkling Hob Creamer Cleaner Antibacterial with Protective Coating Finish, Zesty Lemon, 235 ml",
+    "sku_type": "235 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232470_1-astonish-astonish-powerful-sparkling-hob-creamer-cleaner-antibacterial-with-protective-coating-finish-zesty-lemon-235-ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bathroom Cleaner - Stain Remover & Disinfectant",
+    "sku_type": "750 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40050551_2-astonish-bathroom-cleaner-stain-remover-disinfectant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bathroom Advanced Power",
+    "sku_type": "750 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Imported - Cotton Buds Pemium Quality",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40115672_3-cot-mate-imported-cotton-buds-pemium-quality.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ironing Spray Starch - Lavender Scent",
+    "sku_type": "567 g - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100229181_4-faultless-heavy-starch-fresh-lavender-scent.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "3 In 1 Toilet Cleaner Block - Refreshing & Long Lasting Fragrance, Citrus",
+    "sku_type": "40 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226533_1-domestos-3-in-1-toilet-cleaner-block-refreshing-long-lasting-fragrance-citrus.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Bacterial Handy Wipes - Cleans, Sanitises & Protects",
+    "sku_type": "20 pcs ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226558_1-green-shield-anti-bacterial-handy-wipes-cleans-sanitises-protects.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Intense 4Blocks Ocean Fresh",
+    "sku_type": "4 x 34 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208483_1-wc-net-intense-4blocks-ocean-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cleaner - Stainless Steel & Aluminum",
+    "sku_type": "300 ml - Tin",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002502_1-big-d-cleaner-stainless-steel-aluminum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kitchen Cleaner - With Advanced Power, Fights Tough stains & Grease, Lemon Fragrance",
+    "sku_type": "750 ml ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208500_3-mrmuscle-kitchen-cleaner-with-advanced-power-fights-tough-stains-grease-lemon-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Care Wood Polish Spray - Classic",
+    "sku_type": "250 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002506_4-pledge-enhancing-polish-classic-for-wood-provides-shine-removes-dirt-tough-stains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Washing Machine Cleaner - Lemon, Imported",
+    "sku_type": "250 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208492_1-dettol-washing-machine-cleaner-lemon-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ironing Spray Starch - Heavy Finish",
+    "sku_type": "567 g - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100229180_4-faultless-heavy-starch-original-fresh-scent.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "IMPORTED - 2Ply Super Soft Luncheon Napkin Paper Tissue",
+    "sku_type": "100 Sheets ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40108874_4-selpak-imported-2ply-super-soft-luncheon-napkin-paper-tissue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shoe Odour Absorber",
+    "sku_type": "120 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007764_3-cz-it-shoe-odour-absorber.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Solid Rim Blue Active - Fresh Flower",
+    "sku_type": "50 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177305_4-bloo-solid-rim-blue-active-fresh-flower.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dishwasher Tablet",
+    "sku_type": "600 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208350_1-fortune-dishwasher-tablet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Pink Stuff The Miracle Bathroom Foam Cleaner",
+    "sku_type": "750 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094570_3-stardrops-bathroom-spray-with-bleach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Solid Rim Colour Active Blue Water - Fresh Flower",
+    "sku_type": "50 g - (Pack of 3)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211966_1-bloo-solid-rim-colour-active-blue-water-fresh-flower.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kitchen Cleaner - Grapefruit, Trigger",
+    "sku_type": "500 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40084464_5-frosch-kitchen-cleaner-grapefruit-trigger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Express Multi Degreaser Baking Soda",
+    "sku_type": "650 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208486_1-smac-express-multi-degreaser-baking-soda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flushable Toilet Wipes - Imported",
+    "sku_type": "60 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208332_1-pure-wipes-flushable-toilet-wipes-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bleach - Regular",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001019_1-cocorex-bleach-regular.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Antiviral Quick Spray Surface Cleaner - Fragrance & Colour Free",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226565_1-hycolin-antiviral-quick-spray-surface-cleaner-fragrance-colour-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi-Purpose Germ Clear Disinfectant - Super Concentrated, Natural Pine",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232471_1-astonish-multi-purpose-germ-clear-disinfectant-super-concentrated-natural-pine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oven Cleaner Active Gel - Ultra Power Formula, Removes Tough Burnt-on Food From Barbecues & Frying Pans",
+    "sku_type": "375 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230759_1-dr-beckmann-oven-cleaner-active-gel-ultra-power-formula-removes-tough-burnt-on-food-from-barbecues-frying-pans.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Granite & Marble Cleaner - Deeply Cleans & Gently Cares",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230763_1-dr-beckmann-granite-marble-cleaner-deeply-cleans-gently-cares.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Silver Police Cream",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208473_1-smac-silver-police-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Washing Machine Care Cleaner - Prolongs Lifetime, Maintains Rubber & Metal Parts",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230758_1-dr-beckmann-washing-machine-care-cleaner-prolongs-lifetime-maintains-rubber-metal-parts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant & Cleaner - 4 In 1 With Natural Pine Oil, For Hygeinic Surfaces",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232464_1-astonish-disinfectant-cleaner-4-in-1-with-natural-pine-oil-for-hygeinic-surfaces.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Air Mist - Long-Lasting & Relaxing Fragrance, Cotton Fresh",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226553_1-febreze-air-mist-long-lasting-relaxing-fragrance-cotton-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Metal Polish - For Long Lasting Shine, Cleans & Protects Surfaces",
+    "sku_type": "175 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226531_1-brasso-metal-polish-for-long-lasting-shine-cleans-protects-surfaces.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Before You Go Toilet Spray - Citrus",
+    "sku_type": "41 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212018_1-poo-pourri-before-you-go-toilet-spray-citrus.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Microwave & Fridge Wet Wipes - Quick Spot Cleaning, Removes Food, Grime, Shelves",
+    "sku_type": "50 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266516_1-cleno-microwave-fridge-wet-wipes-quick-spot-cleaning-removes-food-grime-shelves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dishwasher Rinse Aid forCrystal Shine",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40115713_2-crystale-dishwasher-rinse-aid-forcrystal-shine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Intense Gel Lime  Fresh",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208482_1-wc-net-intense-gel-lime-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Solid Rim Blue Active - Fresh Flower, Twin Pack",
+    "sku_type": "50 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177306_4-bloo-solid-rim-blue-active-fresh-flower-twin-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blue Fresh Gelcrystal",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208480_1-wc-net-blue-fresh-gelcrystal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thick Bleach Multi-Purpose Cleaner - Citrus Fresh, Kills Germs",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224260_1-domestos-thick-bleach-multi-purpose-cleaner-citrus-fresh-kills-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dirt Repelling Floor Cleaner - Concentrated, Lasting Fragrance, Lemon",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232473_1-astonish-dirt-repelling-floor-cleaner-concentrated-lasting-fragrance-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bleach - Lemon",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001021_1-cocorex-bleach-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Limescale Remover - Removes Upto 100% Limescale",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230762_1-dr-beckmann-limescale-remover-removes-upto-100-limescale.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Grease Cleaner - Highly Effective At Removing Grease, For A Brilliant Finish",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230764_1-dr-beckmann-power-grease-cleaner-highly-effective-at-removing-grease-for-a-brilliant-finish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quantum Max Dishwasher Tablet - Lemon Sparkle, Superior Clean & Shine",
+    "sku_type": "60 pcs - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009401_6-finish-quantum-max-dishwasher-tablet-lemon-sparkle-superior-clean-shine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Renovator White",
+    "sku_type": "4 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002538_1-dylon-renovator-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Concentrated All Round Cleaner",
+    "sku_type": "750 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004099_2-stardrops-all-round-cleaner-original-makes-everything-sparkle-removes-dirt-tough-stains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dishwasher Tablets",
+    "sku_type": "100 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208318_1-crystale-dishwasher-tablets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Finish Dishwasher Freshener",
+    "sku_type": "12 ml - (2 x 6 ml)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208319_1-crystale-finish-dishwasher-freshener.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Appliance Descaler - Cleans, Descales, Sanitizes and Deodorizes",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208351_1-fortune-multi-appliance-descaler-cleans-descales-sanitizes-and-deodorizes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dishwasher Liquid - Has Antibacterial Properties, Original",
+    "sku_type": "780 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226544_1-fairy-dishwasher-liquid-has-antibacterial-properties-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dishwasher Tablets Powerball Classic",
+    "sku_type": "110 pcs ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135776_3-finish-dishwasher-tablets-powerball-classic.jpg?tr=w-154,q-80"
+  }
+]

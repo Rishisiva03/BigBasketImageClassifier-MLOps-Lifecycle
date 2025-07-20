@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Crunchy Granola - Almonds & Cranberries",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129141_4-kelloggs-crunchy-granola-almonds-cranberries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Energy Bar - Assorted Flavours",
+    "sku_type": "350 g - (35 g x 10 pcs)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016749_10-yoga-bar-multigrain-variety-energy-bar-chocolate-vanilla-almonds-cashew-orange-nuts-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Choco Almond Bar",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122053_7-ritebite-max-protein-daily-choco-almond-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Energy Bar - Vanilla Almond, Healthy Snack, High In Protein & Fibre",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30012169_12-yoga-bar-multigrain-energy-bar-vanilla-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bars Choco Classic 10 g Daily Protein Bar - Healthy Protein Snacks",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002303_8-ritebite-max-protein-choco-classic-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bars Fruit & Nut 10g Daily Protein Bar - Healthy Protein Snacks",
+    "sku_type": "50 g - (Pack of 6)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211099_1-ritebite-max-protein-daily-fruit-nut-bar-with-10-g-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "20g Protein Bars - Assorted, No Added Sugar, Loaded With Fibre",
+    "sku_type": "70 g - (Pack of 5)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095301_18-yoga-bar-protein-variety-bar-chocolate-brownie-cranberry-almond-fudge-hazelnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Granola - Honey, Almonds, Cranberries & Pumpkin Seeds",
+    "sku_type": "450 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190714_4-kelloggs-crunchy-granola-honey-almonds-strawberries-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Bar - Almond & Oats",
+    "sku_type": "30 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125135_3-unibic-snack-bar-almond-oats.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Granola Exotic Fruits - Cranberries, Almonds",
+    "sku_type": "400 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226639_3-bagrrys-new-superfood-granola-exotic-fruits-with-cranberries-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy\u00a0Granola\u00a0Muesli Chocolate & Almonds - Ready to eat Breakfast & Snack",
+    "sku_type": "450 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190715_3-kelloggs-crunchy-granola-chocolate-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "10 g Protein Bars\u00a0- Mocha Brownie, Gluten-Free, Raw Cold Pressed, Date Unsweetened, Premium Whey",
+    "sku_type": "50 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329062_2-yoga-bar-10-g-protein-bars-mocha-brownie-gluten-free-raw-cold-pressed-date-unsweetened-premium-whey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bars Green Coffee Beans 20 g Active Protein Bar - Healthy Protein Snacks",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122058_4-ritebite-max-protein-green-coffee-beans.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Max Protein Wellness Fruit Filled Berry Delite Bar",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339656_1-ritebite-max-protein-wellness-fruit-filled-bar-berry-delite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Max Protein Daily Date & Almond Protein Bar",
+    "sku_type": "270 g - (6 pcs x 45 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339675_1-ritebite-max-protein-daily-date-almond-protein-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Max Protein Wellness Choco Filled Fiber Melting Chocolate Bar",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339651_1-ritebite-max-protein-wellness-choco-filled-fiber-bar-melting-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange & Chocolate  Laddoos - No Added Sugar, 95% Dry Fruits",
+    "sku_type": "40 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328025_1-eat-better-co-orange-chocolate-laddoos-no-added-sugar-95-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Be You Fruits & Seeds Nutrition Bar",
+    "sku_type": "35 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313662_1-britannia-be-you-fruits-seeds-nutrition-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Be You Choco Almond Protein Bar",
+    "sku_type": "45 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313657_1-britannia-be-you-choco-almond-protein-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Revive - Apple Cinnamon Bar, Rich In Superfoods, Wheat Free, Classic Taste",
+    "sku_type": "30 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003384_4-nourish-organics-apple-oats-bar-brain-food-wheat-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Fiesta Energy Bar - Natural Sweetness of Honey",
+    "sku_type": "180 g - Carton",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003627_1-naturals-energy-bar-almond-fiesta-natural-sweetness-of-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut & Chocolate Laddoos - No Added Sugar, 95% Dry Fruits",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328028_1-eat-better-co-hazelnut-chocolate-laddoos-no-added-sugar-95-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Granola Dark Chocolate",
+    "sku_type": "400 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318418_2-true-elements-breakfast-dark-chocolate-granola-100-natural-sugar-free-high-fibre-wholegrain-cereal-ready-to-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Max 5 g Protein Date & Almond Bar Protein Bytes",
+    "sku_type": "19 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339666_1-ritebite-max-protein-5g-protein-bytes-date-almond-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vanilla & Chocolate Laddoos - No Added Sugar, 95% Dry Fruits",
+    "sku_type": "40 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328026_1-eat-better-co-vanilla-chocolate-laddoos-no-added-sugar-95-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "K- Energy Bar - Berry Yoghurty",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204196_2-kelloggs-k-energy-bar-berry-yoghurty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Cherry & Almond Butter Snack Bar - Gluten-Free, No Added Sugar",
+    "sku_type": "240 g - (6 pcs x 40 g Each)",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281775_1-wild-date-choco-cherry-almond-butter-snack-bar-gluten-free-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrify Honey Roasted Oats - With Peanut Butter, Granola",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252246_1-sundrop-nutrify-honey-roasted-oats-with-peanut-butter-almonds-cranberries-premium-granola.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Oats & Honey Granola Bars",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/293666_7-nature-valley-crunchy-granola-bars-oats-n-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "K-Energy Bar - Choco Nutty",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204197_2-kelloggs-k-energy-bar-choco-nutty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Variety Cookies Pack - Rich In Antioxidants, Fibre & Protein, No Preservatives",
+    "sku_type": "140 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266297_1-nourish-organics-variety-cookies-pack-rich-in-antioxidants-fibre-protein-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Energy Bar - Choco Delite, Healthy Snack, High In Protein & Fibre",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40172414_6-ritebite-max-protein-choco-delite-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Health Bar - No Added Sugar, Weight Management, Healthy Snack, Vegan",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800401503_8-fabbox-raw-almond-health-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Brownie 21 g Protein Bar",
+    "sku_type": "65 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200799_3-phab-protein-bar-chocolate-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Cereals - Original, Gluten Free, Steel Cut Oats, Healthy",
+    "sku_type": "500 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40159869_7-munchilicious-granola-original-cereal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bars Choco Fudge 20 g - Active Protein, Healthy Protein Snacks",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162869_2-ritebite-max-protein-choco-fudge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Bar - Multigrain, Choco",
+    "sku_type": "30 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125137_6-unibic-snack-bar-multigrain-choco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cocoa Crunch Granola - Rich In Antioxidants, Protein & Fibre, No Preservatives",
+    "sku_type": "300 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900448353_3-nourish-organics-cocoa-crunch-granola-rich-in-antioxidants-protein-fibre-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Energy Bar - Nuts & Seeds, Healthy Snack, High In Protein & Fibre, Cashews, Almond, Pumpkin Seeds, Flaxseeds, Sugar Free",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40172416_5-ritebite-max-protein-nuts-seeds-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bars Choco Slim 20 g Active Protein Bar - Sugar Free Healthy Protein Snacks",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002291_7-ritebite-max-protein-bar-choco-slim.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Bar - Fruit & Nut",
+    "sku_type": "30 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125136_3-unibic-snack-bar-fruit-nut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Energy Bar Blueberry Delight",
+    "sku_type": "38 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203073_3-gooddiet-multigrain-energy-bar-blueberry-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Bar - Fruit & Nut, Choco",
+    "sku_type": "30 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125134_4-unibic-snack-bar-fruit-nut-choco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Belgian Dark Chocolate Granola - Almonds, 0% Maida",
+    "sku_type": "400 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226638_3-bagrrys-new-granola-belgian-dark-chocolate-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bar Ultimate Choco Almond - 30 gm Protein Bar, Sugar Free Healthy Protein Snacks",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40064910_5-ritebite-max-protein-ultimate-choco-almond-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Crunchy Nutty Granola - Almonds, Raisins & Honey, Breakfast Cereal",
+    "sku_type": "475 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230718_3-nestle-nutty-granola-breakfast-cereal-gold-crunchy-with-almonds-raisins-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrition Energy Bar - Gojiberry, Blackcurrant & Cashews",
+    "sku_type": "40 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130162_15-gooddiet-nutrition-energy-bar-gojiberry-blackcurrant-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrition Energy Bar - Tropical Mango, Ginger & Sesame Seeds",
+    "sku_type": "40 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130164_15-gooddiet-nutrition-energy-bar-tropical-mango-ginger-sesame-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrition Energy Bar - Chocolate & Peanut",
+    "sku_type": "40 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130165_16-gooddiet-nutrition-energy-bar-chocolate-peanut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Energy Bar Cinnamon & Apple",
+    "sku_type": "38 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203074_5-gooddiet-multigrain-energy-bar-cinnamon-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bar Mocha Fudge 11 g Protein",
+    "sku_type": "35 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226086_2-phab-mini-protein-bar-low-in-sugar-gluten-free-mocha-nut-fudge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Immunity - Amla Cashew Bar, Rich In Vitamin C, Sweet Taste, Healthy Snack",
+    "sku_type": "30 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003382_4-nourish-organics-amla-bar-rich-in-antioxidants-vitamin-c-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Mighty Muesli Bar - Choco Nut Delight, Wholesome, Provides Energy, Rich In Fibre",
+    "sku_type": "38 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251577_1-bagrrys-the-mighty-muesli-bar-choco-nut-delight-wholesome-provides-energy-rich-in-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "K-Energy Bar - Protein Almonds & Berries",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204198_2-kelloggs-k-energy-bar-protein-almonds-berries.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,956 @@
+[
+  {
+    "name": "Cardamom Green/Elakki",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40072499_13-bb-royal-organic-cardamomelachi-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cumin/Jeera/Jeerige",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112912_12-bb-royal-organic-cuminjeera.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Black Pepper/Kari Menasui",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109372_11-bb-royal-organic-black-pepperkali-mirchi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Red/Guntur Chilli - Whole",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223044_2-bb-royal-organic-red-chilli-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Mustard/Sasive/Rai, Small",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135853_8-bb-royal-organic-mustardrai-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cinnamon/Chakke",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075300_7-bb-royal-organic-cinnamondalchini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Ajwain/Om Kalu",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109370_7-bb-royal-organic-ajwain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Methi/Menthya",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135850_5-bb-royal-organic-methi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Byadagi Chilli Whole",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176641_5-bb-royal-organic-byadagi-chilli-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Turmeric Powder/Arisina Pudi",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125926_11-bb-royal-organic-turmeric-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Kasuri Methi",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203917_1-bb-royal-organic-kasoori-methi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Bay Leaf/Lavangada Ele",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176441_4-bb-royal-organic-bay-leaftej-patta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Coriander/Dhania Seeds",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094999_5-bb-royal-organic-corianderdhania-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Saunf/Sompu",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135857_9-bb-royal-organic-saunf.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Coriander Powder",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168523_9-bb-royal-organic-coriander-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Tamarind/Hunisehannu",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176444_3-bb-royal-organic-tamarind.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cloves/Lavanga",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40072505_14-bb-royal-organic-cloves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Chilli Powder/Menasina Pudi",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168522_4-bb-royal-organic-chilli-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Mustard/Sasive/Rai Big",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135854_11-bb-royal-organic-mustardrai-big.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cumin - Whole",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002633_8-organic-tattva-organic-seeds-cumin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Seeds - Black Mustard/Sasive",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002634_10-organic-tattva-organic-seeds-black-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Turmeric Powder/Arisina Pudi",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012910_8-24-mantra-organic-turmeric-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Seeds - Ajwain/Om Kalu",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002632_9-organic-tattva-organic-seeds-ajwain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "OrganicPowder-GaramMasala",
+    "sku_type": "100 g - Jar",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002640_7-organic-tattva-organic-powder-garam-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Rajma Masala",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128465_7-organic-tattva-organic-rajma-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Oil - Sesame",
+    "sku_type": "500 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128607_2-organic-origins-cold-pressed-oil-sesame.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cumin Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100346904_9-24-mantra-organic-cumin-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Powder - Red Chilli",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100472759_7-pro-nature-organic-powder-red-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Grass Powder",
+    "sku_type": "100 g - Carton",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100523854_9-24-mantra-organic-wheat-grass-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Methi/Fenugreek",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009421_9-organic-tattva-fenugreek.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cardamom Powder",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292766_1-bb-royal-organic-cardamom-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Black Salt",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128467_5-organic-tattva-salt-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Coriander Whole",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009038_5-pro-nature-organic-coriander-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cumin/Jeera",
+    "sku_type": "100 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279864_8-24-mantra-organic-cumin-seed-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cumin Whole",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014317_4-phalada-pure-sure-organic-cumin-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fennel/Saunf",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338200_1-natureland-organics-fennelsaunf.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Ginger Powder",
+    "sku_type": "50 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/301983_8-24-mantra-organic-powder-dry-ginger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Powder - Red Chilly",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002637_8-organic-tattva-organic-powder-red-chilly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - White Pepper",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077435_9-bb-royal-organic-white-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Methi/Menthya/Fenugreek Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135851_11-bb-royal-organic-methifenugreek-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Kalonji",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112950_4-organic-tattva-organic-kalonji.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Biryani Masala",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128460_5-organic-tattva-organic-biryani-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Cardamom",
+    "sku_type": "75 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338202_1-natureland-organics-green-cardamom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279863_8-24-mantra-organic-coriander-seeds-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Kitchen King Masala - Made From Whole Spices, Dry Roasted",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236574_3-organic-tattva-organic-kitchen-king-masala-made-from-whole-spices-dry-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sustainably grown Chilli Powder",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277332_1-the-flavour-trail-by-swani-chilli-powder-sustainably-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Amaranth - Rich In Fibre & Protein, Chemical Free",
+    "sku_type": "150 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281864_1-i-say-organic-roasted-amaranth-rich-in-fibre-protein-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Grandma's Kadha Blend",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229134_1-the-flavour-trail-by-swani-grandmas-kadha-blend-for-immunity-support-stress-relief.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Bombay Cutting Chai Masala",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229129_1-the-flavour-trail-by-swani-bombay-cutting-chai-masala-rich-in-nutrients-health-benefits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mumbai Pav Bhaji Masala",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229128_1-the-flavour-trail-by-swani-mumbai-pav-bhaji-masala-no-additives-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Made with Organic - Fiery Peri Peri Masala",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229137_1-the-flavour-trail-by-swani-fiery-peri-peri-masala-no-additives-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Wheat Grass",
+    "sku_type": "100 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001296_3-terra-greens-powder-wheat-grass.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard",
+    "sku_type": "100 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001293_3-terra-greens-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "OrganicSeeds-Amaranth(Rajgeera)",
+    "sku_type": null,
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002661_4-organic-tattva-organic-seeds-amaranthrajgeera.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Turmeric Powder",
+    "sku_type": "200 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277333_1-the-flavour-trail-by-swani-turmeric-powder-organic-haldi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Seeds Yellow",
+    "sku_type": "150 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338204_1-natureland-organics-mustard-seeds-yellow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Garam Masala - Hand Pounded",
+    "sku_type": "100 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220048_2-praakritik-organic-garam-masala-hand-pounded.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kasuri Methi - Whole, Premium Quality, All Natural, Kitchen Essential Spice",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255870_3-shasha-kasuri-methi-whole-premium-quality-all-natural-kitchen-essential-spice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Amritsari Chole Masala",
+    "sku_type": "100 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229135_1-the-flavour-trail-by-swani-amritsari-chole-masala-no-additives-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Sambar Powder",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128464_5-organic-tattva-organic-sambar-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Garlic Paste - Enhances Flavour",
+    "sku_type": "150 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246471_2-pure-sure-organic-garlic-paste-enhances-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Beetroot Powder",
+    "sku_type": "100 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202182_1-praakritik-organic-beetroot-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shortcuts Sambar Podi - Organic, Authentic Taste, Grounded Spices Mix",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263408_1-wild-ideas-shortcuts-sambar-podi-organic-authentic-taste-grounded-spices-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder-RedChilli,Regular",
+    "sku_type": "100g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065029_9-just-organik-powder-red-chilli-regular.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tamarind/Hunisehannu",
+    "sku_type": "500 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001294_5-terra-greens-tamarind.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Black Pepper Whole",
+    "sku_type": "100 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220348_1-praakritik-organic-black-pepper-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yak Ghee/Tuppa - A2",
+    "sku_type": null,
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198157_2-himalayan-natives-yak-ghee-a2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic -  Vangi Bhath Powder Brinjal Rice",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014329_7-phalada-pure-sure-organic-vangi-bhath-powder-brinjal-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Rasam Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000170_7-phalada-pure-sure-organic-rasam-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Tandoori Masala",
+    "sku_type": "100 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229133_1-the-flavour-trail-by-swani-tandoori-masala-no-additives-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cumin/JeeraWhole",
+    "sku_type": "100 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197128_1-organic-shastra-cuminjeera-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cinnamon/Chakke Powder - Organic",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210360_3-organic-tattva-cinnamon-powder-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cumin Powder",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277334_1-the-flavour-trail-by-swani-cumin-powder-organic-jeera.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Ginger Powder",
+    "sku_type": "100 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220047_1-praakritik-organic-ginger-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Dalchini/Cinnamon Sticks - Non GMO, High In Nutrition, Chemical Free",
+    "sku_type": "50 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233187_1-kharo-organics-organic-dalchinicinnamon-sticks-non-gmo-high-in-nutrition-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Powder - Certified Organic",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236839_1-organic-india-turmeric-powder-certified-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FennelWhole",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065025_8-just-organik-fennel-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Black Pepper/Kari Menasu Whole",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014325_5-phalada-pure-sure-organic-black-pepper-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander/DhaniaWhole",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197123_1-organic-shastra-corianderdhania-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cumin Powder",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036639_5-conscious-food-cumin-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kashmiri Saffron - Certified Organic",
+    "sku_type": "1 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204180_1-nutriorg-kashmiri-saffron-certified-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Made with Organic - Udupi Sambar Masala",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229131_1-the-flavour-trail-by-swani-udupi-sambar-masala-no-additives-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander Powder - Certified Organic",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236833_1-organic-india-coriander-powder-certified-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Turmeric Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014321_3-phalada-pure-sure-organic-tumeric-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cloves/Lavanga",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000025_8-pro-nature-organic-clove.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Thalipeeth Bhajni",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010009_1-titos-organic-thalipeeth-bhajni.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Black Pepper Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014326_3-phalada-pure-sure-organic-black-pepper-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chat Masala",
+    "sku_type": "50 g - Carton",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/301991_1-24-mantra-organic-masala-chaat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cumin Powder - Enhances Flavour",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246435_1-pure-sure-organic-cumin-powder-enhances-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla Powder - Organic",
+    "sku_type": "100 g - Can",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210366_4-organic-tattva-amla-powder-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fenugreek/MethiSeeds",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197130_1-organic-shastra-fenugreekmethi-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "FlexSeeds",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065037_10-just-organik-flex-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Turmeric Powder/Arisina Pudi",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026638_1-turn-organic-organic-turmeric-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ajwain/Bishop Weed",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036626_5-conscious-food-bishops-weed-ajwain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Sambar Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014331_4-phalada-pure-sure-organic-sambar-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Coffee Powder Smooth",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014312_4-phalada-pure-sure-organic-coffee-powder-smooth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Powder - Cumin",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000028_6-pro-nature-organic-powder-cumin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "GarlicPowder",
+    "sku_type": "100g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202181_1-praakritik-garlic-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper - Certified Organic",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236830_1-organic-india-black-pepper-certified-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Sarson - Kaali/Black, Premium Quality, All Natural",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255877_3-shasha-whole-sarson-kaaliblack-premium-quality-all-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Powder - Coriander",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100472755_7-pro-nature-organic-powder-coriander.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tej Patta/Indian Bay Leaf",
+    "sku_type": "10 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036632_5-conscious-food-taj-patta-leaf.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "RockSalt-Natural",
+    "sku_type": "1 kg ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20006682_5-terra-greens-rock-salt-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cloves/Lavanga",
+    "sku_type": "50 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279859_4-24-mantra-organic-cloves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Garam Masala",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014315_3-phalada-pure-sure-organic-garam-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander Whole",
+    "sku_type": "75 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338199_1-natureland-organics-coriander-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Flaxseed",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026643_1-turn-organic-organic-flaxseed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cumin",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001301_5-terra-greens-cumin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Red Chilli Powder - Rich In Vitamin C & Antioxidants",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220302_1-praakritik-organic-red-chilli-powder-rich-in-vitamin-c-antioxidants.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Pulav Masala",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014336_3-phalada-pure-sure-organic-pulav-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Ajwain/Om Kalu",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100346955_3-24-mantra-organic-ajwain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Chilli Powder - Certified Organic",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236837_1-organic-india-red-chilli-powder-certified-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Bay Leaves - Natural, Vegan, Gluten-Free & No Additives",
+    "sku_type": "50 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236568_2-organic-tattva-organic-bay-leaves-natural-vegan-gluten-free-no-additives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Triphala Powder",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235869_3-puresure-organic-triphala-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fields Of Gold Organic Mustard - Small",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218666_2-pristine-fields-of-gold-organic-mustard-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Sesame Seed - Premium",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290731_1-bubble-organic-black-sesame-seed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Methi Dana",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036640_5-conscious-food-fenugreek-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Salt/Uppu Granules",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198162_3-himalayan-natives-pink-salt-granules.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198168_3-himalayan-natives-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Salt/Uppu Powder",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198164_3-himalayan-natives-black-salt-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa",
+    "sku_type": "450 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198170_3-himalayan-natives-quinoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Garlic",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40115800_2-organic-nation-powder-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Powder/Arisina Pudi",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065539_4-natureland-organics-powder-turmeric.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Pudina Leaves Crushed",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40179095_4-bb-royal-organic-pudina-leaves-crushed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander Powder",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065537_2-natureland-organics-powder-coriander.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Seeds - Brown Mustard/Sasive",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002635_9-organic-tattva-organic-seeds-brown-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Flakes",
+    "sku_type": "60 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135708_2-organic-nation-chilli-flakes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Turmeric Powder/Arisina Pudi",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000043_6-pro-nature-organic-powder-turmeric.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Ginger Powder - Organic",
+    "sku_type": "50 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210362_3-organic-tattva-dry-ginger-powder-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic-Psyllium Husk",
+    "sku_type": "100 g - Can",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112951_4-organic-tattva-organic-psyllium-husk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Seeds - Mustard/Sasive",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100472758_7-pro-nature-organic-seeds-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Saffron",
+    "sku_type": "0.5 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014338_6-phalada-pure-sure-organic-saffron.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Haldi - High Curcumin",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220050_2-praakritik-organic-haldi-high-curcumin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Onion Powder",
+    "sku_type": "100 g - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220401_1-praakritik-organic-onion-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masoor Dal",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228898_3-himalayan-natives-masoor-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amchur Dry Mango Powder - Organic",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210363_4-organic-tattva-amchur-dry-mango-powder-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Urad Dal/Uddina Bele - Whole",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198173_5-himalayan-natives-urad-dal-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279856_7-24-mantra-organic-black-pepper-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cinnamon/Chakke Bark",
+    "sku_type": "50g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014318_4-phalada-pure-sure-organic-cinnamon-bark.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Gram Whole - Natural & Premium Quality",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228896_3-himalayan-natives-green-gram-whole-natural-premium-quality.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic, Fennel /Saunf/Sompu Powder",
+    "sku_type": "50 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100965_11-bb-royal-organic-fennel-saunf-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Chilli Powder",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065536_2-natureland-organics-powder-red-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper/Kali Mirch",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261311_1-natureland-organics-black-pepper-kali-mirch-100-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cinnamon Powder - Warm Fragrance, Spicy Flavour",
+    "sku_type": "50 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246434_3-pure-sure-organic-cinnamon-powder-warm-fragrance-spicy-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kasuri Methi",
+    "sku_type": "50 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195268_2-natureland-organics-kasuri-methi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Fenugreek",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100472757_6-pro-nature-organic-fenugreek.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fenugreek Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/301984_7-24-mantra-organic-powder-fenugreek.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhaniya/ Coriander - Whole",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009422_6-organic-tattva-coriander-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fennel Saunf",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001052_4-24-mantra-organic-fennel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279860_9-24-mantra-organic-coriander-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cardamom/Elaichi - Green, Small",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40137366_4-pro-nature-cardamom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mustard/Sasive - Small",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279822_10-24-mantra-organic-mustard-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012927_6-24-mantra-organic-chili-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210359_2-organic-tattva-black-pepper-powder-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cloves/Lavanga - Whole",
+    "sku_type": "50 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210357_2-organic-tattva-organic-cloves-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seasoning - Red Onion Powder",
+    "sku_type": "125 g - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212288_1-organic-nation-seasoning-red-onion-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Kalonji",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40179081_4-bb-royal-organic-kalonji.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Ginger Cooking Paste - Immunity Booster",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246470_3-pure-sure-organic-ginger-cooking-paste-immunity-booster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Dry Ginger Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184721_4-bb-royal-organic-dry-ginger-powder.jpg?tr=w-154,q-80"
+  }
+]

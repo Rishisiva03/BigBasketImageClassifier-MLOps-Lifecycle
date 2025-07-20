@@ -1,0 +1,734 @@
+[
+  {
+    "name": "A4 Paper (75 GSM)",
+    "sku_type": "500 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/160499_4-jk-copier-a4-paper-75-gsm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plus Antimicrobial Paper A4 Sheet, 21 x 29.7 Cm, 75 GSM",
+    "sku_type": "100 pcs ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318152_3-jk-paper-copier-slims-premium-multipurpose-paper-a4-sheet-21-x-297-cm-75-gsm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nylon Rubber Bands - Assorted Colour, 5 cm",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126473_4-oasis-rubber-bands-nylon-assorted-colour-2-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Sticky Notes - For Reminders & Lists, Multicolour, Easy To Use",
+    "sku_type": "4 pcs ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224964_1-post-it-super-sticky-notes-for-reminders-lists-multicolour-easy-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stapler HP - 45",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012793_1-kangaroo-stapler-hp-45.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A4 Size Paper - Regular Colours",
+    "sku_type": "100 Sheets ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280995_1-se7en-a4-size-regular-colour-paper-for-arts-crafts-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Excel Bond Super White Paper A4 Sheets 21 X 29.7 Cm, 90 GSM",
+    "sku_type": "100 pcs ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318151_2-jk-paper-excel-bond-super-white-paper-a4-sheets-21-x-297-cm-90-gsm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "HP-10 Metal Stapler",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/213182_2-kangaroo-stapler-hp-10.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Binder Clip - 41 mm",
+    "sku_type": "12 pcs ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188566_3-ravi-agencies-binder-clip-41mm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Transparent Button Folder - 14\" x 10\" With Snap Button Cover",
+    "sku_type": "5 pcs ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188587_2-ravi-agencies-transparent-button-folder-14-x-10-with-snap-button-cover.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "DP-280 Paper Punch - Assorted",
+    "sku_type": "1 pc ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/213319_3-kangaroo-punch-dp-280.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spring File - Multicolour",
+    "sku_type": "6 pcs ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126420_3-ravi-spring-file-fullscape-multicolour-315.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Office Scissor - Stainless Steel Blades, Lightweight, Rust-Free, Multicolour",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184890_3-b-vishal-office-scissor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Staple Remover SR-100",
+    "sku_type": "1 pc ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012821_2-kangaroo-staple-remover-sr-100.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mesh Pen Stand - Desk Organiser, For Office, Study Table, Assorted",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184886_3-b-vishal-mesh-desk-organiser.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Envelope - White, 23 x 10 cm",
+    "sku_type": "50 pcs ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126401_3-ravi-envelope-white-9-x-4-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dustless Chalk",
+    "sku_type": "100 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188551_2-apsara-dustless-chalk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A4 Size Paper - Bright Colours",
+    "sku_type": "100 Sheets ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280994_1-se7en-a4-size-premium-colour-paper-for-arts-crafts-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Office Essentials Scissors -  Soft, 21 cm, For Cutting Paper",
+    "sku_type": "1 pc ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228175_1-maped-office-essentials-scissors-soft-21-cm-for-cutting-paper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Portfolio Zip File",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322310_1-cubic-portfolio-zip-file.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Pencil Desktop Sharpener - Plastic, House Shaped, BB1290PNK",
+    "sku_type": "1 pc ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186643_1-suny-pink-pencil-desktop-sharpener-plastic-house-shaped-bb1290pnk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Business Cards Holder - File Type, Album Style With Pockets",
+    "sku_type": "1 pc ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286065_1-solo-business-cards-holder-file-type-album-style-with-card-pockets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whiteboard Marker Refillable",
+    "sku_type": "10 pc ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010749_1-reynolds-whiteboard-marker-refillable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sticky Notes - WA00353, 8 cm, Sqaure Shaped, Yellow Colour",
+    "sku_type": "1 pc - (100 Sheets)",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290242_2-deli-sticky-notes-wa00353-33-inch-sqaure-shaped-yellow-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Office Scissors With Blue Handle",
+    "sku_type": "1 pc ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40157934_2-cartini-by-godrej-stainless-steel-office-scissors-with-blue-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rubber Bands - Nylon, Assorted Colour, 5 cm",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303890_1-cs-rubber-bands-nylon-assorted-colour-2-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stamp Pad - Violet",
+    "sku_type": "2 x 1 pc - Multipack",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213417_1-faber-castell-stamp-pad-violet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "All purpose paper - A4, 75 Gsm",
+    "sku_type": "50 Pages ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125819_1-classmate-all-purpose-paper-a4-75-gsm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Envelope - Cloth Lined, Green, 12\" x 10\"",
+    "sku_type": "25 pcs ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126417_3-ravi-envelope-cloth-lined-green-12-x-10-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Envelope - Brown, 28 x 13 cm",
+    "sku_type": "50 pcs ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126408_3-ravi-envelope-brown-11-x-5-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Post It - 8 x 13 cm",
+    "sku_type": "100 sheets ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126479_2-oddy-post-it-3-x-5-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Clear Bag - Durable, Free Size",
+    "sku_type": "1 pc ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286140_1-saya-clear-bag-durable-free-size.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Sticky Notes - For Reminders & Lists, Easy To Use",
+    "sku_type": "1 pc ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224967_1-post-it-super-sticky-notes-for-reminders-lists-easy-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Keychain With Name Tag Labels",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322311_1-omega-keychain-with-name-tag-labels.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green A4 Size Copier/Printing Paper - 70 GSM, 1 Ream",
+    "sku_type": "500 Sheets ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216808_1-century-green-a4-sized-1-reams-copier-paper-70-gsm-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "RE-Stick Notes - 8 x8 cm",
+    "sku_type": "100 sheets ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126477_2-oddy-re-stick-notes-3-x-3-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rubber Bands - Nylon, Assorted Colour, 3 cm",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303888_1-cs-rubber-bands-nylon-assorted-colour-1-inch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Button Folder Opaque - 14\" x 10\" With Snap Button Cover & Extra Pocket",
+    "sku_type": "5 pcs ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188586_2-ravi-agencies-button-folder-opaque-14-x-10-with-snap-button-cover-extra-pocket.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted Finewriter 05",
+    "sku_type": "1 pc ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40028112_1-luxor-assorted-finewriter-05.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "RE-Stick Notes - 8 x 8 cm",
+    "sku_type": "2 x 100 sheets - Multipack",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213373_1-oddy-re-stick-notes-3-x-3-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Envelope - White, 27 x 11 cm",
+    "sku_type": "50 pcs ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126402_3-ravi-envelope-white-105-x-45-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paper - Fullscape, 75 GSM",
+    "sku_type": "500 sheets ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126396_1-jk-copier-copier-paper-fullscape-75-gsm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Display File  - Plastic, 20 Pockets, Blue, 240 mm x 360 mm",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286058_1-solo-display-plastic-file-for-legal-documents-20-pockets-large-blue-stylish-effective.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Office Scissors - Advance Green, 21cm, For Cutting Paper",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228176_1-maped-office-scissors-advance-green-21cm-for-cutting-paper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Binder Clip - 19 mm",
+    "sku_type": "12 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188563_3-ravi-agencies-binder-clip-19mm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Envelope - Brown, 23 x 10 cm",
+    "sku_type": "50 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126406_3-ravi-envelope-brown-9-x-4-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Self-Stick Removable Notes- 8 x 13 cm",
+    "sku_type": "100 sheets ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126485_3-3m-highland-self-stick-removable-notes-3-x-5-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stick-eee Page Markers - Easy To Use, 4 Colours, 750 mm x 100 mm",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286180_2-saya-stick-eee-page-markers-easy-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Display File  - Plastic, 20 Pockets, 240 mm x 360 mm",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286059_1-solo-display-plastic-file-for-legal-documents-20-pockets-extra-large-stylish-effective.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Post It - 4 x 5 cm",
+    "sku_type": "2 x 100 sheets - Multipack",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213204_1-oddy-post-it-15-x-2-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "File Storage/Folder Bag - Plastic, Durable & Waterproof",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280972_1-se7en-file-storagefolder-bag-plastic-durable-waterproof.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Printed File Bag - With Handle, Durable, 311 mm x 238 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286200_1-saya-printed-file-bag-with-handle-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Post It - 5 x 8 cm",
+    "sku_type": "2 x 100 sheets - Multipack",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213280_1-oddy-post-it-2-x-3-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "PET Stick-eee Flags - Easy To Use, 5 Colours, 45 mm x 12 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286182_2-saya-pet-stick-eee-flags-easy-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "DP-52 Paper Punch - Assorted",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/213313_3-kangaroo-punch-dp-52.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Post It - 5 x 8 cm",
+    "sku_type": "100 sheets ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126476_2-oddy-post-it-2-x-3-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Post It - 4 x 5 cm",
+    "sku_type": "100 sheets ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126475_2-oddy-post-it-15-x-2-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stick-eee Note Pad - Easy To Use, Yellow, 75 mm x 78 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286178_2-saya-stick-eee-note-pads-easy-to-use-yellow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Envelope - Brown, 18 x 10 cm",
+    "sku_type": "2 x 50 pcs - Multipack",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213431_2-ravi-envelope-brown-7-x-4-inches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stick-eee Page Markers - Easy To Use, 5 Colours, 750 mm x 100 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286181_2-saya-stick-eee-page-markers-easy-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sheets - Loose, A4, 75 Gsm",
+    "sku_type": "100 Pages ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125820_2-classmate-sheets-loose-a4-75-gsm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Trident Spectra 75 Gsm A4 Size Copier Paper 500 Sheets 1 Ream",
+    "sku_type": "1 pc ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198950_2-trident-spectra-trident-spectra-75-gsm-a4-size-copier-paper-500-sheets-1-ream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Florocent Rubber Band",
+    "sku_type": "1 pc - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038578_1-vc-florocent-rubber-band.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Report File - Free Size, 235 mm x 357 mm",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286148_2-saya-report-file-classic-free-size.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Sticky Notes - For Reminders, Multicolour",
+    "sku_type": "3 pcs ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224970_1-post-it-super-sticky-notes-for-reminders-multicolour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Office Essentials Scissors -  Green, 21 cm",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228173_1-maped-office-essentials-scissors-green-21-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stapler M-10",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012819_2-kangaroo-stapler-m-10.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Promo Expanding File - Assorted, A4, Dimension",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184885_3-b-vishal-expanding-folder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Office Scissor - Stainless Steel Blades, Lightweight, Rust-Free, 13 cm",
+    "sku_type": "1 pc ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184889_3-b-vishal-5-inch-scissor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Pencil Desktop Sharpener - Plastic, Car Shaped, BB1293PNK",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186653_1-suny-pink-pencil-desktop-sharpener-plastic-car-shaped-bb1293pnk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yellow Pencil Desktop Sharpener - Plastic, House Shaped, BB1290YLW",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186644_1-suny-yellow-pencil-desktop-sharpener-plastic-house-shaped-bb1290ylw.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Board Duster - Non Magnetic",
+    "sku_type": "20 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126455_1-omega-black-board-duster-non-magnetic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Leather Magnetic Folder - Black",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323473_1-gravity-black-leather-magnetic-folder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Push Pins",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322342_1-cubic-easy-push-pins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Business Card Holder",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322339_1-office-mart-business-card-holder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "PVC & Paper Lever Arch File - Classic",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323466_1-saya-pvc-paper-lever-arch-file-classic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Executive Portfolio - 20 Pockets, FS",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323469_1-saya-executive-portfolio-20-pockets-fs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desk Organiser - W9133, 7 Components, Plastic, Black",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290245_1-deli-desk-organiser-w9133-7-components-plastic-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expanding Bag Electra - Durable, Waterprrof",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286151_1-saya-expanding-bag-electra-durable-water-resistant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "1mg Leaf Letter",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324316_1-bigbasket-1mg-leaf-letter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Glossy A4 Photo Paper - 200 GSM",
+    "sku_type": "20 Sheets ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245490_1-kodak-premium-photo-paper-glossy-for-everyday-prints-albums-a4-200-gsm-20-sheets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi-Function Zipper Case - With Handle, 360 mm x 260 mm",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286146_2-saya-multi-function-zipper-case-for-storing-papers-with-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Glossy A4 Photo Paper - 180 GSM",
+    "sku_type": "20 Sheets ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245494_1-kodak-photo-paper-glossy-for-arts-crafts-snapshots-a4-180-gsm-20-sheets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Glossy 4R Photo Paper - 260 GSM, 102 mm x 152 mm",
+    "sku_type": "100 Sheets ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245496_1-kodak-premium-photo-paper-high-gloss-for-everyday-prints-albums-4r-260-gsm-100-sheets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Glossy 5R Photo Paper - 180 GSM, 127 mm x 175 mm",
+    "sku_type": "100 Sheets ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245493_1-kodak-photo-paper-high-gloss-for-albums-snapshots-5r-180-gsm-100-sheets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "W38561 Binder Clips - Black, 51 MM",
+    "sku_type": "12 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325400_1-deli-w38561-binder-clips-black-51-mm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Glossy 4R Photo Paper - 180 GSM, 102 mm x 152 mm",
+    "sku_type": "100 Sheets ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245492_1-kodak-photo-paper-glossy-for-arts-crafts-snapshots-4r-180-gsm-100-sheets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Altop Damper Round",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323461_1-gravity-altop-damper-round.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Polynet Lined Envelopes - High-Quality",
+    "sku_type": "50 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286189_1-saya-green-polynet-lined-envelopes-high-quality.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Polynet Lined Envelopes - High-Quality",
+    "sku_type": "50 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286188_1-saya-green-polynet-lined-envelopes-high-quality.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carbon Paper",
+    "sku_type": "1 pc - (210 X 330 mm)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40072713_2-camlin-carbon-paper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desktop Calculator - WM01120, Black",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290237_1-deli-desktop-calculator-wm01120-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Glossy A4 Photo Paper - 230 GSM",
+    "sku_type": "20 Sheets ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245497_1-kodak-photo-paper-high-gloss-for-albums-snapshots-inkjet-printers-a4-230-gsm-20-sheets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rubber Bands - Nylon, Assorted Colour, 3 cm",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303889_1-cs-rubber-bands-nylon-assorted-colour-1-inch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Office Clip Set - Multi-Functional, 4 Types",
+    "sku_type": "70 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339258_1-dp-office-clip-set-multi-functional-4-types.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stationery Bag Tag Set",
+    "sku_type": "4 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339257_1-dp-stationery-bag-tag-set.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "512 Calculator",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336424_1-flair-512-calculator.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eco Friendly Wood Bound Sticky Notes Cube",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323465_1-gravity-eco-friendly-wood-bound-sticky-notes-cube.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spectra A4 Size Copier/Printing Paper - 75 GSM, 1 Ream",
+    "sku_type": "100 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275053_1-trident-spectra-a4-size-copier-paper-75-gsm-high-quality-multipurpose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stamp Pad - Black, 110 x 69 mm",
+    "sku_type": "2 x 1 pc - Multipack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213416_1-faber-castell-stamp-pad-black-110-x-69-mm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh bags",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20007158_1-bb-daily-fresh-bags.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bell Pins - Nickel Plated Steel, Perfect Solid Head, Needle Points",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322302_1-bell-pins-bell-pins-nickel-plated-steel-perfect-solid-head-needle-points.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Repot Cover Strip File - Plastic, A4 Size Compatible, 220 mm x 310 mm",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286057_1-solo-repot-cover-strip-file-a4-size-compatible-for-home-school-office.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "My Clear Bag - Twin Envelope, Plastic, 360 mm x 265 mm",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286060_1-solo-my-clear-bag-landscape-style-twin-envelope-smart-elegant-for-home-office.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "One Side PVC Paper Board 2D Ring Binder - A4",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323467_1-saya-one-side-pvc-paper-board-2d-ring-binder-a4.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deskmate Rotational Clip Box",
+    "sku_type": "1 pc - (14 Binder Clips 19 mm, 120 Paper Clips 28 mm & 90 Push Pins)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344056_1-brustro-deskmate-rotational-clip-box.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Waterproof Zipper File Folder A4 Size Set",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330120_1-dp-waterproof-zipper-file-folder-a4-size-set-of-2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sticky Notes - WA02602, 8 cm, Sheet, 4 Assorted Colours",
+    "sku_type": "1 pc - (100 Sheets)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290244_2-deli-sticky-notes-wa02602-325-inch-sheet-4-assorted-colours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prompt Sticky Notes - Paper Flags, 25 mm x 75 mm, 4 Colours",
+    "sku_type": "200 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188567_2-oddy-sticky-notes-prompt-4-colours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lever Arch File Polycover - Red",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323459_1-saya-lever-arch-file-polycover-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Opera Desk Organizer To Keep Pens, Pencil & Stationery - Blue, For Students, Home, Office",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286069_1-solo-opera-desk-organizer-to-keep-pens-pencil-stationery-blue-for-students-home-office.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scientific Calculator - WD82MS, Grey",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290236_1-deli-scientific-calculator-wd82ms-grey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plastic File/Folder A4 Flap Cover",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330118_1-dp-plastic-filefolder-a4-flap-cover.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tape Dispenser Mini",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322304_1-omega-tape-dispenser-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "BL-991MS Scientific Calculator - 401 Functions",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40284866_3-bambalio-scientific-calculator-bl-991ms-401-functions-2-line-lcd-display.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creative Hanging Chalk Board Weekly Planner W 22.86 cm x L 35.56 cm, 0.55 cm Thick",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329510_1-little-birdie-creative-hanging-chalk-board-weekly-planner-w-2286-cm-x-l-3556-cm-055-cm-thick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stapler Pin Pack - 24/6",
+    "sku_type": "20 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126464_3-kangaroo-stapler-pin-pack-246.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "OT 400GT Calculator",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188582_2-orpat-ot-400gt-calculator.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cable/Bag Ties Black 0.3 x 10 cm",
+    "sku_type": "100 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330136_1-dp-cablebag-ties-black-3x100-mm-xx-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Board Duster",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322308_1-oddy-white-board-duster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cable/Bag Ties - Black 4 x 150 mm",
+    "sku_type": "60 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330137_1-dp-cablebag-ties-black-4x150-mm-xx-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Self Stick Bulletin Board",
+    "sku_type": "16.5\" X 11.5\" ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016549_1-post-it-self-stick-bulletin-board.jpg?tr=w-154,q-80"
+  }
+]

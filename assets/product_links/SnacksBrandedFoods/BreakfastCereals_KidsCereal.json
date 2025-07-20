@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Muesli - Dark Chocolate & Cranberry, Healthy, Rich In Protein, Breakfast Cereal",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160159_7-yoga-bar-muesli-dark-chocolate-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Chocos",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30008601_16-kelloggs-chocos.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocos - Moons & Stars",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40157811_11-kelloggs-chocos-moons-stars.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Froot Loops",
+    "sku_type": "285 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221133_3-kelloggs-froot-loops-crunchy-multigrain-cereal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Instant Cereal",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40179022_5-slurrp-farm-cereal-ragi-rice-mango-with-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Bites No Maida Choco, 7 Grains, Protein Rich Breakfast Cereal",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185033_6-soulfull-ragi-bites-choco-poco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Corn Flakes With Real Strawberry Puree",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000681_8-kelloggs-corn-flakes-with-real-strawberry-puree.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berry Crunch Breakfast Cereal - Ragi Stars & Moons, Healthy Millet, No Maida/Sugar",
+    "sku_type": "400 g - Box",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230868_3-slurrp-farm-strawberry-breakfast-cereal-stars-moons-healthy-millet-no-maida-refined-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Grain Chocos Fills",
+    "sku_type": "160 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129143_7-kelloggs-chocos-fills-double-chocolaty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Crunch Breakfast Cereal - Ragi Stars & Moons",
+    "sku_type": "400 g - Box",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230867_3-slurrp-farm-chocolate-breakfast-cereal-stars-moons-healthy-millet-no-maida-or-refined-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Bites Strawberry Fills, No Maida, Dal Protein, Kids Cereal",
+    "sku_type": "250 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40013391_12-soulfull-ragi-bites-strawberry-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tangy Tomato Puff- Healthy Snacks for Kids, School Tiffin and Travel Friendly",
+    "sku_type": "20 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164602_1-slurrp-farm-mighty-puff-tangy-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hershey's Chocos",
+    "sku_type": "325 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307418_1-kelloggs-new-hersheys-chocos-chocolatey-breakfast-cereal-for-kids.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Bites Vanilla Fills",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009987_13-soulfull-ragi-bites-vanilla-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Bites Breakfast Cereal Combo Pack, Choco, Vanilla, Strawberry Fills",
+    "sku_type": "140 g - (5 pcs)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017423_7-soulfull-ragi-bites-chocovanilla-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Ragi Powder Porridge",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280117_2-gooddiet-sprouted-ragi-powder-porridge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Fills - Center Filled Bites, Chocolate Flavour",
+    "sku_type": "250 g - Box",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180724_6-kwality-choco-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Sprouted Ragi Powder/Ragi Hittu",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185321_8-slurrp-farm-organic-sprouted-ragi-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Choco Fills - Double Chocolaty",
+    "sku_type": "250 g - Breakfast Cereal",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250070_2-bb-royal-choco-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Flakes",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1212327_3-bb-royal-chocos.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yo Chos Choco Cereal - No Maida, Rich In Protein, Gluten Free, Healthy Breakfast",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249764_3-yogabar-yo-chos-7-whole-grains-makes-milk-more-chocolatey-rich-in-calcium-protein-no-maida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocos Magic Hearts",
+    "sku_type": "325 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195501_11-kelloggs-chocos-magic-hearts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Cereal - Choco Burst",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185406_4-nestle-koko-krunch-breakfast-cereal-choco-burst.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco+ Variety Pack - Assorted Flavours",
+    "sku_type": "24 g - (Pack of 6)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309512_1-bagrrys-choco-variety-pack-assorted-flavours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocos Moon & Stars",
+    "sku_type": "140 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005232_4-kelloggs-chocos-moon-stars.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kookie Cereal - Whole Grain, Rich In Fibre, Iron & Vitamins, Healthy Breakfast",
+    "sku_type": "330 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235986_4-koko-krunch-kookie-cereal-whole-grain-rich-in-fibre-iron-vitamins-healthy-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Choco Loopies - Chocolate Flavour, High In Ragi, No Preservatives",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111835_4-soulfull-multigrain-choco-loopies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocos - Duet",
+    "sku_type": "22 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/282745_7-kelloggs-chocos-duet-breakfast-cereal-made-from-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Cereal - No Sugar, Instant Healthy Cereal With Ragi, Rice & Milk",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40179021_4-slurrp-farm-cereal-ragi-rice-banana-with-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocos - Magic Hearts",
+    "sku_type": "23 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195502_3-kelloggs-chocos-magic-hearts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kelloggs Chocos Fills",
+    "sku_type": "32 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40116078_3-kelloggs-kelloggs-chocos-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocos Webs",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40171638_18-kelloggs-chocos-webs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Grain Chocos - Chhota Laddoo",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093310_33-kelloggs-chocos-chhota-laddoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco+ Breakfast Cereal",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126218_8-bagrrys-breakfast-cereal-choco-3-great-grains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruitrings - Flavour Of Mango, Strawberry, Orange & Vanilla, Made Of Whole Wheat",
+    "sku_type": "375 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093795_4-kwality-flakes-fruitoos.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Bites No Maida Choco, 7 Grains, Protein Rich Breakfast Cereal",
+    "sku_type": "170 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317397_4-tata-soulfull-ragi-bites-no-maida-choco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Cereal - Chocolate Flavour, Small Pack",
+    "sku_type": "18 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185401_6-nestle-koko-krunch-breakfast-cereal-chocolate-flavour-small-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet & Oats Cereal - No Sugar, Instant Healthy Cereal",
+    "sku_type": "250 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185320_5-slurrp-farm-porridge-millet-oats-no-preservatives-artificial-colours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchilicious Cereal",
+    "sku_type": "300 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40308298_1-nestle-munch-crunchilicious-cereal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yo Fills - 7 Whole Grains, High In Fibre & Iron, Crunchy, Creamy, Chocolatey, No Maida",
+    "sku_type": "200 g - Box",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249765_1-yogabar-yo-fills-crunchy-creamy-chocolatey-7-whole-grains-rich-in-iron-fibre-no-maida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "No Maida Choco Flakes",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245060_4-zerobeli-choclaq-choco-flakes-fiber-rich-scoops-real-chocolaty-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Cereal - Strawberry Flavour Burst, Crunchy In Warm Milk",
+    "sku_type": "15 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185407_4-nestle-koko-krunch-koko-krunch-breakfast-cereal-strawberry-flavour-burst-crunchy-in-warm-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flakes - Choco Crunch",
+    "sku_type": "375 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042313_3-lawrence-mills-flakes-choco-crunch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cocoa Fills - Baked, Source Of Dietary Fibre, No Refined Sugar, Zero Maida",
+    "sku_type": "90 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282379_2-snackible-cocoa-fills-baked-source-of-dietary-fibre-no-refined-sugar-zero-maida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Cereals - Crunchies, 100% Natural & Healthy",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127468_4-timios-breakfast-cereals-crunchies-100-natural-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Combo",
+    "sku_type": "152 g - (Pack of 6)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196568_2-zerobeli-breakfast-combo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Flakes - Zero% Maida, With Richness Of Chocolate, Breakfast Cereal",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40179109_11-kwality-choco-flakes-super-saver-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Munch - Strawberry, Milky Way Crunch",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311012_1-born-reborn-millet-munch-strawberry-milky-way-crunch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Munch - Chocolaty, Animal Kingdom",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311013_1-born-reborn-multi-millet-munch-chocolaty-animal-kingdom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutzilla Hazelnut Cream Millet Fills",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333723_1-inner-wellbeing-nutzilla-hazelnut-cream-millet-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Caramel Flavour Chocos Fills",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345413_1-kelloggs-multigrain-caramel-flavour-chocos-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi & Rice Cereal With Strawberry Porridge",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280116_2-gooddiet-ragi-rice-cereal-with-strawberry-porridge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Fills - Center Filled Bites, Strawberry Flavour",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122876_4-kwality-strawberry-fills.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Flakes",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005673_1-mohuns-chocolate-flakes.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Thick Poha",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220133_5-tata-sampann-white-thick-poha-high-in-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat - Sharbati",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000578_7-bb-royal-wheat-sharbati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plain Puffed Rice/Kadle Puri/Murmure",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026606_3-bb-royal-plain-puffed-ricemurmure.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thick Poha",
+    "sku_type": "1 kg ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216186_2-vijay-thick-poha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Poha/Avalakki/Aval/Chivda - Thin-White Poha",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000429_19-bb-royal-pohaavalakkiavalchivda-thin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Barley",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176440_4-bb-royal-organic-barley.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat - Lokwan",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000234_7-bb-royal-wheat-lokwan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puffed Rice/Kadle Puri - Pesticide Free",
+    "sku_type": "500 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40144595_6-safe-harvest-puffed-rice-pesticide-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Poha/Avalakki/Aval/Chivda - Thin White Poha",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208339_2-bb-popular-pohaavalakkiavalchivda-thin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabu Dana",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40051730_2-dnv-sabu-dana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bajra",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000201_6-bb-royal-bajra.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Poha - Pesticide Free",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003072_7-safe-harvest-white-poha-pesticide-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aval/Poha Red Thick",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128956_4-bb-royal-avalpoha-red-thick.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barley/Jau",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000572_14-bb-royal-barleyjau.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi/Raglu",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003552_9-bb-popular-ragiraglu.jpg?tr=w-154,q-80"
+  }
+]

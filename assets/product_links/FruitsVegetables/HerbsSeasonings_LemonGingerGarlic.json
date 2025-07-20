@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Lemon (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000335_16-fresho-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger - Organically Grown (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023480_5-fresho-ginger-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli - Green, Organically Grown (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000511_9-fresho-chilli-green-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Turmeric - Organically Grown (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020583_5-fresho-fresh-turmeric-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli - Bhavnagari",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001771_1-fresho-chilli-bhavnagari.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli - Picador",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001773_6-fresho-chilli-picador.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli - Green Small",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272801_4-fresho-chilli-green-small.jpg?tr=w-154,q-80"
+  }
+]

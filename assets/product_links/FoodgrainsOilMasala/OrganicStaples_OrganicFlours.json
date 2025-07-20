@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Organic Whole Wheat Atta",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202316_6-aashirvaad-natures-super-foods-organic-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Whole Wheat Atta",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203903_2-bb-royal-organic-whole-wheat-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Atta",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100448228_10-24-mantra-organic-whole-wheat-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Barley Flour/Jave Godhi",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168531_3-bb-royal-organic-barley-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Ragi Flour/Ragi Hittu",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279808_10-24-mantra-organic-flour-ragi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jowar Flour/Jolada Hittu",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019638_6-organic-tattva-jowar-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Wheat Dalia",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002646_6-organic-tattva-organic-wheat-dalia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "7 Grain Atta/Multigrain",
+    "sku_type": "1 kg ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240039_4-24-mantra-organic-7-grain-atta-blended-wholegrain-flour-with-sorghum-maize-barley-makes-soft-healthy-rotis.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Maida",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002650_6-organic-tattva-organic-maida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Suji",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002657_6-organic-tattva-organic-suji.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Flour",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065542_3-natureland-organics-whole-wheat-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Jowar Flour/Jolada Hittu",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014295_4-phalada-pure-sure-organic-jowar-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Rice Rava",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106317_15-bb-royal-organic-rice-rava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Urad Dal/Uddina Bele, Atta",
+    "sku_type": "500 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168538_2-bb-royal-organic-urad-dal-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Besan/Kadale Hittu",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002643_6-organic-tattva-organic-besan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Maize flour/Makka Atta",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135848_3-bb-royal-organic-maize-flourmakka-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Idli Rava",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161788_8-bb-royal-organic-idli-rava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Ragi Powder Porridge",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280117_2-gooddiet-sprouted-ragi-powder-porridge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soybean Flour",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195219_1-natureland-organics-soybean-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Besan Flour - Gluten Free, Fibre Rich",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246451_2-pure-sure-organic-besan-flour-gluten-free-fibre-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Jowari/Sorghum Flour - 100% Natural & Gluten Free",
+    "sku_type": "1 kg ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255370_2-jiwa-organic-jowari-flour-gluten-free-chakki-ground-100-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Whole Grain Barley",
+    "sku_type": "250 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900448718_1-truefarm-organic-whole-grain-barley.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Chakki Fresh Flour/Atta - 100% Natural",
+    "sku_type": "1 kg ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255367_3-jiwa-organic-chakki-fresh-atta-100-natural-stone-ground-for-chapatis-bread-baking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Maida",
+    "sku_type": "500 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261328_1-natureland-organics-wheat-maida-refined-bleached.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Bajri/Pearl Millet Flour - 100% Natural & Gluten Free",
+    "sku_type": "1 kg ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255368_2-jiwa-organic-bajri-flour-gluten-free-chakki-ground-healthy-option-for-chapatis-baking-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Ragi/Finger Millet Flour - 100% Natural & Gluten Free",
+    "sku_type": "1 kg ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255369_2-jiwa-organic-ragi-flourmillets-atta-gluten-free-chakki-ground-for-cooing-baking-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Khapli Flour Emmer Wheat",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345016_1-two-brothers-organic-farms-khapli-flour-emmer-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Maida Flour - Rich In Fibre & Vitamin",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246457_3-pure-sure-organic-maida-flour-rich-in-fibre-vitamin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Buckwheat Flour/Kuttu Atta - 100% Natural & Gluten Free",
+    "sku_type": "1 kg ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255372_2-jiwa-organic-buckwheat-flourkuttu-atta-all-natural-healthy-flour-alternative-for-breads-baking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Rice Flour/Akki Hittu",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014289_3-phalada-pure-sure-organic-rice-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flour - Rice",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009415_6-organic-tattva-flour-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Bran",
+    "sku_type": "400 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195215_2-natureland-organics-wheat-bran.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Dalia",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261327_2-natureland-organics-wheat-dalia-low-in-fat-calories.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Methi Atta",
+    "sku_type": "1 kg ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240040_3-24-mantra-organic-7-grain-methi-atta-blended-flour-with-ragi-jowar-barley-soybean-for-healthy-chapatis.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bajra Flour",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195212_2-natureland-organics-bajra-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Rice Flour/Chawal Atta",
+    "sku_type": "500 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129354_7-pro-nature-rice-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sprouted Ragi Atta/Ragi Hittu",
+    "sku_type": "500 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202189_1-praakritik-sprouted-ragi-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Barley Flour - 100% Natural & Gluten Free",
+    "sku_type": "750 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255378_2-jiwa-organic-barley-flour-high-fibre-gluten-free-100-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Low Carb High Protein Flour - High Fibre, Dietitian Recommended Keto Atta",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201958_5-lo-foods-low-carb-high-protein-flour-keto-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Khapli Wheat/Emmer Flour - 100% Natural",
+    "sku_type": "1 kg ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255379_3-jiwa-organic-khapli-wheat-flour-100-natural-low-gi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bran - Wheat",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001061_9-24-mantra-organic-bran-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sorghum/Jowar Flour/Jolada Hittu",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195218_2-natureland-organics-sorghumjowar-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Raw Jackfruit Flour - May Reduce Blood Sugar Levels",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246484_3-pure-sure-organic-raw-jackfruit-flour-may-reduce-blood-sugar-levels.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Broken Wheat/Daliya",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100472763_7-pro-nature-organic-daliya-broken-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly Rava",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001076_12-24-mantra-organic-rava-idly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Whole Wheat Multi Grain Atta/Godihittu",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40079751_6-bb-royal-organic-whole-wheat-multi-grain-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Amaranth Flour/Rajgira Atta - 100% Natural & Gluten Free",
+    "sku_type": "1 kg ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255371_2-jiwa-organic-amaranth-flourrajgira-atta-high-protein-gluten-free-for-fasting-baking-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Corn Flour",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/301986_3-24-mantra-organic-flour-corn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Flour - Rich In Dietary Fibre",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261324_2-natureland-organics-rice-flour-rich-in-dietary-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flour - Buckwheat",
+    "sku_type": "250 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128469_5-organic-tattva-flour-buckwheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Daliya",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279852_10-24-mantra-organic-wheat-daliya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat",
+    "sku_type": "1 kg - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/301971_9-24-mantra-organic-wheat-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Whole Wheat Atta/Godihittu",
+    "sku_type": "500 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40084514_7-bb-royal-organic-whole-wheat-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fine Semolina",
+    "sku_type": "1 kg ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197131_1-organic-shastra-fine-semolina.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Ragi Flour/Ragi Hittu",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026617_2-turn-organic-organic-ragi-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Jowar Atta/Sorghum",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220044_1-praakritik-organic-jowar-attasorghum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Besan",
+    "sku_type": "500 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220045_1-praakritik-organic-besan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barley Flour/Jave Godhi",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195213_3-natureland-organics-barley-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Suji",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195216_2-natureland-organics-wheat-suji.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Ragi Flour/Ragi Hittu",
+    "sku_type": "1 kg - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014287_3-phalada-pure-sure-organic-ragi-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chana Besan",
+    "sku_type": "500 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261313_2-natureland-organics-chana-besan-best-for-indian-snacks-dishes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Khapli Atta",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222183_2-praakritik-organic-khapli-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fields Of Gold Organic Barnyard Millet Flour",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218680_2-pristine-fields-of-gold-organic-barnyard-millet-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Sattu Atta",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220046_2-praakritik-organic-sattu-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Chiroti Rava",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227130_1-bb-royal-bb-royal-organic-chiroti-rawa-1kg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Bansi Sooji",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227128_1-bb-royal-bb-royal-organic-bansi-sooji-1-kg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Rajgira Atta/Amaranth Flour",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168536_3-bb-royal-organic-rajgira-attaamaranth-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Sharbati Atta",
+    "sku_type": "5 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223037_1-bb-royal-organic-sharbati-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Soya Flour/Atta",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168537_3-bb-royal-organic-soya-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Makka Atta/Corn Flour - 100% Natural & Gluten Free",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300543_1-jiwa-organic-makka-atta-gluten-free-chakki-ground.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Green Banana Flour - Gluten Free, Healthy",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246483_3-pure-sure-organic-green-banana-flour-gluten-free-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Emmer Wheat Flour/ Khapli Atta - Organic, Low Gluten & GI, Wholesome, Easy To Digest",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249773_1-brightcrop-emmer-wheat-flour-khapli-atta-organic-low-gluten-gi-wholesome-easy-to-digest.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Whole Wheat Atta - 0% Maida",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301360_1-bb-royal-organic-whole-wheat-atta-0-maida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Multigrain Flour - Nutrient Rich",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246458_4-pure-sure-organic-multigrain-flour-nutrient-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Rice Flour - Gluten Free, Nutrient Rich",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249820_1-brightcrop-red-rice-flour-gluten-free-nutrient-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Besan Thick",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227126_1-bb-royal-bb-royal-organic-besan-thick-1kg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Red Rice - 100% Natural & Gluten Free, Wholegrain",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255374_2-jiwa-organic-red-rice-whole-grain-gluten-free-100-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brown Rice Flour - Gluten Free, Nutrient Rich",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249819_1-brightcrop-brown-rice-flour-gluten-free-nutrient-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Kuttu Atta - Buckwheat",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168533_3-bb-royal-organic-kuttu-atta-buckwheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jowar/Sorghum Flour - Highly Nutritious",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249837_1-brightcrop-jowarsorghum-flour-highly-nutritious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Finger Millet Flour - Ragi Atta",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250032_1-brightcrop-finger-millet-flour-ragi-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Bajra Flour",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338839_1-true-story-organic-bajra-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Brown Rice Atta",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168532_3-bb-royal-organic-brown-rice-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Flour",
+    "sku_type": "5 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067340_8-just-organik-wheat-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moringa Powder",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345017_1-two-brothers-organic-farms-moringa-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Singhara Atta",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202188_2-praakritik-singhara-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Red Rice Rava",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112919_4-bb-royal-organic-red-rice-rava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic -Suji",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012940_4-turn-organic-organic-suji.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Buckwheat Flour - High In Fibre, For Weight Management",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238951_2-just-organik-buckwheat-flour-high-in-fibre-for-weight-management.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chickpea Flour",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197120_2-organic-shastra-chickpea-flour.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Excellence Creme Hair Colour",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003921_16-loreal-paris-excellence-creme-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Casting Creme Gloss Hair Colour",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003916_18-loreal-paris-casting-creme-gloss-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Pure Henna/Mehendi",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198065_2-godrej-nupur-100-pure-hennamehendi-natural-conditioning-anti-dandruff-hair-colour-solution.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Do-It-Yourself Shampoo Hair Color - With 5 Herbal Extracts, No Ammonia, Long-Lasting Formula",
+    "sku_type": "180 ml - Natural Black 1",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232981_2-indica-diy-creme-10-minute-hair-colour-with-pump-no-ammonia-long-lasting.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Easy Hair Color",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111097_4-indica-easy-hair-colour-natural-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Casting Cr\u00e8me Gloss - Small Pack",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186105_6-loreal-paris-casting-creme-gloss-small-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Colour Specialist Permanent Hair Colour - Care & Moisture, Perfect Grey Coverage",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296487_1-schwarzkopf-colour-specialist-permanent-hair-colour-care-moisture-perfect-grey-coverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Colorsilk Hair Colour - No Ammonia, With Keratin & 3D Colour Gel Technology",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123937_3-revlon-colorsilk-hair-color-soft-black-1wn-no-ammonia-with-keratin-3d-color-gel-technology.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Highlighting Kit",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326548_1-streax-hair-highlighting-kit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Indigo Powder",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324356_1-kama-ayurveda-organic-indigo-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Excellence Creme Triple Care Hair Colour With French Rose Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40027753_5-loreal-paris-excellence-creme-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Root Retouch Temporary Root Cover Spray",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319002_1-schwarzkopf-root-retouch-temporary-root-cover-spray-instant-grey-coverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour Conditioner - Natural Black, No. 881",
+    "sku_type": "1 pc - (40 g + 40 g)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/276624_4-bigen-hair-color-conditioner-natural-black-no-881.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Shine Henna",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181919_4-himalaya-natural-shine-henna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour - Colour Naturals, For Men",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147941_2-garnier-men-hair-colour-color-naturals-for-men.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultralights Highlighting Kit - Coffee Collection",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40174837_3-streax-ultralights-highlighting-kit-coffee-collection-mocha-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream Hair Colour - With Shine On Conditioner, For Smooth & Shiny Hair",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263235_1-streax-streax-hair-colour-rich-platinum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Top Speed Hair Color Woman - Natural Black 70, Small, No Ammonia, Multiple Applications",
+    "sku_type": null,
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210584_2-revlon-top-speed-hair-color-woman-natural-black-70-small-no-ammonia-multiple-applications.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mens Beard Colour With Olive Oil & Taurine - Natural Brown B104, No Ammonia, Japans No 1",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291504_1-bigen-mens-beard-colour-with-olive-oil-taurine-natural-brown-b104-no-ammonia-japans-no-1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Henna Hair Pack",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167993_1-oshea-henna-hair-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Color 'n Care Nourishing Permanent Hair Color",
+    "sku_type": "60 g - (Hair Color Cream 20 g, Cream Developer 30 ml)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316094_1-revlon-color-n-care-nourishing-permanent-hair-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Color 'n Care Nourishing Permanent Hair Color",
+    "sku_type": "60 g - (Hair Color Cream 20 g, Cream Developer 30 ml)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316096_1-revlon-color-n-care-nourishing-permanent-hair-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Timeless Hair Tint Natural Looking Hair Colour - Dark Brown 3.0",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339494_1-paradyes-timeless-hair-tint-natural-looking-hair-colour-dark-brown-30.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mens Beard Colour With Olive Oil & Taurine - Medium Brown B105, No Ammonia, Japans No 1",
+    "sku_type": "40 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291505_1-bigen-mens-beard-colour-with-olive-oil-taurine-medium-brown-b105-no-ammonia-japans-no-1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour",
+    "sku_type": "30 g + 30 ml - 3.16 Burgundy",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339509_1-streax-gel-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Shampoo Hair Colour - Almond Oil & Noni Extract, 100% Grey Coverage, No Ammonia",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263243_2-streax-streax-insta-shampoo-hair-colour-dark-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme Hair Colour",
+    "sku_type": "1 pc - (30 ml + 20 g)",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203415_1-nisha-creme-hair-colour-flame-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme Hair Colour",
+    "sku_type": "40 ml - Darkest Brown 3",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005937_1-indica-creme-hair-colour-darkest-brown-3.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural & Herbal Henna Hair Shine & Darkens Hair Colour",
+    "sku_type": "120 g - (Buy 1 Get 1 Free)",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40082417_2-vlcc-henna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme 10 Minutes Hair Color - With Natural Almond Protein, Long-Lasting, Ammonia Free, 100% Grey Coverage",
+    "sku_type": "40 ml - Natural Brown 4",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005938_2-indica-creme-hair-colour-natural-brown-4.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour - Black Naturals",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153856_4-garnier-hair-colour-black-naturals.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Naturals Hair Colour",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153855_4-garnier-black-naturals-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Colour Naturals - Color Naturals, Cr\u00c3\u00a8me Riche Sachet",
+    "sku_type": "60 g - Shade 1, Natural Black",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211918_1-garnier-colour-naturals-color-naturals-creme-riche-sachet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour - Color Naturals Creme Riche Sachet",
+    "sku_type": "60 g - Shade 7.3, Golden Brown",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211923_1-garnier-hair-colour-color-naturals-creme-riche-sachet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Henna Pack - Naturals",
+    "sku_type": "100 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004442_4-anoos-henna-pack-naturals.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Hair Colour - Henna Xpert 100%",
+    "sku_type": "200 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004447_4-anoos-natural-hair-colour-henna-xpert-100.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour Shampoo",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212899_1-vip-hair-colour-shampoo-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "5 Minute Shampoo Hair Colour",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40194128_3-godrej-expert-easy-5-minute-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Henna - Natural Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004290_1-vcare-henna-natural-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Henna Hair Colour",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40015640_6-banjaras-black-henna-with-amla-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Color 'n Care Nourishing Permanent Hair Color",
+    "sku_type": "60 g - (Hair Color Cream 20 g, Cream Developer 30 ml)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316092_1-revlon-color-n-care-nourishing-permanent-hair-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Color 'n Care Nourishing Permanent Hair Color",
+    "sku_type": "60 g - (Hair Color Cream 20 g, Cream Developer 30 ml)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316093_1-revlon-color-n-care-nourishing-permanent-hair-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Color Naturals Ultra Color With 3 Oils + Fruit Serum",
+    "sku_type": "55 ml + 50 g - Shade 6.62 Cranberry Red",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329515_1-garnier-garnier-color-naturals-ultra-shade-662-cranberry-red-55ml-50g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Color - N40",
+    "sku_type": "1 pc - Rich Medium Brown",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40028490_2-bigen-hair-color-rich-medium-brown-n40.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bio Organic Henna Leaf Powder- 100% Natural Lawsonia Inermis",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301893_1-indus-valley-bio-organic-henna-leaf-powder-100-natural-lawsonia-inermis.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Bloom - Herbal Henna (Lawsonia Inermis) Hair Color Powder w Gloves - Natural Red",
+    "sku_type": "120 g - (12 Sachet of 10g each)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296992_2-pride-of-india-hair-bloom-herbal-henna-lawsonia-inermis-hair-color-powder-w-gloves-natural-red-120gm-12-sachet-of-10gm-each.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coffee Collection Ultralights Highlighting Kit - With Ultra Shine Conditioner, For Smooth & Shiny Hair",
+    "sku_type": "80 ml - Cappuccino Brown",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263222_1-streax-streax-coffee-collection-ultralights-highlighting-kit-cappuccion-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Men's Speedy Brownish Black",
+    "sku_type": "1 pc - # 102",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40028492_3-bigen-hair-color-mens-speedy-dark-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural & Herbal Henna For Stronger, Smoother & Shinier Hair",
+    "sku_type": "120 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40137836_2-vlcc-natural-herbal-henna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "New Natural Organic Hair Color Kit",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40166201_2-kama-ayurveda-new-natural-organic-hair-color-kit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Henna",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142899_2-vegetal-organic-henna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour Shampoo, Long Lasting, 100% Grey Coverage, Natural Black",
+    "sku_type": "15 ml - (Pack of 5)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228708_1-furr-by-pee-safe-furr-hair-colour-shampoo-long-lasting-100-grey-coverage-natural-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour",
+    "sku_type": "70 g - Dark Coal",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096488_1-iba-hair-colour-dark-coal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour - Casting Cr\u00e8me Gloss, Small Pack",
+    "sku_type": "45 g - 300 Darkest Brown",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40099345_3-loreal-paris-hair-colour-casting-creme-glosssmall-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Color Naturals Long-Lasting Creme Hair Colour",
+    "sku_type": "70 ml + 60 g - Shade 4.20, Wine Burgundy",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147934_6-garnier-color-naturals-creme-hair-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Top Speed Hair Colour - With Mother Of Pearl & Ginseng Root Extract, No Ammonia, For Women",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40013546_9-revlon-top-speed-hair-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Colorsilk Hair Colour With Keratin",
+    "sku_type": "155.61 g - Deep Burgundy 3DB",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123943_7-revlon-colorsilk-hair-colour-with-keratin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Highlighting Kit",
+    "sku_type": "100 g - Mocha Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326551_1-streax-hair-highlighting-kit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme Hair Colour - 1.0",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203406_1-nisha-creme-hair-colour-10-natural-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "33 Hair Dye - Emulsion Type Kesh Kala",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/277283_3-super-vasmol-33-hair-dye-emulsion-type-kesh-kala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Timeless Hair Tint Natural Looking Hair Colour - Natural Black 1.0",
+    "sku_type": "80 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339495_1-paradyes-timeless-hair-tint-natural-looking-hair-colour-natural-black-10.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Henna Paste - Ready To Apply, With Dark Roasted Coffee, For Rich Coloured Hair",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269352_1-mamaearth-natural-henna-paste-ready-to-apply-with-dark-roasted-coffee-for-rich-coloured-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Glossy Hair Tin Natural Looking Hair Colour - Berry Plum, Red Purple",
+    "sku_type": "160 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339492_1-paradyes-glossy-hair-tin-natural-looking-hair-colour-berry-plum-red-purple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesh Kala - Oil Based Hair Colour",
+    "sku_type": "75 ml - (Pack of 4)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339498_2-vasmol-33-kesh-kala-oil-based-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Shampoo Hair Colour",
+    "sku_type": "12.5 ml + 12.5 ml - 3 Dark Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339502_1-streax-insta-shampoo-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Shampoo Hair Colour",
+    "sku_type": "12.5 ml + 12.5 ml - 1 Natural Black",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339501_1-streax-insta-shampoo-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour",
+    "sku_type": "60 g + 60 ml - 3.16 Burgundy",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339505_1-streax-gel-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour",
+    "sku_type": "30 g + 30 ml - 3 Dark Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339508_1-streax-gel-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Temporary One Wash Hair Color",
+    "sku_type": "45 g - Glitter Gold",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301799_1-paradyes-temporary-one-wash-hair-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Color 'n Care Nourishing Permanent Hair Color",
+    "sku_type": "60 g - (Hair Color Cream 20 g, Cream Developer 30 ml)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316095_1-revlon-color-n-care-nourishing-permanent-hair-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Bloom - Herbal Henna (Lawsonia Inermis) Hair Color Powder w  Gloves - Burgundy, 120gm (12 Sachet of 10gm each)",
+    "sku_type": "120 ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296995_2-pride-of-india-hair-bloom-herbal-henna-lawsonia-inermis-hair-color-powder-w-gloves-burgundy-120gm-12-sachet-of-10gm-each.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Semi-Permanent Creme Color",
+    "sku_type": "120 g - Crinkle Violet",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301771_1-paradyes-semi-permanent-creme-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal Hair Colour Cream",
+    "sku_type": "130 g - Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160783_1-dr-batras-herbal-hair-colour-cream-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Semi-Permanent Creme Color",
+    "sku_type": "120 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301787_1-paradyes-semi-permanent-creme-color.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brown Black Beard Colour - Henna & Amla",
+    "sku_type": "60 ml - (Colourant + Developer, 30 ml each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280677_1-bombay-shaving-company-beard-colour-brown-black-with-henna-amla-ammonia-sulphate-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fine Tone Toning Shampoo",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301792_1-paradyes-fine-tone-toning-shampoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salon Expert Creme Hair Color - Natural Black, 2 In 1 Formula",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340866_1-keywest-salon-expert-creme-hair-color-natural-black-2-in-1-formula.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour",
+    "sku_type": "60 g + 60 ml - 3 Dark Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339504_1-streax-gel-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour",
+    "sku_type": "30 g + 30 ml - 4 Natural Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339510_1-streax-gel-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blackout Powder Cover Up For Hair Problems - For Grey Roots, Patchy Beard & Thinning Hairline",
+    "sku_type": "4 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341409_1-beardo-blackout-powder-cover-up-for-hair-problems-for-grey-roots-patchy-beard-thinning-hairline.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour Shampoo",
+    "sku_type": "180 ml - Dark Brown",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341212_1-bsy-noni-hair-colour-shampoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour Shampoo - Dark Brown",
+    "sku_type": "200 ml - (10 x 20 ml Sachets)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342424_1-bsy-noni-hair-colour-shampoo-dark-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indigo Powder - Natural Hair Colour",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339477_1-havintha-indigo-powder-natural-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Henna Powder - Damage Free Hair Colour",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339478_1-havintha-henna-powder-damage-free-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Color Buddy Bond Repair - For Colored Hair",
+    "sku_type": "13 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324137_1-thriveco-color-buddy-bond-repair-for-colored-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shampoo Hair Colour - For Colouring In 5 Minutes, Deep Brown",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218249_2-vcare-shampoo-hair-colour-for-colouring-in-5-minutes-deep-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salon Secret High Shine Creme Hair Colour",
+    "sku_type": "50 g + 50 ml + 8 ml - Chocolate Dark Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333304_1-bblunt-high-shine-creme-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour Shampoo",
+    "sku_type": "180 ml - Natural Black",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341211_1-bsy-noni-hair-colour-shampoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour Shampoo - Black",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342423_1-bsy-noni-hair-colour-shampoo-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme Hair Colour Vitamin Shine With Argan & Walnut Oil",
+    "sku_type": "45 g - (Pack of 5)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345517_1-streax-creme-hair-colour-vitamin-shine-with-argan-walnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme Hair Colour Vitamin Shine With Argan & Walnut Oil",
+    "sku_type": "45 g - (Pack of 5)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345518_1-streax-creme-hair-colour-vitamin-shine-with-argan-walnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour For Women",
+    "sku_type": "45 ml - (20 g Colourant + 20 ml Developer + 5 g Conditioner)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345523_1-streax-gel-hair-colour-for-women.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour - Color Naturals, Creme Riche Sachet",
+    "sku_type": "60 g - Shade 3, Darkest Brown",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211919_1-garnier-hair-colour-color-naturals-creme-riche-sachet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour - Color Naturals Creme Riche Sachet",
+    "sku_type": "60 g - Shade 3.16, Burgundy",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211920_1-garnier-hair-colour-color-naturals-creme-riche-sachet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Colour - Colour Naturals Creme Riche Sachet",
+    "sku_type": "60 g - Shade 7.65, Raspberry Red",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211924_1-garnier-hair-colour-color-naturals-creme-riche-sachet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Treatment - Henna, Premium",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122885_5-tiera-hair-treatment-henna-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Shampoo Hair Colour",
+    "sku_type": "25 ml - Dark Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345532_1-streax-insta-shampoo-hair-colour-dark-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour For Women",
+    "sku_type": "45 ml - (20 g Colourant + 20 ml Developer + 5 g Conditioner)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345526_1-streax-gel-hair-colour-for-women.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme Hair Colour - Vitamin Shine With Argan & Walnut Oil",
+    "sku_type": "45 g - (Pack of 5)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345516_1-streax-creme-hair-colour-vitamin-shine-with-argan-walnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Henna 100% Pure",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345530_1-streax-vasmol-henna-100-pure-henna-powder-mehendi-for-hair-colour-suitable-for-men-and-women.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour For Women",
+    "sku_type": "45 ml - (20 g Colourant + 20 ml Developer + 5 g Conditioner)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345525_1-streax-gel-hair-colour-for-women.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour For Women",
+    "sku_type": "45 ml - (20 g Colourant + 20 ml Developer + 5 g Conditioner)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345524_1-streax-gel-hair-colour-for-women.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme Hair Colour Vitamin Shine With Argan & Walnut Oil",
+    "sku_type": "45 g - (Pack of 5)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345519_1-streax-creme-hair-colour-vitamin-shine-with-argan-walnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Shampoo Hair Colour",
+    "sku_type": "25 ml - Natural Black",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345531_1-streax-insta-shampoo-hair-colour-natural-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Glossy Hair Tin Natural Looking Hair Colour - Hazel Brown, Light Brown",
+    "sku_type": "160 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339490_1-paradyes-glossy-hair-tin-natural-looking-hair-colour-hazel-brown-light-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Henna Paste - With Coffee & Beetroot Juice",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326556_2-vasmol-natural-henna-paste-with-coffee-beetroot-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moustache & Beard Dye Shampoo - Colours in 5 Mins",
+    "sku_type": "5 g - Black",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218253_2-vcare-moustache-beard-dye-shampoo-colours-in-5-mins-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Beard Colour - For Men",
+    "sku_type": "30 ml + 30 g - Natural Black",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180398_4-beardo-beard-colour-for-men-natural-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Shampoo Hair Colour",
+    "sku_type": "12.5 ml + 12.5 ml - (Pack of 5)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339496_1-streax-insta-shampoo-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gel Hair Colour",
+    "sku_type": "60 g + 60 ml - 4 Natural Brown",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339506_1-streax-gel-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mehendi Powder - Natural Brown (100% Herbal)",
+    "sku_type": "60 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40082151_2-khadi-manav-mehendi-powder-natural-brown-100-herbal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Hair Colour Kit For High Grey% - Natural Black, 4 Steps, 100% Organic & Ayurvedic, No Ammonia, PPD, Peroxide,",
+    "sku_type": "2 pcs - (200 g + 40ml)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252432_1-sesa-natural-hair-colour-kit-for-high-grey-natural-black-4-steps-100-organic-ayurvedic-no-ammonia-ppd-peroxide.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Black Beard Colour - Henna & Amla, Long Lasting",
+    "sku_type": "60 ml - (Colourant + Developer, 30 ml each)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230399_3-bombay-shaving-company-natural-beard-colour-with-henna-amla-long-lasting-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creme Hair Colour - Natural Brown 4.0",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/19113_1-nisha-creme-hair-colour-natural-brown-40.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nature Mate Natural Henna Based Hair Colour - Original Black",
+    "sku_type": "60 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203423_1-nisha-nature-mate-natural-henna-based-hair-colour-original-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal - Hair Dye",
+    "sku_type": "100 g - Pack of 2",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004292_1-vcare-herbal-hair-dye.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Henna & Amla Fruit Organic Powder - Repairs Split Ends",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226946_3-khadi-natural-organic-powder-henna-amla-fruit-protein-rich-conditioner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "3 Step Natural Hair Colour Kit - For First Greys, 100% Organic & Ayurvedic, No Ammonia, Ppd, Peroxide",
+    "sku_type": "1 pc - (40ml + 200g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225230_1-sesa-natural-hair-colour-kit-black-rich-long-lasting-finish-no-ammonia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Hair Colour - Revitalizes Hair Shaft",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40171517_4-khadi-natural-herbal-henna-colour-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Colorsilk Hair Color With Keratin - Provides 100% Gray Coverage, No Ammonia, Long Lasting",
+    "sku_type": "411 g - (Get Outrageous Color Protection Shampoo, 90 ml, Free)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258991_2-revlon-revlon-colorsilk-hair-color-with-keratin-5g-light-golden-brown-with-outrageous-shampoo-90-ml.jpg?tr=w-154,q-80"
+  }
+]

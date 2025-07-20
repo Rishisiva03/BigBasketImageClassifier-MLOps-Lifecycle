@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Reload Berry Energy Drink With Electrolytes",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40132326_10-fastup-reload-electrolytes-effervescent-tablets-berry-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Mojito Mint",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001376_2-monin-syrup-mojito-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Juice Concentrate",
+    "sku_type": "700 ml - Bottle",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177842_5-urban-platter-lemon-juice-concentrate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cosmopolitan - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215141_2-jimmys-cocktails-non-alcoholic-beverage-cosmopolitan-cocktail-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Triple Sec",
+    "sku_type": "700 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001380_1-monin-syrup-triple-sec.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whiskey Sour - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215144_2-jimmys-cocktails-non-alcoholic-beverage-whiskey-sour-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Reload Cola Energy Drink With Electrolytes",
+    "sku_type": "20 pcs ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40132328_8-fastup-reload-electrolytes-effervescent-tablets-cola-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Margarita - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230230_3-jimmys-cocktails-margarita-non-alcoholic-beverage-lemon-lime-chili-agave.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Reload Hydration & Energy Lime & Lemon Instant Effervescent",
+    "sku_type": "20 pcs ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169358_6-fastup-reload-electrolytes-effervescent-tablets-limelemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berrypolitan - Non-Alcoholic Mocktail & Cocktail Mixer",
+    "sku_type": "250 ml - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334344_1-poetry-berrypolitan-non-alcoholic-mocktail-cocktail-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sex On The Beach - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215143_2-jimmys-cocktails-non-alcoholic-beverage-sex-on-the-beach-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Blue Curacao",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001373_3-monin-syrup-blue-curacao.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Chilli Mojito - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215142_2-jimmys-cocktails-non-alcoholic-beverage-mango-chilli-mojito-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Noisette Hazelnut Flavored",
+    "sku_type": "250 ml - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002176_3-monin-syrup-noisette-hazelnut-flavored.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The New Old Fashioned Cocktail Mixer - Ready To Serve Fruit Beverage",
+    "sku_type": "250 ml ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277330_2-jimmys-cocktails-the-new-old-fashioned-cocktail-mixer-ready-to-serve-fruit-beverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Elderflower Mojito - Non-Alcoholic Mocktail & Cocktail Mixer",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334345_1-poetry-elderflower-mojito-non-alcoholic-mocktail-cocktail-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Passion Fruit",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001377_2-monin-syrup-passion-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Watermelon",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001381_3-monin-syrup-watermelon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seven Seeds Mix - Roasted, Salted, Premium, Healthy Snack, Weight Management",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212777_7-fabbox-seven-seeds-mix-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berry Mojito Cocktail Mixer",
+    "sku_type": "210 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222859_2-bab-louie-co-bab-louie-mix-berry-cocktail-premix-lime-flavour-infused.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Peach Tea with Natural Tea Extracts",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002170_2-monin-syrup-peach-tea-with-natural-tea-extracts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aromatic Spiced Bitters - Non-alcoholic",
+    "sku_type": "120 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222861_3-bab-louie-co-aromatic-spiced-bitters-non-alcoholic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Celebration Cocktail Pack - Premium Mixers, Assorted Flavours, Low Calorie",
+    "sku_type": "250 ml - (Pack of 6)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243112_2-jimmys-cocktails-non-alcoholic-beverages-cocktail-mixers-with-bar-blade-finely-crafted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Daiquiri Margarita Mix",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40247998_1-mr-mrs-strawberry-daiquiri-margarita-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Penicillin - Non-Alcoholic Mocktail & Cocktail Mixer",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334346_1-poetry-penicillin-non-alcoholic-mocktail-cocktail-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Syrup - Peach",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001378_5-monin-syrup-peach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Passion Fruit Martini - Non-Alcoholic Mocktail & Cocktail Mixer",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334347_1-poetry-passion-fruit-martini-non-alcoholic-mocktail-cocktail-mixer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bloody Mary - Cocktail & Mocktail Mixer",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230231_4-jimmys-cocktails-bloody-mary-non-alcoholic-beverage-with-tomato-peppers-celery-tamarind.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Energy Drink",
+    "sku_type": "250 ml - Can",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317955_1-hustle-energy-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Tonic Water",
+    "sku_type": "250 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281263_1-jimmys-cocktails-sparkling-beverage-tonic-water-finely-crafted-natural-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cocktail Mix - Whisky Sour",
+    "sku_type": "100 ml - Mono Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204507_3-stirred-cocktail-mix-whisky-sour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bloody Mary - Tomato & Pepper",
+    "sku_type": "125 ml ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120052_5-stirred-bloody-mary-tomato-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Margarita - Orange, Triple Sec, Lemon, Non-alcoholic, Ready To Drink Mocktail",
+    "sku_type": "250 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264006_1-cocktail-baba-margarita-orange-triple-sec-lemon-non-alcoholic-ready-to-drink-mocktail.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mojito Mint Syrup",
+    "sku_type": "700 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217783_1-mathieu-teisseire-mojito-mint-syrup.jpg?tr=w-154,q-80"
+  }
+]

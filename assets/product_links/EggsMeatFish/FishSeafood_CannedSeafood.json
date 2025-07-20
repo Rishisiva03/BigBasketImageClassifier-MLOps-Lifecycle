@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Tuna Chunks - Light Meat, in Water",
+    "sku_type": "185 g - Canned light meat tuna chunks with water as base",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121155_2-tasty-nibbles-tuna-chunks-light-meat-in-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Light Meat Tuna Flakes",
+    "sku_type": "185 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121156_3-tasty-nibbles-tuna-flakes-light-meat-in-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Canned Sardine in Sunflower Oil",
+    "sku_type": "185 g - Can",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207274_2-tasty-nibbles-canned-sardine-in-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Flakes - White Meat In Sunflower Oil",
+    "sku_type": "185 g - Can",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176766_5-tasty-nibbles-tuna-flakes-white-meat-in-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Flakes - White Meat In Water, Salt Added",
+    "sku_type": "185 g - Can",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176768_5-tasty-nibbles-tuna-flakes-white-meat-in-water-salt-added.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks  - Natural Spring Water",
+    "sku_type": "180 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010018_2-ocean-secret-tuna-chunks-natural-spring-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Flakes - White Meat In Water",
+    "sku_type": "185 g - Can",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176767_4-tasty-nibbles-tuna-flakes-white-meat-in-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Flakes - Light Meat, in Salted Water",
+    "sku_type": "185 g - Canned light meat tuna flakes with brine as base",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121150_2-tasty-nibbles-tuna-flakes-light-meat-in-salted-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fried Prawn - Masala",
+    "sku_type": "50 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121157_3-tasty-nibbles-fried-prawn-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skipjack Tuna - Chunks In Water",
+    "sku_type": "185 g - Can",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000987_2-grace-skipjack-tuna-chunks-in-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skipjack Tuna - Flakes In Oil",
+    "sku_type": "185 g - Can",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000988_3-grace-jims-skipjack-tuna-flakes-in-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sardines in Sunflower Oil",
+    "sku_type": "120 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002364_2-john-west-sardines-in-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks - Sunflower Oil, Horeca",
+    "sku_type": "1.8 kg ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127997_2-tasty-nibbles-tuna-chunks-sunflower-oil-horeca.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks - Light Meat, in Sunflower Oil, with Ginger Slice",
+    "sku_type": "185 g - Canned light meat tuna chunks with sunflower oil as base and flavoured with ginger",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121154_3-tasty-nibbles-tuna-chunks-light-meat-in-sunflower-oil-with-ginger-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Canned Skipjack Light Meat Tuna - Chunk In Soya Bean Oil",
+    "sku_type": "185 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037993_7-golden-prize-canned-skipjack-light-meat-tuna-chunk-in-soya-bean-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Canned Sardine - in Natural Oil with Chili",
+    "sku_type": "125 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119300_4-golden-prize-canned-sardine-in-natural-oil-with-chili.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Canned Tuna Chunks in Tomato Sauce",
+    "sku_type": "185 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096822_6-golden-prize-canned-tuna-chunks-in-tomato-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Fish",
+    "sku_type": "150 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002038_1-judes-pickle-fish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mackerel In Oil",
+    "sku_type": "200 g - Can",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176417_2-golden-prize-mackerel-in-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Sandwich Flakes In Oil With Red Chili",
+    "sku_type": "185 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153411_5-golden-prize-tuna-sandwich-flakes-in-oil-with-red-chili.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Spread In Mayonnaise",
+    "sku_type": "185 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153412_5-golden-prize-tuna-spread-in-mayonnaise.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Canned Mackerel In - Tomato Sauce With Chili",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037996_4-golden-prize-canned-mackerel-in-tomato-sauce-with-chili.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala - Fried Kardi",
+    "sku_type": "50 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002043_2-judes-masala-fried-kardi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks in Olive Oil",
+    "sku_type": "185 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40087434_1-abbies-tuna-chunks-in-olive-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Sandwich - in Soybean Oil",
+    "sku_type": "185 g - Tin",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009617_2-sealect-tuna-sandwich-in-soybean-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks - In Vegetable Oil With Lemon Slices",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010024_2-ocean-secret-tuna-chunks-in-vegetable-oil-with-lemon-slices.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks - Light Meat, in Sunflower Oil, with Chilli & Cracked Pepper",
+    "sku_type": "185 g - Canned light meat tuna chunks with  sunflower oil as base and flavoured with chilli & cracked pepper",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121153_2-tasty-nibbles-tuna-chunks-light-meat-in-sunflower-oil-with-chilli-cracked-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna in Tantalizing Mayonnaise",
+    "sku_type": "180 g - Tin",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010020_3-ocean-secret-tuna-in-tantalizing-mayonnaise.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Salmon Fillet - Wild Alaskan, In Oil",
+    "sku_type": "115 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124071_7-golden-prize-pink-salmon-fillet-wild-alaskan-in-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sardines - In Vegetable Oil With Lemon Slices",
+    "sku_type": "180 g - Tin",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010031_6-ocean-secret-sardines-in-vegetable-oil-with-lemon-slices.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smoked Pink Salmon Fillet - Wild Alaskan, In Oil",
+    "sku_type": "115 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124072_7-golden-prize-smoked-pink-salmon-fillet-wild-alaskan-in-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crab Crackers",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40182563_4-vinanth-crab-crackers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Canned Sardine In Brine",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037997_5-golden-prize-canned-sardine-in-brine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Salmon In Oil",
+    "sku_type": "140 g - Can",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176418_3-golden-prize-pink-salmon-in-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Flakes in Sunflower Oil",
+    "sku_type": "185 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40087436_1-abbies-tuna-flakes-in-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks in Brine",
+    "sku_type": "185 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40087432_1-abbies-tuna-chunks-in-brine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Squid",
+    "sku_type": "400 g - PET Jar",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121148_5-tasty-nibbles-pickle-squid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks - Light Meat, in Sunflower Oil, with Lemon Slice",
+    "sku_type": "185 g - Canned light meat tuna chunks with  sunflower oil as base and flavoured with lemon slice",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121152_3-tasty-nibbles-tuna-chunks-light-meat-in-sunflower-oil-with-lemon-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Flakes in Brine",
+    "sku_type": "185 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40087435_1-abbies-tuna-flakes-in-brine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Prawn",
+    "sku_type": "400 g - PET Jar",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121144_5-tasty-nibbles-pickle-prawn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Salad With Vegetables Mexican Style",
+    "sku_type": "185 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153413_5-golden-prize-tuna-salad-with-vegetables-mexican-style.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Light Meat Tuna Flakes In Sunflower Oil With Chilli & Cracked Pepper",
+    "sku_type": "185 g - Canned light meat tuna flakes with sunflower oil as base and flavoured with chilli & cracked pepper",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40092584_2-tasty-nibbles-light-meat-tuna-flakes-in-sunflower-oil-with-chilli-cracked-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Sardine",
+    "sku_type": "400 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121146_5-tasty-nibbles-pickle-sardine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Anchovy",
+    "sku_type": "400 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121147_5-tasty-nibbles-pickle-anchovy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Fish",
+    "sku_type": "400 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121145_4-tasty-nibbles-pickle-fish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Clam   400 GRM",
+    "sku_type": "400 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121149_6-tasty-nibbles-pickle-clam-400-grm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sardines in Brine",
+    "sku_type": "120 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002363_2-john-west-sardines-in-brine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sardines in Tomato Sauce",
+    "sku_type": "120 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343800_1-john-west-sardines-in-tomato-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sardines In Spicy Tomato Sauce",
+    "sku_type": "120 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343799_1-john-west-sardines-in-spicy-tomato-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks In Sunflower Oil",
+    "sku_type": "145 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343796_1-john-west-tuna-chunks-in-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks In Spring Water",
+    "sku_type": "145 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343798_1-john-west-tuna-chunks-in-spring-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks In Brine",
+    "sku_type": "145 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343797_1-john-west-tuna-chunks-in-brine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Chunks in - Vegetable Oil with Ginger Slices",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010022_1-ocean-secret-tuna-chunks-in-vegetable-oil-with-ginger-slices.jpg?tr=w-154,q-80"
+  }
+]

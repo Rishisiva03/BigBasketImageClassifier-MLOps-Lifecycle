@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Tender Coconut Water",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214886_8-fresho-tender-coconut-water-no-added-sugar-flavours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dia Free Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117941_6-kapiva-diafree-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Get Slim Juice - Aids Metabolism & Digestion",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117942_8-kapiva-get-slim-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thar Aloe Vera Juice - Rejuvenates Skin & Hair, No Added Sugar",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117938_7-kapiva-aloe-vera-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milo",
+    "sku_type": "400 g - Tin",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006305_7-nestle-milo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheatgrass Juice - Helps Detoxify The Liver & Cleanses Digestive System",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117949_6-kapiva-wheat-grass-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ACV With Mother Vit.B6 + B12 Green Apple Effervescent",
+    "sku_type": "15 pcs ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275610_3-fastup-apple-cider-vinegar-effervescent-tablets-with-mother-added-vit-b6b12-weight-management-gut-health-green-apple-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lean Body L-Carnitine 2000 mg Orange Flavour Effervescent",
+    "sku_type": "20 pcs - Tube",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324799_3-fastup-fat-burner-lean-body-tablets-2000-mg-l-carnitine-for-fat-weight-loss-orange-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk - Almond, Unsweetened",
+    "sku_type": "1 L ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119955_6-137-degree-milk-almond-unsweetened.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wild Amla Juice",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117939_6-kapiva-amla-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chocolate - Mocha, Blend of Chocolate & Aromatic Cocoa",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134296_6-cocosutra-hot-chocolate-mocha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ojasvita Malt Powder, 200 g - Drink Mix For Sharp Mind &  Body",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124207_6-sri-sri-tattva-health-drink-ojasvita-malt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Triphala Juice",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117946_5-kapiva-triphala-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ojasvita Strawberry Powder, 200 g - Drink Mix For Sharp Mind &  Body",
+    "sku_type": "200 g - Carton",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014735_5-ojasvita-drink-7-power-herbs-delicious-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sri Sri Tattva - Nutrition Drink - Ojasvita Vanilla Box",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014732_3-ojasvita-drink-7-power-herbs-delicious-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ojasvita Ragi - With 7 Herbs, No Added Sugar, For Sharp Mind & Fit Body",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265691_1-sri-sri-tattva-ojasvita-ragi-with-7-herbs-no-added-sugar-for-sharp-mind-fit-body.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla Juice",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033756_2-nutriorg-amla-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ojasvita Luscious Mango - With 7 Herbs, For Sharp Mind & Fit Body",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265686_1-sri-sri-tattva-ojasvita-luscious-mango-with-7-herbs-for-sharp-mind-fit-body.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nesquik - Banana Flavour, Imported",
+    "sku_type": "300 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022924_3-nestle-nesquik-banana-flavour-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Giloy Tulsi Juice",
+    "sku_type": "500 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220757_8-indisecrets-giloy-tulsi-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera & Turmeric Juice",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139750_3-kapiva-aloe-vera-turmeric-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milo Active Go, Imported",
+    "sku_type": "400 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088139_4-nestle-milo-active-go-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk - Almond, Original",
+    "sku_type": "180 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119960_3-137-degree-milk-almond-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera Juice",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033757_2-nutriorg-aloe-vera-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chocolate With Ashwagandha - Rich Antioxidants",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279112_3-auric-hot-chocolate-with-ashwagandha-builds-strength-improves-vitality.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chocolate - Swiss Vanilla, Blend of Chocolate & Aromatic Cocoa",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018005_5-cocosutra-hot-chocolate-swiss-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diabetic Care Juice",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177124_4-nutriorg-diabetic-care-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jamun Juice",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177125_4-nutriorg-jamun-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thandai Shake Mix - Choco Almond, Unjunked",
+    "sku_type": "225 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219575_2-open-secret-health-nutrition-drink-choco-almond-nutty-shake-mix-prebiotics-probiotics.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Immunity Booster Juice",
+    "sku_type": "500 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196015_1-nutriorg-immunity-booster-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barista Unsweetened Oat Drink - Non-dairy, Vegan, Nut Free, No-added Sugar",
+    "sku_type": "200 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263471_2-oatey-barista-unsweetened-oat-drink-non-dairy-vegan-nut-free-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ashwagandha Powder Superfood - For Weight Management, Rich In Vitamin",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226654_1-nutriwish-ashwagandha-powder-superfood-for-weight-management-rich-in-vitamin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badam Drink - Instant Mix, Healthy, Almond Flakes & Saffron",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265230_1-bambino-badam-drink-instant-mix-healthy-almond-flakes-saffron.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Effervescent Tablets - Greens Super, Detoxifying, Supports Immunity, Bone Health, Lemon Flavour",
+    "sku_type": "20 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244339_1-suprfit-effervescent-tablets-greens-super-detoxifying-supports-immunity-bone-health-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chocolate - Mexican Spiced, Blend of Chocolate & Aromatic Cocoa",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018006_9-cocosutra-hot-chocolate-mexican-spiced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thandai Shake Mix - Kesar Badam, Unjunked",
+    "sku_type": "225 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219576_2-open-secret-health-nutrition-drink-kesar-badam-nutty-shake-mix-prebiotics-probiotics.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Chocolate - Caramel, Blend of Chocolate & Aromatic Cocoa",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134297_6-cocosutra-hot-chocolate-caramel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natura Rice & Almond Drink, Vegan",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136749_3-borges-natura-rice-almond-drink-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheatgrass Juice",
+    "sku_type": "500 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220759_8-indisecrets-wheatgrass-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diabetes Care Tea",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200773_1-namhya-diabetes-care-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Badam Millet Milk Oat Drink - No Added Sugar",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263472_2-oatey-kesar-badam-oat-drink-stevia-based-non-dairy-vegan-nut-free-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Karela Juice",
+    "sku_type": "500 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177126_4-nutriorg-karela-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oat Drink - Barista Blend",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326728_1-oatside-oat-drink-barista-blend.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ojasvita ChocoMalt - Drink Mix For Sharp Mind & Healthy Body",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315983_1-sri-sri-tattva-ojasvita-chocomalt-drink-mix-for-sharp-mind-healthy-body.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut Sugar-Free Drinking Chocolate - Lite, Keto Friendly",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276463_1-cocosutra-hazelnut-sugar-free-drinking-chocolate-lite-keto-friendly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Tea Effervescent Tablet - Detoxifies Body, Ginger & Lemon Flavour",
+    "sku_type": "68 g - (20 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295674_1-topup-green-tea-effervescent-tablet-detoxifies-body-ginger-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Pure Tender Coconut Water",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177246_3-purefoods-100-pure-tender-coconut-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Cider Vinegar With Mother - Raw, Unfiltered, Unpasteurised, For Gut Health, Immunity",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244345_1-suprfit-apple-cider-vinegar-with-mother-raw-unfiltered-unpasteurised-for-gut-health-immunity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi-Grain Health Mix - Sprouted & Roasted",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305743_2-sri-ahrya-multi-grain-health-mix-sprouted-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strong Bones Powder",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338722_1-bhava-earth-strong-bones-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Iron Boost Powder",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338721_1-bhava-earth-iron-boost-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Hit Mix",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338723_1-bhava-earth-protein-hit-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wellness Everyday Mix",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338724_1-bhava-earth-wellness-everyday-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Watermelon Drink Powder",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211126_1-nectar-valley-instant-watermelon-drink-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hangover Fix - Mango",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311804_1-rebound-hangover-fix-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Recharge Orange Flavour Fizzy Drink Mix - For Kids",
+    "sku_type": "30 g - (6 Sachets x 5 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342149_1-centrum-recharge-orange-flavour-fizzy-drink-mix-for-kids.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera & Wheatgrass Juice",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139751_3-kapiva-aloe-vera-wheatgrass-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Drinking Chocolate",
+    "sku_type": "100 g - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30004042_2-moments-drinking-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Karela Jamun Juice",
+    "sku_type": "500 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220758_8-indisecrets-karela-jamun-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Classic Lemon Ice Tea",
+    "sku_type": "350 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151554_6-brewhouse-tea-brewing-co-organic-classic-lemon-ice-tea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Caramel Coffee Oat Drink - No Added Sugar",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344590_1-oatey-premium-caramel-coffee-oat-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Recharge Orange Flavour Instant Energy Mix",
+    "sku_type": "30 g - (6 Sachets x 5 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342148_1-centrum-recharge-orange-flavour-instant-energy-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Water",
+    "sku_type": "200 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196385_1-jus-coco-coconut-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloe Vera & Moringa Juice",
+    "sku_type": "1 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139749_2-kapiva-aloe-vera-moringa-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yoghurt Drink - Carrot, Orange, Banana, No Sugar Added, All Natural, Low Fat",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40155039_7-again-yoghurt-drink-carrot-orange-banana-no-sugar-added-all-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Oat Milk - Smooth & Creamy, Plant Based, Soy & Nut Free",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40247630_1-milkinoats-classic-oat-milk-smooth-creamy-plant-based-soy-nut-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Almond Milk - Unsweetened",
+    "sku_type": "330 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196387_1-tendo-original-almond-milk-unsweetened.jpg?tr=w-154,q-80"
+  }
+]

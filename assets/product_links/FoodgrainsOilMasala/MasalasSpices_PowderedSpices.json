@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Hommade Coconut Milk",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/245509_5-dabur-hommade-coconut-milk-goodness-of-2-creamy-coconuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Asafoetida Powder",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000620_2-lg-powder-asafoetida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric/Haldi Powder With Natural Oils",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095122_18-tata-sampann-turmeric-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander/Dhania Powder With Natural Oils",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095123_11-tata-sampann-coriander-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli/Lal Mirchi Powder With Natural Oils",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095121_11-tata-sampann-chilli-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jeera Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/284340_12-catch-jeera-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Kashmirilal",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128832_6-everest-powder-kashmirilal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kashmiri Chilli Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270423_3-eastern-kashmiri-chilli-powder-mild-spice-for-thick-red-gravy-flavour-locked.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Tikhalal Chilly",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/219712_6-everest-powder-tikhalal-chilly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Ajwain/Om Kalu",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109370_7-bb-royal-organic-ajwain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Powder/Arisina Pudi",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019827_7-catch-turmeric-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Turmeric Powder/Arisina Pudi",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125926_11-bb-royal-organic-turmeric-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Black Pepper",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/266580_2-everest-powder-black-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Powder/Menasina Pudi - Stemless",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40015744_7-mtr-chilli-powder-stemless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Green Coriander",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004184_4-everest-powder-green-coriander.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Powder",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/267168_6-aashirvaad-powder-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Chilli Powder/Menasina Pudi",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019832_6-catch-red-chilli-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconad - Coconut Milk Powder",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40043577_3-klf-coconad-coconut-milk-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desiccated Coconut Powder",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40086152_2-bb-royal-coconut-powder-dessicated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cumin Powder",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/271130_5-everest-powder-cumin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Coriander Powder",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168523_9-bb-royal-organic-coriander-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Asafoetida Cake",
+    "sku_type": "50 g - Box",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000003_1-lg-powder-asafoetida-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kutilal Coarse Ground Chilli Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004138_5-everest-powder-kutilal-red-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hing/Compounded Asafoetida",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176366_4-bb-royal-hing-compounded-asafoetida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hing Powder - Yellow",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002497_4-everest-hing-yellow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Powder/Arisina Pudi",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270424_3-eastern-turmeric-powder-fresh-aroma-flavour-locked.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Chilli Powder/Menasina Pudi",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168522_4-bb-royal-organic-chilli-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kashmiri Chilli Powder",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319625_1-mtr-kashmiri-chilli-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kashmiri Mirch Powder",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100194275_6-catch-kashmiri-mirch-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Powder/Arisina Pudi",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265490_3-everest-powder-turmeric.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Cumin",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/268042_7-mtr-powder-cumin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cumin/Jeera Powder",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168524_8-bb-royal-organic-cuminjeera-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander Powder",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248538_1-sakthi-coriander-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kashmiri Chilli Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/269268_4-mdh-powder-kashmiri-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper Sprinkler",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006993_5-catch-sprinklers-black-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Ginger Powder",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219165_2-bb-royal-dry-ginger-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Hing",
+    "sku_type": "10 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019861_5-mdh-hing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amchur Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100099606_9-catch-dry-mangoamchur-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Compounded Asafoetida/Hing Powder",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327714_1-tata-sampann-south-hing-compounded-asafoetida-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cooking Soda",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053900_2-bb-royal-cooking-soda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Deggi Mirch",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004441_1-mdh-powder-deggi-mirch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bandhani Hing",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026892_7-patanjali-bandhani-hing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Powder/Arisina Pudi",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077192_9-bb-royal-turmerichaldi-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Dry Ginger",
+    "sku_type": "100 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004039_2-everest-powder-dry-ginger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coriander Powder",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077188_9-bb-royal-corianderdhania-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Powder",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40293259_4-aashirvaad-chilli-powder-with-guntur-byadagi-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Milk Powder",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168778_1-kpl-shudhi-coconut-milk-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cardamom Seed Powder",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40029911_4-keya-powder-cardamom-seed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kashmiri Chilli Powder - Taste & Colour Enhancer, Natural, Premium",
+    "sku_type": "100 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40260055_2-bb-royal-kashmiri-chilli-powder-taste-colour-enhancer-100-natural-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Chilli Powder",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232279_2-zoff-red-chilli-powder-high-quality-flavour-cool-ground.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper/Kari Menasu - Grinder",
+    "sku_type": "50 g - Glass Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153414_3-catch-black-pepper-grinder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Sticks",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000473_5-bb-royal-turmerichaldi-sticks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Powder - Desiccated",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40133686_4-bb-popular-coconut-powder-desiccated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Hingraj",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130340_2-everest-powder-hingraj.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turmeric Powder/Arisina Pudi",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232287_2-zoff-turmeric-powder-high-quality-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cardamom Powder",
+    "sku_type": "45 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127880_4-snapin-cardamom-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Kulamabu Chilli",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113060_3-aachi-powder-kulamabu-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Pepper",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100270861_3-eastern-powder-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jeera Powder",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232271_2-zoff-jeera-powder-high-aroma-cool-ground-adds-flavour-to-dishes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cinnamon/Chakke Powder",
+    "sku_type": "45 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127883_5-snapin-cinnamon-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kashmiri Mirch Powder",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200517_4-aashirvaad-kashmiri-mirch-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Cumin",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100270862_3-eastern-powder-cumin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kasuri Methi",
+    "sku_type": "25 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216149_1-sri-sri-tattva-kasuri-methi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Onion Powder - Spices & Masalas",
+    "sku_type": "50 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262685_2-on1y-onion-powder-rich-in-antioxidants-adds-flavour-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "CTC Combo - Red Chilli, Coriander & Turmeric Powder",
+    "sku_type": "600 g - (3 N x 200 g each)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232267_2-zoff-ctc-combo-red-chilli-coriander-turmeric-powder-high-quality-spices.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kashmiri Chilli Powder",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232272_2-zoff-kashmiri-red-chilli-powder-high-quality-flavour-cool-ground.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smoked Paprika Powder",
+    "sku_type": "52 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262924_1-on1y-smoked-paprika-strong-hot-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper Powder",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219164_2-bb-royal-black-pepper-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Methi/Menthya/Fenugreek Powder",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135851_11-bb-royal-organic-methifenugreek-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper Powder - Enhances Flavour",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006797_6-catch-black-pepper-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Powder - Spices & Masalas",
+    "sku_type": "50 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139817_3-on1y-garlic-herb-bread-seasoning.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Coconut Milk Powder",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100011148_6-maggi-powder-coconut-milk.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Cockroach Killer Spray",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183658_5-hit-cockroach-killer-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Activ+ Liquid Vapouriser Mosquito Repellent",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162407_3-good-knight-power-activ-mosquito-repellent-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Liquid Vaporiser Mosquito Repellent Refills",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017905_25-all-out-ultra-mosquito-repellant-refill-30-faster-action.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Flash Liquid Vapouriser Mosquito Repellent Refill",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190047_2-good-knight-gold-flash-mosquito-repellent-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Flash Liquid Vapourizer",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190049_2-good-knight-gold-flash-mosquito-repellent-liquid-combo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito & Fly Killer Spray",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183659_4-hit-mosquito-fly-killer-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Flash Mosquito Repellent Liquid Vaporiser Refill - Lavender Fragrance",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312415_2-good-knight-gold-flash-liquid-vaporiser-mosquito-repellent-refill-lavender-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquitoes & Flies Killer Spray - Lime Fragrance",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183660_5-hit-mosquito-fly-killer-spray-lime-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Liquid Vaporiser Mosquito Repellent Refill - Floral Fragrance",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124294_11-all-out-ultra-power-mosquito-repellant-refill-floral-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Mosquito Racquet - Rechargeable Insect Killer Bat, With LED Light",
+    "sku_type": "1 pc ",
+    "rating": "2.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40174570_2-hit-anti-mosquito-racquet-rechargeable-insect-killer-bat-with-led-light.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smart Mosquito Repellent Liquid Refill",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40092684_12-mortein-insta-mosquito-repellent-liquid-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Mosquito Racquet - Rechargeable Insect Killer Bat With LED Light",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317398_3-bb-home-anti-mosquito-racquet-rechargeable-insect-killer-bat-with-led-light.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Advanced Anti Mosquito Racquet",
+    "sku_type": "1 pc ",
+    "rating": "2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325654_4-mortein-advanced-anti-mosquito-racquet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flash Liquid Vaporiser Mosquito Repellent Refill",
+    "sku_type": "45 ml - (Pack of 6)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332789_1-good-knight-flash-liquid-vaporiser-mosquito-repellent-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Mosquito Racket - Insect Killer, Fly Swatter",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340070_1-tri-activ-anti-mosquito-racket-insect-killer-fly-swatter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "PowerGard Mosquito Coil - 8 Hrs Protection",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073754_3-mortein-mosquito-repellent-pleasant-fragrance-100-protection-from-dengue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fast Card - Mosquito Repellent Paper",
+    "sku_type": "10 pcs ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003920_2-good-knight-fast-card-mosquito-repellent-paper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Naturals Mosquito Repellent Spray",
+    "sku_type": "100 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40050794_3-odomos-naturals-mosquito-repellent-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellent Room Spray - 100% Natural, Eco-Friendly, Safe For Babies",
+    "sku_type": "100 ml - (Pack of 2)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40284401_2-herbal-strategi-mosquito-repellent-room-spray-100-natural-eco-friendly-safe-for-babies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Liquid Vaporizer Mosquito Repellent",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263298_10-all-out-ultra-power-slider-liquid-vaporiser-refill-kills-dengue-malaria-mosquitoes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Mosquito Liquid Vaporiser Refill",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313742_2-tru-nature-liquid-vaporiser-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Mosquito Liquid Vaporiser - Machine & Refill",
+    "sku_type": "80 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313740_2-tru-nature-anti-mosquito-liquid-vaporiser-machine-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Liquid Vaporizer/Mosquito Repellent Refill - Kills Dengue, Malaria & Chikungunya Mosquitoes",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/140480_20-all-out-super-mosquito-repellant-60-nights-refill-bedtime-protection.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellent Refill - Camphor Power, Organic, Safe For Children",
+    "sku_type": "45 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242460_4-campure-mosquito-repellent-refill-camphor-power-organic-safe-for-children.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta5 Mosquito Repellent, Combo Pack",
+    "sku_type": "4 pcs - (Machine + 3 Refills x 45ml)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234636_3-mortein-insta-mosquito-repellent-combo-machine-with-refills-automatic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mospray - Cold Fogging, Provides Protection From Mosquitoes & Insects, For Outdoor Use",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294406_1-herbal-strategi-mospray-cold-fogging-provides-protection-from-mosquitoes-insects.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Just Spray Thermal Fogging - For Outdoor Use, Keeps Mosquitoes Away",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294405_1-herbal-strategi-just-spray-thermal-fogging-for-outdoor-use-keeps-mosquitoes-away.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal Mosquito Repellent Spray",
+    "sku_type": "450 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300011_1-cleno-herbal-mosquito-repellent-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Flash Liquid Vapouriser - Lavender, Refill",
+    "sku_type": "45 ml - (Pack of 2)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224279_2-good-knight-gold-flash-liquid-vapouriser-lavender-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellent Vaporizer - 100% Natural, Helps Prevent Dengue",
+    "sku_type": "40 ml - (Pack of 5)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40284402_2-herbal-strategi-mosquito-repellent-vaporizer-100-natural-helps-prevent-dengue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito 2-In-1 Racket & Zapper With Dual Mode",
+    "sku_type": "1 pc ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340069_1-tri-activ-mosquito-2-in-1-racket-zapper-with-dual-mode.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flash Guard",
+    "sku_type": "10.5 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019674_2-all-out-flash-guard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito & Flies Killer Spray",
+    "sku_type": "625 ml ",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305907_2-odomos-mosquito-flies-killer-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flash Liquid Vapouriser Refill",
+    "sku_type": "45 ml ",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197363_1-good-knight-flash-liquid-vapouriser-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Mosquito Repellent Combo",
+    "sku_type": "100 ml - (45 ml x 2 + 1 Machine)",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224237_2-catche-insta-mosquito-repellent-combo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellent Spray - Noprix",
+    "sku_type": "100 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120924_1-boroline-mosquito-repellent-spray-noprix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream - Non-Sticky Mosquito Repellent",
+    "sku_type": "50 g - Tube",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/287553_7-odomos-cream-non-sticky-mosquito-repellent.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smoke Coil - Maha Jumbo",
+    "sku_type": "10 pcs - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020150_2-good-knight-smoke-coil-maha-jumbo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insect Repellent Body Spray - Ayurvedic Protection, Lasts For 4 Hours",
+    "sku_type": "200 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236483_1-kibiriumm-insect-repellent-body-spray-ayurvedic-protection-lasts-for-4-hours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Mosquito Repellent",
+    "sku_type": "100 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40179910_5-the-moms-co-natural-mosquito-repellent.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insta Mosquito Repellent Liquid Refill - 100% Protection from Dengue Mosquitoes, Twin Pack",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40097873_5-mortein-insta-mosquito-repellent-liquid-refill-100-protection-from-dengue-mosquitoes-twin-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Mosquito Repellent Gel",
+    "sku_type": "50 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134714_2-mamaearth-natural-mosquito-repellent-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Power+ Fan",
+    "sku_type": "45 ml - (Triple Pack)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010232_14-all-out-ultra-power-fan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Genius Mosquito Repellent Liquid - 2X Protection",
+    "sku_type": "45 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007301_4-maxo-mosquito-repellent.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Activ+ Low Smoke Mosquito Coil with Power Formula",
+    "sku_type": "10 pcs ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/250630_1-good-knight-activ-low-smoke-mosquito-coil-with-power-formula.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellent Fabric Roll On - 100% Natural Actives, Citrus Fragrance",
+    "sku_type": "8 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111839_5-good-knight-100-natural-mosquito-repellent-fabric-roll-on-citrus-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Liquid Vaporiser Repellent - Floral",
+    "sku_type": "3 pcs - (1 Machine + 2 Refills - 45 ml, Each)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316740_4-all-out-ultra-liquid-vaporiser-repellent-floral.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Genius Mosquito Repellent Machine - Automatic, Powered by Intelli Chip 2.0",
+    "sku_type": "35 ml - (1 Machine + 1 Refill)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130632_5-maxo-genius-mosquito-repellent-machine-automatic-powered-by-intelli-chip-20.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellant Fan - Starter Pack",
+    "sku_type": "1 pc - (Machine + Refill)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112698_9-all-out-mosquito-repellant-fan-starter-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "InstaTulsi Mosquito Repellent Liquid Refill, Fits All Machines",
+    "sku_type": "45 ml - (25% Extra)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178852_4-mortein-mosquito-repellent-liquid-refill-tulsi-100-protection-from-dengue-mosquitoes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Dengue Coil",
+    "sku_type": "10 pcs ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40006060_4-all-out-anti-dengue-coil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "After Bite Roll On For Baby",
+    "sku_type": "40 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40144724_2-mamaearth-after-bite-roll-on.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Flash Combi Pack - Liquid Vapouriser",
+    "sku_type": "45 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212843_1-good-knight-gold-flash-combi-pack-liquid-vapouriser.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Insect Repellent - Natural For Babies, 1-5 years",
+    "sku_type": "100 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102631_2-mamaearth-insect-repellent-natural-for-babies-1-5-years.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "SMART Mosquito Repellent, Combo Pack",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234637_2-mortein-smart-mosquito-repellent-combo-machine-with-refills-automatic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quit & Out Mosquito Repellent Cream",
+    "sku_type": "50 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207680_1-dr-morepen-quit-out-mosquito-repellent-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Natural Anti Mosquito Repellent Patches (Green, 48 Patches)",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202356_2-bodyguard-premium-natural-anti-mosquito-patches.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Mosquito Body Roll-On",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313737_1-tru-nature-anti-mosquito-body-roll-on.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rechargeable Mosquito Bat - Polycarbonate, Terminator 2, Over Charge Protection, Shock Proof, Li-On Battery",
+    "sku_type": "1 pc ",
+    "rating": "2.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183006_3-nippo-mosquito-bat-rechargeable-terminator-2-lithium-ion-battery.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smart Spray - Multi Insect Spray, Instant Action, Pleasant Fragrance",
+    "sku_type": "150 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200971_2-good-knight-smart-spray-multi-insect-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Activ+ Liquid Vapourizer, Mosquito Repellent Refill",
+    "sku_type": "45 ml each - Pack of 4",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183228_5-good-knight-power-activ-mosquito-repellent-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellent Fabric Roll On - 100% Natural Actives, Fruity",
+    "sku_type": "8 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40155572_2-good-knight-100-natural-mosquito-repellent-fabric-roll-on-fruity-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellent Cream With Aloe Extracts - 8 Hours Protection, Skin-Safe",
+    "sku_type": "50 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200972_1-good-knight-mosquito-repellent-cream-with-aloe-extracts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Killer Racquet - Rechargeable, With LED Light, Black & Green",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306953_1-baygon-mosquito-killer-racquet-rechargeable-with-led-light-black-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Net - For King-Size Bed, With Pocket, 30 GSM Polyester, White",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302409_1-odomos-mosquito-net-for-king-size-bed-with-pocket-30-gsm-polyester-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Repellent - Lemongrass & Rosemary Extract, No Alcohol, Deet Free",
+    "sku_type": "100 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40253189_2-naturzest-mosquito-repellent-lemongrass-rosemary-extract-no-alcohol-deet-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Mosquito Body Spray",
+    "sku_type": "17 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313738_2-tru-nature-anti-mosquito-body-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Must-Quit-O - Mosquito Trapper, Refill",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088577_4-catche-must-quit-o-mosquito-trapper-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spray Flying Insect Killer Lime 625ml + Spray Crawling Insect Killer (CIK) 200ml",
+    "sku_type": "Combo - 2 Items",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1205525_1-hit-spray-flying-insect-killer-lime-625ml-spray-crawling-insect-killer-cik-200ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spray Matic Mosquito Repellent Dispenser Machine + 1 Refill",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900460946_2-hit-spray-matic-mosquito-repellent-dispenser-machine-1-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hummer Plug-In Electronic Mosquito Repeller With LED - 3200, High-Frequency Audible Waves",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242110_2-gm-hummer-electronic-mosquito-repeller-with-led-indicator-3200-saves-energy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Foldable Pop-Up Shape Mosquito Net For Double Bed - Machardani, 200 cm x 200 cm x 140 cm",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340072_1-tri-activ-foldable-pop-up-shape-mosquito-net-for-double-bed-machardani-200-cm-x-200-cm-x-140-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flash Refill - Dual Pack",
+    "sku_type": "45 ml - (2 x 45 ml)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178176_4-dnd-flash-refill-dual-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Neem Agarbatti",
+    "sku_type": "400 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208711_1-good-knight-natural-neem-agarbatti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Naturals Neem - Anti-Mosquito Room Spray",
+    "sku_type": "150 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204140_1-good-knight-naturals-neem-anti-mosquito-room-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Naturals Neem - Anti-Fly Surface Spray",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204137_1-good-knight-naturals-neem-anti-fly-surface-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rechargeable Anti Mosquito Bat",
+    "sku_type": "1 pc - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209768_1-sonashi-rechargeable-anti-mosquito-bat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Naturals - After Bite Roll-on, Instant Relief, Safe For Babies",
+    "sku_type": "30 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244020_1-good-knight-naturals-after-bite-roll-on-instant-relief-safe-for-babies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Racket - Durable, Long Lasting, Built-In Charging Port",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40293268_1-dine-time-mosquito-racket-durable-long-lasting-built-in-charging-port.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Advanced Electrical Rechargable Mosquito Racket - Blue",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292046_1-nouvetta-advanced-electrical-rechargable-mosquito-racket-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Racket - Durable, Long Lasting, Built-In Charging Port",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40293269_1-dine-time-mosquito-racket-durable-long-lasting-built-in-charging-port.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosquito Killer Card - Kills In 3 Minutes, Easy To Use",
+    "sku_type": "10 pcs - (Pack of 5)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213279_2-casper-mosquito-repellant-killer-fast-card.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dengue Anti-Mosquito Coils - Upto 12 Hours, Low Smoke, Black",
+    "sku_type": "290 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213282_2-casper-dengue-mosquito-killer-upto-12-hours-low-smoke-coil-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Advanced Electrical Rechargable Mosquito Racket - Orange",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292048_1-nouvetta-advanced-electrical-rechargable-mosquito-racket-orange.jpg?tr=w-154,q-80"
+  }
+]

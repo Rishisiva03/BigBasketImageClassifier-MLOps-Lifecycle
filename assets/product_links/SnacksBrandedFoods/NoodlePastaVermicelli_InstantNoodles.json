@@ -1,0 +1,926 @@
+[
+  {
+    "name": "2-Minute Instant Noodles",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125873_15-maggi-2-minute-noodles-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutri-Licious Masala Veg Atta Instant Noodles",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/266096_36-maggi-nutri-licious-masala-veg-atta-noodles-pouch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "YiPPee! Magic Masala Instant Noodles",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1202656_9-sunfeast-yippee-noodles-magic-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Masala Noodles",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001598_3-top-ramen-noodles-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Little Millet Hakka Noodles",
+    "sku_type": "192 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230864_3-slurrp-farm-little-millet-noodles-no-maida-not-fried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Instant Noodles",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/276413_10-maggi-2-minute-chicken-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean BBQ Instant Veg Noodles",
+    "sku_type": "90 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319121_2-maggi-korean-bbq-instant-veg-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Foxtail Millet Hakka Noodles",
+    "sku_type": "192 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230863_3-slurrp-farm-foxtail-millet-noodles-no-maida-not-fried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soupy Noodles - Mast Masala",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/277826_8-knorr-soupy-noodles-mast-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Geki - Hot & Spicy Korean Chicken Flavoured Ramen Instant Noodles",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311483_2-nissin-geki-hot-spicy-instant-noodles-korean-chicken-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "YiPPee! Mood Masala Instant Noodles",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1202657_7-sunfeast-yippee-mood-masala-noodles-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Flavour Ready To Eat Instant Noodles",
+    "sku_type": "420 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233964_1-wai-wai-ready-to-eat-noodles-instant-chicken-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Cheesy Instant Noodles",
+    "sku_type": "304 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332047_2-maggi-spicy-cheesy-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curry Masala Millet Hakka Noodles",
+    "sku_type": "192 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295418_2-slurrp-farm-millet-noodles-curry-masala-flavour-no-maida-not-fried-no-msg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutri-licious Masala Oats Instant Noodles - With Millet Magic",
+    "sku_type": "298 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007113_20-maggi-noodles-nutri-licious-masala-oats.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Soup Noodles - Vegetable Flavour",
+    "sku_type": "70 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162951_2-indomie-instant-noodle-vegetable-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Pepper Instant Noodles",
+    "sku_type": "248 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332046_2-maggi-spicy-bbq-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pad Thai Noodles",
+    "sku_type": "375 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003595_8-real-thai-pad-thai-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Instant Atta Noodles",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007742_9-top-ramen-atta-noodles-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Pad Rice Noodles",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169299_1-blue-elephant-thai-pad-rice-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Ramen Spicy Kimchi Veg Meal",
+    "sku_type": "96 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320131_3-knorr-k-pot-korean-ramen-spicy-kimchi-veg-meal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veg Hakka Noodle Kit - For Chowmein, Non-Fried, 100% Natural",
+    "sku_type": "300 g - (Pack of 2)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40247626_1-masterchow-hakka-kit-chowmein-noodles-pack-premium-quality-whole-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Paper - Round, 16 cm",
+    "sku_type": "100 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003648_6-real-thai-rice-paper-round-16-cm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Geki Hot & Spicy Korean Kimchi Flavour Instant Noodles",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335361_1-nissin-geki-hot-spicy-korean-kimchi-flavour-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Geki - Hot & Spicy Korean Cheese Flavoured Ramen Instant Noodles",
+    "sku_type": "80 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294863_2-nissin-geki-cheese-hot-spicy-korean-cheese-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bowl Noodles - Laksa Singapura",
+    "sku_type": "90 g - Cup",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003511_1-koka-bowl-noodles-laksa-singapura.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Stir-Fry Original Flavor",
+    "sku_type": "85 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047331_6-koka-instant-noodles-stir-fry-original-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Soup Noodles - Special Chicken Flavour",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1223934_1-indomie-instant-soup-noodles-special-chicken-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2-Minute Spicy Manchurian Noodles",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302437_3-maggi-2-minute-spicy-manchurian-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Chicken Pho Rice",
+    "sku_type": "70 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003502_2-koka-noodles-chicken-pho-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa Millet Noodles",
+    "sku_type": "180 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301689_2-gudmom-quinoa-millet-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Ramen - Spicy Gochujang Chicken",
+    "sku_type": "91 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334965_1-knorr-korean-ramen-spicy-gochujang-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curry Nourishing Instant Noodles - Goodness Of Oats & Lentils, No Maida & Oil",
+    "sku_type": "201 g - (Noodles 3 pcs x 60 g & Seasoning Mix 3 pcs x 7 g)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267953_1-wickedgud-curry-nourishing-instant-noodles-goodness-of-oats-lentils-no-maida-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Chicken",
+    "sku_type": "70 g - Cup",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003504_4-koka-noodles-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Udon + Whole Wheat Noodle Kit - 100% Atta, Healthy",
+    "sku_type": "300 g - (Pack of 2)",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255274_1-masterchow-udon-whole-wheat-noodle-kit-fibrous-atta-japanese-thick-authentic-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Instant Noodles",
+    "sku_type": "69 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320183_1-wickedgud-masala-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Cheese Korean Ramen Instant Noodles",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343745_1-yu-chilli-cheese-korean-ramen-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Aglio Olio Flavour, No Added Preservatives",
+    "sku_type": "85 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40284897_1-vits-instant-noodles-aglio-olio-flavour-no-added-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Wow Masala",
+    "sku_type": "50 g - Pouch",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900456989_2-sunfeast-yippee-noodles-wow-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chili Flavour Instant Ramen Noodles",
+    "sku_type": "76 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324498_2-jify-chili-flavour-instant-ramen-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Style Instant Noodles - Hot & Spicy Flavour",
+    "sku_type": "90 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000906_3-mama-instant-noodles-oriental-style-hot-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Classic Masala",
+    "sku_type": "70 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/287002_5-sunfeast-yippee-noodles-classic-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Atta Noodles - Desi Masala",
+    "sku_type": "60 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192444_2-patanjali-atta-noodles-desi-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Noodles - More Masala",
+    "sku_type": "35 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001631_1-top-ramen-super-noodles-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Soya",
+    "sku_type": "180 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126383_6-naturally-yours-noodles-soya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Grain Millet Noodles",
+    "sku_type": "180 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301686_2-gudmom-multi-grain-millet-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Geki - Hot & Spicy Korean Kimchi Flavoured Ramen Instant Noodles",
+    "sku_type": "80 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322507_1-nissin-geki-hot-spicy-korean-noodles-kimchi-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Black Pepper Fried",
+    "sku_type": "85 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047333_3-koka-instant-noodles-black-pepper-fried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2-Minute Masala Instant Noodles",
+    "sku_type": "32 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005893_3-maggi-noodles-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Instant Noodles - The Original Masala Flavour",
+    "sku_type": "85 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047326_3-koka-oriental-instant-noodles-masala-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Xpress Instant Noodles - Jain Masala",
+    "sku_type": "60 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094635_4-wai-wai-xpress-instant-noodles-jain-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Red Rice",
+    "sku_type": "180 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126384_3-naturally-yours-noodles-red-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Curry Noodles - With Dehydrated Vegetables",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287427_2-kabs-jackpot-schezwan-curry-noodles-with-dehydrated-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Foxtail/Thinai Millet Noodles - Vegan, Non-Fried, Healthy",
+    "sku_type": "175 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269143_1-gramiyum-foxtailthinai-millet-noodles-vegan-non-fried-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curry Flavour Instant Ramen Noodles",
+    "sku_type": "72 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324500_2-jify-curry-flavour-instant-ramen-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken & Egg Noodles",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306027_1-pou-chong-chicken-egg-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ezy-Cook Instant Noodles",
+    "sku_type": "370 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003498_2-koka-noodles-ezy-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Masala Noodles",
+    "sku_type": "70 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083698_4-maggi-masala-noodles-no-onion-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Style Instant Noodles - Lobster Flavour",
+    "sku_type": "85 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047327_8-koka-oriental-instant-noodles-lobster-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pokemon Ramen Fun Masala Instant Noodles",
+    "sku_type": "45 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335363_1-nissin-pokemon-ramen-fun-masala-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Instant Noodles - Fried MI Goreng",
+    "sku_type": "85 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047328_5-koka-oriental-instant-noodles-mi-goreng-fried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Style Instant Noodles - Kimchi Flavour",
+    "sku_type": "90 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000905_2-mama-instant-noodles-kimchi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Style Instant Noodles - Prawn Flavour",
+    "sku_type": "85 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047324_3-koka-oriental-instant-noodles-prawn-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bowl Noodles - Seafood",
+    "sku_type": "90 g - Cup",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003509_1-koka-bowl-noodles-seafood.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bajra Millet Noodles",
+    "sku_type": "180 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301687_2-gudmom-bajra-millet-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Nutri-Licious Masala Oats",
+    "sku_type": "73.5 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113739_14-maggi-noodles-nutri-licious-masala-oats.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oodles Ring Noodles - Yummy Masala, No Maida, Ready In 5 Mins",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1214838_3-saffola-oodles-ring-noodles-yummy-masala-no-maida-ready-in-5-mins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chatpata Atta Noodles",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192442_5-patanjali-atta-noodles-chatpata-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Noodles - No Preservatives, 100% Atta",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303713_3-moi-soi-whole-wheat-noodles-no-preservatives-100-atta-restaurant-taste-in-10-minutes-serves-2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quick Noodles - Chicken Curry",
+    "sku_type": "62 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094629_4-wai-wai-quick-ready-to-eat-noodles-chicken-curry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Instant Noodles - The Original Curry Flavour",
+    "sku_type": "85 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047319_4-koka-oriental-instant-noodles-curry-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Garlic Noodles",
+    "sku_type": "360 g - (Pack of 6)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222576_1-chings-secret-hot-garlic-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Noodles - Delicious & Satisfying",
+    "sku_type": "60 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225134_1-smith-jones-masala-noodles-delicious-satisfying.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Cheese Carbonara, No Added Preservatives",
+    "sku_type": "85 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40284898_1-vits-instant-noodles-cheese-carbonara-no-added-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Style Instant Noodles - Pa-Lo Duck Flavour",
+    "sku_type": "55 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000910_2-mama-instant-noodles-duck-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Saucy Masala",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203327_3-sunfeast-yippee-noodles-saucy-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Thai Noodles - Seafood Flavoured",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40031222_4-picnic-instant-thai-noodles-seafood-flavoured.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Samai/Little Millet Noodles - Delicious, Healthy, Family Meal, Helps In Digestion",
+    "sku_type": "210 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248198_1-nativefoodstore-samailittle-millet-noodles-delicious-healthy-family-meal-helps-in-digestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Umami Flavour Instant Ramen Noodles",
+    "sku_type": "76 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324499_2-jify-umami-flavour-instant-ramen-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Little Millet Noodles",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301691_2-gudmom-little-millet-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Seafood",
+    "sku_type": "70 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003501_2-koka-noodles-seafood.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Rice",
+    "sku_type": "330 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003500_4-koka-noodles-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Pad Thai(Extra Hot Thai chilli)",
+    "sku_type": "130 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279402_3-chings-noodles-pad-thaiextra-hot-thai-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Manchurian Instant Noodles",
+    "sku_type": "240 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/270512_5-chings-secret-manchurian-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Thai Noodles - Hot & Rich Green Curry",
+    "sku_type": "60 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40031220_2-picnic-instant-thai-noodles-hot-rich-green-curry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sorghum Millet/Cholam Noodles - Vegan, Non-Fried, Healthy",
+    "sku_type": "175 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269145_1-gramiyum-sorghum-milletcholam-noodles-vegan-non-fried-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pearl Millet/Kambu Noodles - Rich In Nutrients, Helps Manage Weight",
+    "sku_type": "175 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269149_1-gramiyum-pearl-milletkambu-noodles-rich-in-nutrients-helps-manage-weight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Chilli & Lime",
+    "sku_type": "60 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047342_3-koka-instant-noodles-chilli-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Mushroom Flavor",
+    "sku_type": "85 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047330_3-koka-instant-noodles-mushroom-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Instant Noodles - The Original Mushroom Flavour",
+    "sku_type": "85 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047318_4-koka-oriental-instant-noodles-mushroom-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Chicken Flavour, Rich In Iron & Calcium, Soup Base",
+    "sku_type": "50 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281673_1-boodles-instant-noodles-chicken-flavour-rich-in-iron-calcium-soup-base.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Green & Healthy Veggie Flavour",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40031253_4-picnic-instant-noodles-green-healthy-veggie-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Multi-Millet",
+    "sku_type": "180 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126385_3-naturally-yours-noodles-multi-millet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bowl Noodles - Tom Yum",
+    "sku_type": "90 g - Cup",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003510_6-koka-bowl-noodles-tom-yam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Pad Thai (Green Curry)",
+    "sku_type": "130 g - Carton",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/279404_4-chings-noodles-pad-thai-green-curry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Sevai - Vegetarian",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005031_1-dragon-rice-sevai-vegetarian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Chow Mein",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800020076_1-bali-kitchen-noodles-chow-mein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kuthiraivali/Barnyard Noodles - Rich In Fibre & Calcium, Delicious, Healthy, Family Meal",
+    "sku_type": "210 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248195_1-nativefoodstore-kuthiraivalibarnyard-noodles-rich-in-fibre-calcium-delicious-healthy-family-meal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fusian Hong Kong Spicy Garlic Noodles",
+    "sku_type": "73 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141562_7-maggi-fusian-hong-kong-spicy-garlic-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Whole Wheat Noodles - Chicken Flavour",
+    "sku_type": "60 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094605_3-mama-instant-whole-wheat-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Style Instant Noodles - Vegetable Flavour",
+    "sku_type": "60 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004110_1-mama-instant-noodles-oriental-style-vegetable-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Style Instant Noodles - Chicken Flavour",
+    "sku_type": "90 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094603_1-mama-instant-noodles-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Eat Chicken Cup Noodles",
+    "sku_type": "75 g - Cup",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004316_8-wai-wai-1-2-3-noodles-chicken-flavour-with-seasoning-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Stcik 5MM",
+    "sku_type": "400 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004915_3-pantai-rice-stcik-5mm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fusian Bangkok Sweet Chilli Noodles",
+    "sku_type": "71 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141563_7-maggi-fusian-bangkok-sweet-chilli-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Ramyun Soup Noodles - With Dehydrated Vegetables, Spicy",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287425_3-kabs-jackpot-korean-ramyun-soup-noodles-with-dehydrated-vegetables-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dynamite - Xtra Spicy Chicken Instant Noodles, Super Delicious",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276920_2-wai-wai-dynamite-xtra-spicy-chicken-instant-noodles-super-delicious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Soy & Vinegar",
+    "sku_type": "60 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047344_8-koka-instant-noodles-soy-vinegar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Spicy Shrimp Flavour",
+    "sku_type": "70 g - cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047341_3-koka-instant-noodles-spicy-shrimp-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barnyard Millet/Kuthuravali Noodles - Vegan, Non-Fried, Healthy",
+    "sku_type": "175 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269146_1-gramiyum-barnyard-milletkuthuravali-noodles-vegan-non-fried-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baked Noodles - Zero oil, No Maida, Mexican Peri Peri",
+    "sku_type": "70 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279117_3-auric-instant-millet-noodles-mexican-peri-peri-healthy-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Noodles - Aglio Olio",
+    "sku_type": "60 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047343_3-koka-instant-noodles-aglio-olio.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2x Hot & Spicy Instant Noodles - With Dehydrated Vegetables",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287421_3-kabs-jackpot-2x-hot-spicy-instant-noodles-with-dehydrated-vegetables.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Geki - Hot & Spicy Korean Veg Flavoured Ramen Cup Noodles",
+    "sku_type": "70 g - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322508_1-nissin-geki-hot-spicy-korean-ramen-noodles-veg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2-Minute Instant Noodles Masala",
+    "sku_type": "70 g - (Pack of 24)",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/413975_7-maggi-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Noodles - Goodness Of Oats, Lentils & Brown Rice, Rich In Fibre, Protein",
+    "sku_type": "207 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276334_2-wickedgud-masala-noodles-goodness-of-oats-lentils-brown-rice-rich-in-fibre-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Nourishing Instant Noodles - Goodness Of Oats & Lentils, No Maida & Oil",
+    "sku_type": "207 g - (Noodles 3 pcs x 60 g & Seasoning Mix 3 pcs x 9 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267952_1-wickedgud-schezwan-nourishing-instant-noodles-goodness-of-oats-lentils-no-maida-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Noodles With Veggies",
+    "sku_type": "285 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279427_5-tata-sampann-yumside-hot-spicy-schezwan-noodles-with-veggies-ready-to-eat-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kimchi Noodles - Hot & Spicy Ramyun",
+    "sku_type": "89 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325574_1-keya-kimchi-noodles-hot-spicy-ramyun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2-Minute Instant Noodle - Spicy, Yummy, Special Chicken 65 Masala",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232307_1-maggi-2-minute-instant-noodle-spicy-yummy-special-chicken-65-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Atta Noodles - Ready To Eat, Instant, Chicken Flavour",
+    "sku_type": "5 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233967_2-wai-wai-atta-noodles-ready-to-eat-instant-chicken-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "X-Press Noodles - Masti Masala, 6 In 1",
+    "sku_type": "330 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233968_3-wai-wai-x-press-noodles-masti-masala-without-onion-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi/Finger Millet Noodles - Rich In Protein & Calcium, Delicious, Healthy, Family Meal",
+    "sku_type": "210 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248197_1-nativefoodstore-ragifinger-millet-noodles-rich-in-protein-calcium-delicious-healthy-family-meal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dynamite - Xtra Spicy Tama Instant Noodles, Super Delicious",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276919_1-wai-wai-dynamite-xtra-spicy-tama-instant-noodles-super-delicious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Eat Noodles - Veg Flavour, Rich In Iron & Calcium, Soup Base",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281669_1-boodles-ready-to-eat-noodles-veg-flavour-rich-in-iron-calcium-soup-base.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Thai Noodles - Hot & Spicy Vegetarian Tomyum",
+    "sku_type": "60 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40031219_2-picnic-instant-thai-noodles-hot-spicy-vegetarian-tomyum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Noodles - Delicious, Healthy, Family Meal, No Preservatives",
+    "sku_type": "210 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248196_1-nativefoodstore-multi-millet-noodles-delicious-healthy-family-meal-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kambu/Pearl Millet Noodles - Rich In Protein, Calcium & Iron, Delicious, Healthy",
+    "sku_type": "210 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248194_1-nativefoodstore-kambupearl-millet-noodles-rich-in-protein-calcium-iron-delicious-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baked Noodles - Zero Oil, No Maida, Chinese Schezwan",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279116_3-auric-instant-millet-noodles-cheese-schezwan-healthy-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tez Tadks Instant Masala Noodles - Family Pack",
+    "sku_type": "340 g - (Get Free Stainless Steel Spork)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309604_1-trdp-mario-tez-tadks-instant-masala-noodles-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veg Instant Masala Noodles",
+    "sku_type": "56 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333282_1-keekoo-veg-instant-masala-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Penne Rigate/Pasta",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343749_1-yu-whole-wheat-penne-rigatepasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Ramen 2x Spicy Instant Noodles",
+    "sku_type": "60 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333280_1-keekoo-korean-ramen-2x-spicy-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Manchurian Instant Noodles",
+    "sku_type": "60 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333281_1-keekoo-manchurian-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Masala Instant Noodles",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333283_1-keekoo-chicken-masala-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Ramen Masala Flavour Instant Noodles",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327519_1-masterchow-korean-ramen-masala-flavour-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "schezwan-noodles-with-chicken-hot-spicy-ready-to-eat-meal-serves-2",
+    "sku_type": "285 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279428_4-tata-sampann-yumside-hot-spicy-schezwan-noodles-with-chicken-ready-to-eat-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "pepper-masala-noodles-ready-to-eat-meal-serves-2",
+    "sku_type": "285 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279426_4-tata-sampann-yumside-pepper-masala-noodles-ready-to-eat-no-added-colours-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Manchow Noodles - Hot & Sour Ramyun",
+    "sku_type": "83.5 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325576_1-keya-manchow-noodles-hot-sour-ramyun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veg Curry Noodles - Hot & Saucy Ramyun",
+    "sku_type": "83.5 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325577_1-keya-veg-curry-noodles-hot-saucy-ramyun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutri-licious Chatpata Besan Noodles",
+    "sku_type": "298 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329235_1-maggi-nutri-licious-chatpata-besan-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Noodles - Mushroom",
+    "sku_type": "70 g - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003505_6-koka-noodles-mushroom.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Noodles - Masala Flavour, Non-Fried No-Maida",
+    "sku_type": "190 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40285448_1-timios-millet-noodles-masala-flavour-non-fried-no-maida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Hot Sauce Korean Ramen Instant Noodles",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343744_1-yu-creamy-hot-sauce-korean-ramen-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Meal Pot - Spicy Jjajangmyeon Ramen Noodles",
+    "sku_type": "140 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305534_1-knorr-korean-meal-pot-spicy-jjajangmyeon-ramen-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "K-Bomb Ramen Tom Yum Instant Noodles",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40326889_2-too-yumm-k-bomb-ramen-tom-yum-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Noodles - Tomato Flavour, Non-Fried No-Maida",
+    "sku_type": "190 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40285447_1-timios-millet-noodles-tomato-flavour-non-fried-no-maida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Macaroni/Elbow Pasta",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343750_1-yu-whole-wheat-macaronielbow-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Geki - Hot & Spicy Korean Chicken Flavoured Ramen Cup Noodles",
+    "sku_type": "70 g - Cup",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322509_1-nissin-geki-hot-spicy-korean-ramen-noodles-korean-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Fiery Hot Style Noodles",
+    "sku_type": "75 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459815_2-sunfeast-yippee-korean-fiery-hot-style-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Ramen Chicken Flavour Instant Noodles",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327522_1-masterchow-korean-ramen-chicken-flavour-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Instant Noodles - The Original Tomato Flavour",
+    "sku_type": "85 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047325_3-koka-oriental-instant-noodles-tomato-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheesy Veg Carbonara Korean Ramen Instant Noodles",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343746_1-yu-cheesy-veg-carbonara-korean-ramen-instant-noodles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Spaghetti Pasta",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343751_1-yu-whole-wheat-spaghetti-pasta.jpg?tr=w-154,q-80"
+  }
+]

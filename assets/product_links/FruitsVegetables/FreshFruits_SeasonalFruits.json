@@ -1,0 +1,896 @@
+[
+  {
+    "name": "Banganapalli Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000298_19-fresho-banganapalli-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alphonso Mango - Badami",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000302_13-fresho-alphonso-mango-badami.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000974_14-fresho-kesar-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dragon Fruit (Loose)",
+    "sku_type": "1 pc - (Approx. 300 g - 400 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008982_16-fresho-dragon-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut - Medium",
+    "sku_type": "1 pc - (approx. 400 to 450g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000093_17-fresho-coconut-medium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Watermelon - Organically Grown (Loose)",
+    "sku_type": "1 pc - (Approx. 1 -3 kg)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023482_9-fresho-watermelon-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Orange Imported",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003956_5-fresho-baby-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana - Yelakki, Organically Grown",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023474_8-fresho-banana-yelakki-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pear - Green, Imported",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40048445_3-fresho-pear-green-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jackfruit - Peeled",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20006455_3-fresho-jackfruit-peeled.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana - Nendran, Organically Grown",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229396_4-fresho-banana-nendran-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alphonso Mango - Ratnagiri",
+    "sku_type": "12 pcs - (Approx .170g - 200g per pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001005_13-fresho-alphonso-mango-ratnagiri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plum - Imported",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000573_14-fresho-plum-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Black Seedless",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229414_5-fresho-grapes-black-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange - Nagpur, Regular (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000267_25-fresho-orange-nagpur-regular.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malgoa Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000308_4-fresho-malgoa-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dates - Kimia, with Seed",
+    "sku_type": "1 pc - (Approx. 400 to 500g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000727_16-fresho-dates-kimia-with-seed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Red Globe  Indian",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019777_5-fresho-grapes-red-globe-indian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000263_14-fresho-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Avocado (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000312_21-fresho-avocado.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peach - Indian",
+    "sku_type": "1 Pack - (Approx 500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218330_2-fresho-peach-indian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut - Diced",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019379_6-fresho-coconut-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jamun",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000992_4-fresho-jamun.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana - Robusta, Organically Grown",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000456_6-fresho-banana-robusta-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plum - Indian",
+    "sku_type": "1 Pack - (Approx 500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218329_3-fresho-plum-indian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Watermelon - Striped, Large",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000297_23-fresho-watermelon-striped-large.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Figs",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000466_17-fresho-fresh-figs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Shimla, Premium",
+    "sku_type": "4 pcs - (Approx.720 to 880 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113206_7-fresho-apple-shimla-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Red Delicious, Premium",
+    "sku_type": "4 pcs - (Approx. 600 g -700 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40104709_21-fresho-apple-red-delicious-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Passion Fruit",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000543_16-fresho-passion-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Fuji, Regular",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033815_23-fresho-apple-fuji-regular.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple - Chunks",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119402_7-fresho-pineapple-chunks-single-serve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paneer Fruit",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40098788_5-fresho-paneer-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple - Sliced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40090775_4-fresho-pineapple-slices.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosambi - Premium (Loose)",
+    "sku_type": "4 pcs - (900 g - 1 kg)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083737_7-fresho-mosambi-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cherry",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217762_5-fresho-cherry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Fuji, Premium",
+    "sku_type": "4 pcs - Approx. 550 - 650 g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40104703_21-fresho-apple-fuji-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papaya - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019380_5-fresho-papaya-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes Combo - Green & Black",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122798_1-fresho-grapes-assorted-seedless-bi-colour-green-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosambi (Loose)",
+    "sku_type": "4 pcs - 700-900g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000192_20-fresho-mosambi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mangosteen",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40071547_5-fresho-mangosteen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Thompson Seedless",
+    "sku_type": "1 Pack - (Approx 500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218331_2-fresho-grapes-thompson-seedless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Longan",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002319_2-fresho-longan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zespri Kiwi - Sun Gold",
+    "sku_type": "3 pcs - Approx. 220 g - 260 g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40025342_19-fresho-zespri-kiwi-sun-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cape Gooseberry",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40099565_4-fresho-cape-gooseberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Kinnaur",
+    "sku_type": "4 pcs - (Approx.600 - 800 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033821_12-fresho-apple-kinnaur.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tender Jackfruit",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001029_10-fresho-tender-jackfruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chinna Rasalu Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001094_7-fresho-chinna-rasalu-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apricot - Dried",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001095_16-fresho-apricot-dried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sapota - Organically Grown (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022646_6-fresho-sapota-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peddarasalu Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001030_3-fresho-peddarasalu-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Guava - White Centre",
+    "sku_type": "1 pc - (200 g - 300 g approx.)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002322_15-fresho-guava-thai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Red Globe",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000482_24-fresho-grapes-red-globe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugarcane - Diced",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018977_1-fresho-sugarcane-diced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cut Indian Fruit Pack",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001465_15-fresho-cut-indian-fruit-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grape fruit - Imported (Loose)",
+    "sku_type": "1 pc - (Approx. 200 g -  300 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009291_1-fresho-grape-fruit-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tamarind - Sweet",
+    "sku_type": "225 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004344_18-fresho-tamarind-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sun Melon",
+    "sku_type": "1 pc - 700 g - 1.5 kg",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007325_1-fresho-sun-melon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crimson Grapes - Seedless",
+    "sku_type": "1 Pack - (Approx 500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220128_5-fresho-crimson-grapes-seedless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugarcane",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000592_11-fresho-sugarcane.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Apple - Kothbel (Loose)",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000583_18-fresho-wood-apple-kothbel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange - Kinnow (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000384_11-fresho-orange-kinnow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Flame Seedless",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000290_15-fresho-grapes-flame-seedless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cherry - Imported",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001779_6-fresho-cherry-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ber - Apple (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003958_3-fresho-ber-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosambi (Loose)",
+    "sku_type": "6 pcs - 800 g - 1 kg",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000191_20-fresho-mosambi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Mango",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001028_2-fresho-coconut-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mulberry - Organically Grown",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235629_4-fresho-mulberry-organically-grown-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomegranate",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000708_18-fresho-pomegranate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry - Organically Grown",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40099244_1-fresho-strawberry-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Litchi",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001175_17-fresho-litchi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Guava - White Centre",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008984_9-fresho-guava-thai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Totapuri Mango",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000589_12-fresho-totapuri-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava - Thai Organic, White",
+    "sku_type": "1 pc - approx. 300 g to 500 g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219744_1-fresho-guava-thai-organic-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava - Thai Organic, Pink",
+    "sku_type": "1 pc - approx. 300 g to 500 g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219745_1-fresho-guava-thai-organic-pink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mosambi Bulk",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120320_7-fresho-mosambi-bulk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Green Seedless, Premium",
+    "sku_type": "1 pack - Approx. 500 g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122797_7-fresho-grapes-green-seedless-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cherry - Kashmir",
+    "sku_type": "1 Pack - (Approx 500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218328_3-fresho-cherry-kashmir.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apricots",
+    "sku_type": "1 Pack - (Approx 500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218334_3-fresho-apricots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Figs",
+    "sku_type": "8 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001768_12-fresho-fresh-figs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Musk Melon/Kharbuja - Local",
+    "sku_type": "1 pc - 500 - 800g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073691_1-fresho-musk-melonkharbuja-local.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Queen, Rose, Premium",
+    "sku_type": "4 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076900_10-fresho-apple-queen-rose-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Avocado (Loose)",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40089786_6-fresho-avocado.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pear - Red, Imported",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40048953_1-fresho-pear-red-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Basket - Medium",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005762_9-fresho-fruit-basket-medium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange - Mini (Loose)",
+    "sku_type": "3 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008987_2-fresho-orange-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pairi Mango",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010319_17-fresho-pairi-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange - Nagpur, Small (Loose)",
+    "sku_type": "2 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094039_11-fresho-orange-nagpur-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raspberry - Imported",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085589_1-fresho-raspberry-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "BlackBerry - Imported",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085590_1-fresho-blackberry-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomegranate - Premium",
+    "sku_type": "4 pcs - (approx. 1 Kg - 1.2 Kg)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40091980_13-fresho-pomegranate-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Red Delicious, Economy",
+    "sku_type": "4 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107825_10-fresho-apple-red-delicious-economy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Black Seedless, Residue Free",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122446_1-fresho-grapes-black-seedless-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muskmelon - Gayatri",
+    "sku_type": "1 pc - approx. 500 to 1 kg",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40072324_4-fresho-muskmelon-gayatri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Romania Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012510_3-fresho-romania-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Apple - Kothbel",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40058555_1-fresho-wood-apple-kothbel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Crimson, Seedless",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40158182_2-fresho-grapes-crimson-seedless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Betel Nut",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277793_1-fresho-betel-nut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Elephant Apple (Chalta) - Organically Grown",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049434_2-fresho-elephant-apple-chalta-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomelo - Peeled",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083559_1-fresho-pomelo-peeled.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rambutan",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000568_17-fresho-rambutan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ber (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002555_15-fresho-ber.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Figs - Organically Grown",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000505_2-fresho-figs-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muskmelon - Organically Grown (Loose)",
+    "sku_type": "1 pc - (Approx. 500 g-1200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000534_15-fresho-muskmelon-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pomegranate - Organically Grown",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000536_9-fresho-pomegranate-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ramphal",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002337_4-fresho-ramphal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Kashmir",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033820_14-fresho-apple-kashmir.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango - Dried",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006400_3-fresho-mango-dried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papaya - Organically Grown",
+    "sku_type": "1 pc - (Approx. 500 to 1 kg)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022647_5-fresho-papaya-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papaya - Dried",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006426_2-fresho-papaya-dried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Apple",
+    "sku_type": "3 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000964_11-fresho-green-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pear - Green",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001169_10-fresho-pear-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Thompson Seedless",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001026_9-fresho-grapes-thompson-seedless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Shimla",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001477_25-fresho-apple-shimla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cherry",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000998_17-fresho-cherry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kalaphad Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012511_4-fresho-kalaphad-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pear - Green, Indian",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000600_13-fresho-pear-green-indian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jawaharpasand Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000668_2-fresho-jawaharpasand-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple - Sliced",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005195_11-fresho-pineapple-slices.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava - Organically Grown (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000518_9-fresho-guava-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango - Neelam",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000343_7-fresho-mango-neelam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soursop",
+    "sku_type": "1 pc - 400 - 800g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066486_5-fresho-soursop.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kiwi - Dried",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006386_8-fresho-kiwi-dried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Watermelon - Kiran",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081428_3-fresho-watermelon-kiran.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut - Chunks",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119406_6-fresho-coconut-chunks-single-serve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Sharad Seedless",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000295_22-fresho-grapes-sharad-seedless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresho Wood Apple (Bael)",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047707_4-fresho-fresho-wood-apple-bael.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Desi Banana",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225770_1-fresho-organic-desi-banana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Suvarnarekha Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001093_7-fresho-suvarnarekha-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ground Nut - Whole, Roasted",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049120_3-fresho-ground-nut-whole-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jackfruit - Tender",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067704_2-fresho-jackfruit-tender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugarcane Whole - Supports Immune System",
+    "sku_type": "1 pc - (approx. 800g to 1500g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272110_2-fresho-sugarcane-whole-supports-immune-system.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wax Apple - Jamrul",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40059855_2-fresho-wax-apple-jamrul.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ripe Plum - Tal Asian Palmyra",
+    "sku_type": "1 pc - (1 - 1.5 kg)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316166_3-fresho-ripe-plum-tal-asian-palmyra.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Red globe",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018335_6-fresho-grapes-red-globe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Royal Gala",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001088_13-fresho-apple-royal-gala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes- Green With Seed",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001428_2-fresho-grapes-green-with-seed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugarcane - Cut",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40084515_6-fresho-sugarcane-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grape Fruit - Indian (Loose)",
+    "sku_type": "1 pc - 300gm-500gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005030_1-fresho-grape-fruit-indian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tamarind - Sweet",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001491_15-fresho-tamarind-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Bangalore Blue",
+    "sku_type": "1 pack ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220127_2-fresho-grapes-bangalore-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alphonso Mango",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003344_21-fresho-alphonso-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple - Red Delicious, Regular",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000007_25-fresho-apple-red-delicious-regular.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Totapuri Mango",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000590_20-fresho-totapuri-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Safeda Mango",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000493_12-fresho-safeda-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083980_8-fresho-blueberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapes - Sonaka Seedless",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000287_19-fresho-grapes-sonaka-seedless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple - Dried",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006428_2-fresho-pineapple-dried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kiwi - Green",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000560_28-fresho-kiwi-green.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "name": "Pure & Unrefined Cold Pressed Groundnut Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311587_4-tata-simply-better-100-pure-unrefined-cold-pressed-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Sunflower Cooking Oil - Cooks Indian Dishes",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1220933_3-bb-royal-organic-cold-pressed-sunflower-cooking-oil-cooks-indian-dishes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure & Unrefined Cold Pressed Mustard Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311588_4-tata-simply-better-100-pure-unrefined-cold-pressed-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed & Unrefined Virgin Coconut Oil",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40145471_6-coco-soul-virgin-coconut-oil-cold-pressed-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chekku Groundnut Oil - Argemone Oil Free, No Preservatives, For Cooking Use",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264287_1-ras-chekku-groundnut-oil-argemone-oil-free-no-preservatives-for-cooking-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Sesame Oil - 100% Pure & Unrefined",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329220_1-tata-simply-better-cold-pressed-sesame-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Oil - Wood Cold Pressed",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262217_3-gramiyaa-wood-cold-pressed-coconut-oil-great-for-skin-hair-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Oil - Wood Cold Pressed",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262220_3-gramiyaa-wood-cold-pressed-groundnutpeanut-oil-rich-in-omega-3-fatty-acids.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure & Unrefined Cold Pressed Sunflower Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332598_1-tata-simply-better-pure-unrefined-cold-pressed-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lakadi Ghana Cold Pressed Sesame Oil",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177218_2-topales-lakadi-ghana-cold-pressed-sesame-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Oil - Cold Press",
+    "sku_type": "2 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095318_1-appu-groundnut-oil-cold-press.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil - Cold Pressed Coconut",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106050_9-harina-oil-cold-pressed-coconut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural & Pure Gingelly Oil - Unrefined, Cold-Pressed",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193086_1-nature-way-100-natural-pure-gingelly-oil-unrefined-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil - Pure Natural Cold Press Coconut",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124689_2-isvaryam-oil-pure-natural-cold-press-cocounut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Kachi Ghani Mustard Oil - Fortified With Vitamin A, D, Boosts Overall Health",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271146_2-sri-sri-tattva-premium-kachi-ghani-mustard-oil-fortified-with-vitamin-a-d-boosts-overall-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Virgin Cold Pressed Groundnut Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215120_2-chekko-virgin-cold-pressed-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Virgin Cold Pressed Sesame Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215119_2-chekko-virgin-cold-pressed-sesame-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Oil - Low Saturated Fat, Supports Cardiac Health",
+    "sku_type": "1 L - PET Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238958_2-just-organik-sunflower-oil-low-saturated-fat-supports-cardiac-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Coconut Oil",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40194082_1-gulab-cold-pressed-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil - Groundnut, Cold + Filtered",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125259_4-healthy-heart-oil-groundnut-cold-filtered.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil - Pure Natural Cold Press Groundnut",
+    "sku_type": "500 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124690_2-isvaryam-oil-pure-natural-cold-press-groundnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Groundnut Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342006_1-earthy-origins-wood-pressed-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Black Mustard Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342023_1-mill-it-cold-pressed-black-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Coconut Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342025_1-mill-it-cold-pressed-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Sesame Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342007_1-earthy-origins-wood-pressed-sesame-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Yellow Mustard Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342026_1-mill-it-cold-pressed-yellow-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Cold Pressed Coconut Cooking Oil - For Hair & Massage",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206827_2-anveshan-wood-pressed-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Cold Pressed Groundnut/Peanut Cooking Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252376_3-anveshan-wood-pressed-groundnut-oil-edible-natural-no-preservatives-for-all-purposes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Mustard Oil - Cold Pressed",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263913_3-indic-wisdom-wood-pressed-mustard-oil-100-pure-extract-rich-aroma-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Edible Safflower Oil - 100% Pure Extract, Rich Aroma & Flavour",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263911_2-indic-wisdom-edible-safflower-oil-100-pure-extract-rich-aroma-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Sweet Almond Oil - Cold Pressed",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263923_2-indic-wisdom-wood-pressed-sweet-almond-oil-100-pure-extract-rich-aroma-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed White Sesame Oil - Cold Pressed",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263916_2-indic-wisdom-wood-pressed-white-sesame-oil-100-pure-extract-rich-aroma-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Sesame Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/veg-placeholder.png"
+  },
+  {
+    "name": "Cold Pressed/Chekku Coconut Oil",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203836_1-nature-box-today-cold-pressedchekku-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Oil - Cold Pressed",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152338_2-swarnanjali-sesame-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Oil - Cold Pressed",
+    "sku_type": "500 g - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40158487_2-rampura-sesame-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Sesame Oil - Wooden Cold-Pressed, Unrefined, Rich In Antioxidants",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236228_1-shrutis-premium-sesame-oil-wooden-cold-pressed-unrefined-rich-in-antioxidants.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Virgin Ground Nut Oil - Helps Heart Health, Rich In Antioxidants",
+    "sku_type": "1 L - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255075_1-amrut-shudh-wood-pressed-virgin-ground-nut-oil-helps-heart-health-rich-in-antioxidants.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Groundnut Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241157_1-snehsattva-groundnut-oil-cold-pressed-kacchi-ghani-pure-rich-in-antioxidants-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Heart Care Oil - Infused With Arjuna, For Healthy Heart",
+    "sku_type": "1 L - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40293247_1-dabur-heart-care-oil-infused-with-arjuna-for-healthy-heart.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Sunflower Oil - 100% Natural, Pure & Unrefined, For Cooking",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286102_1-chekko-cold-pressed-sunflower-oil-100-natural-pure-unrefined-for-cooking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Til Oil - Cold Pressed, Kacchi Ghani, Pure, No Preservatives, For Healthy Heart",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241158_1-snehsattva-til-oil-cold-pressed-kacchi-ghani-pure-no-preservatives-for-healthy-heart.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Safflower Oil - Cold Pressed, Kacchi Ghani, Pure, No Preservatives",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241162_1-snehsattva-safflower-oil-cold-pressed-kacchi-ghani-pure-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blackseed Oil - Organic, Cold-Pressed, Boosts Immune System",
+    "sku_type": "100 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252607_1-beejmantra-blackseed-oil-organic-cold-pressed-boosts-immune-system.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": "2 L - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252608_1-beejmantra-mustard-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252609_1-beejmantra-groundnut-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premia Cold Pressed Sweet Almond Oil - 100% Natural & Chemical Free",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40278367_1-healthy-fibres-premia-cold-pressed-sweet-almond-oil-100-natural-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flaxseed Oil - Organic, Cold-Pressed, Improves Skin & Hair Texture",
+    "sku_type": "200 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252606_1-beejmantra-flaxseed-oil-cold-pressed-improves-skin-hair-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Oil - 100% Pure, Natural, Cold-Pressed, Healthy, For Cooking",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248584_1-chithirai-coconut-oil-100-pure-natural-cold-pressed-healthy-for-cooking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Oil - Wood Pressed, For Dressing, Cooking, Frying, Omega 3 Rich",
+    "sku_type": "5 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240329_1-iriola-nayesha-mills-mustard-oil-wood-pressed-for-dressing-cooking-frying-omega-3-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premia Cold Pressed Coconut Oil - 100% Natural & Chemical Free",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40278361_3-healthy-fibres-premia-cold-pressed-coconut-oil-100-natural-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lakadi Ghana Cold Pressed Safflower Oil",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177213_3-topales-lakadi-ghana-cold-pressed-safflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Groundnut Oil - 100% Edible, Rich Aroma & Flavour",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263908_2-indic-wisdom-pure-groundnut-oil-100-edible-rich-aroma-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Mustard Oil - Good For Digestion, Immunity Booster",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245804_1-barosi-cold-pressed-mustard-oil-good-for-digestion-immunity-booster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold-Pressed Natural Groundnut Oil - Rich In Calcium, For Cooking & Deep Frying",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267381_1-forgreen-cold-pressed-natural-groundnut-oil-rich-in-calcium-for-cooking-deep-frying.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Coconut Oil - Cold Pressed",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263912_2-indic-wisdom-wood-pressed-coconut-oil-100-pure-extract-rich-aroma-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Mustard Oil - Rich In Antioxidants, Nutrients",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262729_1-gulab-goodness-cold-pressed-mustard-oil-rich-in-antioxidants-nutrients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold-Pressed Mustard Oil - Pure & Natural, Promotes Heart Health",
+    "sku_type": "5 l - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287382_1-lal-gulab-cold-pressed-mustard-oil-pure-natural-promotes-heart-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Peanut Oil - Wooden Ghani Pressed, 100% Pure, Unrefined, Boosts Immunity",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40256930_2-jivika-naturals-cold-pressed-peanut-oil-wooden-ghani-pressed-boosts-immunity-100-pure-unrefined.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Gingelly Oil - Edible",
+    "sku_type": "1 L - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207438_1-samvuddhi-co-cold-pressed-gingelly-oil-edible.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Flaxseed Oil - Cold Pressed",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263918_2-indic-wisdom-wood-pressed-flaxseed-oil-great-omega-3-supplement.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold-Pressed Soyabean Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304419_1-jivo-cold-pressed-soyabean-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Extra Virgin Coconut Oil",
+    "sku_type": "1 L - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304420_1-jivo-extra-virgin-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Himalayan Hemp Seed Oil",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341866_1-hemptyful-himalayan-hemp-seed-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Groundnut Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342024_1-mill-it-cold-pressed-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Sesame/Gingelly Oil",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900460179_1-goswasthya-wood-pressed-sesamegingelly-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Oil - Natural, Wood Pressed",
+    "sku_type": "1 L - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900460175_1-goswasthya-groundnut-wood-cold-pressed-oil-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Mustard Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900460181_1-goswasthya-wood-pressed-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Coconut Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342005_1-earthy-origins-wood-pressed-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mustard Oil - Natural, Wood Pressed",
+    "sku_type": "500 ml - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900460180_1-goswasthya-mustard-wood-cold-pressed-oil-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wood Pressed Sunflower Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900460183_1-goswasthya-wood-pressed-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moringa Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": "30 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252616_1-beejmantra-moringa-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Extra Virgin Coconut Oil",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345036_1-talegaon-farms-extra-virgin-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Groundnut Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345033_1-talegaon-farms-cold-pressed-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Mustard Oil",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345034_1-talegaon-farms-cold-pressed-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sesame Oil - Organic, Cold-Pressed, Extra Virgin",
+    "sku_type": "500 ml - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252614_1-beejmantra-sesame-oil-organic-cold-pressed-extra-virgin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Oil - Cold Pressed, Fortified With Vitamins A & D, Chemical Free",
+    "sku_type": "5 L - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249992_1-jivo-sunflower-oil-cold-pressed-fortified-with-vitamins-a-d-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Pressed Coconut Oil - Edible",
+    "sku_type": "1 L - PET Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207437_1-samvuddhi-co-cold-pressed-coconut-oil-edible.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Coconut Oil - Wooden Cold-Pressed, Unrefined, Helps Improves Heart Health",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236223_1-shrutis-premium-coconut-oil-wooden-cold-pressed-unrefined-helps-improves-heart-health.jpg?tr=w-154,q-80"
+  }
+]

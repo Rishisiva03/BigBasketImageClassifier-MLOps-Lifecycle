@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Pasteurised Toned Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40158264_1-nandini-pasteurised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shubham Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149834_1-nandini-shubham-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "GoodLife UHT Treated Toned Milk",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/244999_1-nandini-goodlife-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cow Milk - Pasteurized",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40148723_5-akshayakalpa-organic-cow-milk-pasteurized.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40047739_6-heritage-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Taaza Milk",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114416_7-amul-taaza-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amrutha A2 Farm Fresh Milk - Organic",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40148717_3-akshayakalpa-amrutha-a2-farm-fresh-milk-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Homogenised Standardised Milk",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/104707_9-amul-homogenised-standardised-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Samrudhi Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161616_1-nandini-samrudhi-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cow Milk",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311259_2-akshayakalpa-organic-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Slim 'n' Trim Skimmed Milk",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012988_4-amul-slim-n-trim-skimmed-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amrutha A2 Pasteurised Milk - Organic",
+    "sku_type": "500 ml - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40148716_3-akshayakalpa-amrutha-a2-pasteurised-milk-organic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Cow Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40163720_7-sids-farm-natural-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Homogenised Cow Pure",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149831_1-nandini-homogenised-cow-pure.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cow Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40148714_4-akshayakalpa-organic-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Slim Skimmed Milk",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/118774_18-nestle-a-slim-skimmed-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk",
+    "sku_type": "1 L ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100011680_12-nestle-a-nourish-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant-Based Soy Beverage - Unsweetened, No Added Sugar",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002115_15-so-good-plant-based-soy-beverage-unsweetened-rich-in-protein-low-saturated-fat-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Skim Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40163722_2-sids-farm-skim-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Supremo Cow's Milk",
+    "sku_type": "1 L - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053404_3-go-supremo-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Double Tonned Milk",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005951_5-go-milk-double-toned.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Homogenised & UHT Treated Double Toned Milk",
+    "sku_type": "1 L - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160704_2-keventer-double-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk - Health",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073657_2-adya-toned-milk-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Delight Standard Milk",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40155602_1-red-cow-creamy-delight-standard-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sterilized Homogenized Flavor Double Toned Milk - Funzz Mango",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224334_1-govind-sterilized-homogenized-flavor-double-toned-milk-funzz-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lactose Free Skimmed Milk - With Calcium & Protein",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268325_1-raw-pressery-lactose-free-skimmed-milk-with-calcium-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smart Homogenised Double Toned Milk",
+    "sku_type": "1 L - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066288_3-nandini-smart-doble-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "GoodLife Gold Homogenised & UHT Sterilized Standardised Milk",
+    "sku_type": "1 L - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40006910_7-nandini-goodlife-gold-homogenised-standardised-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Life Homogenised & UHT Processed Toned Milk",
+    "sku_type": "1 L - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103499_3-verka-life-uht-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "UHT Processed Cow's Double Toned Milk",
+    "sku_type": "180 ml - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067797_3-visakha-dairy-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shakti UHT Processed Standardised Milk",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/273238_2-visakha-dairy-uht-milk-shakti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sterilized Homogenized Flavor Double Toned Milk - Funzz Rose",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224339_1-govind-sterilized-homogenized-flavor-double-toned-milk-funzz-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sterilized Homogenized Flavor Double Toned Milk - Funzz Kesar",
+    "sku_type": "200 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224340_1-govind-sterilized-homogenized-flavor-double-toned-milk-funzz-kesar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sterilized Homogenized Flavor Double Toned Milk - Funzz Badam",
+    "sku_type": "200 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224337_1-govind-sterilized-homogenized-flavor-double-toned-milk-funzz-badam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Top Milk - 6% Fat, Unhomogenised, Farm Fresh, Rich In Protein & Calcium",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273123_2-joi-farm-creamy-top-milk-6-fat-unhomogenised-farm-fresh-rich-in-protein-calcium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sterilized Homogenized Flavor Double Toned Milk - Funzz Pista",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224336_1-govind-sterilized-homogenized-flavor-double-toned-milk-funzz-pista.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Taaza Toned Milk - Pasteurised, Pure, High Quality & Nutritious",
+    "sku_type": "500 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254792_1-gokul-taaza-toned-milk-pasteurised-pure-high-quality-nutritious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Long Life Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40058585_3-dodla-toned-milk-uht-treated-rich-in-vitamin-a-d.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant-Based Soy Beverage - Chocolate",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100153746_7-so-good-plant-based-soy-beverage-chocolate-rich-in-calcium-protein-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant-Based Soy Beverage - Original",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002116_9-so-good-plant-based-soy-beverage-original-rich-in-calcium-protein-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149828_1-heritage-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Full Cream Milk",
+    "sku_type": "500 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299852_1-vijay-dairy-pasteurised-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Full Cream Milk - Red",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215941_1-verka-full-cream-milk-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147031_2-mother-dairy-premium-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pride Milk -  Homogenised Pasteursied Toned",
+    "sku_type": "520 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219311_2-milma-pride-milk-homogenised-pasteursied-toned.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Homogenised Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228858_2-visakha-milk-pasteurised-homogenised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standard Milk - Green",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215940_1-verka-standard-milk-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standardised Milk - Green",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215942_2-verka-standardised-milk-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nice Pasteurised Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151382_1-aavin-pasteurised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diet Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217613_1-sapins-diet-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Pasteurised Standardised Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199930_1-sangam-premium-pasteurised-standardised-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Buffalo Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324503_1-mother-dairy-pure-buffalo-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Vitamin Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321950_1-milky-moo-super-vitamin-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321949_1-milky-moo-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lite Fit UHT Milk",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322978_1-heritage-lite-fit-uht-processed-skimmed-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farm Fresh Toned UHT Milk",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322977_2-heritage-uht-processed-homogenized-cow-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lactose Free Skimmed Milk",
+    "sku_type": "200 ml - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328206_1-the-brooklyn-creamery-lactose-free-skimmed-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "High Protein Milk",
+    "sku_type": "200 ml - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328207_1-the-brooklyn-creamery-high-protein-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Full Cream Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323008_1-namaste-india-pasteurised-full-cream-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pasteurised Toned Milk",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323009_1-namaste-india-pasteurised-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Enrich D Toned Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003893_6-godrej-jersey-enrich-d-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Double Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147600_3-heritage-double-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141619_1-katraj-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rich Toned Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147594_5-godrej-jersey-rich-toned-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standardised\u00a0Milk",
+    "sku_type": "475 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147599_3-heritage-standardiseda-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Buffalo Milk - Pasteurised, Full Cream, For Everyday Consumption",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210295_3-farm-finest-buffalos-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Champ Up",
+    "sku_type": "180 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40173038_4-thirumala-champ-up.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Gir Cow's Milk",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210296_1-farm-finest-a2-gir-cows-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A2 Milk",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141622_5-indigau-a2-milk.jpg?tr=w-154,q-80"
+  }
+]

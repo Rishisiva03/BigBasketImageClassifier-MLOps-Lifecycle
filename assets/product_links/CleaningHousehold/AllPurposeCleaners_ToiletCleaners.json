@@ -1,0 +1,560 @@
+[
+  {
+    "name": "Disinfectant Toilet Cleaner - Original Fresh",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202555_10-harpic-power-plus-disinfectant-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Bathroom Cleaner - Lemon Fresh",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081006_11-harpic-disinfectant-bathroom-cleaner-liquid-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White & Shine Disinfectant Toilet Cleaner - Bleach",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215375_10-bb-combo-harpic-toilet-cleaner-liquid-1l-air-wick-scented-wild-berries-gel-70-g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - Rose",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201389_5-bb-home-toilet-cleaner-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Bathroom Cleaner - Citrus, Kills 99.9% Germs",
+    "sku_type": "500 ml - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213611_4-bb-home-bathroom-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flushmatic In-Cistern Toilet Cleaner Block, Marine",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067269_12-harpic-flushmatic-in-cistern-toilet-cleaner-blocks-aquamarine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White & Shine Disinfectant Toilet Cleaner - Liquid Bleach",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321329_3-harpic-white-shine-disinfectant-toilet-cleaner-liquid-bleach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hygienic Toilet Cleaner Rim Block - Lavender",
+    "sku_type": "26 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/270222_13-harpic-hygienic-toilet-rim-block-lavender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Fresh 6 Toilet Cleaner Rim Block - Marine Splash",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196116_2-harpic-power-fresh-6-toilet-rim-block-marine-splash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flushmatic In-Cistern Toilet Cleaner Block - Citrus",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/274774_15-harpic-flushmatic-in-cistern-toilet-cleaner-blocks-twin-pine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Fresh Disinfectant Toilet Cleaner",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/290394_10-domex-toilet-cleaner-expert-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Bathroom Cleaner Liquid - Floral Bloom",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017766_14-harpic-disinfectant-bathroom-cleaner-liquid-floral.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hygienic Toilet Cleaner Rim Block - Jasmine",
+    "sku_type": "26 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/270223_12-harpic-hygienic-toilet-rim-block-jasmine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hygienic Toilet Cleaner Rim Block - Citrus",
+    "sku_type": "26 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006623_13-harpic-hygienic-toilet-rim-block-citrus.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Fresh Disinfectant Toilet Cleaner",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125581_10-domex-fresh-guard-disinfectant-toilet-cleaner-liquid-lime-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Bowl Tablet - Fizz & Fresh, Deep Cleaning Foam Action, Lemon Splash",
+    "sku_type": "8 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296023_1-astonish-toilet-bowl-tablet-fizz-fresh-deep-cleaning-foam-action-lemon-splash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Pro Extra Strong, Kills 99.9% Germs",
+    "sku_type": "500 ml - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130352_11-bb-home-disinfectant-toilet-cleaner-pro-extra-strong.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power 5 Ocean Toilet Rim Block",
+    "sku_type": "55 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128238_3-domestos-power-5-ocean-toilet-rim-block.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - Geranium, Lavender, Chamomile, 0% Toxins, Removes Tough Stains",
+    "sku_type": "500 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240004_1-dr-octo-toilet-cleaner-geranium-lavender-chamomile-0-toxins-removes-tough-stains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaning Wet Wipes - Anti-Bacterial & Germs Protection, For Commode, Seats, Flush, Knobs",
+    "sku_type": "50 pcs ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266511_1-cleno-toilet-cleaning-wet-wipes-anti-bacterial-germs-protection-for-commode-seats-flush-knobs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - Fights Tough Stains & Bad Odours",
+    "sku_type": "500 ml - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258723_3-reem-toilet-cleaner-fights-tough-stains-bad-odours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Drain Cleaner Powder",
+    "sku_type": "200 g - (4 N x 50 g each)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341113_1-varklin-drain-cleaner-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - Lavender, Urine Strains & Germ Remover",
+    "sku_type": "750 ml ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40084467_5-frosch-toilet-cleaner-lavender-urine-strains-germ-remover.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - B-Loo",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000507_6-trishul-toilet-cleaner-b-loo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pink Magnolia Toilet Rim Block With Long Lasting Fragrance",
+    "sku_type": "55 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208961_2-domestos-pink-magnolia-toilet-rim-block-with-long-lasting-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Waterproof Toilet Seat Cover - 5 Sheets (Pack of 2) | No Direct Contact with Unhygienic Seats | Easy To Dispose | Nature Friendly | Must Have For Women and Men",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202367_2-peebuddy-waterproof-toilet-seat-cover.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40146236_2-smart-home-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chemical Free Toilet Cleaner with Lemongrass Oil",
+    "sku_type": "475 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281322_4-tazo-toilet-cleaner-with-lemongrass-oil-eliminates-odour-zero-toxic-fumes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - Lemon",
+    "sku_type": "750 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40084466_5-frosch-toilet-cleaner-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Bowl Cleaner - 100% Flush Protection, Stain Resistant, For Shiny Clean Finish",
+    "sku_type": "500 ml ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244045_1-vooki-toilet-bowl-cleaner-100-flush-protection-stain-resistant-for-shiny-clean-finish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ocean Fresh Disinfectant Toilet Cleaner",
+    "sku_type": "1 L ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342746_1-domex-ocean-fresh-disinfectant-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platinum Active-Shield Disinfectant Toilet Cleaner Liquid, Marine",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40172938_5-harpic-platinum-active-shield-disinfectant-toilet-cleaner-liquid-marine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eco-Friendly Toilet Cleaner - With Hard Water Stain Remover, Bubble Blast",
+    "sku_type": "650 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202495_3-tydibowl-toilet-cleaner-aqua-blast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Active Disinfectant Toilet Cleaner Liquid, Floral",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40171126_7-harpic-organic-active-disinfectant-toilet-cleaner-liquid-floral-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mr. Strong Disinfectant Spray",
+    "sku_type": "600 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40158098_1-senu-mr-strong-disinfectant-spray.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super 6 In 1 Toilet Cleaner - Kills 99.9% Germs, Leaves Shiny Clean Finish, Mint",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274501_1-stanfresh-super-6-in-1-toilet-cleaner-kills-999-germs-leaves-shiny-clean-finish-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Bowl Cleaner - Vinegar",
+    "sku_type": "750 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123568_3-frosch-toilet-bowl-cleaner-vinegar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White & Shine Disinfectant Toilet Cleaner Bleach - Kills 99.9% Germs",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209934_5-bb-home-toilet-cleaner-bleach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bathroom & Tiles Cleaner",
+    "sku_type": "500 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40158096_1-senu-bathroom-tiles-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flushmatic In-Cistern Toilet Cleaner Block - Citrus",
+    "sku_type": "100 g - (Pack of 3)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1206539_7-harpic-flushmatic-in-cistern-toilet-cleaner-blocks-pine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner Liquid, Original",
+    "sku_type": "500 ml each - (Pack of 3)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1206542_12-harpic-original-disinfectant-toilet-cleaner-liquid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flushmatic In-Cistern Toilet Cleaner Block, Citrus",
+    "sku_type": "100 g - (Pack of 2)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208850_10-harpic-flushmatic-in-cistern-toilet-cleaner-blocks-twin-pine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flushmatic In-Cistern Toilet Cleaner Block - Marine",
+    "sku_type": "100 g - (Pack of 2)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1201636_12-harpic-flushmatic-in-cistern-toilet-cleaner-blocks-aquamarine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tap & Shower Cleaner",
+    "sku_type": "500 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208875_3-purecult-tap-shower-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Standard Toilet Cleaner",
+    "sku_type": "750 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40157434_1-lyf-powr-standard-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power 5 Lime Toilet Rim Block",
+    "sku_type": "55 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128239_3-domestos-power-5-lime-toilet-rim-block.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super 6 In 1 Toilet Cleaner & Multi-Surface Floor Cleaner - Mint & Fruity",
+    "sku_type": "2 pcs - (500 ml + 1 L)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274517_1-stanfresh-super-6-in-1-toilet-cleaner-multi-surface-floor-cleaner-mint-fruity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - Rose, Removes Tough Stains, Limescale, Kills 99.9% Germs",
+    "sku_type": "500 ml - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234347_1-stanfresh-toilet-cleaner-rose-removes-tough-stains-limescale-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Plus Original - 10x Better Than Bleach, Kills 99.9% Germs, Acts On Limescale",
+    "sku_type": "750 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255598_1-harpic-power-plus-original-10x-better-than-bleach-kills-999-germs-acts-on-limescale.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003778_1-glito-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Plus - Disinfectant Toilet Cleaner Liquid, Rose, 10x Max Clean",
+    "sku_type": "1 L - (Pack of 2)",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245862_4-harpic-power-plus-disinfectant-toilet-cleaner-liquid-rose-10x-max-clean.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platinum Active-Shield Disinfectant Toilet Cleaner Liquid, Lavender",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40172939_6-harpic-platinum-active-shield-disinfectant-toilet-cleaner-liquid-lavender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Plus Toilet Cleaner - Original",
+    "sku_type": "900 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195121_1-harpic-power-plus-toilet-cleaner-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner",
+    "sku_type": "500 ml - Buy 1 Get 1 Free",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206661_2-prestine-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Rose - Kills 99.9% Germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208279_4-bb-home-disinfectant-toilet-cleaner-rose-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chemical-free Bathroom Cleaner with Peppermint Oil, Multi-purpose",
+    "sku_type": "500 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281319_4-tazo-multi-purpose-bathroom-cleaner-with-peppermint-oil-removes-stains-perfect-shine-100-safe-on-skin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Atlantic Burst, Power Fresh 6 Toilet Cleaner Rim Block - Lasts Up To 300 Flushes",
+    "sku_type": "35 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325655_2-harpic-atlantic-burst-power-fresh-6-toilet-cleaner-rim-block-lasts-up-to-300-flushes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Seat Sanitizer Spray - 100 ml (Pack of 2) | Odour and Germs Eliminating Toilet Spray | Before & After Toilet Seat Sanitiser, Disinfectant & Deodoriser | Vanilla Fragrance",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208705_1-peebuddy-before-after-toilet-spray-deodorizer-disinfectant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Extra Power Toilet Cleaner - 10X Better Cleaning",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40278529_1-hot-wash-extra-power-toilet-cleaner-10x-better-cleaning.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Toilet Cleaner - Power Plus 10X, Removes Tough Stains, Kills 99.9% Germs",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259922_1-b-safe-original-toilet-cleaner-power-plus-10x-removes-tough-stains-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000606_4-bison-my-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Tap & Shower Cleaner Spray - Provides Shine, Removes Tough Stains",
+    "sku_type": "200 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40253830_2-herbiza-natural-tap-shower-cleaner-spray-provides-shine-removes-tough-stains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Original - Kills 99.9% Germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208277_5-bb-home-disinfectant-toilet-cleaner-original-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner Pro - Colour Changing Formula - Kills 99.9% germs",
+    "sku_type": "2x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208283_4-bb-home-disinfectant-toilet-cleaner-pro-colour-changing-formula-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner Pro - Colour Changing Formula - Kills 99.9% germs",
+    "sku_type": "4x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208284_3-bb-home-disinfectant-toilet-cleaner-pro-colour-changing-formula-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Rose - Kills 99.9% Germs",
+    "sku_type": "4x500 ml - (Multipack)",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208280_3-bb-home-disinfectant-toilet-cleaner-rose-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner Tough Stain",
+    "sku_type": "709 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/285325_4-clorox-toilet-cleaner-tough-stain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - kills 99.9% germs",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227520_3-ma1-ghar-disinfectant-toilet-cleaner-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner & Freshener - Lavender, Easy To Clip",
+    "sku_type": "50 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142569_1-bb-home-toilet-cleaner-freshener-lavender-easy-to-clip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super 6 In 1 Toilet Cleaner - Kills 99.9% Germs, Leaves Shiny Clean Finish, Rose World",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274502_1-stanfresh-super-6-in-1-toilet-cleaner-kills-999-germs-leaves-shiny-clean-finish-rose-world.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bathroom Cleaner - Liquid, Hand Made",
+    "sku_type": "500 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124876_1-wild-ideas-bathroom-cleaner-liquid-hand-made.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - Fighter",
+    "sku_type": "500 ml ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40063360_5-senu-toilet-cleaner-fighter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner - Cube Block",
+    "sku_type": "100 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142567_1-bb-home-toilet-cleaner-cube-block.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Clean Toilet Cleaner",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342291_1-everyday-ultra-clean-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Clean Floor Cleaner",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342292_1-everyday-ultra-clean-floor-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner & Freshener - Lemon, Easy To Clip",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142568_1-bb-home-toilet-cleaner-freshener-lemon-easy-to-clip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Bowl Deodorizer - Ocean Fresh",
+    "sku_type": "55 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178805_3-franck-toilet-bowl-deodorizer-ocean-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner Round Block - Twin Colour",
+    "sku_type": "50 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178797_4-franck-toilet-cleaner-round-block-twin-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ProJanit - Eco Friendly Toilet Cleaner, Non Toxic & Degradable",
+    "sku_type": "400 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235401_1-proklean-projanit-eco-friendly-toilet-cleaner-non-toxic-degradable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White & Shine Original Bleach - Baking Soda Ultimate Shine, Kills 99.9% Bacteria",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255601_1-harpic-white-shine-original-bleach-baking-soda-ultimate-shine-kills-999-bacteria.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bathroom Cleaner Wet Wipes - For Showers, Wash-Basins, Floors, Taps, Commodes, Glass",
+    "sku_type": "50 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266509_1-cleno-bathroom-cleaner-wet-wipes-for-showers-wash-basins-floors-taps-commodes-glass.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shine Toilet Cleaner",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315303_1-hipolin-shine-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hard Water Stain Remover - Safe & Hygienic",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300403_1-bacnil-hard-water-stain-remover-safe-hygienic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310208_1-kleen-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309895_1-senu-disinfectant-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Bowl Tablet - Fizz & Fresh, Deep Cleaning Foam Action, Pink Peony Fresh",
+    "sku_type": "8 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296024_1-astonish-toilet-bowl-tablet-fizz-fresh-deep-cleaning-foam-action-pink-peony-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super 6 In 1 Toilet Cleaner - Rose World",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315717_2-stanfresh-super-6-in-1-toilet-cleaner-rose-world.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Toilet Cleaner - Mystic Rose",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309479_1-clean-shakti-disinfectant-toilet-cleaner-mystic-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toilet Cleaner",
+    "sku_type": "500 ml - (Buy 1 Get 1 Free)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005107_4-excel-plus-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Germ & Stain Blaster Disinfectant Toilet Cleaner Liquid, Floral",
+    "sku_type": "750 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068285_9-harpic-germ-stain-blaster-disinfectant-toilet-cleaner-liquid-floral.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bathroom Cleaner",
+    "sku_type": "500 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075163_1-excel-plus-bathroom-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Bathroom Cleaner - Removes Tough Stains, 10X",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200985_3-godrej-proclean-disinfectant-toilet-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spotless Toilet Cleaner - Blue, Kills 99.9% Germs, Lemon",
+    "sku_type": "500 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298194_1-mugi-spotless-toilet-cleaner-blue-kills-999-germs-lemon.jpg?tr=w-154,q-80"
+  }
+]

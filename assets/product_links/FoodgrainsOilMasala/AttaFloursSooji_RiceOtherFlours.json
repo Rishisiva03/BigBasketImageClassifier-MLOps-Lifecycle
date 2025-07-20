@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Organic - Ragi Flour/Ragi Hittu",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125922_6-bb-royal-organic-ragi-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Flour",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000458_11-bb-royal-rice-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chana Sattu Refreshing Drink Powder",
+    "sku_type": "500 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017084_7-manna-chana-sattu-refreshing-drink-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "High Protein Sharbati Atta",
+    "sku_type": "1 kg ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334960_3-lo-foods-chakki-fresh-protein-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajgira Ke Atta - Gluten Free",
+    "sku_type": "450 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147759_1-graminway-rajgira-ke-atta-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain+ Atta",
+    "sku_type": "1 kg ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459819_2-itc-right-shift-multigrain-atta-with-soya-chana-oats.jpg?tr=w-154,q-80"
+  }
+]

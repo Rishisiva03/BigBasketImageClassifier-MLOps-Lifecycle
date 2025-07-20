@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Raw Chia Seeds",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114968_14-true-elements-raw-chia-seeds-premium-raw-chia-seeds-for-eating.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Energy Bar - Assorted Flavours",
+    "sku_type": "350 g - (35 g x 10 pcs)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016749_10-yoga-bar-multigrain-variety-energy-bar-chocolate-vanilla-almonds-cashew-orange-nuts-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Sticks - Achari Masala",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208395_5-gooddiet-ragi-sticks-achari-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Chana - Jor Lime",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214420_2-gooddiet-roasted-chana-jor-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Pie Protein Bar",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131387_7-yoga-bar-breakfast-protein-bar-blueberry-pie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Sticks - Tangy Mint",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208400_4-gooddiet-ragi-sticks-tangy-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nuts & Seeds Multigrain Energy Bar",
+    "sku_type": "38 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30012173_11-yoga-bar-multigrain-energy-bar-nuts-n-seed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Healthy Khakhra Pearl Millet Methi Bajra Methi",
+    "sku_type": "180 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130834_13-tasties-namkeen-healthy-khakhra-pearl-millet-methi-bajra-methi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Puffs - Cheese N Herbs",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208396_3-gooddiet-mini-puffs-cheese-n-herbs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Puffs - Butter Makhana",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208398_5-gooddiet-multigrain-puffs-butter-makhana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Balls - Chilli Chataka",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208399_5-gooddiet-multigrain-balls-chilli-chataka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Methi Khakhra - Whole Wheat",
+    "sku_type": "180 g - Snacks",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130835_13-tasties-namkeen-whole-wheat-khakhra-methi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Peanuts - Cheese 'N' Onion",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112425_8-gooddiet-snacks-roasted-peanuts-cheese-n-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Puffs - Tangy Tomato",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208402_4-gooddiet-multigrain-puffs-tangy-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "20g Protein Bars - Assorted, No Added Sugar, Loaded With Fibre",
+    "sku_type": "70 g - (Pack of 5)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095301_18-yoga-bar-protein-variety-bar-chocolate-brownie-cranberry-almond-fudge-hazelnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Jowar - Flakes, Mixture",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214424_2-gooddiet-roasted-jowar-flakes-mixture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Diet Chivda Mixture - Masala",
+    "sku_type": "125 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112403_7-gooddiet-snacks-roasted-diet-chivda-mixture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Millet Moti Sev / Thengolu",
+    "sku_type": "100 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218451_4-gooddiet-millet-moti-sev-thengolu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wholewheat Lavash",
+    "sku_type": "100 g ",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169958_5-the-bakers-dozen-lavash-100-wholewheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baked Pita Bread Crisps - Chilli & Garlic",
+    "sku_type": "100 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010746_4-wingreens-farms-baked-pita-bread-crisps-chilli-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Spicy Chips",
+    "sku_type": "60 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012096_1-miaow-miaow-hot-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Diet Snack - Chilli Lime",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162622_10-gooddiet-diet-snack-chilli-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "20g Protein Bar - Double Chocolate, No Added Sugar, Loaded With Fibre",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095300_19-yoga-bar-protein-bar-chocolate-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Savoury - Onion Rings",
+    "sku_type": "125 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30008188_3-miaow-miaow-savoury-onion-rings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "20g Protein Bar - Chocolate Brownie, No Added Sugar, Loaded With Fibre",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095298_7-yoga-bar-whey-protein-bar-chocolate-brownie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Fudge Protein Bar",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095296_15-yoga-bar-whey-protein-bar-almond-fudge.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Healthy Khakhra Multigrain",
+    "sku_type": "180 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130832_13-tasties-namkeen-healthy-khakhra-multigrain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Tortilla Wrap",
+    "sku_type": "348 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312723_1-precia-whole-wheat-tortilla-wrap.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "High Protein Masala Soya Chips - Healthy Snack, Gluten-Free, Vegan",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246125_4-fabbox-high-protein-soya-chips-high-protein-gluten-free-transfat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Rice Chips - Sweet Chilli, Natural, Plant Based, Gluten Free",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275080_1-natch-thai-rice-chips-sweet-chilli-natural-plant-based-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Amaranth Mix - Olive 'N' Herbs",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112401_7-gooddiet-snacks-roasted-amaranth-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Multigrain - Minty",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112407_7-gooddiet-roasted-multigrain-minty-namkeen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Flaxseed - Black Salt",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162617_8-gooddiet-roasted-flaxseed-black-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Naan Chips - Butter Garlic",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191272_1-wingreens-farms-naan-chips-butter-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Beetroot & Carrot - Tortilla Wraps, 8 Inches",
+    "sku_type": "330 g - (6 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336085_2-habanero-beetroot-carrot-tortilla-wraps.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Maida Butter Garlic Toast",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297736_3-the-bakers-dozen-butter-garlic-toast-100-whole-wheat-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Makhana Deluxe Extra Bold",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40174821_5-satgun-raw-makhana-deluxe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Quinoa - Fibre-Rich Brreakfast, Helps Feel Fuller, Gluten Free",
+    "sku_type": "1 kg ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245064_2-zerobeli-white-quinoa-fibre-rich-brreakfast-helps-feel-fuller-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Slices - Bare, Natural, Vegan, Rich In Vitamin C",
+    "sku_type": "150 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203846_3-natch-mango-slices-bare.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Fiesta Energy Bar - Natural Sweetness of Honey",
+    "sku_type": "180 g - Carton",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003627_1-naturals-energy-bar-almond-fiesta-natural-sweetness-of-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Rice Chips - Wasabi, Natural, Plant Based, Gluten Free",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263845_2-natch-rice-chips-wasabi-all-natural-plant-based-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Korean Spicy Multi Grain Chips",
+    "sku_type": "120 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290059_2-flaveo-bajra-chips-himalayan-salt-n-pepper-baked.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chickpea Popped Chips - Garlic & Herb, Natural, Plant Based, Gluten Free",
+    "sku_type": "55 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275079_1-natch-chickpea-popped-chips-garlic-herb-natural-plant-based-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Seed Chaat - Pumpkin, Sunflower, High Protein & Fibre, Gluten-Free,Vegan, Healthy Snack",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800401562_6-fabbox-mixed-seed-chaat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato & Herbs - Tortilla Wraps, 8 Inches",
+    "sku_type": "330 g - (6 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336086_2-habanero-tomato-herbs-tortilla-wraps.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Makhana - Classic Salted, Super Snack, Baked, Healthy,Guilt-free Foxnuts",
+    "sku_type": "83 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40246128_5-fabbox-classic-salted-makhana-pink-salt-high-protein-gluten-free-transfat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jowar Pops - Cheesy, Healthy Snack, Weight Management, Vegan,Gluten-free",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251618_3-fabbox-cheesy-jowar-pops-high-protein-vitamin-rich-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multivitamin Trail Mix - Roasted Watermelon, Pumpkin, Sunflower, Sesame, Apricot & Soynuts",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199526_3-true-elements-multivitamin-trail-mix-roasted-watermelon-pumpkin-sunflower-sesame-apricot-soynuts-healthy-snacks-mixed-seeds-for-eating.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soya Katori",
+    "sku_type": "120 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017279_3-healthy-snacks-healthy-snacks-soya-katori-130-gm-pouch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Health Bar - No Added Sugar, Weight Management, Healthy Snack, Vegan",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800401503_8-fabbox-raw-almond-health-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Pops - Hawaiian Barbeque, Foxnuts/Makhana, Gluten Free, Healthy Snack",
+    "sku_type": "40 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238571_1-4700bc-protein-pops-hawaiian-barbeque-foxnutsmakhana-gluten-free-healthy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soy Twisters Snacks",
+    "sku_type": "100 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128288_2-nutty-yogi-chips-soya-twisters.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Chips",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223385_1-evolve-ragi-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa Puffs - Fiery Spice",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114828_2-the-green-snack-co-quinoa-puffs-fiery-spice.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Pure Olive Oil",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016672_7-disano-olive-oil-pure.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kerala Virgin Coconut Oil - Cold Pressed",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185106_4-kapiva-kerala-virgin-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil - Sesame",
+    "sku_type": "200 ml - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002381_3-lee-kum-kee-oil-sesame.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blackseed Oil - Cold Pressed",
+    "sku_type": "100 ml - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009603_3-health-1st-blackseed-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anfora Olive Oil - Pure",
+    "sku_type": "1 L - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004535_2-monini-anfora-olive-oil-pure.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Extra Virgin Multipurpose Avocado Oil",
+    "sku_type": null,
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176612_4-black-green-extra-virgin-multipurpose-avocado-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Oil - Cold Pressed",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40045326_4-health-1st-coconut-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Refined Groundnut Oil",
+    "sku_type": "1 L ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40115980_1-ganapathy-refined-groundnut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Borgefrit High-Mufa-Oleic Sunflower Oil",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023113_2-borges-borgefrit-high-mufa-oleic-sunflower-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flaxseed Oil - Cold Pressed",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40045325_8-health-1st-flaxseed-oil-cold-pressed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Chilli Oil",
+    "sku_type": "125 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095604_3-sprig-sprig-roasted-chilli-oil-high-flavour-condiment-for-asian-dishes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mustard Oil - Supports Heart Health",
+    "sku_type": "1 L - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196294_1-kapiva-organic-mustard-oil-supports-heart-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cooking Spray - Olive Oil",
+    "sku_type": "175 g - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009014_4-spray-lite-cooking-spray-olive-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Peppermint Essential Oil",
+    "sku_type": "10 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206605_1-lumiere-organic-peppermint-essential-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Extra Virgin Avocado Oil - Rich In Omega 3, 6 & 9, For All High Heat Cooking",
+    "sku_type": "500 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001565_5-olivado-extra-virgin-avocado-oil-rich-in-omega-3-6-9-for-all-high-heat-cooking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Extra Virgin Coconut Oil",
+    "sku_type": "250 g - PET Bottle",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40156260_1-harin-extra-virgin-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Natural & Pure Sovereign Coconut Oil",
+    "sku_type": "225 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176791_4-avm-sovereign-coconut-oil.jpg?tr=w-154,q-80"
+  }
+]

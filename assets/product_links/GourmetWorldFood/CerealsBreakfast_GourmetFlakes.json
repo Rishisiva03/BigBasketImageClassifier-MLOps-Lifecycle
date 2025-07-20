@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Muesli - Dark Chocolate & Cranberry, Healthy, Rich In Protein, Breakfast Cereal",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160159_7-yoga-bar-muesli-dark-chocolate-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Fruits, Nuts & Seeds, Healthy, Rich In Protein, Breakfast Cereal",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160160_8-yoga-bar-muesli-fruits-nuts-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Muesli - No Added Sugar, Rich In Protein & Fibre, No Preservatives",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160158_8-yoga-bar-super-muesli-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oat Clusters & Ragi Flakes With Strawberry",
+    "sku_type": "350 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125273_3-monsoon-harvest-oat-clusters-ragi-flakes-with-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cinnamon Oat Clusters & Multigrain Flakes With Apple",
+    "sku_type": "350 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125272_4-monsoon-harvest-cinnamon-oat-clusters-multigrain-flakes-with-apple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa - Gluten-Free",
+    "sku_type": "250 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095582_1-nutriwish-quinoa-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Flakes - Rich In Protein, Helps Manage Weight & Diabetes, Gluten Free",
+    "sku_type": "400 g ",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40239203_2-nutty-yogi-ragi-flakes-rich-in-protein-helps-manage-weight-diabetes-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bajra Flakes/Pearl Millet - High In Protein & Fibre, Controls Diabetes, Gluten Free",
+    "sku_type": "400 g - Pouch",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40239214_2-nutty-yogi-bajra-flakespearl-millet-high-in-protein-fibre-controls-diabetes-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Flakes - Honey & Almonds, Dietary Fibre Rich",
+    "sku_type": null,
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195322_4-true-elements-wheat-flakes-with-honey-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa Flour - Gluten Free",
+    "sku_type": "250 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095583_2-nutriwish-quinoa-flour-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Jowar Flakes - Honey & Almonds, Ready To Eat, Healthy Breakfast",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191808_5-true-elements-jowar-flakes-with-honey-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oat Clusters & Multigrain Flakes With Mango",
+    "sku_type": "350 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125270_4-monsoon-harvest-oat-clusters-multigrain-flakes-with-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Flakes With Honey - No Added Sugar, Fibre Rich",
+    "sku_type": "750 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199525_3-true-elements-multigrain-flakes-with-honey-flakes-for-breakfast-power-of-wheat-flakes-jowar-flakes-bajra-flakes-healthy-cereal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Chip Oat Clusters & Ragi Flakes With Banana",
+    "sku_type": "350 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125271_4-monsoon-harvest-choco-chip-oat-clusters-ragi-flakes-with-banana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oat Flakes",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192023_1-nutriwish-oat-flakes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Quinoa",
+    "sku_type": "2 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192025_1-nutriwish-white-quinoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Flakes With Raisins & Roasted Almonds",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218564_1-monsoon-harvest-multigrain-flakes-with-raisins-roasted-almonds.jpg?tr=w-154,q-80"
+  }
+]

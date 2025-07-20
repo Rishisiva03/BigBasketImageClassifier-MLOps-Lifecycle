@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Tamarind Date Chutney",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180559_6-mothers-recipe-tamarind-date-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Sauce",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129800_3-knorr-schezwan-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli/Dosa/Chilly Chutney Powder",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004628_2-mtr-masala-chutney-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Chutney Podi",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103762_2-farmveda-chutney-podi-groundnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mint Chutney In Olive Oil",
+    "sku_type": "270 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300748_5-adf-soul-chutney-in-olive-oil-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Samosa Chutney",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180560_7-mothers-recipe-samosa-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Recipe Mexican Salsa",
+    "sku_type": "450 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177122_4-wingreens-farms-original-recipe-mexican-salsa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hommade - Imli Sauce, Saunth",
+    "sku_type": "90 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196445_2-dabur-hommade-imli-sauce-saunth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jain Schezwan Chutney - No Onion & Garlic",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317115_1-chings-secret-jain-schezwan-chutney-no-onion-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Chilli Garlic Sauce",
+    "sku_type": "180 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222847_4-wingreens-farms-schezwan-chilli-garlic-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bhelpuri Chutney",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180558_7-mothers-recipe-bhelpuri-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Chutney / Shengadana Chutney",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191740_2-geetarth-shengdanapeanut-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Red Chilli Jam/Chutney - No Garlic/Onion",
+    "sku_type": "300 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218392_1-delight-foods-sweet-red-chilli-jamchutney-no-garliconion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Andhra Kakarakai Podi",
+    "sku_type": "125 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334419_1-npr-andhra-kakarakai-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idli Chutney - Gunpowder, No Preservatives",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298017_1-tom-idli-chutney-gunpowder-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mylapore Iyers Idli Chilli Podi - Chennai Recipe",
+    "sku_type": "350 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218403_1-delight-foods-mylapore-iyers-idli-chilli-podi-chennai-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "5 Second Peanut Chutney - Authentic Recipe",
+    "sku_type": "40 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291737_2-chutnefy-5-second-peanut-chutney-authentic-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan  - Spicy & Tangy",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224100_5-inchi-schezwan-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Imli Sauce - No Added Preservatives",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197458_3-veeba-classic-imli-sauce-no-added-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "5 Second Coriander Chutney - Authentic Recipe",
+    "sku_type": "30 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291735_2-chutnefy-5-second-coriander-chutney-authentic-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Kool",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076190_1-shellys-chutney-kool.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Jalpai",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076192_1-shellys-chutney-jalpai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Palakkad Chutney Powder",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004507_3-brahmins-palakkad-chutney-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cayenne Pepper Powder - Capsicum Annuum",
+    "sku_type": "80 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341155_1-urban-platter-cayenne-pepper-powder-capsicum-annuum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gunpowder",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296145_2-vs-mani-co-idli-molaga-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Chutney / Lasun Chutney",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191743_2-geetarth-lasun-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Sweet Mustard - With Dates",
+    "sku_type": "180 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315335_3-pataakha-hot-sweet-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Dhamaka Chutney",
+    "sku_type": "180 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315331_3-pataakha-schezwan-dhamaka-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Date Tamarind Chutney",
+    "sku_type": "120 g - Pouch",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303686_1-indi-date-tamarind-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Chunda",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000368_1-pravin-powder-chunda.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Coconut Chutney - No Preservatives",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298018_1-tom-green-coconut-chutney-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chef's Special Imli Sauce",
+    "sku_type": "450 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312482_4-veeba-imli-sauce-chefs-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Imli Sauce Pichkoo",
+    "sku_type": "75 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068290_7-maggi-imli-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Chutney",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/289913_2-bedekar-garlic-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Date & Tamarind Chutney",
+    "sku_type": "325 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300750_5-adf-soul-chutney-date-tamarind.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala - Parupu Podi",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001460_1-mtr-masala-parupu-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Original Recipe - Schezwan Chilli Garlic Sauce",
+    "sku_type": "450 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134957_3-wingreens-farms-original-recipe-schezwan-chilli-garlic-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jain Peanut Chutney / Farali Shengadana Chutney",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191750_2-geetarth-jain-shengdanapeanut-chutney-no-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Szechuan Chutney - Chinese Tadka",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211336_1-nilons-chutney-szechuan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hommade - Kalonji Tamatar Ki Chutney",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196446_2-dabur-hommade-kalonji-tamatar-ki-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Idly Chutney",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191745_2-geetarth-instant-idly-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Chilli Chutney - Hot, Sour & Spicy",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265674_2-veeba-schezwan-chilli-chutney-hot-sour-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desi Szechwan Chutney For Dip & Spread - Hot & Flavourful",
+    "sku_type": "1 kg - Jar",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281826_4-mothers-recipe-desi-szechwan-chutney-for-dip-spread-hot-flavourful.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Imli Chutney",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096617_1-ganesh-imli-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Sauce",
+    "sku_type": "190 g - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40006666_4-del-monte-schezwan-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Kolhapuri Thecha",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000369_1-pravin-powder-kolhapuri-thecha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Imlee - Tamarind Chutney",
+    "sku_type": "80 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000164_2-nilons-imlee-tamarind-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Chutney / Jawas Chutney",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191741_2-geetarth-jawas-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sauces - Schezwan Hot Chutney",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126951_4-sams-sauces-schezwan-hot-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Idly Chilly Powder",
+    "sku_type": "100 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188224_2-ambika-idly-chilly-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Kolhapuri Thecha",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129704_2-kubal-chutney-kolhapuri-thecha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Date Tamarind Chutney",
+    "sku_type": "280 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224105_2-indi-date-tamarind-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curry Leaves Chutney",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191739_1-geetarth-curry-leaves-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Toofani Garlic, Medium Tez",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005662_4-satyavijay-chutney-toofani-garlic-medium-tez.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Molagapodi Gun Powder",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191746_2-geetarth-gun-powder-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Szechuan Chutney",
+    "sku_type": "80 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291995_1-nilons-szechuan-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gourmet Schezwan Sauce - Versatile Spicy Condiment, For Dips, Spread, Cooking Use",
+    "sku_type": "180 g - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243361_1-keya-gourmet-schezwan-sauce-versatile-spicy-condiment-for-dips-spread-cooking-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Tomato Garlic",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005659_1-satyavijay-chutney-tomato-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Sandwich Chutney",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005660_1-satyavijay-green-sandwich-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Andhra Gun Powder",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103761_2-farmveda-ready-to-eat-andhra-gun-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney Podi",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103763_2-farmveda-chutney-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Chutney",
+    "sku_type": "500 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210152_1-shellys-mango-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "1 Minute Tomato Rice Paste",
+    "sku_type": "300 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042269_1-7770-paste-1-minute-tomato-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lasun/Garlic Chutney - Spicy, No Added Preservatives & Colours",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40256822_1-prakash-lasungarlic-chutney-spicy-no-added-preservatives-colours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gujarati Tamarind Date Twister - Sweet & Sour",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162301_3-spice-story-date-tamarind-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Chutney Powder With Coconut - Enhances Flavour Of Dishes",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40257341_1-pure-sure-organic-chutney-powder-coconut-150gms.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hommade - Rajasthan Ki Garlic Chutney",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196447_2-dabur-hommade-rajasthan-ki-garlic-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amazing Spicy Mint Sauce",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215197_2-spice-story-amazing-spicy-mint-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Samosa Chutney",
+    "sku_type": "280 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224104_2-indi-samosa-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Sauce",
+    "sku_type": "250 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224619_1-zissto-schezwan-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dragon Fire Chutney - Dip, Spread, Cook, Hot",
+    "sku_type": "250 g - Glass Bottle",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301531_2-chings-secret-dragon-fire-chutney-dip-spread-cook-hot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhaniya Pudina Sandwich Chutney",
+    "sku_type": "250 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211335_1-nilons-dhaniya-pudina-sandwich-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Stir Fry Sauce",
+    "sku_type": "200 g - Glass Jar",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216760_1-inchi-schezwan-stir-fry-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Niger Seeds/Gurellu Chutney - Spice Blend, Chemical Free",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269016_1-atharv-home-made-products-niger-seedsgurellu-chutney-spice-blend-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala - Dhansak",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002045_2-judes-masala-dhansak.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Chilli Paste",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300950_6-tasties-schezwan-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dehydrated Beetroot Powder",
+    "sku_type": "200 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341161_1-urban-platter-dehydrated-beetroot-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A1 Kanda Lasun Masala",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459416_1-katdare-food-products-pvl-td-a1-kanda-lasun-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Imli Sauce",
+    "sku_type": "90 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216771_1-indi-imli-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Chutney Powder With Groundnut - Enhances Flavour",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40257339_1-pure-sure-organic-chutney-powder-groundnut-150gms.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Groundnut Chutney Powder - Spice Blend, Chemical Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269017_1-atharv-home-made-products-groundnut-chutney-powder-spice-blend-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banarasi Spicy Mango Chutney - Tangy",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193943_3-spice-story-super-hot-sweet-mango-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Groundnut",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40089394_7-harshaman-chutney-groundnut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Peanut Flax Chutney - Spicy Podi Flavour",
+    "sku_type": "200 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180383_8-jus-amazin-organic-peanut-flax-chutney-spicy-podi-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indori Lemon Chutney - Tangy",
+    "sku_type": "220 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193947_3-spice-story-superlicious-lemon-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Imli Pudina Sauce - Healthy & Tasty, Sweet-tangy Combination",
+    "sku_type": "200 g - Glass Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236713_1-tops-imli-pudina-sauce-healthy-tasty-sweet-tangy-combination.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajasthani Garlic Chutney - Traditional & Delicious Taste",
+    "sku_type": "250 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227022_1-swad-rajasthani-garlic-chutney-traditional-delicious-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "5 Second Mint Chutney - Authentic Recipe",
+    "sku_type": "30 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291736_2-chutnefy-5-second-mint-chutney-authentic-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "5 Second Mushroom & Black Garlic Chutney - Chettinad Style Flavour, Peel & Pour",
+    "sku_type": "30 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297295_2-chutnefy-5-second-mushroom-black-garlic-chutney-chettinad-style-flavour-peel-pour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Andhra Munagaku Podi",
+    "sku_type": "125 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334420_1-npr-andhra-munagaku-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Andhra Pappula Podi",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334416_1-npr-andhra-pappula-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Andhra Garlic Kaaram Podi",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334417_1-npr-andhra-garlic-kaaram-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Niger Seeds Chutney",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459550_1-katdare-food-products-pvl-td-niger-seeds-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Schezwan Chilli Chutney In Olive Oil",
+    "sku_type": "265 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300746_5-adf-soul-chutney-in-olive-oil-schezwan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zaatar Powder From Turkey - Ethnic Lebanese Recipe",
+    "sku_type": "100 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341164_1-urban-platter-zaatar-powder-from-turkey-ethnic-lebanese-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sumac Powder For Marinades & Dressing",
+    "sku_type": "100 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341135_1-urban-platter-sumac-powder-for-marinades-dressing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Chutney",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345713_1-khetika-peanut-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Chutney Instant Mix",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345430_1-yours-freshly-coconut-chutney-instant-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Teekhi Imli Saunth Chutney Dip",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346234_1-tata-sampann-teekhi-imli-saunth-chutney-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gunpowder Podi",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458870_2-yours-freshly-gunpowder-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seed Podi",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458875_2-yours-freshly-flax-seed-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Meethi Imli Khajur Chutney Dip",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346233_1-tata-sampann-meethi-imli-khajur-chutney-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chatpati Dhaniya Pudina Chutney Dip",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346232_1-tata-sampann-chatpati-dhaniya-pudina-chutney-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curry Leaf Podi",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345424_1-yours-freshly-curry-leaf-podi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Flax Seed",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40089396_7-harshaman-chutney-flax-seed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Coconut & Garlic",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40089395_6-harshaman-chutney-coconut-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Podi - Idli Chilli",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088469_1-grand-sweets-podi-idli-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Funfoods Schezwan Sauce",
+    "sku_type": "230 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100151288_8-dr-oetker-funfoods-schezwan-sauce.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Chutney",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345714_1-khetika-coconut-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato Chutney",
+    "sku_type": "120 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345715_1-khetika-tomato-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Chutney In Olive Oil",
+    "sku_type": "275 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300747_5-adf-soul-chutney-in-olive-oil-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Secret Momo Chutney",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342762_1-chings-secret-momo-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soya Milk Powder - Vanilla Flavour",
+    "sku_type": "500 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341157_1-urban-platter-soya-milk-powder-vanilla-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jain Schezwan Sauce - No Onion & Garlic, Pure Vegetarian, For Asian Cooking, Sauce & Dips",
+    "sku_type": "250 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251456_2-white-light-jain-schezwan-sauce-no-onion-garlic-pure-vegetarian-for-asian-cooking-sauce-dips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chunky Schezwan Sauce - Used For Cooking, Enhances Taste",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234037_1-wai-wai-chunky-schezwan-sauce-used-for-cooking-enhances-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dhokar Dalna",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210150_1-shellys-dhokar-dalna.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Onion Tomato Chutney",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305961_1-aasai-fresh-onion-tomato-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Coconut Chutney",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305960_1-aasai-fresh-coconut-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Peanut Chutney",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305962_1-aasai-fresh-peanut-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Chutney - Ready To Eat",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319647_1-ammammas-ginger-chutney-ready-to-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spirulina - Powder",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095579_2-nutriwish-spirulina-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Coconut Chutney",
+    "sku_type": "35 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305966_1-aasai-instant-coconut-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Coriander Chutney - Ready To Eat, Tasty",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232848_1-sankalp-coconut-coriander-chutney-ready-to-eat-tasty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Chutney - Ready To Eat, Tasty",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232847_1-sankalp-coconut-chutney-ready-to-eat-tasty.jpg?tr=w-154,q-80"
+  }
+]

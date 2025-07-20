@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Garlic & Herb Croutons Bites",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212149_1-fresho-signature-garlic-herb-croutons.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Paprika Croutons Bites",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212148_1-fresho-signature-spicy-paprika-croutons.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panko Bread Crumbs - 4mm",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220211_2-chef-solutions-panko-bread-crumbs-4mm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread Crumbs",
+    "sku_type": "1 kg ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40104287_1-nice-n-fresh-bread-crumb.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread Crumbs",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026176_5-puffmaster-bread-crumbs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Crostinis - Crunchy, Healthy Snack",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282507_1-saucery-mini-crostinis-crunchy-healthy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breadcrumbs",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207364_1-sakura-breadcrumbs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread Crumbs",
+    "sku_type": "500 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40082742_2-the-bake-shop-bread-crumbs.jpg?tr=w-154,q-80"
+  }
+]

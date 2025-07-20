@@ -1,0 +1,962 @@
+[
+  {
+    "name": "Hazelnut & Cocoa Spread",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102776_7-nutella-hazelnut-spread-with-cocoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Gulkand - Sun-Cooked Damask Rose, Rich In Antioxidants, Aids Digestion",
+    "sku_type": "300 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189353_2-kapiva-organic-gulkand-rich-in-calcium-and-antioxidants.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Reduced Sugar Jam - Strawberry, With 80% Fruit Content",
+    "sku_type": "250 g - Bottle",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317545_1-darbo-reduced-sugar-jam-strawberry-with-80-fruit-content.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscoff Crunchy Spread",
+    "sku_type": "380 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279440_1-lotus-biscoff-crunchy-spread-suitable-for-vegans.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscoff Spread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40231280_2-lotus-biscoff-spread-suitable-for-vegetarians.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Mixed Fruit",
+    "sku_type": "430 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002179_3-chabaa-jam-mixed-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wild Blueberry - Fruit Spread",
+    "sku_type": "284 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005487_2-st-dalfour-wild-blueberry-fruit-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Three Fruit Marmalade - Delicious, Blend Of Sweet, Sour & Bitter Taste",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119391_5-bhuira-three-fruit-marmalade-delicious-blend-of-sweet-sour-bitter-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Conserve",
+    "sku_type": "330 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40069125_9-happychef-strawberry-conserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raspberry Strawberry Preserve",
+    "sku_type": "230 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40039790_5-the-gourmet-jar-raspberry-strawberry-preserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cinnamon & Apple Jelly - Handmade, No Added Preservatives",
+    "sku_type": "470 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096726_6-bhuira-cinnamon-apple-jelly-handmade-no-added-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Plum Jam - Sweet & Tangy, Rich In Energy & Fibre",
+    "sku_type": null,
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203287_2-bhuira-red-plum-jam-sweet-tangy-rich-in-energy-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry & Blackcurrant Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002262_2-mackays-preserve-blueberry-blackcurrant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Jam - Mixed Berry",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017211_4-chabaa-fruit-jam-mixed-berry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jalapeno Cheese Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010739_4-wingreens-farms-jalapeno-cheese-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Jam - Strawberry",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017208_4-chabaa-fruit-jam-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scottish Strawberry Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004077_1-mackays-preserve-scottish-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Extra Jam - No Sugar Added, Imported",
+    "sku_type": "430 g - Jar",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001126_3-stute-strawberry-extra-jam-no-sugar-added-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fig & Orange Conserve",
+    "sku_type": "330 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107057_7-happychef-fig-orange-conserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Cherry Preserve - Organically Grown, No Preservatives",
+    "sku_type": "470 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096723_6-bhuira-black-cherry-preserve-organically-grown-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chunky Orange Marmalade",
+    "sku_type": "330 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40069127_9-happychef-chunky-orange-marmalade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Classic Strawberry",
+    "sku_type": "240 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110168_5-the-gourmet-jar-jam-classic-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri-Peri Garlic Dip & Spread - Yoghurt Based",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109969_4-wingreens-farms-peri-peri-garlic-dip-spread-yoghurt-based.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bitter Orange Marmalade - Organically Grown, No Preservatives",
+    "sku_type": "470 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096725_4-bhuira-bitter-orange-marmalade-organically-grown-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry Preserve With Kerala Vanilla - Vegan, 70% Fruit, Low Sugar & No Preservatives",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287954_1-native-tongue-strawberry-preserve-with-kerala-vanilla-vegan-70-fruit-low-sugar-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yacon Avocado Spread - Boosts Immunity, No Added Sugar",
+    "sku_type": "275 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286522_1-phamphal-yacon-avocado-spread-boosts-immunity-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plum Jam",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324231_1-pahad-ki-sanjeevni-plum-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Jam",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324230_1-pahad-ki-sanjeevni-apple-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Ambrosia Taste Of Honey - Natural Spanish Saffron",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067624_3-sugarless-bliss-sugar-free-ambrosia-taste-of-honey-natural-spanish-saffron.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Grain Honey Mustard - Dip Sauce, Toast Spread",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287957_1-native-tongue-whole-grain-honey-mustard-dip-sauce-toast-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew Butter",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112347_2-nutty-yogi-cashew-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spread - Olive Tapenade, With Kalamata Olives",
+    "sku_type": "115 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127338_3-the-gourmet-jar-spread-olive-tapenade-with-kalamata-olives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Portuguese Orange Jam - All Natural, No Preservatives, For Spread, Dessert Toppings",
+    "sku_type": "280 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249874_1-voila-portuguese-orange-jam-all-natural-no-preservatives-for-spread-dessert-toppings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Jalapeno Preserve",
+    "sku_type": "230 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40039788_6-the-gourmet-jar-mango-jalapeno-preserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curd - Lime",
+    "sku_type": "340 g - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002252_1-mackays-curd-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marmalade - Fruity Orange",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002254_2-mackays-marmalade-fruity-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eatopia Strawberry Honey Jam",
+    "sku_type": "240 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227157_2-eatopia-eatopia-strawberry-honey-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Grapefruit Marmalade - Rich In Energy, Fibre, No Added Preservatives",
+    "sku_type": "240 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219388_2-bhuira-grapefruit-marmalade-rich-in-energy-fibre-no-added-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Marmalade - With Lime, Used As Bread Spread, For Baking",
+    "sku_type": "270 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119370_4-sprig-ginger-marmalade-with-lime-used-as-bread-spread-for-baking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Berry With Chia Seeds Healthy Fruit Spread - Smooth, 100% Vegan",
+    "sku_type": "200 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264387_2-supreem-super-foods-mixed-berry-with-chia-seeds-healthy-fruit-spread-smooth-100-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spread - Blueberry",
+    "sku_type": "280 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40137154_4-la-vieja-fabrica-spread-blueberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marmalade - Orange, Lemon & Ginger",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002257_2-mackays-marmalade-orange-lemon-ginger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scottish Raspberry Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100308875_1-mackays-preserve-raspberry-scottish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Mango Chilli Jam",
+    "sku_type": "200 G ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162956_3-prasukh-chia-mango-chilli-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Jelly - Sweet Flavour",
+    "sku_type": "250 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287785_1-apollo-mango-jelly-sweet-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fiery Desert Mustard",
+    "sku_type": "180 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109971_5-wingreens-farms-fiery-desert-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spread - Roasted Red Pepper Pesto, With Chironji Seeds",
+    "sku_type": "190 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127340_8-the-gourmet-jar-spread-roasted-red-pepper-pesto-with-chironji-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strawberry - Fruit Spread",
+    "sku_type": "284 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005484_3-st-dalfour-strawberry-fruit-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scottish Blackcurrant Preserve",
+    "sku_type": "340 g - Jar",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/288698_4-mackays-preserve-blackcurrant-scottish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mulberry Preserve From Mahabaleshwar - Vegan, 70% Fruit, Low Sugar & No Preservatives",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287952_1-native-tongue-mulberry-preserve-from-mahabaleshwar-vegan-70-fruit-low-sugar-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rhododendron Chutney",
+    "sku_type": "250 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112328_1-nutty-yogi-rhododendron-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange & Ginger - Fruit Spread",
+    "sku_type": "284 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005488_2-st-dalfour-orange-ginger-fruit-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Preserve - Mixed Fruit",
+    "sku_type": "225 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119339_5-bonne-maman-preserve-mixed-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - PineApple",
+    "sku_type": "430 g - Bottle",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002180_3-chabaa-jam-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blackcurrant Extra Jam - No Sugar Added, Imported",
+    "sku_type": "430 g - Jar",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001125_5-stute-blackcurrant-extra-jam-no-sugar-added-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato Chutney/ Dip - With Antioxidants, Anti-Inflammatory Properties",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203284_2-bhuira-tomato-chutney-dip-with-antioxidants-anti-inflammatory-properties.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Cranberries - Rich In Nutrients",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192040_2-flyberry-classic-cranberries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scottish Strawberry Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002261_2-mackays-preserve-scottish-strawberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Black Currant, Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006691_3-dana-jam-black-currant-preserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Diabetic, Strawberry, Sugar Free",
+    "sku_type": "315 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006702_3-dana-jam-diabetic-strawberry-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scottish Three Berry Preserve - Strawberry, Raspberry, Blackcurrant",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100308874_1-mackays-berry-preserve-strawberry-raspberry-blackcurrant-scottish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thick Apricot - Fruit Spread",
+    "sku_type": "284 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100028023_3-st-dalfour-thick-apricot-fruit-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Diabetic, Raspberry, Danish",
+    "sku_type": "340 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100011069_3-dana-jam-diabetic-raspberry-danish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Butter - Crunchy, Unsweetened - 25.5% Protein, 100% Almonds, No Additives",
+    "sku_type": "500 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222636_5-jus-amazin-almond-butter-crunchy-unsweetened-255-protein-100-almonds-no-additives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Jam - Kala Jamun (Java Plum)",
+    "sku_type": "300 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067626_3-sugarless-bliss-sugar-free-jam-kala-jamun-java-plum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Jam - Orange",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017207_3-chabaa-fruit-jam-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wholegrain Mustard",
+    "sku_type": "170 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110162_3-the-gourmet-jar-wholegrain-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Oil Mango Pickle",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112337_2-nutty-yogi-zero-oil-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fig Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057544_2-mackays-preserve-fig.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Morello Cherry",
+    "sku_type": "430 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002412_3-stute-jam-morello-cherry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Ginger Jam",
+    "sku_type": "200 G - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207166_2-prasukh-mango-ginger-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Jam - Sweet Flavour",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287784_1-apollo-mango-jam-sweet-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Ambrosia Taste Of Honey - Natural Classic Honey Flavour",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067625_2-sugarless-bliss-sugar-free-ambrosia-taste-of-honey-natural-classic-honey-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Cinnamon Jam",
+    "sku_type": "175 g - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207168_1-prasukh-apple-cinnamon-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Preserve - Raspberry",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006697_4-dana-preserve-raspberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Mango Ginger Jam",
+    "sku_type": "200 G ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162955_3-prasukh-chia-mango-ginger-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Strawberry, Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006698_4-dana-jam-strawberry-preserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Mixed Fruit, Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006693_2-dana-jam-mixed-fruit-preserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marmalade - Seville Orange",
+    "sku_type": "340 g - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002253_2-mackays-marmalade-seville-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Scarlet Gulkand",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005578_2-mapro-sweet-scarlet-gulkand.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dana Diabetic Spread Jam - Mixed Fruit 315 gm Jar",
+    "sku_type": "315 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100011073_4-dana-dana-diabetic-spread-jam-mixed-fruit-315-gm-jar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jamun Conserve With No Added Sugar",
+    "sku_type": "330 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107061_5-happychef-jamun-conserve-with-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava Jelly - Handmade, Sweet, Wholesome",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096727_2-bhuira-guava-jelly-handmade-sweet-wholesome.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Butter - All Natural, Vegan",
+    "sku_type": "125 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114472_5-jus-amazin-almond-butter-all-natural-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange Marmalade Jam - Juicy & Fresh, Bread Spread",
+    "sku_type": "300 g - Glass Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255392_1-ganesh-orange-marmalade-jam-juicy-fresh-bread-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Ganhiali Pickle",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112340_2-nutty-yogi-garlic-ganhiali-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Marmelade - A L Orange (Orange Marmalade)",
+    "sku_type": "300 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067629_1-sugarless-bliss-sugar-free-marmelade-a-l-orange-orange-marmalade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Preserve - Wild Blueberry",
+    "sku_type": "370 g - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017213_4-bonne-maman-preserve-wild-blueberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marmalade - Orange",
+    "sku_type": "370 g - Jar",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/281163_4-bonne-maman-marmalade-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Danish Diabetic Jam - Blackcurrant",
+    "sku_type": "315 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100011072_3-dana-danish-diabetic-jam-blackcurrant.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Creamy Herb",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109972_3-wingreens-farms-creamy-herb.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Pineapple Chilli Jam",
+    "sku_type": "200 G - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207157_2-prasukh-chia-pineapple-chilli-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Organic Peanut Butter",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207625_4-jus-amazin-crunchy-organic-peanut-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Fruit Jam - 100% Real, Zero Cholesterol, Delicious, For Breakfast",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255090_1-happy-mixed-fruit-jam-100-real-zero-cholesterol-delicious-for-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Preserve - Apricot",
+    "sku_type": "370 g - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017216_1-bonne-maman-preserve-apricot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jam - Diabetic, Orange, Sugar Free",
+    "sku_type": "315 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006701_7-dana-jam-diabetic-orange-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rhapsodie De Fruit High Fruit Content Spread- Raspberry",
+    "sku_type": "284 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005490_2-st-dalfour-rhapsodie-de-fruit-high-fruit-content-spread-raspberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tropical Conserve",
+    "sku_type": "330 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107059_6-happychef-tropical-conserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Preserve",
+    "sku_type": "340 g - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002263_2-mackays-preserve-ginger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Preserve",
+    "sku_type": "340 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057543_2-mackays-preserve-blueberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marmalade - Fine Cut Orange, No Sugar Added",
+    "sku_type": "430 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218697_1-stute-marmalade-fine-cut-orange-no-sugar-added.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apricot Jam - With Sweet & Fresh Taste, No Added Preservatives",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40096724_6-bhuira-apricot-jam-with-sweet-fresh-taste-no-added-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Butter - Unsweetened",
+    "sku_type": "500 g - Jar",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180379_8-jus-amazin-almond-butter-unsweetened.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jamun Conserve",
+    "sku_type": "330 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40107058_6-happychef-jamun-conserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multifloral Raw Honey",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198166_3-himalayan-natives-multifloral-raw-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Orange - Fruit Spread",
+    "sku_type": "284 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005485_2-st-dalfour-orange-fruit-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marmalade - Three Fruit (Orange, Grapefruit & lemon)",
+    "sku_type": "340 g - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002256_1-mackays-marmalade-three-fruit-orange-grapefruit-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apricot Extra Jam - No Sugar Added, Imported",
+    "sku_type": "430 g - Jar",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295012_6-stute-apricot-extra-jam-no-sugar-added-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Grape Preserve - Sweet & Tangy, Rich In Energy & Fibre",
+    "sku_type": "470 g - Glass Bottle",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203286_2-bhuira-black-grape-preserve-sweet-tangy-rich-in-energy-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Jam - Ananas (Pineapple)",
+    "sku_type": "300 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067627_3-sugarless-bliss-sugar-free-jam-ananas-pineapple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew Butter - Salted Caramel, High Protein, Natural, Vegan",
+    "sku_type": "125 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114470_5-jus-amazin-cashew-butter-salted-caramel-high-protein-natural-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Salted Caramel - Rich & Sticky, Used As A Spread, For Baking",
+    "sku_type": "290 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095627_3-sprig-classic-salted-caramel-rich-sticky-used-as-a-spread-for-baking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spread - Fiery, Sundried, Tomato, With Naga Chilli",
+    "sku_type": "190 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127339_7-the-gourmet-jar-spread-fiery-sundried-tomato-with-naga-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Jam - Melanger Les Fruits (Mix Fruit)",
+    "sku_type": "300 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067628_2-sugarless-bliss-sugar-free-jam-melanger-les-fruits-mix-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Ambrosia Taste Of Honey - Natural Ginger Flavour",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067623_2-sugarless-bliss-sugar-free-ambrosia-taste-of-honey-natural-ginger-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rosemary Hummus Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010731_4-wingreens-farms-rosemary-hummus-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Butter - Dark Chocolate",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189797_1-jus-amazin-almond-butter-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Chutney/Kashmiri Bichhua - Fresh, Tangy Taste",
+    "sku_type": "240 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119392_5-bhuira-mango-chutneykashmiri-bichhua-fresh-tangy-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eatopia Mixed Berry Honey Jam",
+    "sku_type": "240 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227156_2-eatopia-eatopia-mixed-berry-honey-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Hazelnut Spread - With Ragi & Bajra",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334367_1-little-joys-chocolate-hazelnut-spread-with-ragi-bajra.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sour Cream & Onion",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177116_3-appitas-sour-cream-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nolen Gur",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40156681_2-max-health-nolen-gur.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Peanut Butter",
+    "sku_type": "180 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033685_3-wingreens-farms-chocolate-peanut-butter-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lotus Stem Pickle",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112339_5-nutty-yogi-lotus-stem-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Greek goddess - Mint Cucumber Yoghurt Dip & Spread",
+    "sku_type": "150 g - Cup",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177111_2-wingreens-farms-greek-goddess-mint-cucumber-yoghurt-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spreads - Banana Caramel",
+    "sku_type": "250 g - Jar",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183063_3-epigamia-spreads-banana-caramel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spreads - Chocolate Hazelnut, Made from Ghee, Source of Omega 3",
+    "sku_type": "250 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40183061_4-epigamia-spreads-chocolate-hazelnut-made-from-ghee-source-of-omega-3.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Almond Butter - Unsweetened",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207626_4-jus-amazin-crunchy-almond-butter-unsweetened.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Fruit Jam",
+    "sku_type": "700 g - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197184_1-splitz-mixed-fruit-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Caramel Cashew Butter - No Added Sugar",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292134_1-goanfest-caramel-cashew-butter-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Forest Berries Fruit Spread",
+    "sku_type": "450 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317549_2-darbo-forest-berries-fruit-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garden Strawberry Fruit Preserve",
+    "sku_type": "450 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317548_1-darbo-garden-strawberry-fruit-preserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apple Chutney",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324229_1-pahad-ki-sanjeevni-apple-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Apricot Chutney",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324228_1-pahad-ki-sanjeevni-apricot-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bold Blueberries - Boosts Immunity",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259317_1-flyberry-gourmet-bold-blueberries-boosts-immunity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Onion Garlic Jam",
+    "sku_type": "200 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302321_1-nomad-food-project-onion-garlic-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Honey - Infused With Thai Chillies",
+    "sku_type": "200 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302322_1-nomad-food-project-hot-honey-infused-with-thai-chillies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bacon Thecha - Red, Artisanal",
+    "sku_type": "200 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302316_1-nomad-food-project-bacon-thecha-red-artisanal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bimbli Relish Artisanal Goan Chutney - Sweet & Savoury",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292124_1-goanfest-bimbli-relish-artisanal-goan-chutney-sweet-savoury.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Cherry Fruit Spread",
+    "sku_type": "450 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317547_2-darbo-black-cherry-fruit-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bonbons Blister",
+    "sku_type": "17 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057546_1-pez-bonbons-blister.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Avocado Spread - Boosts Immunity",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286521_1-phamphal-avocado-spread-boosts-immunity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Butter - Crunchy, Unsweetened",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237242_2-jus-amazin-peanut-butter-unsweetened-crunchy-rich-in-protein-vitamin-iron-lactose-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guava Chilli With Chia Seeds Healthy Fruit Spread - Smooth, 100% Vegan",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264391_2-supreem-super-foods-guava-chilli-with-chia-seeds-healthy-fruit-spread-smooth-100-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peach Extra Jam - No Sugar Added, Suitable For Diabetics",
+    "sku_type": "430 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002403_2-stute-peach-extra-jam-no-sugar-added-suitable-for-diabetics.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fables Apricot In Wonderland - Apricot & Peach Spread",
+    "sku_type": "340 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344852_2-kissan-fables-apricot-in-wonderland-apricot-peach-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fables Little Red Strawberry & Raspberry Spread",
+    "sku_type": "340 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344850_2-kissan-fables-little-red-strawberry-raspberry-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fables Blueberry & The Beast - Blueberry & Mulberry Spread",
+    "sku_type": "340 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344851_2-kissan-fables-blueberry-the-beast-blueberry-mulberry-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Rum Jam",
+    "sku_type": "230 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40039793_7-the-gourmet-jar-banana-rum-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Morello Cherry Extra Jam - No Sugar Added, Imported",
+    "sku_type": "430 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001781_2-stute-morello-cherry-extra-jam-no-sugar-added-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fig Almond Conserve",
+    "sku_type": "230 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40039786_5-the-gourmet-jar-fig-almond-conserve.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seville Bitter Orangen Marmelade",
+    "sku_type": "450 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317550_1-darbo-seville-bitter-orangen-marmelade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Reduced Sugar Jam - Blueberry, With 80% Fruit Content",
+    "sku_type": "250 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317546_1-darbo-reduced-sugar-jam-blueberry-with-80-fruit-content.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eatopia Mulberry Honey Jam",
+    "sku_type": "240 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227155_2-eatopia-eatopia-mulberry-honey-jam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tandoori Hummus Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109973_2-wingreens-farms-tandoori-hummus-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sonth Chutney",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204329_2-charvik-sonth-chutney.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil Hummus Dip & Spread",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109976_3-wingreens-farms-basil-hummus-dip-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Blueberry Fruit Spread",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315308_1-the-gourmet-jar-blueberry-fruit-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Peanut Butter",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033684_4-wingreens-farms-spicy-peanut-butter-spread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papaya Lemon With Chia Seeds Healthy Fruit Spread - Smooth, 100% Vegan",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264389_2-supreem-super-foods-papaya-lemon-with-chia-seeds-healthy-fruit-spread-smooth-100-vegan.jpg?tr=w-154,q-80"
+  }
+]

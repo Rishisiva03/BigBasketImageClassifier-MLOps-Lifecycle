@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Organic - Toor Dal/Togari Bele",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135858_8-bb-royal-organic-turtoor-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Raw Peanuts/Kadalekayi",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094998_10-bb-royal-organic-raw-peanuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Urad Whole Gota Unpolished",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109381_10-bb-royal-organic-urad-whole-gota-unpolished.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Groundnuts/Peanut",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009413_7-organic-tattva-groundnuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Masoor Black Whole",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135849_8-bb-royal-organic-masoor-black-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Urad Black Whole",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135859_8-bb-royal-organic-urad-black-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Urad Dal/Uddina Bele, White (Split), Unpolished",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135861_12-bb-royal-organic-urad-dal-white-split-unpolished.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Arhar/Tur Dal",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019639_4-organic-tattva-arhar-tur-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Urad - White (Whole)",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000047_6-pro-nature-organic-urad-white-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Green Moong Dal/Dal, Split",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135844_8-bb-royal-organic-green-moong-dal-split.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Yellow Moong Dal/Hesaru Bele",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001056_8-24-mantra-organic-yellow-moong-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Kabuli Chana/Kabuli Kadale",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000032_8-pro-nature-organic-kabuli-channa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Urad Dal/Uddina Bele, Black (Split)",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135860_8-bb-royal-organic-urad-dal-black-split.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Rajma/Capparadavare - Chitra",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002654_4-organic-tattva-organic-rajma-chitra.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Brown /Kala Chana",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30002306_4-organic-tattva-organic-kala-chana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Raw Peanuts/Kadalekayi",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002008_6-pro-nature-organic-raw-peanut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Green Peas/Ona Batani",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077485_4-bb-royal-organic-green-peas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Quinoa - Gluten Free",
+    "sku_type": "500 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40060643_7-nourish-you-organic-white-quinoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Chana Dal/Kadale Bele",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100472768_8-pro-nature-organic-channa-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Moth/Patanga Huruli - Whole",
+    "sku_type": "500 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100576_20-bb-royal-organic-moth-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arhar/Toor Dal Or Yellow Pigeon Peas",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261310_1-natureland-organics-arhartoor-dal-or-yellow-pigeon-peas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nature's Super Foods Organic Moong Dal/Hesaru Bele",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202027_5-aashirvaad-natures-super-foods-organic-moong-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Rajma/Capparadavare",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000037_6-pro-nature-organic-rajma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Red Rajma/Capparadavare",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40098406_9-bb-royal-organic-red-rajma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Moong - Whole/ Sabut",
+    "sku_type": "500 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002664_7-organic-tattva-organic-moong-sabutwhole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut/Kadalekayi",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195228_3-natureland-organics-peanuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Amaranth Seeds/Rajgira - Gluten Free",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112301_3-nutty-yogi-organic-amaranth-seedsrajgira-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pearl Barley",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195214_2-natureland-organics-pearl-barley.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cowpea Black Eye",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195223_2-natureland-organics-cowpea-black-eye.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - White Peas/Bili Batani",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40077486_3-bb-royal-organic-white-peas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rajma/Capparadavare Jammu",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012977_3-turn-organic-rajma-jammu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tur Dal",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012975_1-turn-organic-tur-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic\u00a0Masoor Dal/Mysore Bele",
+    "sku_type": "500 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40156314_10-tata-sampann-organic-masoor-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Split Pigeon Pea Toor Dal - Rich In Protein & Folic Acid",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271166_2-sri-sri-tattva-split-pigeon-pea-toor-dal-rich-in-protein-folic-acid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Urad Dal - Split, White, Highly Nutritious, Boosts Overall Health",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271167_2-sri-sri-tattva-urad-dal-split-white-highly-nutritious-boosts-overall-health.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Masoor - Malka Whole",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196744_1-organic-tattva-organic-masoor-malka-split.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Urad Split - White, Improves Digestion",
+    "sku_type": "500 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236633_1-organic-india-urad-split-white-improves-digestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Yellow Moong Dal",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40304990_2-truefarm-organic-yellow-moong-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kabuli Chana",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311067_1-jivamrit-organic-kabuli-chana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Masoor Dal/Mysore Bele",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20006663_3-terra-greens-organic-masoor-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flaxseed Grains - Whole",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40045341_6-health-1st-flaxseed-grains-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tur Dal",
+    "sku_type": "1 kg - Pouch",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001268_3-terra-greens-tur-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Whole Green Moong Dal",
+    "sku_type": "1 kg ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311522_1-amul-organic-whole-green-moong-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Chilka Hara Moong Dal",
+    "sku_type": "500 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222622_1-praakritik-organic-chilka-hara-moong-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Rajma Chitra",
+    "sku_type": "500 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311525_1-amul-organic-rajma-chitra.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa - Premium, Protein Rich Superfood",
+    "sku_type": null,
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112630_1-nutriwish-quinoa-premium-protein-rich-superfood.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Moong - Green (Split)",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000034_7-pro-nature-organic-moong-green-split.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masoor Whole",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012945_3-turn-organic-masoor-whole.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Split Green Gram Moong Dal - Rich In Protein",
+    "sku_type": "1 kg ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274960_2-sri-sri-tattva-split-green-gram-moong-dal-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Whole Wheat Atta",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311529_1-amul-organic-whole-wheat-atta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moth Unpolished Dal - Rich In Iron, Calcium & Protein",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255818_4-organic-tattva-moth-unpolished-dal-rich-in-iron-calcium-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mix Dal",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40019644_7-organic-tattva-mix-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Lobia/Alasandee Kaalu, White",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40079592_9-bb-royal-organic-lobia-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Cowpea",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181451_4-merakisan-organic-cowpea.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arhar Dal",
+    "sku_type": "500 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311065_1-jivamrit-organic-arhar-dal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Urad - White (Split)",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000046_6-pro-nature-organic-urad-white-split.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Channa Brown - Small",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  }
+]

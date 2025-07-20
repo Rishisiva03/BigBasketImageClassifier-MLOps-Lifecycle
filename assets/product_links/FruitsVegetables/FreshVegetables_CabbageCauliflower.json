@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cauliflower",
+    "sku_type": "1 pc - (approx. 400 to 600 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000074_20-fresho-cauliflower.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cabbage",
+    "sku_type": "1 pc - (approx. 450 to 700 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000066_27-fresho-cabbage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cabbage - Organically Grown (Loose)",
+    "sku_type": "1 pc (approx. 400-700g) ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023473_6-fresho-cabbage-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cauliflower - Organically Grown",
+    "sku_type": "1 pc - (Approx. 400 to 600 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000482_9-fresho-cauliflower-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Knol Khol (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000278_13-fresho-knol-khol.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Cabbage - Small",
+    "sku_type": "1 pc - Approx. 300-600 g",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40138445_1-fresho-red-cabbage-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cut Cauliflower, Washed",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005790_9-fresho-cut-cauliflower-washed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cauliflower - Small",
+    "sku_type": "1 pc - 250 to 400 gm per pc",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160815_4-fresho-cauliflower-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Cabbage - Grated",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005800_6-fresho-green-cabbage-grated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cauliflower - Small",
+    "sku_type": "1 pc - (Approx. 300 - 500 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205742_2-fresho-cauliflower-small.jpg?tr=w-154,q-80"
+  }
+]

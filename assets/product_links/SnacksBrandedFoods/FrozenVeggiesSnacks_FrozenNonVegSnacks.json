@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chicken Nuggets",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/268193_6-yummiez-nuggets-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Pepper & Herb Sausages",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002836_6-yummiez-pepper-herb-chicken-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Breakfast Sausages",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185860_2-yummiez-chicken-breakfast-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Cheese & Onion Sausages",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005412_5-yummiez-chicken-sausages-cheese-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Chilli Ham Breast - Poultry Meat/Chicken 90%, No Soya",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900457834_4-meisterwurst-chicken-chilli-ham-breast-sausages.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken - Tandoori Kabab",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40062477_3-sfp-chicken-tandoori-kabab.jpg?tr=w-154,q-80"
+  }
+]

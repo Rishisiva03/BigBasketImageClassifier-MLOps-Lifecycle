@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Bread - Breakfast slice",
+    "sku_type": "450 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40092247_5-britannia-bread-healthy-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Bread",
+    "sku_type": "400 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001172_10-english-oven-bread-sandwich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Bread",
+    "sku_type": "400 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000005_7-britannia-milk-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich White Bread",
+    "sku_type": "600 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290585_1-britannia-sandwich-white-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread - Premium Sandwich Special",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40051013_9-bonn-bread-sandwich-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Bread - Soft & Nutritious",
+    "sku_type": "700 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40051020_4-bonn-prime-time-white-slice-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Brown Bread - 100% Wheat Flour",
+    "sku_type": "450 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210998_2-moreish-sandwich-brown-bread-100-wheat-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Milk Bread - Nutritious & Healthy Breakfast",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254077_1-visakha-dairy-premium-milk-bread-nutritious-healthy-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Makkhan Malai Bread",
+    "sku_type": "350 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312369_2-dayspring-makkhan-malai-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Plus Bread - With Added Vitamins",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40000565_2-modern-sweet-plus-bread-with-added-vitamins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Bread",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001472_2-britannia-fruit-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Bread",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306797_1-everyday-sandwich-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Bread",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184588_4-ajit-sandwich-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium White Bread - Slice, Traditional",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277222_3-bonn-premium-white-bread-slice-traditional.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sliced Bread - Classic, Long Loaf",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222403_1-moreish-sliced-bread-classic-long-loaf.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread - White Sandwich, Half",
+    "sku_type": "350 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076720_2-kalory-bread-white-sandwich-half.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Bread",
+    "sku_type": "300 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312630_1-danbro-milk-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sliced White Bread - Soft, Metro Kattu",
+    "sku_type": "300 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076722_4-metro-bread-white-sliced-metro-kattu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Sandwich White Bread - Rich in Taste",
+    "sku_type": "400 g ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40082741_3-the-bake-shop-bread-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Bread - Crustless",
+    "sku_type": "300 g ",
+    "rating": "3.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053990_2-aabad-sandwich-bread-crustless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mr. Bready Premium Milk Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302654_1-nandas-mr-bready-premium-milk-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336460_1-harvest-gold-milk-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Continental Sandwich Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251611_1-aabad-continental-sandwich-bread-healthiest-breakfast-for-sandwichestoast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Bread - Soft & Fluffy",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237433_1-nilgiris-sandwich-bread-soft-fluffy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Bread - Soft & Fluffy",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237436_1-nilgiris-sweet-bread-soft-fluffy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312370_1-dayspring-milk-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Bread - Fresh, Fluffy, Sweet",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288796_1-wheat-box-white-bread-fresh-fluffy-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Real Bake - Sliced Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40105374_4-kitty-real-bake-sliced-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandwich Bread - Thick Slice",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088178_2-kitty-sandwich-bread-thick-slice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Artisan White Bread",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303133_1-la-americana-artisan-white-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium White Bread - Rich In Nutrients, Healthy, For Weight Management",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267507_2-mr-bakewell-premium-white-bread-rich-in-nutrients-healthy-for-weight-management.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Bread - Soft & Fluffy",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237434_1-nilgiris-milk-bread-soft-fluffy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit Bread",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306803_1-everyday-fruit-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334343_1-homa-premium-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fun Slice Fruit Bread",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334332_1-homa-fun-slice-fruit-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Shakti Bread",
+    "sku_type": "400 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334333_1-homa-milk-shakti-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread - Fruity",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/193943_2-modern-bread-fruity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread - Sandwich",
+    "sku_type": "400 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000248_3-daily-bread-bread-sandwich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jumbo Bread - Milk",
+    "sku_type": "750 g - 1pcs",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40040766_4-but-er-jumbo-bread-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342670_1-kwality-special-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jumbo Bread - Sandwich",
+    "sku_type": "750 g - 1pcs",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40040767_4-but-er-jumbo-bread-sandwich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342646_4-magic-slice-whole-white-bread-no-added-chemical-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Freshly Baked Milk Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343101_1-brown-baking-company-freshly-baked-milk-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anytime Bread",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342671_1-kwality-anytime-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread Family",
+    "sku_type": "550 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312626_1-danbro-bread-family.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Bread - Makhan Malai Ka Sathi",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290584_1-britannia-white-bread-makhan-malai-ka-sathi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread - White",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038412_1-creme-de-fiesta-bread-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Bread",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195728_2-sweetooth-white-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread Sandwich",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312634_1-danbro-bread-sandwich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Milk Bread - Soft, Rich In Protein & Calcium, Healthy Breakfast",
+    "sku_type": "350 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262649_1-haiku-milk-bread-soft-rich-in-protein-calcium-healthy-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plus White Bread - Crustless, Baked Fresh",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207208_3-bran-o-plus-crustless-white-bread.jpg?tr=w-154,q-80"
+  }
+]

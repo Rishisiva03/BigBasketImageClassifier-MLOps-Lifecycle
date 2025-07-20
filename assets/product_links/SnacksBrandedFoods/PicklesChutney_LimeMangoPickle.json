@@ -1,0 +1,686 @@
+[
+  {
+    "name": "Organic Mango Pickle",
+    "sku_type": "250 g - Made With Mustard Oil",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199934_8-indisecrets-organic-homestyle-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Cut Mango (With Garlic)",
+    "sku_type": "300 g - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005139_1-priya-pickle-cut-mango-with-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango Sliced",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/266018_7-mtr-pickle-mango-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Andhra Mango Thokku",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312430_5-indisecrets-andhra-mango-thokku-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango Thokku With Garlic",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005147_1-priya-pickle-mango-thokku-with-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Lime",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265950_4-mothers-recipe-pickle-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango Tender",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001446_1-mtr-pickle-mango-tender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango Ginger Without Garlic",
+    "sku_type": "300 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/260434_1-priya-pickle-mango-ginger-without-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Lime, South Indian Style",
+    "sku_type": "300 g - Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100003826_3-mothers-recipe-pickle-lime-south-indian-style.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Thokku Pickle",
+    "sku_type": "200 g - (Buy 1 Get 1 Free)",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214406_1-aachi-mango-thokku-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Chilli Pickle",
+    "sku_type": "300 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207943_1-three-mango-red-chilli-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickles - Lime",
+    "sku_type": "100 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067296_1-barn-pickles-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Lemon Pickle - Rich In Vitamin C, Tangy Flavour, Aids In Digestion",
+    "sku_type": "200 g - Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271819_1-shree-siddhivinayak-sweet-lemon-pickle-rich-in-vitamin-c-tangy-flavour-aids-in-digestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Mango Pickle - Tangy & Spicy",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287781_1-apollo-sweet-mango-pickle-tangy-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Oil Mango Pickle",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112337_2-nutty-yogi-zero-oil-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Gujrati Sweet Lemon",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088429_1-delight-foods-pickle-gujrati-sweet-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Mango Pickle - No Onion, No Garlic, Authentic Taste, Flavour",
+    "sku_type": "350 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273049_1-prime-sweet-mango-pickle-no-onion-no-garlic-authentic-taste-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle - No Onion No Garlic, Flavourful, Intense Aroma",
+    "sku_type": "1 kg ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273059_2-prime-mango-pickle-no-onion-no-garlic-flavourful-intense-aroma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Pickle - Authentic, Traditional & Handcrafted",
+    "sku_type": "350 g - Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40247497_1-barosi-lemon-pickle-made-with-spices-handmade-oil-free-improves-appetite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mavadu",
+    "sku_type": "500 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40007789_2-mambalam-iyers-mavadu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Madras Mango Thokku",
+    "sku_type": "300 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003721_2-7770-pickle-madras-mango-thokku.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle",
+    "sku_type": "200 g - PET Jar",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40194123_1-spice-secrets-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cut Mango Pickle - Made With Gingelly Oil, Sweet, Tangy, Spicy, No Preservatives",
+    "sku_type": "100 g - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251552_1-mambalam-iyers-cut-mango-pickle-made-with-gingelly-oil-sweet-tangy-spicy-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aamsatter Mishti Achar/Mango Leather Aam Papad Sweet Pickle",
+    "sku_type": "250 g - Jar",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235016_1-menu-maker-aamsatter-mishti-acharmango-leather-aam-papad-sweet-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cut Mango Pickle",
+    "sku_type": "200 g - (Buy 1 Get 1 Free)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214404_1-aachi-cut-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shredded Sweet Mango Choondo Pickle",
+    "sku_type": "500 g - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213011_2-mothers-recipe-shredded-sweet-mango-choondo-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Pickle",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169714_4-kitchen-treasures-lime-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tender Mango Pickle",
+    "sku_type": "500 g - Jar",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169792_1-kanchana-tender-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango",
+    "sku_type": "1 kg ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101093_7-sohna-pickle-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Sweet Lime",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124951_2-swad-pickle-sweet-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Lemon",
+    "sku_type": "1 kg ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101096_6-sohna-pickle-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Methya Mango With Fenugreek",
+    "sku_type": "250 g - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113898_3-homepick-pickle-methya-mango-fenugreek.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000356_6-pravin-pickle-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Sweet Lime",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000367_1-pravin-pickle-sweet-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadu Mango",
+    "sku_type": "300 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042267_3-777-vadu-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Sweet Lemon",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010173_1-k-pra-pickle-sweet-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Andhra Avakkai",
+    "sku_type": "300 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003717_3-7770-pickle-andhra-avakkai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076178_4-shellys-pickle-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango Ginger",
+    "sku_type": "300 g - Bottle",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40028949_2-ruchi-pickle-mango-ginger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cut Mango Pickle",
+    "sku_type": "300 g - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40028944_4-ruchi-magic-cut-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40175004_4-suvidhi-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Sweet Lime",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129709_4-kubal-pickle-sweet-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Uttar Pradesh Sweet Lime Pickle",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312436_4-indisecrets-uttar-pradesh-sweet-lime-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Lime Pickle - Rich In Aroma & Taste",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000159_1-tops-pickle-tangy-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gongura Pickle",
+    "sku_type": "300 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207944_1-three-mango-gongura-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Pickle - Made With Gingelly Oil, Tangy & Spicy",
+    "sku_type": "100 g - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251555_1-mambalam-iyers-lime-pickle-made-with-gingelly-oil-tangy-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Pickle - Premium",
+    "sku_type": "325 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130513_1-suruchi-pickle-lemon-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Thokku Pickle - Made With Gingelly Oil, Homemade, Tangy & Spicy",
+    "sku_type": "100 g - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251553_1-mambalam-iyers-mango-thokku-pickle-made-with-gingelly-oil-homemade-tangy-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle - Avakaya, With Garlic",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186926_1-three-mango-mango-pickle-avakaya-with-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Avakkai Pickle",
+    "sku_type": "200 g - (Buy 1 Get 1 Free)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214405_1-aachi-mango-avakkai-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Pickle - With Garlic",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186927_1-three-mango-lime-pickle-with-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Pickle",
+    "sku_type": "300 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40207942_1-three-mango-mixed-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Sweet Lime Dates Pickle",
+    "sku_type": "400 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314833_1-double-horse-hot-sweet-lime-dates-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Lemon",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40066562_1-shree-siddhivinayak-pickle-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chutney - Mango Sweet",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076193_2-shellys-chutney-mango-sweet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango Kasundi",
+    "sku_type": "400 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103829_3-ganesh-pickle-mango-kasundi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Spicy Lemon",
+    "sku_type": "250 g - Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113903_5-homepick-pickle-spicy-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aam Ka Achar",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147702_2-graminway-aam-ka-achar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Thokku Pickle - Homemade, Tangy Spicy",
+    "sku_type": "60 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251550_1-mambalam-iyers-mango-thokku-pickle-homemade-tangy-spicy-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Chilli Lime Pickle",
+    "sku_type": "200 g - PET Jar",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40194124_1-spice-secrets-green-chilli-lime-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kasundi - Mango",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076183_1-shellys-kashundi-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Grandma Mango Pickle",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112335_1-nutty-yogi-grandma-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Gol Keri With Jaggery & Mango",
+    "sku_type": "250 g - Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113890_5-homepick-pickle-gol-keri-jaggery-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40074006_3-dnv-pickle-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Lime Chilli",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100003973_7-mothers-recipe-pickle-lime-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle In Olive Oil",
+    "sku_type": "265 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300739_4-adf-soul-olive-oil-pickle-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Pickle",
+    "sku_type": "200 g - Bottle",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211882_1-dnv-lemon-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103830_1-ganesh-pickle-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango Thokku",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038441_3-jais-pickle-mango-thokku.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Lime",
+    "sku_type": "300 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129715_1-kubal-pickle-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Lime",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000365_3-pravin-pickle-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Andhra Avakaya",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100003796_5-mothers-recipe-pickle-andhra-avakaya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hommade Khatta Lime Pickle",
+    "sku_type": "400 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40202785_3-dabur-hommade-lime-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hand Made Mango Pickle In Mustard Oil",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250626_2-add-me-handmade-mango-pickle-in-mustard-oil-tangy-traditional-achar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle - Without Garlic",
+    "sku_type": "300 g - Glass Bottle",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189442_2-telugu-foods-mango-pickle-without-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Cut Mango",
+    "sku_type": "300 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003719_2-7770-pickle-cut-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "My Dadi's Mango Pickle - Handmade",
+    "sku_type": "250 g - Jar",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225794_2-molo-my-dadis-mango-pickle-handmade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Lime Pickle",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40175021_4-suvidhi-sweet-lime-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle - Tangy & Spicy",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287779_1-apollo-mango-pickle-tangy-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Sun-Dried Mango Pickle - Lowers Risk Of Heart Disease",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270218_1-qualinut-gourmet-natural-sun-dried-mango-pickle-lowers-risk-of-heart-disease.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assal Marathi Mango Pickle",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324859_1-nilons-assal-marathi-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle - Swee  Tangy & Spicy, No Preservatives",
+    "sku_type": "60 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251549_1-mambalam-iyers-mango-pickle-sweet-tangy-spicy-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Avakkai Mango Pickle",
+    "sku_type": "200 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197605_2-kanchana-avakkai-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Pickle - Fresh, Tangy & Spicy, No Preservatives",
+    "sku_type": "60 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251548_1-mambalam-iyers-lime-pickle-fresh-tangy-spicy-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sliced Mango Pickle",
+    "sku_type": "200 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322865_1-brahmins-sliced-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aam Kasundi",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135833_2-max-health-aam-kasundi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Mango",
+    "sku_type": "200 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40013299_1-melam-pickle-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Pickle In Virgin Mustard Oil",
+    "sku_type": "200 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303525_1-nainaas-lemon-pickle-in-virgin-mustard-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aam Nimbu Mirchi Achar In Olive Oil",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215919_2-add-me-aam-nimbu-mirchi-achar-in-olive-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Pickle - Mix Of Aromatic Spices, Traditional, Delicious",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255089_1-happy-lime-pickle-mix-of-aromatic-spices-traditional-delicious.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Mango Pickle in Very Less Mustard Oil Glass Jar",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215900_4-add-me-dry-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Heeng Lemon Pickle - Oil Free",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215898_1-add-me-heeng-lemon-pickle-oil-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle",
+    "sku_type": "1 kg - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211883_1-dnv-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marwari Ambiya/Mango Achar - Pure Mustard Oil Used",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218391_1-delight-foods-marwari-ambiyamango-achar-pure-mustard-oil-used.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Pickle",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314832_1-double-horse-lime-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Maharashtra Mango",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100003933_5-mothers-recipe-pickle-maharashtra-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Pickle In Olive Oil",
+    "sku_type": "275 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300741_5-adf-soul-olive-oil-pickle-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Olive Oil - Mango Pickle",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017099_5-organica-olive-oil-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Simply South Mango Pickle",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324861_2-nilons-simply-south-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Pickle",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328745_1-swad-mixed-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "MP Special Mango Pickle",
+    "sku_type": "500 g - Pet Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346291_1-nilons-mp-special-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Delhi Darbar Mango Pickle",
+    "sku_type": "500 g - Pet Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346293_1-nilons-delhi-darbar-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rangilo Rajasthan Mango Pickle",
+    "sku_type": "500 g - Pet Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346299_1-nilons-rangilo-rajasthan-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Johar Jharkhand Mango Pickle",
+    "sku_type": "500 g - Pet Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346295_1-nilons-johar-jharkhand-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aapan Bihar Mango Pickle",
+    "sku_type": "500 g - Pet Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346297_1-nilons-aapan-bihar-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sher-E- Punjab Mango Pickle",
+    "sku_type": "500 g - Pet Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346301_1-nilons-sher-e-punjab-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle",
+    "sku_type": "50 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328744_1-swad-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Uttam Pradesh Mango Pickle",
+    "sku_type": "500 g - Pet Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346289_1-nilons-uttam-pradesh-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Organic Mango, Pure Mustard Oil & Spices",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40115809_2-organic-nation-pickle-organic-mango-pure-mustard-oil-spices.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tamil Nadu Kalyana Mango Pickle",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312431_5-indisecrets-karnataka-kalyana-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Mango Pickle",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40175024_4-suvidhi-sweet-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot Hydrabadi Mango Pickle",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40215902_1-add-me-hot-hydrabadi-mango-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Pickle",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131374_2-annapurna-pickle-mango.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thokku - Mango",
+    "sku_type": "500 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40007791_2-mambalam-iyers-thokku-mango.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Natural Mineral Water",
+    "sku_type": "1 L - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/253557_10-himalayan-natural-mineral-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vedica Natural Mountain Water",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40013621_7-bisleri-natural-mountain-water-vedica.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Mineral Water",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40061437_7-himalayan-natural-mineral-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smartwater",
+    "sku_type": "750 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119858_3-glaceau-smartwater.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Still Water",
+    "sku_type": "500 ml - Glass Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178059_6-catch-still-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Mineral Water",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100182914_5-qua-natural-mineral-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Mineral Water",
+    "sku_type": "1 L - Bottle",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40008346_7-qua-natural-mineral-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sparkling Water",
+    "sku_type": "750 ml - Glass Bottle",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40104659_7-himalayan-sparkling-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Mineral Water",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123134_7-himalayan-natural-mineral-water.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Mineral Water",
+    "sku_type": "1 L ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/230337_6-qua-natural-mineral-water.jpg?tr=w-154,q-80"
+  }
+]

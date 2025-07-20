@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Wheat Lachha Paratha",
+    "sku_type": "400 g - (5 pcs)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40011534_10-id-fresho-whole-wheat-parotaparatha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Chapati",
+    "sku_type": "350 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003296_10-id-wheat-chapati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malabar Parota - No Added Preservatives",
+    "sku_type": "400 g - (5 pcs)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003294_16-id-fresho-malabar-parotaparatha.jpg?tr=w-154,q-80"
+  }
+]

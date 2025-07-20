@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Spiced Buttermilk",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/180584_8-amul-masti-buttermilk-spice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farm Fresh Curd/Dahi - Premium, No Preservatives",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1200180_4-milky-mist-curd-farm-fresh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Plain Butter Milk",
+    "sku_type": "200 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311264_3-akshayakalpa-organic-plain-butter-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lassi - Sweet, Contains Added Cardamom Powder/Extracts",
+    "sku_type": "190 ml - Cup",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003805_2-heritage-total-sweet-lassi-bring-home-health-happiness.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Probiotic Tadka Chach",
+    "sku_type": "270 ml - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195339_6-mother-dairy-tadka-chach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Buttermilk - Spiced",
+    "sku_type": "200 ml - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/258324_8-nandini-butter-milk-spiced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Buttermilk/Chaas Polypack",
+    "sku_type": "440 ml - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147628_4-amul-buttermilkchaas-polypack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A-One Spiced Buttermilk",
+    "sku_type": "500 ml - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298719_1-heritage-a-one-buttermilk-spiced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dahi Handi",
+    "sku_type": "180 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299853_1-vijay-dairy-dahi-handi.jpg?tr=w-154,q-80"
+  }
+]

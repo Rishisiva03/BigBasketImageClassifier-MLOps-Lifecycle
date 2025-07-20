@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Flask - Hot Cold Thermosteel Flip, Silver",
+    "sku_type": "1 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130308_8-milton-flask-hot-cold-thermosteel-flip-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jolly 475 Stainless Steel Insulated Water Bottle - Purple",
+    "sku_type": "390 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296247_1-milton-jolly-stainless-steel-insulated-water-bottle-hot-cold-one-touch-button-lid-purple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hydra Trek Hot & Cold Stainless Steel Flask/Bottle - Vacuum Insulated, Black",
+    "sku_type": "700 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240348_3-borosil-stainless-steel-hydra-trek-flask-water-bottle-vacuum-insulated-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puro Steel-X Benz 900 Insulated Bottle - With Stainless Steel Inner, Black",
+    "sku_type": "730 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297351_1-cello-puro-steel-x-benz-insulated-bottle-with-stainless-steel-inner-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fountain Plastic Insulated Water Jug - Leak Proof, Durable, BPA Free, Blue",
+    "sku_type": "10 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297363_1-cello-fountain-plastic-insulated-water-jug-leak-proof-durable-bpa-free-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Cold Thermosteel Flask - Rustproof, Black",
+    "sku_type": "500 ml - (1 pc)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240363_1-borosil-thermo-stainless-steel-flask-double-wall-vacuum-insulated-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arctic Stainless Steel Vacuum Insulated Flask - Double Walled, 12 Hours Hot & Cold, Silver",
+    "sku_type": "750 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188979_7-bb-home-arctic-steel-insulated-vacuum-flask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kool Trendy Plastic Insulated Water Bottle With Straw - For Kids, Cherry Pink",
+    "sku_type": "370 ml - (1 pc)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296262_1-milton-kool-trendy-plastic-insulated-water-bottle-with-straw-for-kids-cherry-pink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kool Trendy Plastic Insulated Water Bottle With Straw - For Kids, Orange",
+    "sku_type": "370 ml - (1 pc)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296263_1-milton-kool-trendy-plastic-insulated-water-bottle-with-straw-for-kids-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kool Trendy Plastic Insulated Water Bottle With Straw - For Kids, Purple",
+    "sku_type": "370 ml - (1 pc)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296264_1-milton-kool-trendy-plastic-insulated-water-bottle-with-straw-for-kids-purple.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gosports Hot & Cold Stainless Steel Flask/Bottle - Rustproof, Black",
+    "sku_type": "600 ml - (1 pc)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240389_1-borosil-stainless-steel-hydra-gosports-flaskwater-bottle-vacuum-insulated-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tea & Coffee Travel Mug, Stainless Steel, Vacuum Insulated, Hydra Travelmate",
+    "sku_type": "350 ml - (1 pc)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240399_1-borosil-hydra-travelmate-stainless-steel-travel-mug-vacuum-insulated-spill-proof-for-hot-cold-drinks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hydra Trek Hot & Cold Stainless Steel Flask/Bottle - Vacuum Insulated, Black",
+    "sku_type": "850 ml - (1 pc)",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240350_1-borosil-stainless-steel-hydra-trek-flask-water-bottle-insulated-double-wall-vacuum-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aqua Therminox Vacuum Flask Copper Insulated Double Walled Bottle For Hot & Cold-Water - Steel",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301454_1-pigeon-aqua-therminox-vacuum-flask-copper-insulated-double-walled-bottle-for-hot-cold-water-steel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spice Double Wall Stainless Steel Bottle - Copper, Vacuum Insulation Technology",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271459_1-nouvetta-spice-double-wall-stainless-steel-bottle-copper-vacuum-insulation-technology.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puro Steel-X Benz 900 Insulated Bottle - With Stainless Steel Inner, Blue",
+    "sku_type": "730 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297350_1-cello-puro-steel-x-benz-insulated-bottle-with-stainless-steel-inner-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Elfin 750 Thermosteel Water Bottle - 24 Hrs Hot & Cold, Leakproof, Silver",
+    "sku_type": "750 ml - (1 pc)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236606_1-milton-elfin-750-thermosteel-water-bottle-24-hrs-hot-cold-leakproof-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Cold Stainless Steel Tea Pot - Rustproof, Red",
+    "sku_type": "1.5 l - (1 pc)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240372_2-borosil-stainless-steel-teapot-flask-keeps-tea-coffee-hot-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Teapot - Vacuum Insulated, Silver, FLKT75SSB12",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130676_5-borosil-stainless-steel-teapot-vacuum-insulated-silver-flkt75ssb12.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Water Bottle - Thermosteel, 24 Hour Hot & Cold, Silver, Duo Deluxe",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130312_5-milton-water-bottle-thermosteel-24-hour-hot-cold-silver-duo-deluxe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Water Flask - Insulated Thermosteel, Silver, Elfin",
+    "sku_type": "750 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130306_5-milton-water-flask-insulated-thermosteel-silver-elfin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arctic Stainless Steel Vacuum Insulated Flask - Double Walled, 12 Hours Hot & Cold, Silver",
+    "sku_type": "500 ml - (1 pc)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188978_7-bb-home-arctic-steel-insulated-vacuum-flask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pacific Stainless Steel Vacuum Insulated Flask - Double Walled, 12 Hours Hot & Cold, Silver",
+    "sku_type": "500 ml - (1 pc)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188981_7-bb-home-pacific-steel-insulated-vacuum-flask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pacific Stainless Steel Vacuum Insulated Flask - Double Walled, 12 Hours Hot & Cold, Silver",
+    "sku_type": "750 ml - (1 pc)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188982_7-bb-home-pacific-steel-insulated-vacuum-flask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jolly 475 Stainless Steel Insulated Water Bottle - Green",
+    "sku_type": "390 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296249_1-milton-jolly-stainless-steel-insulated-water-bottle-hot-cold-one-touch-button-lid-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pacific Stainless Steel Vacuum Insulated Flask - Double Walled, 12 Hours Hot & Cold, Silver",
+    "sku_type": "1 L - (1 pc)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188983_7-bb-home-pacific-steel-insulated-vacuum-flask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Cold Stainless Steel Tea Pot - Rustproof, Black",
+    "sku_type": "1 L - (1 pc)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240371_2-borosil-stainless-steel-teapot-flask-used-for-hot-cold-beverages-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arctic Stainless Steel Vacuum Insulated Flask - Double Walled, 12 Hours Hot & Cold, Silver",
+    "sku_type": "1 L - (1 pc)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188980_7-bb-home-arctic-steel-insulated-vacuum-flask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hydra Coffeemate Hot & Cold Stainless Steel Travel Mug - Vacuum Insulated, Green",
+    "sku_type": "300 ml - (1 pc)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240353_1-borosil-hydra-coffeemate-stainless-steel-travel-mug-vacuum-insulated-spill-proof-hot-cold-drinks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carafe - Thermosteel, Insulated, Hot & Cold, Silver",
+    "sku_type": "1 L ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40025241_8-milton-carafe-thermosteel-insulated-hot-cold-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vacbott Everest Stainless Steel Insulated Bottle Flask - Hot/Cold, Green",
+    "sku_type": "700 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335217_2-clay-craft-vacbott-stainless-steel-insulated-24-hours-hot-or-cold-bottle-flaskeverest700ml-green-bis-certified.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vacbott Aspen Stainless Steel Insulated Bottle Flask - Hot/Cold, Natural",
+    "sku_type": "900 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335216_5-clay-craft-vacbott-stainless-steel-insulated-24-hours-hot-or-cold-bottle-flaskaspen900ml-natural-bis-certified.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Water Jug, Insulated, Blue, Kool Seal",
+    "sku_type": "6 l - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236595_1-milton-insulated-water-jug-kool-seal-7-easy-flow-button-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Glitz 1000 Vacuum Insulated Thermosteel Bottle - Leak Proof, Silver",
+    "sku_type": "950 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230576_1-milton-glitz-1000-vacuum-insulated-thermosteel-bottle-leak-proof-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hydra Trek Hot & Cold Stainless Steel Flask/Bottle - Vacuum Insulated, Green",
+    "sku_type": "700 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240351_1-borosil-hydra-trek-stainless-steel-flaskwater-bottle-double-wall-vacuum-insulated-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oxford Stainless Steel Double Walled PU Insulated Bottle - Blue",
+    "sku_type": "800 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224567_1-polyset-oxford-stainless-steel-double-walled-pu-insulated-bottle-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scott Stainless Steel Double Walled PU Insulated Bottle - Blue",
+    "sku_type": "800 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224564_1-polyset-scott-stainless-steel-double-walled-pu-insulated-bottle-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hydra Trek Hot & Cold Stainless Steel Flask/Bottle - Vacuum Insulated, Black",
+    "sku_type": "500 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240349_1-borosil-hydra-trek-stainless-steel-bottle-insulated-double-wall-vacuum-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Cold Thermosteel Flask - Rustproof, Black",
+    "sku_type": "750 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240365_1-borosil-thermo-stainless-steel-flask-leak-proof-airtight-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oxford Stainless Steel Double Walled PU Insulated Bottle - Red",
+    "sku_type": "800 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224568_1-polyset-oxford-stainless-steel-double-walled-pu-insulated-bottle-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sport Stainless Steel Double Walled Vacuum Insulated Bottle - Black",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224552_1-polyset-sport-stainless-steel-double-walled-vacuum-insulated-bottle-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Water Flask - Insulated Thermosteel, Flip Lid , Silver",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130309_7-milton-water-flask-insulated-thermosteel-flip-lid-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flask - Pink, Steel",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120770_1-nirlon-flask-pink-steel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Flask",
+    "sku_type": "400 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119101_3-dp-stainless-steel-flask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stark 900 Thermosteel Hot & Cold Water Bottle - Durable, Leak Proof, Rose Gold",
+    "sku_type": "790 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230607_1-milton-stark-900-thermosteel-hot-cold-water-bottle-durable-leak-proof-rose-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aqua Therminox Olive Vacuum Flask Copper Insulated Double Walled Bottle For Hot & Cold-Water - Green",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301452_1-pigeon-aqua-therminox-olive-vacuum-flask-copper-insulated-double-walled-bottle-for-hot-cold-water-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kup Easy Stainless Steel Vacuum Flask - Blue",
+    "sku_type": "350 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288813_3-modware-kup-easy-stainless-steel-vacuum-flask-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kup Easy Stainless Steel Vacuum Flask - Mahroon",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288816_3-modware-kup-easy-stainless-steel-vacuum-flask-mahroon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kup Easy Stainless Steel Vacuum Flask  - Blue",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288815_3-modware-kup-easy-stainless-steel-vacuum-flask-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kup Easy Stainless Steel Vacuum Flask - Mahroon",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288814_3-modware-kup-easy-stainless-steel-vacuum-flask-mahroon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smarty PU Insulated Bottle - Yellow, Inner Steel Outer Plastic",
+    "sku_type": "800 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298396_1-polyset-smarty-pu-insulated-bottle-yellow-inner-steel-outer-plastic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Refresh Vaccum Mug - Steel, Red",
+    "sku_type": "350 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292042_1-nouvetta-refresh-vaccum-mug-steel-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Refresh Vaccum Mug - Steel, Blue",
+    "sku_type": "350 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292043_1-nouvetta-refresh-vaccum-mug-steel-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kool King Stainless Steel Vacuum Insulation Bottle - Silver",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288807_1-modware-kool-king-stainless-steel-vacuum-insulation-bottle-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tea Pot - Stainless Steel, Vacuum Insulated, Red",
+    "sku_type": "1 L - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240373_2-borosil-stainless-steel-teapot-vacuum-insulated-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Carafe - Thermosteel, Insulated, Hot & Cold, Silver",
+    "sku_type": "600 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40025244_6-milton-carafe-thermosteel-insulated-hot-cold-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vacuum Tea Coffee Pot",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033353_2-bergner-vacuum-tea-coffee-pot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thermosteel With Plain Lid",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40025248_4-milton-flask-thermosteel-flip-lid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Belly Shaped Vacuum Flask BB-476",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142005_2-bb-home-stainless-steel-belly-shaped-vacuum-flask-bb-476.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Proyc Vaccum Insulated Stainless Steel Bottle",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037239_3-big-plastics-proyc-vaccum-insulated-stainless-steel-bottle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jet Double Wall Stainless Steel Bottle - Copper Colour, Vacuum Insulation Technology",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271461_1-nouvetta-jet-double-wall-stainless-steel-bottle-copper-colour-vacuum-insulation-technology.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tea Pot - Stainless Steel, Vacuum Insulated, Black",
+    "sku_type": "500 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240374_2-borosil-stainless-steel-teapot-vacuum-insulated-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flask With Handle - Stainless Steel, Vacuum Insulated, Hydra Bolt",
+    "sku_type": "1.8 l - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240376_1-borosil-stainless-steel-hydra-bolt-flaskwater-bottle-with-handle-vacuum-insulated.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Everest Stainless Steel Double Walled Flask/Bottle - Hot & Cold",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310965_1-femora-everest-stainless-steel-double-walled-flaskbottle-hot-cold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bullet Thermosteel Stainless Steel Water Bottle/Flask - Hot & Cold",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310962_1-femora-bullet-thermosteel-stainless-steel-water-bottleflask-hot-cold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kup Easy Stainless Steel Vacuum Flask - Mahroon",
+    "sku_type": "350 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288812_3-modware-kup-easy-stainless-steel-vacuum-flask-mahroon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spice Double Wall Stainless Steel Bottle - Copper, Vacuum Insulation Technology",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271458_1-nouvetta-spice-double-wall-stainless-steel-bottle-copper-vacuum-insulation-technology.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tea/Coffee Mug - Stricker, White, Vacuum Insulated, Strong Handle",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302376_1-nouvetta-teacoffee-mug-stricker-white-vacuum-insulated-strong-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kool Active Plastic Insulated Water Bottle With Straw - For Kids, Green",
+    "sku_type": "570 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296256_1-milton-kool-active-plastic-insulated-water-bottle-with-straw-for-kids-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flask - Stainless Steel, Vacuum Insulated, Military Green, Trek",
+    "sku_type": "700 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40289896_1-borosil-trek-insulated-stainless-steel-hot-cold-water-bottle-leak-proof-military-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Travelease Hot & Cold Stainless Steel Flask/Bottle - Rustproof, Brown",
+    "sku_type": "420 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240388_1-borosil-stainless-steel-hydra-travelease-flaskwater-bottle-vacuum-insulated-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Glitz Vacuum Insulated Thermosteel Bottle - Leak Proof, Rose Gold",
+    "sku_type": "950 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230579_1-milton-glitz-vacuum-insulated-thermosteel-bottle-leak-proof-rose-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bottle - Glassy Vacuum Flask, Pink",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236621_2-milton-glassy-vacuum-flask-leak-proof-break-resistant-beige.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Water Bottle - Elate 1000, Silver",
+    "sku_type": "880 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236584_1-milton-stainless-steel-water-bottle-elate-1000-silver.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tea/Coffee Mug - Stricker, Steel, Vacuum Insulated, Strong Handle",
+    "sku_type": "450 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302377_1-nouvetta-teacoffee-mug-stricker-steel-vacuum-insulated-strong-handle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kool Active Plastic Insulated Water Bottle With Straw - For Kids, Blue",
+    "sku_type": "570 ml - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296255_1-milton-kool-active-plastic-insulated-water-bottle-with-straw-for-kids-blue.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puro Steel-X Benz 900 Insulated Bottle - With Stainless Steel Inner, Pink",
+    "sku_type": "730 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297353_1-cello-puro-steel-x-benz-insulated-bottle-with-stainless-steel-inner-pink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fountain Plastic Insulated Water Jug - Leak Proof, Durable, BPA Free, Orange",
+    "sku_type": "10 l ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297364_1-cello-fountain-plastic-insulated-water-jug-leak-proof-durable-bpa-free-orange.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puro Steel-X Benz 900 Insulated Bottle - With Stainless Steel Inner, White",
+    "sku_type": "730 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297349_1-cello-puro-steel-x-benz-insulated-bottle-with-stainless-steel-inner-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fountain Plastic Insulated Water Jug - Leak Proof, Durable, BPA Free, Maroon",
+    "sku_type": "10 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297362_1-cello-fountain-plastic-insulated-water-jug-leak-proof-durable-bpa-free-maroon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Refresh Vaccum Mug - Steel, Grey",
+    "sku_type": "350 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292044_1-nouvetta-refresh-vaccum-mug-steel-grey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jolly 475 Stainless Steel Insulated Water Bottle - Ivory",
+    "sku_type": "390 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296246_1-milton-jolly-stainless-steel-insulated-water-bottle-hot-cold-one-touch-button-lid-ivory.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puro Steel-X Benz 900 Insulated Bottle - With Stainless Steel Inner, Red",
+    "sku_type": "730 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297352_1-cello-puro-steel-x-benz-insulated-bottle-with-stainless-steel-inner-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fountain Plastic Insulated Water Jug - Leak Proof, Durable, BPA Free, Beige",
+    "sku_type": "10 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297360_1-cello-fountain-plastic-insulated-water-jug-leak-proof-durable-bpa-free-beige.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Water Flask - Insulated Thermosteel, Silver, Elfin",
+    "sku_type": "500 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130303_5-milton-water-flask-insulated-thermosteel-silver-elfin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jolly 475 Stainless Steel Insulated Water Bottle - Pink",
+    "sku_type": "390 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296248_1-milton-jolly-stainless-steel-insulated-water-bottle-hot-cold-one-touch-button-lid-pink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flask Hot Cold Steel Thermo Bullet - Elsa",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226175_2-princeware-flask-hot-cold-steel-thermo-bullet-elsa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ellivia Insulated Water Bottle - Plastic, Orange, For Kids, Durable, Leak-proof",
+    "sku_type": "550 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297380_1-princeware-ellivia-insulated-water-bottle-plastic-orange-for-kids-durable-leak-proof.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vacuum Coffee Pot",
+    "sku_type": "700 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40033343_2-bergner-vacuum-coffee-pot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flask - Thermosteel Flip Lid",
+    "sku_type": "500 ml - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40025246_4-milton-flask-thermosteel-flip-lid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flask - Stainless Steel, Vacuum Insulated, Lifestyle",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083491_8-cello-lifestyle-stainless-steel-flask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hot & Cold Thermosteel Flask - With Thermal Cover, Blue",
+    "sku_type": "1 L - (1 pc)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240367_1-borosil-thermo-flip-type-stainless-steel-flask-bpa-free-leak-proof-blue.jpg?tr=w-154,q-80"
+  }
+]

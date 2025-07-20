@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Soft Baguette - Preservative Free",
+    "sku_type": "250 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037464_4-fresho-soft-baguette-chemical-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baguette Bread - Multigrain",
+    "sku_type": "300 g ",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037468_6-fresho-signature-baguette-bread-multigrain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baguette - 100% Wholewheat Sourdough",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169937_2-the-bakers-dozen-baguette-100-wholewheat-sourdough.jpg?tr=w-154,q-80"
+  }
+]

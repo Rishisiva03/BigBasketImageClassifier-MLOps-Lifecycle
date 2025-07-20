@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Californian Almond - Giri",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40021405_12-bb-popular-almondbadam-californian-giri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond/Badam - Californian, Giri",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294832_1-super-saver-almondbadam-californian-giri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "California Almonds",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232836_8-tata-sampann-100-pure-california-almonds-flavourful-deluxe-size.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium California Almonds",
+    "sku_type": "30 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300823_1-sao-foods-premium-california-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "PREMIUM CALIFORNIA ALMONDS BADAM 100 gm",
+    "sku_type": "100 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40237059_2-mai-premium-california-almonds-extra-crunchy-nutrient-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Maxx Nuts Almond",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316088_1-nutrela-maxx-nuts-almond.jpg?tr=w-154,q-80"
+  }
+]

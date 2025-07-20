@@ -1,0 +1,848 @@
+[
+  {
+    "name": "No.3 Hair Perfector",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325487_1-olaplex-no-3-hair-perfector.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "No.6 Bond Smoother",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325490_1-olaplex-no-6-bond-smoother.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "No.8 Bond Intense Moisture Mask",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325493_1-olaplex-no8-bond-intense-moisture-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Men Hair Cream Anti-Hairfall",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40120496_1-parachute-advansed-men-hair-cream-anti-hairfall.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bhringaraj Hair Care Powder - Pure Herb",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40015646_5-banjaras-bhringaraj-hair-care-powder-pure-herb.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Onion Black Seed Oil Hair Mask - Helps Restores Natural Strength, Shine",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264256_4-wow-skin-science-wow-skin-science-red-onion-black-seed-oil-hair-mask-with-red-onion-seed-oil-extract-and-black-seed-oil-200ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fusion Intense Repair Hair Mask",
+    "sku_type": "150 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324928_1-wella-professionals-fusion-intense-repair-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tea Tree Dandruff Fighting Scalp Serum - Fragrance Free, Antibacterial Properties",
+    "sku_type": "110 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242521_1-plum-tea-tree-dandruff-fighting-scalp-serum-fragrance-free-antibacterial-properties.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Care Kit - Stronger, Shinier & Healthier Hair",
+    "sku_type": "4 pcs ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160773_1-dr-batras-hair-care-kit-oil-shampoo-conditioner-serum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Patua & AHA BHA Scalp Scrub - Deep Cleanse, For Healthy Scalp",
+    "sku_type": "100 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294804_1-pilgrim-patua-aha-bha-scalp-scrub-deep-cleanse-for-healthy-scalp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Deeply Nourishing Hair Mask",
+    "sku_type": "175 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208227_1-biotique-banana-deeply-nourishing-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Powder - Neem",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122887_2-tiera-powder-neem.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Honey Moisture Mask - For Dry & Damaged Hair",
+    "sku_type": "200 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40134367_5-godrej-professional-honey-moisture-mask-for-dry-damaged-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Taft Phyto-Keratin Hairspray - Hold 4",
+    "sku_type": "250 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40150787_3-schwarzkopf-taft-keratin-hair-spray-ultra-strong-4.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem Leaf Organic Powder - For Oil Control & Deep Cleanseing",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264057_3-khadi-natural-khadi-natural-neem-leaf-organic-powder-100gm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Argan Oil Hair Mask",
+    "sku_type": "175 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208226_1-biotique-argan-oil-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mojocare Hair Growth Serum with 2% Actives - 30ml | Topical serum for Hair & Beard Growth",
+    "sku_type": "30 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241661_3-mojocare-advanced-hair-growth-serum-promotes-density.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Mask - With Aloe Veera, Fenugreek & Bhringaraj",
+    "sku_type": "120 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211580_1-meera-hair-mask-with-aloe-veera-fenugreek-bhringaraj.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Methi Hair Care Powder - Pure Herb",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40015632_2-banjaras-methi-hair-care-powder-pure-herb.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Serum - With Argan Oil",
+    "sku_type": "50 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093531_4-beardo-hair-serum-with-argan-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hyaluron Moisture 72H Hydra Filling Night Cream - Leave In Hair Cream, For Dehydrated Hair",
+    "sku_type": "180 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272714_5-loreal-paris-hyaluron-moisture-72h-hydra-filling-night-cream-leave-in-hair-cream-for-dehydrated-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Hair Fall Cream",
+    "sku_type": "100 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40007311_6-himalaya-anti-hair-fall-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla Hair Care Powder - Pure Herb",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002997_6-banjaras-amla-hair-care-powder-pure-herb.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Mask With Tea Tree & Lemon Oil - Dandruff Control & Itch Treatment",
+    "sku_type": "200 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192865_2-mamaearth-hair-mask-with-tea-tree-lemon-oil-dandruff-control-itch-treatment.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rita Seed Less",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40150739_2-koti-rita-seed-less.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Hair Cream",
+    "sku_type": "100 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100014728_10-himalaya-protein-hair-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Musk Root Fresh Growth Repair & Regeneration Nourishing Hair Pack",
+    "sku_type": "230 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100013075_16-biotique-bio-musk-root-fresh-growth-nourishing-treatment-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shikakai Hair Care Powder - Pure Herb",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003001_5-banjaras-shikakai-hair-care-powder-pure-herb.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil Reflections Luminous Reboost Hair Mask",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324947_1-wella-professionals-oil-reflections-luminous-reboost-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mulethi Organic Powder - Anti-Dandruff",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264051_3-khadi-natural-khadi-natural-mulethi-organic-powder-100gm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nourishment Hair Mask - Rice Water & Chia Seed, For Hair Growth, No Parabens",
+    "sku_type": "200 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296570_1-buds-berries-nourishment-hair-mask-rice-water-chia-seed-for-hair-growth-no-parabens.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Hair Fall Hair Mask - Onion & Ginseng, Promotes Hair Growth, No Parabens",
+    "sku_type": "200 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296572_1-buds-berries-anti-hair-fall-hair-mask-onion-ginseng-promotes-hair-growth-no-parabens.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Powder - Natural Dye, Indigo Leaf, Colouring & Shining",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282305_1-atulya-organic-powder-natural-dye-indigo-leaf-colouring-shining.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Hair Cream - Nourishes Scalp",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40171527_5-khadi-natural-herbal-protein-hair-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Reeta Powder - Soap Nuts, Finest From The Forest",
+    "sku_type": "250 g - Jar",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292484_1-natures-trunk-reeta-powder-soap-nuts-finest-from-the-forest.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strengthening Amla Hair Mask",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149804_5-inatur-amla-hair-repair-hot-oil-treatment.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Dandruff Gel - Hibiscus & Aloe Vera, Nourishes Hair & Scalp",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038974_4-green-leaf-anti-dandruff-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scalp Massager Advanced With Soft Premium Silicone For Deep Cleansing, Circulation",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341401_1-beardo-scalp-massager-advanced-with-soft-premium-silicone-for-deep-cleansing-circulation.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "System Professional LuxeOil Keratin Restore Mask",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324896_1-wella-professionals-system-professional-luxeoil-keratin-restore-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bringadi Intensive Hair Treatment Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324352_1-kama-ayurveda-bringadi-intensive-hair-treatment-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Invigo Color Brilliance Hair Mask - Fine/Normal",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324936_1-wella-professionals-invigo-color-brilliance-hair-mask-finenormal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indigo Powder - Natural Hair Colour Dye",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248801_1-neha-herbals-indigo-powder-natural-hair-colour-dye.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Triphaladi Choornam - Ayurvedic Hair Pack, Nourishes Scalp, Minimizes Frizz",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235700_2-nirakle-triphaladi-choornam-ayurvedic-hair-pack-nourishes-scalp-minimizes-frizz.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Onion & Fenugreek Hair Mask - Powered Botanics, Anti-Dandruff",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264075_2-khadi-natural-khadi-natural-onion-fenugreek-hair-mask-powered-botanics-200gm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla & Bhringraj Hair Mask - Anti-Hair Fall, SLS & Paraben Free, Powered Botanics",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264071_2-khadi-natural-khadi-natural-amla-bhringraj-hair-mask-powered-botanics-200gm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Naked & Raw Latte Coffee Hair Mask With Coconut Milk & Shea Butter - Repairs Damage",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243293_1-mcaffeine-naked-raw-latte-coffee-hair-mask-repairs-damage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Hair Tonik - Revives Hair Growth",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226443_2-vcare-premium-hair-tonik-revives-hair-growth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Keratin Hair Cream",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204461_1-trichup-keratin-hair-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Hair Mask",
+    "sku_type": "240 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319365_1-the-body-shop-banana-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bhringraj Hair Nourish Mask - For Intense Moisture Lock & Damaged Repair",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296562_1-kapiva-bhringraj-hair-nourish-mask-for-intense-moisture-lock-damaged-repair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "System Professional Balance Scalp Mask",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324887_1-wella-professionals-system-professional-balance-scalp-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ultra Shea Hair Mask - Anti Dandruff, Unclog Follicles, Promotes Growth",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282354_1-atulya-ultra-shea-hair-mask-anti-dandruff-unclog-follicles-promotes-growth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Co-Earth Bhringamla Hair Mask - For Smooth & Shiny Hair",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282433_1-colorbar-co-earth-bhringamla-hair-mask-for-smooth-shiny-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gliss Hair Repair Colour Protect & Shine Anti-Fading Mask",
+    "sku_type": "300 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40158721_2-schwarzkopf-gliss-hair-repair-colour-protect-shine-anti-fading-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Hair Loss Cream",
+    "sku_type": "50 ml - Carton",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40013515_2-himalaya-anti-hair-loss-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deep Conditioning Masque",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141594_2-kaya-clinic-deep-conditioning-masque.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Henna Based Hair Color - Burgandy Red",
+    "sku_type": "15 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/14720_1-nisha-natural-brown-hair-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plum Hair Mask - With Neem Oil, Anti Dandruff, Promotes Growth",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282353_1-atulya-plum-hair-mask-with-neem-oil-anti-dandruff-promotes-growth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Powder - Reetha, Cleansing & Conditioning, Removes Excess Scalp Oil",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282260_1-atulya-organic-powder-reetha-cleansing-conditioning-removes-excess-scalp-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla Bhringraj Hair Mask - With Black Seed Oil, Deeply Conditions, Improves Texture",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282274_1-atulya-amla-bhringraj-hair-mask-with-black-seed-oil-deeply-conditions-improves-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Onion Bhringraj Hair Mask - With Almond Oil, Restoring & Revitalising",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282278_1-atulya-onion-bhringraj-hair-mask-with-almond-oil-restoring-revitalising.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem & Sage Hair Mask - With Lemon Peel, Moisturising & Anti-dandruff",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282282_1-atulya-neem-sage-hair-mask-with-lemon-peel-moisturising-anti-dandruff.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Madagascar Vanilla Hair Mask - With Lavender Oil, Recovers Strength, Repairs Strands",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282351_1-atulya-madagascar-vanilla-hair-mask-with-lavender-oil-recovers-strength-repairs-strands.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "10 In 1 Deep Repair Treatment Mask - For Damaged Hair",
+    "sku_type": "300 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322116_2-dove-10-in-1-deep-repair-treatment-mask-for-damaged-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Racheeli Mehandi",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306354_2-manav-herbal-racheeli-mehandi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shikakai Powder",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306356_2-manav-herbal-shikakai-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "System Professional LuxeOil Reconstructive Elixir",
+    "sku_type": "30 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324898_1-wella-professionals-system-professional-luxeoil-reconstructive-elixir.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Avocado & Argan Curl Boosting Creme - Plant Keratin Hair Cream, Paraben Free",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291474_1-plum-avocado-argan-curl-boosting-creme-plant-keratin-hair-cream-paraben-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dandruff Control Mask - For Itchy, Flaky Scalp",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290870_1-brillare-dandruff-control-mask-for-itchy-flaky-scalp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Heavy Moisturising Mask - For Dry, Frizzy Hair",
+    "sku_type": "125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40290868_1-brillare-heavy-moisturising-mask-for-dry-frizzy-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Onion Hair Mask - With Black Seed & Jaborandi, For Hair Fall Control",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307038_1-khadi-essentials-red-onion-hair-mask-black-seed-jaborandi-for-hair-fall-control.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fenugreek Hair Mask - With Bhringraj & Frankincense, For Hair Growth",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307037_1-khadi-essentials-fenugreek-hair-mask-bhringraj-frankincense-for-hair-growth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Keshvardhak Kesh Nikhar Herbal Powder",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306353_2-shri-manav-herbal-keshvardhak-kesh-nikhar-herbal-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Co-Earth Argan Hair Mask - For Healthy Growth & Hydration",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282427_1-colorbar-co-earth-argan-hair-mask-for-healthy-growth-hydration.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hibiscus & Black Seed Hair Mask - With Argan Oil , Thickens & Protects, Repairs",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282290_1-atulya-hibiscus-black-seed-hair-mask-with-argan-oil-thickens-protects-repairs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dandruff Control Hair Mask - With Neem & Methi, Soothes Itchy Scalp",
+    "sku_type": "160 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287278_1-coco-soul-dandruff-control-hair-mask-with-100-cold-pressed-virgin-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Argan Mask",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40138123_1-hairmac-argan-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Styling Cream - Original Nourishing",
+    "sku_type": "125 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40108183_1-brylcreem-styling-cream-original-nourishing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Taft Ultimate Hairspray - Hold 5+",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095048_4-schwarzkopf-taft-ultimate-hair-lacquer-ultimately-strong-6.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fenugreek Seed Organic Powder - Anti-Bacterial",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264054_3-khadi-natural-khadi-natural-fenugreek-seed-organic-powder-100gm.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toni & Guy Colour Amplify Hair Mask Sunset Blonde, Gives Colour Boost & Shine, 200ml",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294472_2-toniguy-toni-guy-colour-amplify-hair-mask-sunset-blonde-gives-colour-boost-shine-200ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Building Fibres - Full Hair Instantly, Black",
+    "sku_type": "27.5 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226987_1-toppik-hair-building-fibres-full-hair-instantly-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vitariche Care Smooth & Shine Masque - With Hydrolyzed Silk Protein, For Normal To Frizzy Hair",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40263211_1-streax-professional-streax-professional-vitariche-care-smooth-shine-masque-200-g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Natural Bhringraj Leaves Powder - Vegan, No Chemicals, Prevents Hair-Fall",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264677_1-two-a-bud-100-natural-bhringraj-leaves-powder-vegan-no-chemicals-prevents-hair-fall.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bio Organic Pure Mulethi Root Powder For Hair & Skin Care",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301878_1-indus-valley-bio-organic-pure-mulethi-root-powder-for-hair-skin-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bio Organic Fenugreek Methi Seed Powder For Hair Care",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301884_1-indus-valley-bio-organic-fenugreek-methi-seed-powder-for-hair-care.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Mask - With Amla, For Long, Strong & Black Hair",
+    "sku_type": "160 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287279_1-coco-soul-hair-mask-for-long-strong-black-texture-with-100-cold-pressed-virgin-coconut-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fructis - Nourishing Banana Hair Food, For Normal To Dry Hair, Nourish & Controls Frizz",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255742_1-garnier-fructis-nourishing-banana-hair-food-for-normal-to-dry-hair-nourish-controls-frizz.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curl Cult Deep Conditioning Hair Mask - Ayurvedic, For Moisturised Curls",
+    "sku_type": "160 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287280_3-coco-soul-curl-cult-deep-conditioning-hair-mask-for-soft-healthy-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Hair Fall Serum - With Tea Tree, Argan, Almond & Aloevera",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241659_2-mojocare-anti-hair-fall-serum-with-tea-tree-jojoba-for-healthy-scalp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Organic Reetha Fruit Powder For Hair & Scalp Treatment",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40301891_1-indus-valley-100-organic-reetha-fruit-powder-for-hair-scalp-treatment.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginseng Fall Rescue Scalp Serum - Makes Hair Healthy",
+    "sku_type": "110 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242472_1-plum-ginseng-fall-rescue-scalp-serum-makes-hair-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Co-Earth Rice Water Hair Spray - For Damage Repair & Shine",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282448_1-colorbar-co-earth-rice-water-hair-spray-for-damage-repair-shine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Co-Earth Rice Water Hair Mask - For Damage Repair & Smoothening",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282451_1-colorbar-co-earth-rice-water-hair-mask-for-damage-repair-smoothening.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Naked & Raw Cappuccino Coffee Hair Mask - Reduces Frizz, Provides Shine",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243299_1-mcaffeine-naked-raw-cappuccino-coffee-hair-mask-reduces-frizz-provides-shine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Naked & Raw Coffee Hair Mask - With Protein Trio",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303327_1-mcaffeine-naked-raw-coffee-hair-mask-with-protein-trio.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Fall Control Hair Mask - With Bhringraj, Gentle On Scalp",
+    "sku_type": "160 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287277_2-coco-soul-hairfall-control-mask-with-virgin-coconut-oil-supports-growth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Valley Rose Hair Mask - With Shikakai, Provides Bounc Movement, Combats Breakage",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282355_1-atulya-valley-rose-hair-mask-with-shikakai-provides-bounc-movement-combats-breakage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal Protection Liquid Handwash",
+    "sku_type": "750 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40248802_1-neha-herbals-herbal-protection-liquid-handwash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Woman Hair Spa - 3X Protection Against Dryness, Frizz & Pollution",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234330_1-inflame-woman-hair-spa-3x-protection-against-dryness-frizz-pollution.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spray Applicator - Special Tool For Even Application Of Hair Fibres",
+    "sku_type": "23 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226992_1-toppik-spray-applicator-special-tool-for-even-application-of-hair-fibres.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hairline Optimizer Tool With Uneven Bristles",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226993_1-toppik-hairline-optimizer-tool-with-uneven-bristles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Colour Protectant Hair Mask - Pistachio & Argan Oil, Repairs & Protects Hair",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296571_1-buds-berries-colour-protectant-hair-mask-pistachio-argan-oil-repairs-protects-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Invigo Senso Calm Sensitive Hair Mask",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324933_1-wella-professionals-invigo-senso-calm-sensitive-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Bliss - Indian Brahmi (Bacopa Monnieri) Herbal Hair & Skin Care Powder, 120gm (12 Sachet of 10gm each), 100% Natural",
+    "sku_type": "120 ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296989_2-pride-of-india-hair-bliss-indian-brahmi-bacopa-monnieri-herbal-hair-skin-care-powder-120gm-12-sachet-of-10gm-each-100-natural.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Treatment Conditioning Mask - Reduces Hair Fall, Repairs Damage & Strengthens Hair",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291138_2-natural-vibes-hair-treatment-conditioning-mask-reduces-hair-fall-repairs-damage-strengthens-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla Bhringraj Herbal Hair Cleanser",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40306308_2-khadi-india-amla-bhringraj-herbal-hair-cleanser.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Anti Frizz Hair Mask - For Dry & Frizzy Texture",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296420_1-bare-anatomy-expert-anti-frizz-hair-mask-for-dry-frizzy-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Ultra Smoothing Hair Mask - For Dry & Coarse Texture",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296421_1-bare-anatomy-expert-ultra-smoothing-hair-mask-for-dry-coarse-texture.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Color Protect Hair Mask - Protects & Smoothens",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296422_1-bare-anatomy-expert-color-protect-hair-mask-protects-smoothens.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Heat Protection Spray - For 24 Hour Frizz Control & Damage Repair",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296430_1-bare-anatomy-expert-heat-protection-spray-for-24-hour-frizz-control-damage-repair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Cleansing Scalp Scrub - Provides Up To 99% Dandruff Reduction, For Women & Men",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296429_1-bare-anatomy-expert-cleansing-scalp-scrub-provides-up-to-99-dandruff-reduction-for-women-men.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scalp Massager With Removable Holder",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341398_1-beardo-scalp-massager-with-removable-holder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Silk Press Professional Pre-Wash Treatment Ampoules - With 20 Amino Peptides",
+    "sku_type": "15 ml - (Pack of 4)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335748_2-tresemme-silk-press-professional-pre-wash-treatment-ampoules-with-20-amino-peptides.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tea Tree Shampoo - For Lice & Nits",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339768_1-botanical-luxuriate-tea-tree-shampoo-for-lice-nits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Intense Hydrating Hair Mask",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40340687_1-curl-up-intense-hydrating-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Elements Renewing Hair Mask",
+    "sku_type": "30 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336063_1-wella-professionals-elements-renewing-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Keracare Smooth Renew Mask For Dry & Frizz Hair",
+    "sku_type": "200 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458013_1-godrej-professional-keracare-smooth-renew-mask-for-dry-frizz-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Keracare Keratin Repair Mask For Chemically Treated Hair - Enriched With Grapeseed Oil & Wheat Protein",
+    "sku_type": "200 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458014_1-godrej-professional-keracare-keratin-repair-mask-for-chemically-treated-hair-enriched-with-grapeseed-oil-wheat-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Keratin Smooth Hair Mask With Argan Oil",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324378_1-tresemme-keratin-smooth-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moroccan Argan Oil Hair Mask - Brahmi Extract, Protects, Smoothens, Revitalise Damage",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282315_1-atulya-moroccan-argan-oil-hair-mask-brahmi-extract-protects-smoothens-revitalise-damage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Dandruff Lotion - Reduces Itching, Provides Shiny Hair",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262400_1-sri-sri-tattva-anti-dandruff-lotion-reduces-itching-provides-shiny-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Scalp Serum",
+    "sku_type": "50 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319369_2-the-body-shop-ginger-scalp-serum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "System Professional Color Save Mask",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324891_1-wella-professionals-system-professional-color-save-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Patua & Keratin Strengthening Hair Mask - For Dry & Frizzy Hair",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294801_1-pilgrim-patua-keratin-strengthening-hair-mask-for-dry-frizzy-hair.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Anti-Hair Fall Mask - For Strong, Smooth & Deep Conditioning",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296424_1-bare-anatomy-expert-anti-hair-fall-mask-for-strong-smooth-deep-conditioning.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Damage Repair Hair Mask - For Smoothing & Deep Conditioning",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296419_1-bare-anatomy-expert-damage-repair-hair-mask-for-smoothing-deep-conditioning.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Silk Press Sculpting Hair Mask",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335747_3-tresemme-silk-press-professional-sculpting-hair-mask-with-20-amino-peptides.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shield Professional Hair Mask",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319719_1-wildly-pure-shield-professional-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Hairfall Hair Mask With Rosemary, Ginseng & Biotin",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345871_1-naturali-anti-hairfall-hair-mask-with-rosemary-ginseng-biotin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti-Dandruff Hair Mask With Hemp, Sage & Salicylic Acid",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345872_1-naturali-anti-dandruff-hair-mask-with-hemp-sage-salicylic-acid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Serum Shine Hair Masque With Shea Butter",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345520_1-streax-serum-shine-hair-masque-with-shea-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bonacure Treatment - Color Freeze",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40052200_2-schwarzkopf-professional-bonacure-treatment-color-freeze.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bonacure Cell Perfector - Repair Rescue Treatment Masque",
+    "sku_type": "200 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113251_2-schwarzkopf-professional-bonacure-cell-perfector-repair-rescue-treatment-masque.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Hair Gel - For Studio Styling",
+    "sku_type": "150 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40175697_4-arata-zero-chemicals-natural-hair-gel-for-studio-styling.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hair Growth Lotion - Retarding Formula",
+    "sku_type": "120 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40175848_1-uproot-hair-growth-lotion-retarding-formula.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anti Dandruff Lotion - With Tea Tree Oil, Salicylic Acid & Zinc Pyrithione",
+    "sku_type": "60 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241654_4-mojocare-anti-dandruff-lotion-advanced-hair-care-therapy-promotes-healthy-scalp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloevera Gel",
+    "sku_type": "200 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009727_1-jainson-aloevera-gel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fusion Intense Repair Hair Mask",
+    "sku_type": "30 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40336061_1-wella-professionals-fusion-intense-repair-hair-mask.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "System Professional Color Save Shampoo",
+    "sku_type": "250 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324892_1-wella-professionals-system-professional-color-save-shampoo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Oil Brilliantly Nourishing Pre-Shampoo Hair Oil",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319367_3-the-body-shop-coconut-oil-brilliantly-nourishing-pre-shampoo-hair-oil.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Fresh & Firm Organic Tofu/ Soy Paneer",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010463_12-murginns-organic-tofu-soy-paneer.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant-Based Almond Beverage - Unsweetened",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1209231_6-so-good-almond-milk-natural-unsweetened.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant-Based Almond Beverage - Vanilla",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1209223_6-so-good-almond-milk-vanilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natura Rice & Walnut Drink, Vegan",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122473_4-borges-natura-rice-walnut-drink-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "16 g Protein Drink - Chocolate, Rich Taste",
+    "sku_type": "200 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296806_2-alt-co-13-g-protein-drink-chocolate-rich-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Milk - Rich, Creamy, Dairy Free, For Cooking & Baking",
+    "sku_type": "400 ml - Tin",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295655_1-coco-mama-coconut-milk-rich-creamy-dairy-free-for-cooking-baking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Cream - Thick, Creamy, Dairy Free, For Cooking & Baking",
+    "sku_type": "400 ml - Tin",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295654_1-coco-mama-coconut-cream-thick-creamy-dairy-free-for-cooking-baking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Punchy Pepper Cashew Butter",
+    "sku_type": "125 g - Jar",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126895_4-jus-amazin-cashew-butter-punchy-pepper-high-protein-natural-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Coated Ice Cream Bar - Chocolate & Coconut, Vegan, No Added Sugar",
+    "sku_type": "4 pcs - 55 ml",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221119_1-the-brooklyn-creamery-chocolate-coated-ice-cream-bar-chocolate-coconut-vegan-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Milk - Rich, Creamy, Dairy Free, For Cooking & Baking",
+    "sku_type": "400 ml - Tin",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295653_1-coco-mama-coconut-milk-rich-creamy-dairy-free-for-cooking-baking.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "45% Dark Chocolate - Rich In Taste",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296802_1-alt-co-45-dark-chocolate-rich-in-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew Oats Mylk -\u00a0Plant Based, No Sugar",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232370_3-goodmylk-mylk-plant-based-lactose-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Activ Plant Based Buttery Spread - Garlic & Herbs",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329162_2-nutralite-activ-plant-based-buttery-spread-garlic-herbs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Curd - 100% Plant-Based, Vegan, No Preservatives",
+    "sku_type": "1 kg ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40173122_6-goodmylk-peanut-curd.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spicy Peri Peri Tempeh Cubes - Clean, Lean Protein, Makes Rolls & Salads",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238813_5-hello-tempayy-spicy-peri-peri-soyabean-tempeh-cubes-rich-in-fibre-iron-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant Based Coconut Blend with Jaggery",
+    "sku_type": "90 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197481_3-epigamia-plant-based-coconut-blend-with-jaggery.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cocoa Almond Milk - Lactose Free, Dairy Free & Vegan",
+    "sku_type": "200 ml ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40136799_3-raw-pressery-cocoa-almond-milk-lactose-free-dairy-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soyabean Tempeh Cubes - Natural, Pack Of 3",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215135_2-hello-tempayy-soyabean-tempeh-cubes-natural-pack-of-3.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tofu Supreme - Regular",
+    "sku_type": "200 g ",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103758_2-soyfit-tofu-supreme-regular.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soyabean Tempeh Cubes - Simply Sriracha, Pack Of 2",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215137_2-hello-tempayy-soyabean-tempeh-cubes-simply-sriracha-pack-of-2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "OatWow Oat Beverage - Barista Edition",
+    "sku_type": "1 L - (Barista Grade)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341154_1-urban-platter-oatwow-oat-beverage-barista-edition.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mylk Plant-Based",
+    "sku_type": "1 L - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238298_3-goodmylk-cashew-oat-milk-plant-based-vegan-gluten-free-no-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Milk - Mango, Lactose free, Dairy-Free, Vegan",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178289_2-raw-pressery-almond-milk-mango-lactose-free-dairy-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natura Rice & Hazelnut Drink, Vegan",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40174839_4-borges-natura-rice-hazelnut-drink-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Milk - Dates, Dairy-Free, Lactose Free, Vegan",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178288_3-raw-pressery-almond-milk-dates-dairy-free-lactose-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Almond Milk -  Lactose Free, Dairy-Free, Vegan",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178287_6-raw-pressery-mango-almond-milk-lactose-free-dairy-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vozzarella - Plant Based Mozzarella Cheese, Vegan, Gluten Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272392_1-1ness-vozzarella-plant-based-mozzarella-cheese-vegan-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant Based Cheddar",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286223_2-plantaway-plant-based-cheddar-for-pasta-dairy-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Bites - Coffee Chocolate, Vegan, Zero Added Sugar",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295845_1-noto-mini-bites-coffee-chocolate-vegan-zero-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Bites - Dark Chocolate, Vegan, Zero Added Sugar",
+    "sku_type": "180 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295846_1-noto-mini-bites-dark-chocolate-vegan-zero-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Oat Beverage",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312341_1-epigamia-classic-oat-beverage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soy Drink - Plant Based, Dairy Free",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296800_1-alt-co-soy-drink-plant-based-dairy-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond & Cranberry Chocolate - Rich In Taste",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296803_1-alt-co-almond-cranberry-chocolate-rich-in-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tofu Supreme - Chilli",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103759_2-soyfit-tofu-supreme-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tofu Supreme - Garlic Pepper",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103760_2-soyfit-tofu-supreme-garlic-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power Soya Unsweetened Drink",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324711_2-sofit-power-soya-unsweetened-drink.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tofu - Soya Paneer, Rich in Calcium",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40092904_2-sana-tofu-soya-paneer-rich-in-calcium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soy Milk - Protein +, Cafe Latte",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125910_1-so-good-soy-milk-protein-cafe-latte.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veganeer - Plant Based Cottage Cheese Alternative, Vegan, Dairy Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272390_1-1ness-veganeer-plant-based-cottage-cheese-alternative-vegan-dairy-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant-Based Coconut Beverage - Unsweetened",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40239334_1-so-good-plant-based-coconut-beverage-unsweetened-calcium-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Flavoured Coconut Milk",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333576_2-hands-banana-flavoured-coconut-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Flavoured Coconut Milk",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333575_2-hands-mango-flavoured-coconut-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Flavoured Coconut Yogurt",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333578_2-hands-banana-flavoured-coconut-yogurt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutter - Plant Based Butter Alternative, Vegan, Dairy & Gluten Free",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272391_1-1ness-nutter-plant-based-butter-alternative-vegan-dairy-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soyabean Tempeh Cubes - Peppery Szechuan Chilli, Pack Of 2",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215138_2-hello-tempayy-soyabean-tempeh-cubes-peppery-szechuan-chilli-pack-of-2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant Based Buttery Spread",
+    "sku_type": "200 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238300_4-goodmylk-butter-plant-based-healthy-rich-in-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Therapy Dessert",
+    "sku_type": "450 ml - Tub",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212505_3-the-brooklyn-creamery-vegan-chocolate-therapy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Flavoured Coconut Yogurt",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40333577_2-hands-mango-flavoured-coconut-yogurt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Parmesan Cheese - Plant-Based, Vegan",
+    "sku_type": "100 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238302_2-goodmylk-cashew-based-parmesan-cheese-rich-in-nutrients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kombucha Natural Drink - With Raspberry, Chamomile, Vegan, Gluten Free",
+    "sku_type": "330 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219730_2-healthy-gut-kombucha-natural-drink-with-raspberry-chamomile-vegan-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paneer - Plant-Based, 100% Vegan, No Preservatives",
+    "sku_type": "250 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238301_2-goodmylk-paneer-plant-based-100-vegan-lactose-free-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant-Based Cashew Beverage - Unsweetened",
+    "sku_type": "1 L - Tetra Pak",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222843_1-so-good-cashew-beverage-unsweetened-plant-based.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Thousand Island Dip - With No Trans Fat",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219733_2-grabenord-vegan-thousand-island-dip-with-no-trans-fat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Plant Based Ultimate Tea Coffee Whitener",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279172_1-ultx-ultimate-tea-coffee-whitener-100-plant-based.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Ghee - Plant Based, Aromatic, No Cholesterol",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264916_2-one-good-ghee-pure-plant-based-aromatic-no-cholesterol-for-healthy-heart.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plant Based Plain Mayonnaise - Zero Trans Fat, Dairy Free",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286219_1-plantaway-plant-based-plain-mayonnaise-zero-trans-fat-dairy-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kombucha Natural Drink - With Lemongrass, Ginger, Vegan, Gluten Free",
+    "sku_type": "330 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219728_2-healthy-gut-kombucha-natural-drink-with-lemongrass-ginger-vegan-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Patty - Plant-Based, Vegan, Juicy, Non-GMO, Cholesterol Free",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264915_1-one-good-patty-plant-based-vegan-juicy-non-gmo-cholesterol-free.jpg?tr=w-154,q-80"
+  }
+]

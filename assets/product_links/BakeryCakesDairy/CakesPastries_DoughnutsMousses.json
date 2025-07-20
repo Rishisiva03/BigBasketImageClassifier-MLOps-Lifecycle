@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chocolate Mousse",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227968_1-fresho-signature-chocolate-mousse.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Belgium Mousse",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324081_1-caketale-belgiun-mousse.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocofilled Doughnut Cake",
+    "sku_type": "48 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40337800_1-nutriwala-chocofilled-doughnut-cake.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Mousse",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227969_1-fresho-signature-mango-mousse.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Toffee",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227973_1-fresho-signature-banana-toffee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raspberry Mousse",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227970_1-fresho-signature-raspberry-mousse.jpg?tr=w-154,q-80"
+  }
+]

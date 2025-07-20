@@ -1,0 +1,356 @@
+[
+  {
+    "name": "Muesli Fruit Nut & Seeds - 12 In 1 Power Breakfast",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189244_8-kelloggs-muesli-breakfast-cereal-with-multigrain-21-fruit-nut-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Dark Chocolate & Cranberry, Healthy, Rich In Protein, Breakfast Cereal",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160159_7-yoga-bar-muesli-dark-chocolate-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Fruits, Nuts & Seeds, Healthy, Rich In Protein, Breakfast Cereal",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160160_8-yoga-bar-muesli-fruits-nuts-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "No Added Sugar Muesli - 13.5g Protein Per 100g, High Fibre, Ready To Eat Breakfast",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243990_5-true-elements-no-added-sugar-muesli-135g-protein-per-100g-high-fibre-ready-to-eat-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multigrain Diet Muesli - Wholegrain, Gluten-Free, Breakfast Cereal",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191809_5-true-elements-multigrain-diet-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Fruit Crunch Muesli",
+    "sku_type": "350 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243108_1-the-whole-truth-choco-fruit-crunch-breakfast-muesli-provides-energy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "High Protein Muesli, Dark Chocolate & Cranberry",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254384_5-muscleblaze-high-protein-muesli-antioxidants-rich-nutritional-breakfast-dark-chocolate-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit N Fibre Mixed Fruit Muesli - Multigrain",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/221410_18-bagrrys-fruit-n-fibre-muesli-mixed-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "No Added Sugar Muesli With Real Fruits & Nuts - High Protein Breakfast",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40167064_17-true-elements-fibre-rich-muesli-for-breakfast-no-added-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Muesli - Fruits, Nuts & Seeds With Rolled Oats, Gluten-Free, Healthy Breakfast",
+    "sku_type": "800 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249997_2-monsoon-harvest-crunchy-muesli-fruits-nuts-seeds-with-rolled-oats-gluten-free-healthy-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toasted Millet Muesli Fig & Honey With Salted Pistachios",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193740_3-monsoon-harvest-toasted-millet-muesli-fig-honey-with-salted-pistachios.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toasted Millet Muesli Dark Chocolate & Orange Peel",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193741_3-monsoon-harvest-toasted-millet-muesli-dark-chocolate-orange-peel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Fruit & Nut",
+    "sku_type": "750 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121598_4-kelloggs-muesli-fruit-nut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli Fruit & Nut",
+    "sku_type": "160 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141022_4-kelloggs-muesli-fruit-nut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Muesli - Cranberry Chocolate, Rich In Protein, No Preservatives",
+    "sku_type": "800 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282575_2-monsoon-harvest-crunchy-muesli-cranberry-chocolate-rich-in-protein-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Muesli Almonds & Raisins - High Iron & Protein",
+    "sku_type": "400 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40116416_5-kwality-muesli-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Almond & Quinoa Crunch, Healthy, Rich In Protein, Breakfast Cereal",
+    "sku_type": "400 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160161_7-yoga-bar-muesli-almond-quinoa-crunch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Muesli  - Fruit, Nuts & Seeds, Gluten Free, Healthy Breakfast",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249995_1-monsoon-harvest-crunchy-muesli-oat-clusters-with-raisins-gluten-free-healthy-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli Nuts Delight",
+    "sku_type": "500 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/274864_5-kelloggs-muesli-nuts-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Fruit & Nut",
+    "sku_type": "240 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/274869_6-kelloggs-muesli-fruit-nut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Dark Choco Berry Muesli - With Almonds Qui",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/221426_8-bagrrys-crunch-choco-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit & Nut Millet Muesli - Made With Whole Wheat & Ragi, Crunchy, Almonds",
+    "sku_type": "700 g - (Buy 1 Get 1 Free)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240564_3-tata-soulfull-fruit-nut-millet-muesli-made-with-whole-wheat-ragi-crunchy-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Real Fruit",
+    "sku_type": "1 kg ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003801_2-gaia-muesli-real-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Nutty Delight",
+    "sku_type": "1 kg ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003800_2-gaia-muesli-nutty-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berries & Seeds Oats Muesli",
+    "sku_type": "700 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40270422_2-quaker-oats-muesli-breakfast-cereal-berries-seeds-high-in-protein-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fruit & Nut Muesli - 10.8g Fiber Per 100g, High Protein, Ready To Eat Breakfast",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243991_4-true-elements-fruit-nut-muesli-108g-fiber-per-100g-high-protein-ready-to-eat-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cranberry & Blueberry Muesli - Fibre & Protein Rich",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40056302_21-true-elements-cranberry-blueberry-muesli-fibre-rich-breakfast-cereal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "High Protein Super Muesli - Fruit & Nuts",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200930_4-alpino-super-muesli-crunch-fruit-nuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli Fruit, Nut & Seeds - 12 In 1 Power Breakfast",
+    "sku_type": "75 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324639_2-kelloggs-muesli-power-breakfast-with-fruit-nut-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amaranth Muesli",
+    "sku_type": "280 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900448350_2-nourish-organics-amaranth-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Toasted Millet Muesli - Roasted Cacao Bean & Raisin",
+    "sku_type": "250 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106449_4-monsoon-harvest-toasted-millet-muesli-roasted-cacao-bean-raisin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breakfast Cereals - Crunchies, 100% Natural & Healthy",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127468_4-timios-breakfast-cereals-crunchies-100-natural-healthy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli Crunchy Almond, Raisins & Honey - High Iron & Protein",
+    "sku_type": "1 kg - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180725_7-kwality-muesli-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli With Natural Flavour Pops - Kesar Crunch",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328613_2-saffola-muesli-with-natural-flavour-pops-kesar-crunch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli With Natural Flavour Pops - Choco Crunch",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40328611_2-saffola-muesli-with-natural-flavour-pops-choco-crunch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Muesli Breakfast Cereal - Nutty Delight",
+    "sku_type": "400 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/307561_2-gaia-crunchy-muesli-breakfast-cereal-nutty-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Honey Fruit & Nut Muesli",
+    "sku_type": "30 g - (Pack of 3)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344170_1-sids-farm-honey-fruit-nut-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Millet Muesli - Fruit & Nut",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40184801_4-health-sutra-100-millet-muesli-fruit-nut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Muesli With 30% Fruit & Nut Cranberries, 34% Fibre Rich Oats",
+    "sku_type": "40 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329577_1-bagrrys-crunchy-muesli-with-30-fruit-nut-cranberries-34-fibre-rich-oats.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Almond Cereal - No Refined Sugar, Rich In Fibre, Protein",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252908_1-open-secret-choco-almond-cereal-no-refined-sugar-rich-in-fibre-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Muesli - With 20g Protein",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310749_2-true-elements-super-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berry Crunch Muesli",
+    "sku_type": "900 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332528_1-rs-by-true-elements-berry-crunch-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Muesli - Oat Clusters With Raisins, Gluten Free, Healthy Breakfast",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40249996_1-monsoon-harvest-crunchy-muesli-fruit-nuts-seeds-gluten-free-healthy-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Koffeelicious Muesli - With Coffee, Oats, Black Raisins & Bran",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40321533_1-bagrrys-koffeelicious-muesli-with-coffee-oats-black-raisins-bran.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli Mixed Fruit - Crunchy Breakfast Cereal",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016376_3-kwality-muesli-fruity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate Muesli",
+    "sku_type": "900 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332529_1-rs-by-true-elements-dark-chocolate-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi Millet Muesli",
+    "sku_type": "450 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314475_1-desi-nutri-multi-millet-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Muesli Crunch Nut Delight",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200931_3-alpino-super-muesli-crunch-nut-delight.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli & Granola Breakfast Trial Pack - Assorted Flavours",
+    "sku_type": "30 g - (Pack of 6)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335732_1-true-elements-muesli-granola-breakfast-trial-pack-assorted-flavours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Millet Pops, Choco Ragi Crunchers, Honey Fruit & Nut Muesli - Assorted",
+    "sku_type": "90 g - (3 x 30 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344171_1-sids-farm-mango-millet-pops-choco-ragi-crunchers-honey-fruit-nut-muesli-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berry Crunch Muesli With Flavour Pops",
+    "sku_type": "700 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346277_1-saffola-berry-crunch-muesli-with-flavour-pops.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Crunch Muesli With Flavour Pops",
+    "sku_type": "185 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346276_1-saffola-choco-crunch-muesli-with-flavour-pops.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berry Crunch Muesli With Flavour Pops",
+    "sku_type": "185 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346275_1-saffola-berry-crunch-muesli-with-flavour-pops.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Choco Ragi Crunchers",
+    "sku_type": "30 g - (Pack of 3)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344169_1-sids-farm-choco-ragi-crunchers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muesli - Desi",
+    "sku_type": "100 g - Combo Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131060_2-soulfull-muesli-desi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berries Mix Muesli",
+    "sku_type": "1.2 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310755_2-true-elements-berries-mix-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Millet Pops",
+    "sku_type": "30 g - (Pack of 3)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40344168_1-sids-farm-mango-millet-pops.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dark Chocolate Muesli - Ready To Eat Breakfast, 26% Berries, Seeds & Nuts, High In Fibre",
+    "sku_type": "1.2 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318420_1-true-elements-dark-chocolate-muesli-ready-to-eat-breakfast-26-berries-seeds-nuts-high-in-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Muesli- Crunchy with Real Fruits, Nuts, Seeds | Fibre Rich | 0 Sugar",
+    "sku_type": "250 g - Zipper Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255530_5-naario-classic-muesli-with-fruits-nuts-seeds-rich-in-fibre-proteins-no-sugar.jpg?tr=w-154,q-80"
+  }
+]

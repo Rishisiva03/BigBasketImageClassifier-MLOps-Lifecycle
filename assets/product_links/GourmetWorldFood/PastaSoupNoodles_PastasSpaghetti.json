@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Penne Pasta 100% Durum Wheat",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281674_3-disano-pastalicious-penne-100-durum-wheat-semolina.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pastalicious - Fusilli, 100% Durum Wheat Semolina Pasta, High-Protein, No Cholesterol",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40234654_2-disano-pastalicious-fusilli-100-durum-wheat-semolina-pasta-high-protein-no-cholesterol.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Penne Rigate",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/303219_9-borges-durum-wheat-pasta-penne-rigate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Elbow Macaroni Pasta - 100% Durum Wheat",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281676_3-disano-pastalicious-elbow-100-durum-wheat-semolina.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Spaghetti",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/303124_6-borges-durum-wheat-pasta-spaghetti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Spaghetti",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213497_2-happychef-durum-wheat-pasta-spaghetti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Mini Penne Rigate",
+    "sku_type": "350 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/303122_7-borges-durum-wheat-pasta-mini-penne-rigate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Pasta - Fusilli",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114033_6-borges-pasta-whole-wheat-fusilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Tagliatelle A Nido",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188059_2-colavita-tagliatelle-pasta-durum-wheat-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Farfalle",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/303137_3-borges-durum-wheat-pasta-farfalle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Mini Fusilli",
+    "sku_type": "350 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/303127_4-borges-durum-wheat-pasta-mini-fusilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Wheat Pasta - Penne Rigate",
+    "sku_type": "500 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40014630_5-borges-whole-wheat-pasta-penne-rigate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Fusilli",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/303129_2-borges-durum-wheat-pasta-fusilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Penne Rigate",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213494_2-happychef-durum-wheat-pasta-penne-rigate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Fettuccine A Nido",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188060_2-colavita-fettuccine-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Angel Hair n.1",
+    "sku_type": "500 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038910_7-barilla-pasta-angel-hair-durum-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Fettuccine",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188058_2-colavita-fettucine-italian-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Spaghetti n.5",
+    "sku_type": "500 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/101051_6-barilla-pasta-spaghetti-durum-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Macaroni",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1213496_2-happychef-durum-wheat-pasta-macaroni.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Linguine n.13",
+    "sku_type": "500 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40038909_7-barilla-pasta-linguine-durum-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Spirali",
+    "sku_type": "450 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/258602_12-del-monte-durum-wheat-pasta-spirali.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Penne Rigate",
+    "sku_type": "500 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/101060_7-barilla-pasta-penne-rigate-durum-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "I Classici Durum Wheat Pasta - N. 26 Penne Rigate",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196225_2-granoro-penne-rigate-durum-wheat-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Acasa Pasta - Fusilli",
+    "sku_type": "450 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217432_4-little-italy-acasa-pasta-fusilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Beetroot Kids Pasta In Fun Shapes - Veggie, No Maida, Healthy",
+    "sku_type": "250 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40219404_2-longshort-junior-veggie-pasta-for-kids-with-beetroot-high-in-fibre-whole-wheat-fun-shapes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - N. 121 Lasagne",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196223_2-granoro-lasagne-durum-wheat-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Elicoidali Pasta",
+    "sku_type": "500 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204869_2-anmara-organic-elicoidali-pasta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Spaghetti",
+    "sku_type": "500 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40011745_3-gustora-spaghetti-durum-wheat-semolina.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Authentic Italian Pasta - Penne Rigate",
+    "sku_type": "500 g - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70001471_5-pasta-zara-rigate-penne.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Durum Wheat Pasta - Capellini",
+    "sku_type": "500 g - Pouch",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003662_5-colavita-capellini-italian-pasta-1.jpg?tr=w-154,q-80"
+  }
+]

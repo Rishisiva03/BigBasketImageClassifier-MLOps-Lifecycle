@@ -1,0 +1,56 @@
+[
+  {
+    "name": "German Fourgrain Sourdough",
+    "sku_type": "380 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169949_6-the-bakers-dozen-sourdough-four-grain-100-whole-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bread - Sour Dough With Olives, Pre Sliced",
+    "sku_type": "300 g ",
+    "rating": "3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037479_3-fresho-signature-bread-sour-dough-with-olives-pre-sliced.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zero Maida Sourdough Classic Bread",
+    "sku_type": "330 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341124_1-the-health-factory-zero-maida-sourdough-classic-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baguette Bread - Rye",
+    "sku_type": "300 g ",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037489_2-fresho-signature-baguette-bread-rye.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rosemary & Olive Sourdough Bread",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341811_1-fresho-signature-rosemary-olive-sourdough-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cinnamon Rolls",
+    "sku_type": "50 g - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203031_2-the-bakers-dozen-cinnamon-rolls.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Bread - Whole Wheat",
+    "sku_type": "550 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40205151_1-paushtaa-classic-sourdough-bread.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pizza Pull-Apart Bread",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40256289_1-sorrentina-pizza-pull-apart-classic-italian-bread-topped-with-mozzarella.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Instant Dry Yeast Powder - Used Or Bread & Pizza",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40243796_4-515pm-instant-dry-yeast-powder-used-or-bread-pizza.jpg?tr=w-154,q-80"
+  }
+]

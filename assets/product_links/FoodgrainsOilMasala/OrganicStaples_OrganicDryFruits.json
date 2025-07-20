@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Organic Almond",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125916_13-bb-royal-organic-almondbadam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Cashew/Godambi Whole Bold",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135839_13-bb-royal-organic-cashewkaju-whole-bold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Raisins/Ona Drakshi",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101872_13-bb-royal-organic-raisinkismis.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond - Promotes Weight Loss, Rich In Vitamin E",
+    "sku_type": "250 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40261309_2-natureland-organics-almond-promotes-weight-loss-rich-in-vitamin-e.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds",
+    "sku_type": "100 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161495_3-ishva-organic-chia-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Flax Seeds",
+    "sku_type": "150 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40082648_4-phalada-pure-sure-organic-flax-seeds.jpg?tr=w-154,q-80"
+  }
+]

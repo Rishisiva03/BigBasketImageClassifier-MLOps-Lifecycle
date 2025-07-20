@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Farm Fresh Brown Eggs",
+    "sku_type": null,
+    "rating": "2.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211593_4-eggoz-brown-farm-fresh-eggs-high-bio-available-protein-with-no-ddgs-hormone-steroids.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Country/Desi Eggs-Small",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094160_3-fresho-country-desi-eggs-small-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Country/Desi Eggs-Medium, Kadaknath",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094161_2-fresho-country-eggs-kadaknath-small-antibiotic-residue-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggs - Brown",
+    "sku_type": "6 pcs ",
+    "rating": "3.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40103369_1-pure-eggs-eggs-brown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggs - Country",
+    "sku_type": "6 pcs - Carton",
+    "rating": "2.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000399_3-mpm-eggs-country.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggs - Country Duck",
+    "sku_type": "6 pcs - Carton",
+    "rating": "2.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000398_2-mpm-eggs-country-duck.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggs - Kadaknath Chicken",
+    "sku_type": "6 pcs - Carton",
+    "rating": "2.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000400_2-mpm-eggs-kadaknath-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brown Eggs Wholesome, Rich In Protein, Vitamins & Amino Acids",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235877_3-best-buy-eggs-wholesome-rich-in-protein-vitamins-amino-acids.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Free Range Kadhaknath Eggs",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341101_1-nesting-greens-organic-free-range-kadhaknath-eggs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggs - Country (Desi)",
+    "sku_type": "6 pcs ",
+    "rating": "2.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093237_1-pure-eggs-eggs-country-desi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Kadaknath Eggs(6 pcs) - 100% Natural",
+    "sku_type": "6 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40199588_2-henfruit-kadaknath-eggs.jpg?tr=w-154,q-80"
+  }
+]

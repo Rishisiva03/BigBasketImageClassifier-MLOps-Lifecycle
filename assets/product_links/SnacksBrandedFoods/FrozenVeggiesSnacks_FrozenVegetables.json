@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Frozen Green Peas",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40163718_11-fresho-frozen-green-peas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen - Green Peas",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/103692_2-safal-frozen-green-peas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen Sweet Corn",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40208830_10-fresho-frozen-sweet-corn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen - Sweet Corn",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085935_3-tasty-fresh-frozen-sweet-corn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Frozen - Green Peas",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076083_3-keventer-frozen-green-peas.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004572_4-sumeru-sweet-corn.jpg?tr=w-154,q-80"
+  }
+]

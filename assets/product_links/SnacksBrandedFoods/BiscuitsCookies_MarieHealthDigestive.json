@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Marie Gold Biscuit",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197801_8-britannia-marie-gold-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrichoice Digestive High-Fibre Biscuits",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40197803_17-britannia-nutrichoice-digestive-high-fibre-biscuits-super-saver-family-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutri Choice Thin Arrowroot Biscuits",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40174326_5-britannia-nutrichoice-thin-arrowroot-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Rich Marie",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004465_7-bisk-farm-biscuits-rich-marie-light-crunchy-teatime-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rusk - Milk",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106011_13-tasties-rusk-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscotti - Double Dark Chocolate, Pistachio, Gluten Free",
+    "sku_type": "150 g ",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128683_14-gooddiet-biscotti-double-dark-chocolate-pistachio-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farmlite - Digestive Biscuit, High Fibre, Low Calories, With Goodness Of Wheat",
+    "sku_type": "250 g - Carton",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272325_1-sunfeast-farmlite-digestive-biscuit-high-fibre-low-calories-with-goodness-of-wheat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "NutriChoice Sugar Free Cracker - Zero Trans Fat",
+    "sku_type": "300 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232484_4-britannia-nutrichoice-sugar-free-cream-cracker-zero-trans-fat-no-added-colours.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prime Time Elaichi Flavour Biscuits",
+    "sku_type": "300 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303647_1-sobisco-prime-time-elaichi-flavour-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farmlite 5 Seed Digestive Biscuit - High Fibre, Goodness Of 5 Power Seeds & Wheat Fibre",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201412_4-sunfeast-farmlite-5-seed-digestive-biscuit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marie Lite",
+    "sku_type": "400 g - (50 g Free)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40037218_2-priyagold-marie-lite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free - Marie Biscuits",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101528_2-gullon-sugar-free-marie-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Marie Light Vita",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40127283_2-sunfeast-biscuits-marie-light-vita.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farmlite - Oats & Almonds Biscuits - Cookies",
+    "sku_type": "75 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012931_7-sunfeast-farmlite-oats-almonds-biscuits-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wholewheat Marie Biscuits - Goodness Of Calcium, Super Saver Family Pack",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201912_1-mcvities-whole-wheat-marie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desire Kaju Biscuits",
+    "sku_type": "300 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303645_1-sobisco-desire-kaju-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arovita Thin Arrowroot Biscuit - Rich In Calcium & Iron, Crispy",
+    "sku_type": "150 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129506_8-parle-bakesmith-arovita-biscuits-arrowroot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Multigrain",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100268_3-bisk-farm-biscuits-multigran.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Golden Marie Biscuit",
+    "sku_type": "300 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151872_2-raja-golden-marie-biscuit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veda Marie Light Biscuits",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40186908_6-sunfeast-veda-marie-light-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "NutriChoice Oats Cookies - Chocolate & Almonds",
+    "sku_type": "75 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223155_9-britannia-nutrichoice-oats-cookies-choco-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wholewheat Digestive Imported Biscuits Coated With Dark Chocolate",
+    "sku_type": "200 g - Carton",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023667_3-mcvities-digestive-biscuits-dark-chocolate-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farmlite - Biscuits - Cookies Oats & Raisins",
+    "sku_type": "75 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012932_7-sunfeast-farmlite-biscuits-cookies-oats-raisins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platina Nutricrunch Biscuit - Honey & Oats, Rich In Fibre, Iron, Vitamins",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004276_9-parle-platina-nutricrunch-honey-oats.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutricrunch Digestive Marie",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/251711_3-parle-nutricrunch-digestive-marie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marie Light Active Biscuits",
+    "sku_type": "300 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40074554_12-sunfeast-marie-light-biscuits-active.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marie Classic - Lite & Crispy Biscuits",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245742_1-cremica-marie-classic-lite-crispy-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrichoice Herbs Biscuits",
+    "sku_type": "75 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230666_11-britannia-nutri-choice-herbs-biscuits-high-in-fibre-vitamins-minerals-healthy-snacks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shortbread - 100% Pure Cow Butter, Sugar Free, All Rich Creamy",
+    "sku_type": "200 g - Carton",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003623_2-sugarless-bliss-sugar-free-shortbread-all-rich-creamy-cow-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nagali Ragi Biscuits",
+    "sku_type": "150 g - Box",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009644_1-jahagirdar-nagali-ragi-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies - Multigrain Breakfast",
+    "sku_type": "67.5 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016299_2-unibic-cookies-multigrain-breakfast.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platina Nutricrunch Digestive Marie Biscuit - Rich In Fibre, Iron & Vitamins, Crispy",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004280_8-parle-platina-nutricrunch-digestive.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marie Plus Biscuits",
+    "sku_type": "215 g - + 17 g Extra",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40050154_13-anmol-biscuits-marie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Cookies - Mango & Almond",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153791_1-sofit-protein-cookies-mango-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutri Choice Protein Milk Almond Biscuits - 0 % Maida, Rich In Protein & Fibre",
+    "sku_type": "90 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230667_2-britannia-nutri-choice-protein-milk-almond-biscuits-0-maida-high-in-fibre-healthy-snacks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein Cookies - Mango & Almond",
+    "sku_type": "75 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185854_1-sofit-protein-cookies-mango-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oatmeal Digestive Biscuits",
+    "sku_type": "500 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245743_1-cremica-oatmeal-digestive-biscuits-trans-fat-cholesterol-free-fibre-rich.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Platina Nutri Crunch Digestive Marie",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057898_10-parle-platina-nutricrunch-digestive-marie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farmlite Oats & Almonds Bundle Pack",
+    "sku_type": "900 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220553_2-sunfeast-farmlite-oats-almonds-bundle-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Corn Flakes Digestive Biscuits",
+    "sku_type": "120 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222522_2-cremica-corn-flakes-digestive-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Biscuits",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40123748_2-health-sutra-ragi-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuit - Vita Bite",
+    "sku_type": "250 g - Jar",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164355_1-smart-bite-biscuit-vita-bite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shortbread - Roasted Almond, Sugar Free",
+    "sku_type": "100 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067602_1-sugarless-bliss-sugar-free-shortbread-roasted-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marie Biscuit - Sugar Free",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151873_2-raja-marie-biscuit-sugar-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marie Biscuit - 0% Cholesterol, More Light & Crispy",
+    "sku_type": "300 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303649_1-sobisco-marie-biscuit-0-cholesterol-more-light-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Marie Lite",
+    "sku_type": "300 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000418_2-priyagold-biscuits-marie-lite.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hobnobs Biscuits - Oats & Wholemeal",
+    "sku_type": "75 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319170_1-mcvities-hobnobs-biscuits-oats-wholemeal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Digestive Multi 7 Grain Biscuits",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225406_3-mcvities-digestive-7-grains-high-in-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oat Cookies With Goodness Of Honey",
+    "sku_type": "120 g - Carton",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/283107_6-mcvities-oat-cookies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Petit Beurre - The Taste Of France",
+    "sku_type": "250 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004462_4-bisk-farm-sugar-free-petit-beurre-the-taste-of-france.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cookies - Digestive",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40135736_4-cremica-cookies-digestive.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Farmlite Super Millets Ragi & Jowar Chocochip Cookies",
+    "sku_type": "75 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298511_3-sunfeast-farmlite-super-millets-ragi-jowar-chocochip-cookies-no-added-maida.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multivita Marie",
+    "sku_type": "243 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204955_3-parle-multivita-marie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Digestive Light Biscuits",
+    "sku_type": "50 g - (Pack of 4 x 50 g )",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40225408_3-mcvities-digestive-light-wheat-biscuits-source-of-fibre-reduced-fat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Good Morning Thin Arrowroot Biscuit",
+    "sku_type": "300 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40151874_2-raja-good-morning-thin-arrowroot-biscuit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thin Arrowroot Nutritious Biscuits",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226190_2-country-harvest-thin-arrowroot-nutritious-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Digestive Biscuits - High In Fibre, Perfect Snack",
+    "sku_type": "180 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40278505_6-americana-premium-digestive-biscuits-high-in-fibre-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Sugar Crakers",
+    "sku_type": "300 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114491_3-samudra-biscuits-sugar-crakers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marie Biscuits",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075248_7-patanjali-biscuits-marie.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Digestiva Biscuit - Rich In Fibre",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220761_1-sunder-digestiva-biscuit-rich-in-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Digestive Biscuits",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303652_1-sobisco-digestive-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Marie Crunch - Crisp & Light Teatime Snack",
+    "sku_type": "76 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236685_2-marino-marie-crunch-crisp-light-teatime-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desire Butter Biscuits",
+    "sku_type": "300 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303644_1-sobisco-desire-butter-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rusk - Muesli",
+    "sku_type": "200 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106016_7-tasties-rusk-muesli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rusk - Garlic",
+    "sku_type": "200 g ",
+    "rating": "3.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40106014_7-tasties-rusk-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Quinoa Crispibread",
+    "sku_type": "125 g - Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112265_2-orgran-crispibread-quinoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Celevida Biscuits - Suitable For Diabetics",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329264_1-dr-reddys-celevida-celevida-biscuits-suitable-for-diabetics.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Britannia Marie",
+    "sku_type": "400 g - (Pack of 15)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/411241_3-britannia-britannia-marie-400-gm-pk-15.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Mini - Pretzel",
+    "sku_type": "40 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003138_2-huober-organic-mini-pretzel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Cream Biscuits - Chocolate Flavor",
+    "sku_type": "162 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/286779_2-tiffany-sugar-free-cream-biscuits-chocolate-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrichoice Digestive High Fibre Biscuit",
+    "sku_type": "91.7 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345875_1-britannia-nutrichoice-digestive-high-fibre-biscuit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutrichoice Digestive Zero Biscuits",
+    "sku_type": "91.7 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345874_1-britannia-nutrichoice-digestive-zero-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Karela Biscuit",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40173268_5-taste-good-karela-biscuits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Marie Gold",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/264597_7-britannia-biscuits-marie-gold.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biscuits - Wheat Marie",
+    "sku_type": "250 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100259_3-bisk-farm-biscuits-wheat-marie.jpg?tr=w-154,q-80"
+  }
+]

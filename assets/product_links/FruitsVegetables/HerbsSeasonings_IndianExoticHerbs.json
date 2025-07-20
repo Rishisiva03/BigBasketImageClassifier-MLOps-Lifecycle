@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Coriander Leaves",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000097_22-fresho-coriander-leaves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curry Leaves",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000327_14-fresho-curry-leaves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil - Italian",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000314_14-fresho-basil-italian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spring Garlic",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40154542_3-fresho-spring-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spring Garlic",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40154541_2-fresho-spring-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Edamame (Loose)",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149659_1-fresho-edamame.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lime Leaves - Kaffir",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007404_4-fresho-lime-leaves-kaffir.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Microgreen Broccoli - Nutritious, Crunchy",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40252599_1-fresho-microgreen-broccoli-nutritious-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rocket Leaves",
+    "sku_type": "Approx 80 -100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085567_1-fresho-rocket-leaves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Microgreen - Radish",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40041702_1-growing-greens-microgreen-radish.jpg?tr=w-154,q-80"
+  }
+]

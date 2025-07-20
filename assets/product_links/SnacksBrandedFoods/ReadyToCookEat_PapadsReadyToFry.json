@@ -1,0 +1,1742 @@
+[
+  {
+    "name": "Papad - Punjabi Masala",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/220945_5-lijjat-papad-punjabi-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - No 6",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003727_4-ambika-appalam-no-6.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Urad",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/220893_1-lijjat-papad-urad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Fried Onions",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40163314_2-crispees-fresh-fried-onions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Foochka",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200464_1-shareat-foochka.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Handmade Papad - Chana Masala",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109364_4-tasties-papad-chana-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Baat Cheet",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073885_7-bikaji-papad-baat-cheet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Chana Masala",
+    "sku_type": "180 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003508_7-motherss-recipe-papad-chana-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Handmade Papad - Moong Special",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109363_5-tasties-papad-moong-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oriental Fish Crackers - High In Protein",
+    "sku_type": "100 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262353_1-so-asean-oriental-fish-crackers-high-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam Masala Poo",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221703_1-jimmys-appalam-masala-poo.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fryums",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169760_2-kanchana-fryums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Applam Plain Sago Vadiums",
+    "sku_type": "100 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083170_2-popular-foods-applam-plain-sago-vadiums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Udid Papad - Mini",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129707_1-kubal-udid-papad-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Udid Papad - Big",
+    "sku_type": "200 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129706_1-kubal-udid-papad-big.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - No. 3",
+    "sku_type": "225 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000483_1-shree-mahalakshmi-appalam-no-3.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Murukku",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000496_1-shree-mahalakshmi-vadam-murukku.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal - Chundaikkai",
+    "sku_type": "100 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000507_1-shree-mahalakshmi-vathal-chundaikkai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tapico Sago White Coin Papad - Fry & Eat",
+    "sku_type": "100 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296151_1-sri-guru-tapico-sago-white-coin-papad-fry-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Punjabi, Premium",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130488_4-suruchi-papad-punjabi-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thamaravalayam Vattal",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169793_2-kanchana-thamaravalayam-vattal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Crackers",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40182562_5-vinanth-chicken-crackers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Rajasthani",
+    "sku_type": "500 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130487_5-suruchi-papad-rajasthani.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal - Manathakali",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070415_6-thangams-vathal-manathakali.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Sabudana Papad",
+    "sku_type": "70 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212345_1-dnv-garlic-sabudana-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Moong, Premium",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130489_1-suruchi-papad-moong-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Masala Papad",
+    "sku_type": "180 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212343_1-dnv-classic-masala-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Vattal",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169783_4-kanchana-rice-vattal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2d Papad - Jeera Rice",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212730_1-royal-2d-papad-jeera-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Papad - Plain",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057458_2-mark-premium-papad-plain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Special Appalam",
+    "sku_type": "225 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053964_3-popular-super-special-appalam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ready To Fry - Spiral",
+    "sku_type": "225 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113574_2-frylo-premium-rtf-spiral.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Fry - 3D Cereal Oval",
+    "sku_type": "150 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40078612_5-tasties-ready-to-fry-3d-cereal-oval.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jeera Papad",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185552_1-sda-pappads-jeera-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Rice Onion",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000499_1-shree-mahalakshmi-vadam-rice-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Bikaneri",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002411_2-haldirams-papad-bikaneri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sir Ganeshrams Applam - No 3",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002581_1-7770-sir-ganeshrams-applam-no-3.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Fancy",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001677_5-saravanas-papad-fancy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal - Manathakali",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000510_1-shree-mahalakshmi-vathal-manathakali.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appala Chips - Special",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000485_1-shree-mahalakshmi-appala-chips-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal - Kothavaraikai",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000508_1-shree-mahalakshmi-vathal-kothavaraikai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Plain Sago",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001683_3-saravanas-papad-plain-sago.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kasuri Methi Sabudana Papad",
+    "sku_type": "70 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201304_2-dnv-kasuri-methi-sabudana-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Jeera Masala",
+    "sku_type": "180 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/287033_7-ganesh-papad-papad-jeera-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Guruvayur Pappadam",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169762_2-kanchana-guruvayur-pappadam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Green Chilly, Rice Crispy",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128842_2-ganesh-papad-papad-green-chilly-rice-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Narthangai Vathal",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292090_1-mahathri-dry-narthangai-vathal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Net Fry Papad",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297250_2-ramji-net-fry-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Finger Fry Papad",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297249_2-ramji-gold-finger-fry-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Fingers",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083169_2-popular-foods-gold-fingers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dinner Papad",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083160_1-popular-foods-papad-dinner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Assorted Fryums",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057459_2-mark-premium-papad-assorted-fryums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - Dinner Special",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009447_4-popular-appalam-dinner-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Garlic",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009846_7-ganesh-papad-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana Coins Papad - Navratri Special",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212736_1-royal-sabudana-coins-papad-navratri-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2D Papad Potato Square Tube Shape - Navratri Special",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212725_1-royal-2d-papad-potato-square-tube-shape-navratri-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana - Green Chilli Special",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213260_1-royal-sabudana-green-chilli-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal Long - Curd Chillies",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000506_1-shree-mahalakshmi-vathal-long-curd-chillies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam No 1",
+    "sku_type": "80 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000847_2-popular-appalam-no-1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jalballs Pani Puri Kit - Mint",
+    "sku_type": "50 pcs ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200462_1-shareat-jalballs-pani-puri-kit-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "5\" Moong - Papad",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30008265_2-ram-bandhu-5-moong-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mobile Khakhra - Methi",
+    "sku_type": "40 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101188_7-daadis-mobile-khakhra-methi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Urad Special",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/264980_6-lijjat-papad-urad-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crispy Garlic Green Chilli Papad",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213017_3-mothers-recipe-crispy-garlic-green-chilli-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panipuri Pellets",
+    "sku_type": "400 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200037_6-paper-boat-panipuri-pellets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pani Puri Papad",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185547_1-sda-pappads-pani-puri-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Appalam",
+    "sku_type": "100 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000453_2-bindu-papad-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato Papad",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40170320_4-utsav-potato-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chana Dal Papad",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40192434_2-patanjali-chana-dal-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Punjabi Masala Papad",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201300_1-dnv-punjabi-masala-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana Papad Red Chilli Special",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212738_1-royal-sabudana-papad-red-chilli-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Fingers Fryums",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40170322_4-utsav-gold-fingers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Rice Papad - Fry & Eat",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296147_1-sri-guru-garlic-rice-papad-fry-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Udad Special",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40071534_1-rambandhu-papad-udad-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Appalam",
+    "sku_type": "180 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009844_8-ganesh-papad-appalam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Ready To Fry - Panipuri",
+    "sku_type": "275 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113575_2-frylo-premiumrtf-panipuri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Plain Papad",
+    "sku_type": "180 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201298_1-dnv-classic-plain-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Foochka - Mint",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200463_1-shareat-foochka-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Fry - Pani Puri, Plain",
+    "sku_type": "150 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40078610_4-tasties-ready-to-fry-pani-puri-plain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Sogo Vadiums",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083171_2-popular-foods-masala-sogo-vadiums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mobile Khakhra - Chocolate",
+    "sku_type": "50 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101185_2-daadis-mobile-khakhra-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam Masala Chips",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221704_1-jimmys-appalam-masala-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - Crunchy, No Preservatives Or Added Colours, Aids Digestion",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262561_1-ravis-appalam-crunchy-no-preservatives-or-added-colours-aids-digestion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2D Papad Potato Spiral Shape - Navratri Special",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212726_1-royal-2d-papad-potato-spiral-shape-navratri-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "3d Papad - Heart Shape",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212733_1-royal-3d-papad-heart-shape.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawn Papad",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40305006_1-pou-chong-prawn-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Thalir",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000503_1-shree-mahalakshmi-vadam-thalir.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pappad - Punjabi",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000490_1-shree-mahalakshmi-pappad-punjabi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vepilakatti",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000514_1-shree-mahalakshmi-vepilakatti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Sabudana",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000387_2-mehak-papad-sabudana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - Mini Special",
+    "sku_type": "70 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000846_3-popular-appalam-mini-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Urad Plain",
+    "sku_type": "250 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100004798_1-lijjat-papad-urad-plain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Palak Papad",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185546_1-sda-pappads-palak-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pani Puri Papad",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189812_1-rachana-pani-puri-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Onion Disco Papad",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40024653_5-atish-papad-onion-disco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Punjabi Masala Special",
+    "sku_type": "250 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/287018_7-ganesh-papad-papad-punjabi-masala-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Chana Masala",
+    "sku_type": "2x200 g - (Multipack)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1212446_1-tasties-papad-chana-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Panipuri",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001682_4-saravanas-papad-panipuri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Mini Udad",
+    "sku_type": "180 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006052_5-ganesh-papad-mini-udad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Chilly Mangalore",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295248_6-iyers-papad-chilly-mangalore.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Mangalore Rice",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/271292_4-iyers-papad-mangalore-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - Handmade",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40221705_3-jimmys-appalam-handmade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Papad",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003173_2-lijjat-garlic-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Chilli Flavour Sabudana Papad",
+    "sku_type": "70 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201303_2-dnv-green-chilly-sabudana-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Dilkhus",
+    "sku_type": "400 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40073888_2-bikaji-papad-dilkhus.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Papad",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076980_1-lijjat-papad-moong.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam Papad",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217970_2-balasa-appalam-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Punjabi, Del",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000854_3-haldirams-papad-punjabi-del.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Garlic Green Chilli",
+    "sku_type": "180 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003507_6-motherss-recipe-papad-garlic-green-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Pappad",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169782_2-kanchana-rice-pappad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bat Fryum",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40170326_5-utsav-bat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana Vadium",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189816_1-rachana-sabudana-vadium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salto Papad Rings",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189820_1-rachana-salto-papad-rings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Poha",
+    "sku_type": "70 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214950_2-balasa-papad-poha.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal - Chundaikai",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070414_4-thangams-vathal-chundaikai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appala Chips - Long",
+    "sku_type": "100 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070417_6-thangams-appala-chips-long.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Fry - Onion Ring",
+    "sku_type": "150 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40078614_5-tasties-ready-to-fry-onion-ring.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Punjabi Masala",
+    "sku_type": "400 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40056221_3-agrawals-420-papad-punjabi-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panipuri/Golgappa Pallets - Made With High Quality Ingredients",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40254816_2-mothers-recipe-panipurigolgappa-pallets-made-with-high-quality-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Palak Masala Wadi - Ready To Cook",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227918_1-royal-special-palak-masala-wadi-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandige - Onion",
+    "sku_type": "140 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100285954_3-iyers-sandige-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crazy Achaari Khakhra - Perfect Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227934_1-royal-crazy-achaari-khakhra-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sago Vadam - Crunchy Snack",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292102_1-mahathri-sago-vadam-crunchy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Urad Appalam - Crispy, Crunchy, Thin, Rich Flavour",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281644_1-havisha-urad-appalam-crispy-crunchy-thin-rich-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fry Puffs",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189805_1-rachana-fry-puffs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Sago",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070410_6-thangams-vadam-sago.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal - Curd Chilly",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070413_6-thangams-vathal-curd-chilly.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato Vadium",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189822_1-rachana-tomato-vadium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sindhi Papad",
+    "sku_type": "400 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212709_1-royal-sindhi-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Papad",
+    "sku_type": "180 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201299_1-dnv-masala-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Papad",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189814_1-rachana-rice-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2D Papad - Red Chilli",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213259_1-royal-2d-papad-red-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Moong Special",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40076922_2-agrawals-420-papad-moong-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Moong Special",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057456_2-mark-premium-papad-moong-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Masala",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057457_2-mark-premium-papad-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curd Chilli",
+    "sku_type": "90 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005816_3-jalaram-curd-chilli-ja666.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Papad - Plain",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005814_2-jalaram-papad-rice-ja661.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Udad",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009849_4-ganesh-papad-udad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Tomato",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070405_6-thangams-vadam-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Papad - Bikaneri",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198785_2-cee-pee-classic-papad-bikaneri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panipuri Papad",
+    "sku_type": "250 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212740_1-royal-panipuri-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad & Fryum - Potato Tube",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40078617_5-tasties-papad-fryum-potato-tube.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mint Sabudana Papad",
+    "sku_type": "70 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212346_1-dnv-mint-sabudana-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana Kurdai Papad/Fryums - Crispy",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241840_1-balasa-sabudana-kurdai-papadfryums-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Masala Wadi - Ready To Cook",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227917_1-royal-moong-masala-wadi-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Wadi - Ready To Cook",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227919_1-royal-moong-wadi-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Besan Wadi - Ready To Cook",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227920_1-royal-besan-wadi-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Onion Rings Fryums - Crispy",
+    "sku_type": "180 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241836_1-balasa-onion-rings-fryums-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Papad - Ethnic Indian Pappadams, Traditional Taste",
+    "sku_type": "70 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241826_1-balasa-ragi-papad-ethnic-indian-pappadams-traditional-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana Papad - Navratri Special",
+    "sku_type": "400 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212737_1-royal-sabudana-papad-navratri-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Medium Masala, Del",
+    "sku_type": "200 g - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000853_2-haldirams-papad-medium-masala-del.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ginger Garlic Rings",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189807_1-rachana-ginger-garlic-rings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Onion Papad Rings",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189809_1-rachana-onion-papad-rings.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Plain Urad",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001684_5-saravanas-papad-plain-urad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Rice",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295236_6-iyers-papad-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Moong",
+    "sku_type": "180 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/287037_5-ganesh-papad-papad-moong.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Fryums",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001678_4-saravanas-papad-fryms.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Gold Finger",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40031033_4-balaji-foods-papad-gold-finger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mobile Khakhra - Masala",
+    "sku_type": "40 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101187_5-daadis-mobile-khakhra-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Udad Homemade Appalams/Papad - Fry & Eat",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230729_1-sda-pappads-udad-homemade-appalamspapad-fry-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Punjabi Masala Papad - 5''",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212719_1-royal-punjabi-masala-papad-5.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad -  Special Bikaneri",
+    "sku_type": "400 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214954_2-balasa-papad-special-bikaneri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Special Papad",
+    "sku_type": "180 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201296_1-dnv-special-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Applam Rice Ring Vadiums",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083172_2-popular-foods-applam-rice-ring-vadiums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Rice",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070409_6-thangams-vadam-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad  - Udad, Medium",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217971_2-balasa-papad-udad-medium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curd Chillies - Flavourful & Spicy",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296153_1-sri-guru-curd-chillies-flavourful-spicy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam No 5",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40093617_1-atish-papad-appalam-no-5.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Chatpata Chana",
+    "sku_type": "400 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40056219_2-agrawals-420-papad-chatpata-chana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Special Sindhi Masala",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016457_4-atish-papad-special-sindhi-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Red Chillies",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003987_1-lijjat-papad-red-chillies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Papad",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095357_4-haldiram-papad-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Fryms",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40031029_3-balaji-foods-papad-fryms.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Baby Ring",
+    "sku_type": "150 g - (Buy 1 Get 1 Free)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40024657_5-atish-papad-baby-ring.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Semiya - Roasted",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20005817_2-jalaram-semiya-roasted-ja671.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - No 5",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30004421_5-ambika-appalam-no-5.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Fry - Potato Chiplets",
+    "sku_type": "150 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40095986_11-tasties-ready-to-fry-potato-chiplets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Onion",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070406_6-thangams-vadam-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fryums - Wheat Papad",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40168813_5-major-fryums-wheat-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal - Omapodi",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070412_6-thangams-vathal-omapodi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Fryum - Crispy",
+    "sku_type": "180 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241832_1-balasa-mixed-fryum-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Moong Square Papad",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212722_1-royal-moong-square-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana Plain Papad  - Ready To Fry, Navratri Sprecial",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227928_1-royal-sabudana-plain-papad-ready-to-fry-navratri-sprecial.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - Rice, Big",
+    "sku_type": "300 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000493_1-shree-mahalakshmi-appalam-rice-big.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Potato",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000399_2-mehak-papad-potato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Papad - Long Chips",
+    "sku_type": "120 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100285952_8-iyers-papad-masala-long-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Plain",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295244_6-iyers-papad-plain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pudina Papad",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185554_1-sda-pappads-pudina-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Bikaneri Moong",
+    "sku_type": "250 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006048_3-ganesh-papad-bikaneri-moong.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mobile Khakhra - Kothmir",
+    "sku_type": "40 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101186_5-daadis-mobile-khakhra-kothmir.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plain Udad Papad",
+    "sku_type": "180 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/265972_4-motherss-recipe-papad-urad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plain Papad - Big",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40170317_4-utsav-plain-papad-big.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disco Papad",
+    "sku_type": "180 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212344_1-dnv-disco-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curd Chillies",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189802_1-rachana-curd-chillies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fryeat Potato Pellets",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200467_2-shareat-fryeat-potato-pellets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201294_1-dnv-appalam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Jeera Rice",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016453_4-atish-papad-jeera-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Payar Vattal",
+    "sku_type": "100 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169778_2-kanchana-payar-vattal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panipuri Papad",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297254_2-ramji-panipuri-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Elai",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000495_1-shree-mahalakshmi-vadam-elai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vadam - Sago",
+    "sku_type": "200 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000502_1-shree-mahalakshmi-vadam-sago.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Rice",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000400_2-mehak-papad-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Special Udad Plain No. 2",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016456_2-atish-papad-special-udad-plain-no-2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Finger - Colour",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295241_6-iyers-gold-finger-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Red Chilly, Rice Crispy",
+    "sku_type": "150 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128841_2-ganesh-papad-papad-red-chilly-rice-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fryums Papad",
+    "sku_type": "200 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189804_1-rachana-fryums-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Wheel",
+    "sku_type": "200 g - (Buy 1 Get 1 Free)",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40024656_6-atish-papad-wheel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Fryum",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295238_6-iyers-papad-fryum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Punjabi Masala Papad",
+    "sku_type": "150 g ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185555_1-sda-pappads-punjabi-masala-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Gold Finger",
+    "sku_type": "200 g - (Buy 1 Get 1 Free)",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40024655_6-atish-papad-gold-finger.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coloured Finger Fryums - Crispy",
+    "sku_type": "180 g - Pouch",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241834_1-balasa-coloured-finger-fryums-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Party Special",
+    "sku_type": "270 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000445_1-bindu-papad-party-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam No.1",
+    "sku_type": "120 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/veg-placeholder.png"
+  },
+  {
+    "name": "Manathakalli Black Night Shade Fryums - 100% Natural & Vegan, No Preservatives, Traditional Recipe",
+    "sku_type": "150 g - Tube",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40244114_1-sundaikai-hotels-manathakalli-black-night-shade-fryums-100-natural-vegan-no-preservatives-traditional-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pani Puri Masala - Traditional Taste",
+    "sku_type": "30 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229471_2-kalpa-pani-puri-with-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veppilakatty",
+    "sku_type": "100 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169795_2-kanchana-veppilakatty.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - Mini, Handmade",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222019_3-jimmys-appalam-mini-handmade.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Udath Vadium",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189823_1-rachana-udath-vadium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Punjabi Masala",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214955_2-balasa-papad-punjabi-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Channa Masala",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214951_2-balasa-papad-channa-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Sabudana",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214949_2-balasa-papad-sabudana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabudana Jeera - Navratri Special",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212739_1-royal-sabudana-jeera-navratri-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vendakka Vattal",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169794_2-kanchana-vendakka-vattal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sago Papad Coins",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189817_1-rachana-sago-papad-coins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Papad",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40170318_4-utsav-masala-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Appalam",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070419_6-thangams-rice-appalam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix Fryums",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297248_2-ramji-mix-fryums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kuchi Vadam - Crunchy Snack",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292098_1-mahathri-kuchi-vadam-crunchy-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheel Fry Papad/Fryums",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297253_2-ramji-wheel-fry-papadfryums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bombey Mix Fry Papad",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297246_2-ramji-bombey-mix-fry-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Finger Mix Fry Papad/Fryums",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297247_2-ramji-finger-mix-fry-papadfryums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alphabets Fry Papad/Fryums",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297245_2-ramji-alphabets-fry-papadfryums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veg Fry Papad/Fryums",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297252_2-ramji-veg-fry-papadfryums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plain Boti Papad - Fry & Eat",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40296150_1-sri-guru-plain-boti-papad-fry-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Punjabi Special",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40071533_1-rambandhu-papad-punjabi-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curd Chillies",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083168_2-popular-foods-curd-chillies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Potato Disco Papad",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016450_5-atish-papad-potato-disco.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Special Punjabi Masala",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016459_5-atish-papad-special-punjabi-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sundaikkai Vathal",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40292093_1-mahathri-sundaikkai-vathal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic Yellai Vadaams - Ragi, Finger Millet",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083686_1-wild-ideas-organic-yellai-vadaams-ragi-finger-millet.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pappadam - Small",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070420_3-thangams-pappadam-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vathal - Murukku",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40070411_6-thangams-vathal-murukku.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Masala Papad",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083163_2-popular-foods-masala-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Homemade Appalams/Papad - Tube, Fry & Eat",
+    "sku_type": "150 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230726_1-sda-pappads-homemade-appalamspapad-tube-fry-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheese Khakhra - Perfect Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227940_1-royal-cheese-khakhra-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato Khakhra - Perfect Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227942_1-royal-tomato-khakhra-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Khakhra - Perfect Snack",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227939_1-royal-garlic-khakhra-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2D Papad - Potato Wave Shape, Navratri Specials",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213258_1-royal-2d-papad-potato-wave-shape-navratri-specials.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tamilnadu Appalam",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189821_1-rachana-tamilnadu-appalam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plain Potato Papad - With Rock Salt, Best For Fasting",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241825_1-balasa-plain-potato-papad-with-rock-salt-best-for-fasting.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Potato Papad",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297257_3-ramji-mini-potato-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Phoool Papad",
+    "sku_type": "150 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213261_1-royal-phoool-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pani Puri Papad - Ready To Fry Or Bake, Crispy",
+    "sku_type": "150 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241839_1-balasa-pani-puri-papad-ready-to-fry-or-bake-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Urad Masala Wadi - Ready To Cook",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227916_1-royal-urad-masala-wadi-ready-to-cook.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jeera Papad - Big, Fresh & Cripsy, Traditional Taste",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241831_1-balasa-jeera-papad-big-fresh-cripsy-traditional-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Udad Dal, Mini",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217968_2-balasa-papad-udad-dal-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad  - Garlic With Green Chilli",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217969_2-balasa-papad-garlic-with-green-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2D Papad Potato Penne Shape - Navratri Special",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212723_1-royal-2d-papad-potato-penne-shape-navratri-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "3d Papad - Puff Ball Shape",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212731_1-royal-3d-papad-puff-ball-shape.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheel Fryums - Crispy",
+    "sku_type": "180 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241833_1-balasa-wheel-fryums-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2d Papad - Biscuit Shape",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212728_1-royal-2d-papad-biscuit-shape.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tingo Fry Papad/Fryums",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40297251_2-ramji-tingo-fry-papadfryums.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloo Papad - Ready To Fry",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227929_1-royal-aloo-papad-ready-to-fry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ABCD Fryums - Crispy",
+    "sku_type": "180 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241837_1-balasa-abcd-fryums-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jalballs Pani Puri Kit - Hing",
+    "sku_type": "30 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200461_1-shareat-jalballs-pani-puri-kit-hing.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "2D Papad Potato Crinkle Shape - Navratri Special",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212724_1-royal-2d-papad-potato-crinkle-shape-navratri-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sindhi Papad - Big, Fresh & Cripsy, Traditional Taste",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241829_1-balasa-sindhi-papad-big-fresh-cripsy-traditional-taste.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Mixed",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000404_2-mehak-papad-mixed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato Chips - Special",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000693_1-mehak-potato-chips-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Badi - Moong Daal",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000694_2-mehak-badi-moong-daal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chana Masala Papad",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201297_1-dnv-chana-masala-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Special Udad Masala",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016460_1-atish-papad-special-udad-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plain Pappad",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001072_3-24-mantra-organic-pappadam-plain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Urad Chips",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001687_3-saravanas-chips-urad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Punjabi Masala",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295242_3-iyers-papad-punjabi-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Finger - White",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295245_6-iyers-gold-finger-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fancy Bites Fryums - Ghatia",
+    "sku_type": "150 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009860_1-ganesh-papad-fancy-bites-fryums-ghatia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Masala Round Chips",
+    "sku_type": "120 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295227_7-iyers-papad-masala-round-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam - Rice",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005048_1-sri-seetaraman-appalam-rice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fancy Bites Fryums - Medium Wheel",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009855_2-ganesh-papad-fancy-bites-fryums-medium-wheel.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Curd Chillies",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001676_3-saravanas-chillies-curd.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fancy Bites Fryums - Small Ring",
+    "sku_type": "150 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009857_2-ganesh-papad-fancy-bites-fryums-small-ring.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Papad - Punjabi Masala",
+    "sku_type": "1 kg - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/140448_2-lijjat-papad-punjabi-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aloo Sabudana Sticks/Papad/Fryums - Crispy",
+    "sku_type": "100 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241841_1-balasa-aloo-sabudana-stickspapadfryums-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Soya Papad - Pudina",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40035516_1-pravs-soya-papad-pudina.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Appalam Vegetarian Papad",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345865_1-panda-treats-appalam-vegetarian-papad.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bat Racquet Swing Fryums - Crispy",
+    "sku_type": "180 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40241838_1-balasa-bat-racquet-swing-fryums-crispy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sandige - Aralu",
+    "sku_type": "150 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/295235_4-iyers-sandige-aralu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Akki Happala/Rice Flour Papad - No Preservatives",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218415_1-delight-foods-akki-happalarice-flour-papad-no-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mor Melagai/Sun Dried Curd Chillies/Dahi Mirchi",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40218414_1-delight-foods-mor-melagaisun-dried-curd-chilliesdahi-mirchi.jpg?tr=w-154,q-80"
+  }
+]

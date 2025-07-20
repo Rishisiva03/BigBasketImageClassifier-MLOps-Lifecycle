@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Eau-De-Cologne",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40007036_1-premium-eau-de-cologne.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cologne - Scuba For Men",
+    "sku_type": "100 ml ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191231_2-ustraa-cologne-scuba-for-men.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cologne - Tattoo For Men",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191232_2-ustraa-cologne-tattoo-for-men.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "After Dark Cologne For Men",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40188116_4-ustraa-after-dark-cologne-for-men.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pure Oud Eau De Cologne Spray - Provides Long-Lasting Fragrance, Imported, For Men & Women",
+    "sku_type": "120 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40251922_1-royal-mirage-pure-oud-eau-de-cologne-spray-long-lasting-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "4711 Floral Collection Jasmine Eau de Cologne 100ml",
+    "sku_type": "100 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40260659_1-4711-4711-floral-collection-jasmine-eau-de-cologne-100ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "G2 Cologne Spray - 0% Gas, Long-Lasting Fragrance, For Women",
+    "sku_type": "135 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40300912_1-engage-g2-cologne-spray-0-gas-long-lasting-fragrance-for-women.jpg?tr=w-154,q-80"
+  }
+]

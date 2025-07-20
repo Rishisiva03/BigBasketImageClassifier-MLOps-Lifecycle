@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Coffee Powder Speciality Blend",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/186070_9-cothas-coffee-.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Filter Coffee - Green Label",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/262799_24-bru-filter-coffee-green-label.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coffee Powder Premium Special - Hotel Blend",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/186077_3-cothas-coffee-coffee-powder-premium-special.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coffee - Udhayam, Blend of Coffee & Chicory",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003875_1-narasus-coffee-udhayam-blend-of-coffee-chicory.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coffee Powder Premium Blended",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100333523_5-cothas-coffee-coffee-powder-premium-blended.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coffee - Pure",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40003714_1-narasus-coffee-pure.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "French Roast Home Espresso Dark Roasted Arabica Ground Coffee",
+    "sku_type": "250 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40253230_4-blue-tokai-french-roast-home-espresso-coffee-100-arabica-dark-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Malgudi Fresh Filter Coffee Powder",
+    "sku_type": "500 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40226757_3-continental-malgudi-fresh-filter-coffee-80-degree.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cold Brew Coffee  - Assorted",
+    "sku_type": "250 g - (5 Bags x 50 g each)",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210576_5-sleepy-owl-cold-brew-coffee-assorted.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Get Slim Juice - Aids Metabolism & Digestion",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40117942_8-kapiva-get-slim-juice.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lean Body L-Carnitine 2000 mg Lemon Flavour Effervescent",
+    "sku_type": "20 pcs ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227262_4-fastup-l-carnitine-tartrate-advanced-effervescent-tablet-for-burning-fat-lemon-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "ACV With Mother Vit.B6 + B12 Green Apple Effervescent",
+    "sku_type": "15 pcs ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40275610_3-fastup-apple-cider-vinegar-effervescent-tablets-with-mother-added-vit-b6b12-weight-management-gut-health-green-apple-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lean Body L-Carnitine 2000 mg Orange Flavour Effervescent",
+    "sku_type": "20 pcs - Tube",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324799_3-fastup-fat-burner-lean-body-tablets-2000-mg-l-carnitine-for-fat-weight-loss-orange-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "juice - Giloy",
+    "sku_type": "500 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016322_3-patanjali-juice-giloy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Divya Medohar Vati",
+    "sku_type": "100 pcs ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189327_4-patanjali-divya-medohar-vati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garcinia+ Slimming Capsules - Aids Weight Loss",
+    "sku_type": "60 pcs ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40131647_3-kapiva-garcinia-slimming-capsules-aids-weight-loss.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Get Slim Ayurvedic Green Tea With Garcinia - Helps In Detox",
+    "sku_type": "100 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40139738_2-kapiva-get-slim-ayurvedic-tea-7-active-ingredients.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ancho Lean - Weight-Loss, 1000mg",
+    "sku_type": "60 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40190934_2-sri-sri-tattva-ancho-lean-weight-loss-1000mg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shape Up Waist & Tummy Trim Gel For A Flatter & Firmer Waist",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20001518_6-vlcc-shape-up-waist-tummy-trim-gel.jpg?tr=w-154,q-80"
+  }
+]

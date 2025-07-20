@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Fish Egg",
+    "sku_type": "450 g - (Gross Weight 500-520 g, Net Weight After Cleaning 500 g)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40087796_1-fresho-fish-egg-preservative-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Breaded Spicy Fish Fingers",
+    "sku_type": "200 g - (8 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315634_1-gadre-breaded-spicy-fish-fingers.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Squid",
+    "sku_type": "250 g - (2-3 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109899_1-fresho-squid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crab Cut",
+    "sku_type": "450 g - (20-24 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40055172_3-fresho-crab-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crab Cut",
+    "sku_type": "250 g - (12-14 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40055171_1-fresho-crab-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Squid Without Head-Medium",
+    "sku_type": "450 g - (15-20 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000967_8-fresho-squid-medium-without-head-15-20-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Squid Without Head-Medium",
+    "sku_type": "250 g - (8-10 pcs)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000968_7-fresho-squid-medium.jpg?tr=w-154,q-80"
+  }
+]

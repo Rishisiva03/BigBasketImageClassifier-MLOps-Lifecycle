@@ -1,0 +1,1340 @@
+[
+  {
+    "name": "Mixed Dry Fruits",
+    "sku_type": null,
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018891_6-bb-royal-mixed-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Chia Seeds",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114968_14-true-elements-raw-chia-seeds-premium-raw-chia-seeds-for-eating.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Pumpkin Seeds/Kumbalakayi Bija",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018816_10-bb-royal-green-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026605_9-bb-royal-seeds-flax.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sabja Seeds",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053908_3-bb-royal-seeds-sabja.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Watermelon Seeds/Kallangadi Bija",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40053894_4-bb-royal-watermelontarbuj-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seed Mix",
+    "sku_type": "200 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280370_5-farmley-5-in-1-protein-mix-rich-in-protein-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280383_2-farmley-premium-chia-seeds-unroasted-rich-in-omega-3-fatty-acids.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280384_4-farmley-premium-jumbo-pumpkin-seeds-crunchy-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Seeds",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112396_3-bb-royal-seeds-sunflower.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Pumpkin Seeds - High Fibre & Protein, Nutritious",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40042049_19-true-elements-raw-pumpkin-seeds-premium-jumbo-authentic-healthy-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew/Godambi - Roasted & Salted",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000527_11-bb-royal-cashewkaju-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Combo - Walnuts, Cashews, Almonds, Raisins, Pistachios",
+    "sku_type": "250 g - (Pack of 5)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279868_5-zoff-dry-fruit-combo-walnuts-cashews-almonds-raisins-pistachios-boosts-energy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Trail Mix",
+    "sku_type": "200 g ",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280372_3-farmley-7-in-1-nutty-mix-rich-in-protein-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Watermelon/Magaj Seeds - Protein-Rich",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216263_2-true-elements-raw-watermelon-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew/Godambis - Roasted & Salted (Premium Range)",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018134_3-delicious-cashews-roasted-salted-premium-range.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40112526_2-bb-royal-seeds-chia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruit Combo - Cashews, Raisins, Almonds",
+    "sku_type": "250 g - (Pack of 3)",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279869_4-zoff-mini-dry-fruit-combo-cashews-raisins-almonds-boosts-energy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berry Mix",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280371_6-farmley-8-in-1-berry-mix-rich-in-protein-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Protein 7-In-1 Seed & Nut Mix",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322357_3-tata-sampann-protein-7-in-1-seed-nut-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Flax Seeds - Rich In Omega 3 Fatty Acid, Healthy",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40114971_11-true-elements-flax-seeds-raw.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Almonds With Pink Salt - Flavourful & Crunchy",
+    "sku_type": "75 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229166_4-tasties-roasted-almonds-with-pink-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Pure Premium Sunflower Seeds",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312412_5-tata-sampann-100-pure-premium-sunflower-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "California Almonds - Roasted & Salted",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000520_8-bb-royal-almondbadam-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruits & Nut Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322138_1-grocery-farm-dry-fruits-nut-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Basil Seeds",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322145_1-grocery-farm-indian-basil-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Smoked Almonds - Flavourful & Crunchy",
+    "sku_type": "75 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229163_4-tasties-smoked-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Seeds - High Protein & Vitamin E, Gluten-Free, Vegan",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223243_1-wonderland-foods-sunflower-seeds-high-protein-vitamin-e-gluten-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Party Mix - Mixed Nuts, Healthy Snacks Contains Mixed Dry Fruits, Nuts & Seeds",
+    "sku_type": "500 g - Jar",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307871_1-farmley-party-mix-healthy-tasty-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Almond Giri",
+    "sku_type": "100 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313213_1-sapphire-roasted-almond-giri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Cashew - Roasted, No Added Oil, Tasty & Crispy",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258686_1-chinar-cashew-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313229_1-sapphire-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Caramel Almonds With Sesame Seeds - Healthy Snack, Gluten-Free, Vegan",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212780_7-fabbox-caramel-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Cashew - Tasty & Crispy",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258679_1-chinar-cashew-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Celebration Gift Pack - Assorted Nuts",
+    "sku_type": "400 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316706_2-sapphire-celebration-gift-pack-assorted-nuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Pumpkin Seeds - Rich Source Of Nutrients For Hair Growth",
+    "sku_type": "125 g - Jar",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238551_1-qualinut-gourmet-raw-pumpkin-seeds-rich-source-of-nutrients-for-hair-growth.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Seeds - Pumpkin, Chia, Sunflower, Flax, Watermelon",
+    "sku_type": "200 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312707_1-wonderland-foods-mixed-seeds-pumpkin-chia-sunflower-flax-watermelon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Watermelon Seeds",
+    "sku_type": "500 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338521_1-farmley-watermelon-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Chilli Roasted Cashews Kaju Snacks - Rich In Protein, Crunchy & Delicious",
+    "sku_type": "200 g - Pouch",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307869_1-farmley-thai-chilli-roasted-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Salted & Roasted Cashews/Kaju",
+    "sku_type": "190 g ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320398_4-tata-sampann-classic-salted-roasted-cashew.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Party Mix - Mixed Nuts, Healthy Snacks Contains Mixed Dry Fruits, Nuts & Seeds",
+    "sku_type": "60 g - Pouch",
+    "rating": "4.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307880_4-farmley-party-mix-protein-rich-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Chia Seeds",
+    "sku_type": "150 g ",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203268_1-everyday-four-raw-chia-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Elaichi Mewa",
+    "sku_type": "30 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311486_1-nut-valley-kesar-elaichi-mewa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw California Almonds - Rich In Vitamin E, No Added Salt Or Preservatives",
+    "sku_type": "200 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223246_3-wonderland-foods-raw-california-almonds-rich-in-vitamin-e-no-added-salt-or-preservatives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds - Gluten Free",
+    "sku_type": "150 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40118736_5-nourish-you-certified-organic-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Mix - Mexican Peri Peri, Assorted Dry Fruits",
+    "sku_type": "21 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459166_3-farmley-snack-mix-mexican-peri-peri-assorted-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Active Heart Special Flax Seeds",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40213677_1-india-gate-active-heart-special-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scented Sweet Betel Nut Pieces - Blended With Saffron",
+    "sku_type": "40 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229475_1-kalpa-scented-sweet-betel-nut-pieces-blended-with-saffron.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Flax Seeds",
+    "sku_type": "150 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203266_1-everyday-four-raw-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kaju - Salted, Rich In Protein & Fibre",
+    "sku_type": "100 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40266723_1-mayurank-kaju-salted-rich-in-protein-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted Nuts - Roasted & Salted",
+    "sku_type": "80 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018135_3-delicious-assorted-nuts-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashew/Godambis - Hot Pepper",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195102_3-bb-royal-flavoured-cashews-hot-pepper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cut Amla With Honey",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224226_2-saaral-cut-amla-with-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Certified Organic - Pumpkin Seeds/Kumbalakayi Bija",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40118739_5-nourish-you-certified-organic-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coconut Flakes",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40156263_2-harin-coconut-flakes.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds - Rich In Omega-3, Lignahs",
+    "sku_type": "200 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223224_1-wonderland-foods-flax-seeds-rich-in-omega-3-lignahs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198168_3-himalayan-natives-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Pumpkin Seeds",
+    "sku_type": "150 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203262_1-everyday-four-raw-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Cashews - Roasted & Salted",
+    "sku_type": "18 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303175_1-prov-mini-cashews-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Pumpkin Seeds",
+    "sku_type": "150 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203263_1-everyday-four-roasted-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Pure Premium Flax Seeds",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312411_5-tata-sampann-100-pure-premium-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Mix Seeds",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203260_1-everyday-four-raw-mix-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Seeds - Nutty Flavour, Provides Shiny Skin & Hair",
+    "sku_type": "250 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40174852_3-nutriplate-sunflower-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashew/Godambis - Creamy Onion",
+    "sku_type": "250 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195103_3-bb-royal-flavoured-cashews-creamy-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil/Sabja/Tukmaria Seeds",
+    "sku_type": "150 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204843_4-himalayan-natives-basilsabjatukmaria-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pumpkin Seeds/Kumbalakayi Bija",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204841_4-himalayan-natives-natives-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Munakka - Rich In Protein, Perfect Snack",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40280374_2-farmley-premium-munakka-rich-in-protein-perfect-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nuts Exotica Mix - Almonds, Pistachio, Pecan, Hazel, Macadamia, & Brazil Nuts",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312704_1-wonderland-foods-nuts-exotica-mix-almonds-pistachio-pecan-hazel-macadamia-brazil-nuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "100% Premium Nuts & Dry Fruits Collection - Almonds, Cashews & Raisins, For Gifting",
+    "sku_type": "200 g - (Pack of 3)",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40278919_6-tata-sampann-100-premium-nuts-dry-fruits-collection-gift-pack-almonds-cashews-raisins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Garden Cress Asario Seeds - High Fibre",
+    "sku_type": "450 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228906_3-himalayan-natives-natural-garden-cress-asario-seeds-high-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruits Gift Pack - Ideal For Gifting, For Festivals & Special Occasions",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230669_1-kaajoy-dry-fruits-gift-pack-ideal-for-gifting-for-festivals-special-occasions.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40144646_3-grocery-farm-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Til",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065514_3-chuk-de-white-til.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew/Godambis - Chilli Garlic Dry Roasted",
+    "sku_type": "80 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018136_3-delicious-cashews-chilli-garlic-dry-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seed",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057154_5-mark-premium-chia-seed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Desiccated Coconut Powder",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036755_3-maxcare-desiccated-coconut-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tarbooj Magaz",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40065512_3-chuk-de-tarbooj-magaz.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Certified Organic - Watermelon Seeds/Kallangadi Bija",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40118738_5-nourish-you-certified-organic-watermelon-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavours Cashew - Roasted & Salted",
+    "sku_type": "200 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303163_1-prov-flavours-cashew-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Seeds",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307873_4-farmley-premium-sunflower-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Betel Nut Pieces - Hot Supari Blended With Saffron",
+    "sku_type": "40 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229476_1-kalpa-betel-nut-pieces-hot-supari-blended-with-saffron.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Nut & Seed Mix",
+    "sku_type": "18 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303176_1-prov-mini-nut-seed-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew - Chilli Garlic Flavour",
+    "sku_type": "150 g - Jar",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312708_1-wonderland-foods-cashew-chilli-garlic-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Dose Mixed Nuts Seeds & Berries",
+    "sku_type": "325 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315110_1-yoga-bar-daily-dose-mixed-nuts-seeds-berries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dahi Papdi Chaat Roasted Whole Cashews - Crunchy, Rich In Protein",
+    "sku_type": "25 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279272_1-jawai-dahi-papdi-chaat-roasted-whole-cashews-crunchy-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Trail Mix - Berries Nuts & Choco Drops",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101415_1-mark-premium-trail-mix-berries-nuts-choco-drops.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Trail Mix - Mix Seeds",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101414_2-mark-premium-trail-mix-mix-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashews - Assorted",
+    "sku_type": "250 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195109_3-bb-royal-flavoured-cashews-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix Dry Fruits - Rich, Small",
+    "sku_type": "130 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258668_1-chinar-mix-of-df-small-box.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800454411_2-nutraj-chia-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew/Godambis - Pepper Dry Roasted",
+    "sku_type": "80 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018138_3-delicious-cashews-pepper-dry-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds - High Protein, Gluten Free, Vegan",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223240_1-wonderland-foods-chia-seeds-high-protein-gluten-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Flax Seeds",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198169_3-himalayan-natives-roasted-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amla With Honey",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224224_2-saaral-amla-with-honey.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198167_3-himalayan-natives-chia-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diwali Gift Box",
+    "sku_type": "400 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088731_23-bb-royal-diwali-gift-box.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Basil/Sabja/Tukmaria Seeds - Helps In Weight Loss & Control",
+    "sku_type": "150 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229420_1-everyday-four-raw-basilsabjatukmaria-seeds-helps-in-weight-loss-control.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flaxseed",
+    "sku_type": "200 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20003073_9-safe-harvest-flaxseed-pesticide-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Seeds & Berries Mix With Seeds Of Pumpkin, Chia, Sunflower, Flax & Watermelon, Dried Cranberries & Blueberries",
+    "sku_type": "200 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312702_1-wonderland-foods-seeds-berries-mix-with-seeds-of-pumpkin-chia-sunflower-flax-watermelon-dried-cranberries-blueberries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dried Coconut Scrape",
+    "sku_type": "200 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169759_3-kanchana-dried-coconut-scrape.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gulkand - Ethnic & Indian Wellness Recipe",
+    "sku_type": "250 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224225_2-saaral-gulkand-ethnic-indian-wellness-recipe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panchmeva Mix Dried Fruits",
+    "sku_type": "450 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210459_1-nutraj-panchmeva-mix-dried-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Mixed Berries - Whole Dried Cranberry & Blackberry, Natural, Healthy Snack",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800401561_14-fabbox-morning-mixed-berries-dried-cranberries-blackberries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugarfree Power Mix",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800401523_7-fabbox-sugarfree-power-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix Nut Chaat",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800401558_7-fabbox-mix-nut-chaat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Pepper Cashew - Flavourful & Crunchy",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229170_3-tasties-lemon-pepper-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruits Combo - Pistachio & Cashew, Vacuum Packed",
+    "sku_type": "400 g - (Pack of 2)",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232730_1-kitchen-grocery-dry-fruits-combo-pistachio-cashew-vacuum-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashews - Black Pepper Flavour",
+    "sku_type": "150 g - Jar",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312710_1-wonderland-foods-cashews-black-pepper-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew/Godambis - Spanish Chilli Dry Roasted",
+    "sku_type": "80 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018132_2-delicious-cashews-spanish-chilli-dry-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Trail Mix - Sweet & Nuts Cocktail",
+    "sku_type": "50 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40092349_1-mark-premium-trail-mix-sweet-nuts-cocktail.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew/Godambis - Dry Roasted & Cheese Flavour",
+    "sku_type": "80 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018130_3-delicious-cashews-dry-roasted-cheese-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natives Sunflower Seeds/Suryakanti Bija",
+    "sku_type": "150 g - Without Shell",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40204840_4-himalayan-natives-natives-sunflower-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Black Pepper Roasted Cashews",
+    "sku_type": "36 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307874_4-farmley-black-pepper-roasted-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanuts With A Tangy Twist - Ready To Eat Savoury Snack",
+    "sku_type": "36 g - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229734_1-pulse-natkaare-peanuts-with-a-tangy-twist-ready-to-eat-savoury-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almonds - Honey Roasted",
+    "sku_type": "80 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018140_2-delicious-almonds-honey-honey-roasted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Signature Gift Pack - Forever Nuts",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40045914_6-nutraj-signature-gift-pack-forever-nuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seed - Rosted, With Rock Salt",
+    "sku_type": "50 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40121573_4-harshaman-flax-seed-rosted-with-rock-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Muskmelon/Kharbooja -Seeds",
+    "sku_type": "50 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000421_4-bb-royal-muskmelonkharbooja-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Almonds - Flavourful & Crunchy",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229167_5-tasties-chilli-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds Mouth Freshener",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40269959_2-bb-royal-flax-seeds-mouth-freshener.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Tooty - Fruity Tub",
+    "sku_type": "150 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000165_2-nilons-sweet-tooty-fruity-tub.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fennel Seeds/Saunf",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324020_1-popular-essentials-fennel-seedssaunf.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashew/Godambis - Thai Chilli",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195107_3-bb-royal-flavoured-cashews-thai-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashew/Godambis - Chatpat Chaat",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195104_3-bb-royal-flavoured-cashews-chatpat-chaat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Healthy Happiness Gift Pack",
+    "sku_type": "600 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181057_4-balaji-healthy-happiness-gift-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Whole Cashews - Burnt Garlic, Premium Goan Kaju, Healthy Snack, Superfood",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212779_7-fabbox-burnt-garlic-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Honey Almonds With Flaxseed - Flavourful & Crunchy",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229168_3-tasties-honey-almonds-with-flaxseeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutty Almonds - Caramel Sea Salt, Zero Refines Sugar",
+    "sku_type": "135 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210148_3-open-secret-nutty-almonds-caramel-sea-salt-zero-refined-sugar-prebiotics-probiotics-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashew/Godambis - Magic Masala",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195108_3-bb-royal-flavoured-cashews-magic-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashew/Godambis - Creamy Chocolate",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195112_3-bb-royal-flavoured-cashews-creamy-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashews - Apple Cinnamon",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195111_3-bb-royal-flavoured-cashews-apple-cinnamon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew - Roasted Chilli",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057131_2-mark-premium-cashew-roasted-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Healthy Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322139_1-grocery-farm-healthy-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Pecan Nuts - Lightly Salted",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323080_1-gourmia-roasted-pecan-nuts-lightly-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Feast Mix - Assorted Dry Fruits",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323081_1-gourmia-feast-mix-assorted-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panchmewa - Mixed Dry Fruits",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323069_1-naturoz-panchmewa-mixed-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Cashew - Flavoured Crispy Nuts, Small",
+    "sku_type": "130 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258665_1-chinar-roasted-small-box-cashew.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Macadamia Nuts - Lightly Salted",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323079_1-gourmia-roasted-macadamia-nuts-lightly-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix Dry Fruits - Rich, Medium",
+    "sku_type": "260 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258669_1-chinar-mix-of-df-medium-box.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond - Roasted, No Added Oil, Fresh & Crispy",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258687_1-chinar-roasted-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salted Cashew",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313217_1-sapphire-salted-cashew.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Salted Almonds",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315206_2-farmley-classic-salted-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Almonds",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313632_2-yellow-bytes-roasted-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Large Cashew - Premium Roasted & Salted",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313630_3-yellow-bytes-roasted-cashew.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Butter - Natural Crunchy",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313633_1-yellow-bytes-peanut-butter-natural-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds - Premium Raw",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313636_2-yellow-bytes-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Pumpkin Seeds",
+    "sku_type": "250 g - Mono Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322937_1-rtc-foods-raw-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kesar Mishri",
+    "sku_type": "40 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311488_1-nut-valley-kesar-mishri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313228_1-sapphire-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332294_1-snackamor-chia-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Seeds",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313230_1-sapphire-sunflower-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Cashew Masala",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313218_1-sapphire-roasted-cashew-masala.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Nuts Gift Pack - Royal Signature",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313224_1-sapphire-super-seeds-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panchanand - Blend Of Coated Nuts, Dry Fruit & Saffron",
+    "sku_type": "35 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311487_1-nut-valley-panchanand-blend-of-coated-nus-dry-fruit-saffron.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Desiccated Coconut Powder",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322135_1-grocery-farm-indian-desiccated-coconut-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Seeds - Dry, Salted & Roasted, Rich In Vitamins, Boosts Immune System",
+    "sku_type": "200 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238671_2-molsis-sunflower-seeds-dry-salted-roasted-rich-in-vitamins-boosts-immune-system.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted & Salted Cashews",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222629_1-njn-roasted-salted-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Roasted Whole Cashews - Crunchy, Rich In Protein",
+    "sku_type": "25 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279269_1-jawai-peri-peri-roasted-whole-cashews-crunchy-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flavoured Cashews - Jumpy Jalapeno",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195110_3-bb-royal-flavoured-cashews-jumpy-jalapeno.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Almonds - Barbeque, Premium California Badam, Healthy Snack, Superfood",
+    "sku_type": "125 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212785_7-fabbox-barbeque-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Royal Treat Gift Pack",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181060_3-balaji-royal-treat-gift-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Mix Seeds",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203261_1-everyday-four-roasted-mix-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Cashews - Thai Chilli",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323076_1-gourmia-roasted-cashews-thai-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Almonds - Sour Cream Onion",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323074_1-gourmia-roasted-almonds-sour-cream-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panchmeva Dryfruit Mix",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327794_1-bolas-panchmeva-dryfruit-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Seeds Mix",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327789_1-bolas-roasted-seeds-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sunflower Seeds",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329357_1-nutraj-sunflower-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Rite Cashew - Roasted & Salted",
+    "sku_type": "150 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329360_1-nutraj-snack-rite-cashew-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329358_1-nutraj-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Rite Almond - Roasted & Salted",
+    "sku_type": "150 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329361_1-nutraj-snack-rite-almond-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "MANGROVE DAILY BAZAR Salted Cashew Mixed Grade - Crunchy",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40288095_1-mangrove-daily-bazar-salted-cashew-mixed-grade-crunchy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Trail Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329292_1-bolas-daily-trail-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pumpkin Seeds - Premium Raw",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313638_2-yellow-bytes-pumpkin-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds - Premium Raw",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313639_2-yellow-bytes-chia-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Healthy Festivities Dry Fruits Gift Box - Raisins, Roasted & Lightly Salted Almonds & Cashews",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40317857_1-wonderland-foods-healthy-festivities-dry-fruits-gift-box-raisins-roasted-lightly-salted-almonds-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix Of Celebration Premium Dry Fruits",
+    "sku_type": "600 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40331296_1-grocery-farm-mix-of-celebration-600-gram-of-premium-dry-fruits-gift-box-with-dryfruit-nut-mix-berries-mix-healthy-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shagun Gift Box - Assorted Dry Fruits & Nuts",
+    "sku_type": "200 g - (4 pcs x 50 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318560_3-tata-sampann-shagun-premium-dry-fruits-nuts-collection-gift-box.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Signature Gift Pack - 3 Nuts Wishes Pack Plain",
+    "sku_type": "600 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40045912_1-nutraj-signature-gift-pack-3-nuts-wishes-pack-plain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Combo - Mix Dry Fruit",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40098015_1-bb-royal-combo-mix-dry-fruit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Royal Milan Festival Gift Pack - Assorted Nuts",
+    "sku_type": "1 kg - (4 pcs x 250 g each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40319530_3-sapphire-dry-nuts-royal-milan-festival-gift-pack-assorted-nuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Magic Masala Roasted Whole Cashews - Crunchy, Rich In Protein & Fibre",
+    "sku_type": "25 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279271_1-jawai-magic-masala-roasted-whole-cashews-crunchy-rich-in-protein-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew/Godambi - Roasted & Salted",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075101_6-bb-royal-cashewkaju-roasted-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Watermelon Seeds - High Protein, Gluten Free, Vegan",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223244_1-wonderland-foods-watermelon-seeds-high-protein-gluten-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds - High Protein, Gluten Free, Vegan",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223241_1-wonderland-foods-flax-seeds-high-protein-gluten-free-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hemp Hearts -  Nutritional Seeds, Improves Mood & Immunity",
+    "sku_type": "250 g - Tube",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40250734_2-india-hemp-and-co-hemp-hearts-nutritional-seeds-improves-mood-immunity.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Cashew - Flavoured Crispy Nuts, Medium",
+    "sku_type": "270 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258666_1-chinar-roasted-medium-box-cashew.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond - Roasted & Salted, Rich In Fibre, Boosts Immunity, Gluten Free",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240579_1-mark-premium-almond-roasted-salted-rich-in-fibre-boosts-immunity-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Quality Sunflower Seeds - Rich In Nutritional Benefits",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242707_1-jewel-farmer-premium-quality-sunflower-seeds-rich-in-nutritional-benefits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Roasted Californian Almonds - Crunchy, Rich In Protein",
+    "sku_type": "25 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40279277_1-jawai-peri-peri-roasted-californian-almonds-crunchy-rich-in-protein.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Cashew - Flavoured Crispy Nuts, Large",
+    "sku_type": "490 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258667_1-chinar-roasted-large-box-cahsew.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruits Combo - Cashew Nut, Almond & Pistachio, Vacuum Packed",
+    "sku_type": "600 g - (Pack of 3)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232733_1-kitchen-grocery-dry-fruits-combo-cashew-nut-almond-pistachio-vacuum-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Kaju",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295483_2-a-vaishali-roasted-kaju.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aam Sotto Mango Papad - Filtered",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40267574_1-mayurank-aam-sotto-mango-papad-filtered.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Daily Berry Mix",
+    "sku_type": "200 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210460_2-nutraj-daily-berry-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Fruits Combo - Indian Kismiss, Pistachio, Walnut, Vacuum Packed",
+    "sku_type": "550 g - (Pack of 3)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40232735_1-kitchen-grocery-dry-fruits-combo-indian-kismiss-pistachio-walnut-vacuum-packed.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Berries & Nuts Trail Mix",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313226_1-sapphire-berries-nuts-trail-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted & Salted Cashews",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313215_1-sapphire-roasted-salted-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Butter - Natural Creamy",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313634_1-yellow-bytes-peanut-butter-natural-creamy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Butter - Chocolate Creamy",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313635_1-yellow-bytes-peanut-butter-chocolate-creamy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dried Raw Sunflower Seeds",
+    "sku_type": "250 g - Mono Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322939_1-rtc-foods-sunflower-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chia Seeds",
+    "sku_type": "250 g - Mono Carton",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40322933_1-rtc-foods-chia-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Uphaar Premium Gift Pack - Assorted Seeds",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316708_1-sapphire-uphaar-premium-gift-pack-assorted-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Signature Roasted & Salted Cashew/Godambi - W240",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/70000006_6-nutraj-signature-roasted-salted-cashew-w240.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Himalayan Hemp Hearts",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40341865_1-hemptyful-himalayan-hemp-hearts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Assorted Nuts - Cashew, Almond & Pista",
+    "sku_type": "30 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343570_1-ibaco-assorted-nuts-cashew-almond-pista.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amal Murabba",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800388407_1-phondaghat-pharmacy-amal-murabba.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bel Murabba",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/800388411_1-phondaghat-pharmacy-bel-murabba.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix Dry Fruit",
+    "sku_type": "500 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458690_2-shree-shakuntalam-mix-dry-fruit-500g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Mix - Tropical Savoury, Assorted Dry Fruits",
+    "sku_type": "20 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459164_3-farmley-snack-mix-dry-fruits-tropical-savoury.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rose Gulkand",
+    "sku_type": "250 g - PET Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900460837_1-saliah-foods-private-limited-rose-gulkand.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diwali Gift Box - Dry Fruit, 499",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40041439_16-bb-royal-diwali-gift-box-dry-fruit-499.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew - Salted",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40057129_3-mark-premium-cashew-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Flax Seeds",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307872_4-farmley-premium-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Dry Fruits",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40314377_1-mai-rasoi-mixed-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic Salted & Roasted Almonds/Badam",
+    "sku_type": "190 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320397_4-tata-sampann-classic-salted-roasted-almond.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Paan Flavoured Raisins",
+    "sku_type": "15 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346230_1-madmix-paan-flavoured-raisins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Panchmeva Mix Vrat Essentials",
+    "sku_type": "400 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346554_2-tata-sampann-panchmeva-mix-vrat-essentials.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "10-in-1 Berries Mix Dashaamrit",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346555_2-tata-sampann-10-in-1-berries-mix-dashaamrit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mango Flavoured Raisins",
+    "sku_type": "15 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40346231_1-madmix-mango-flavoured-raisins.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snack Mix - Oudh Pan & Rose, Assorted Dry Fruits",
+    "sku_type": "18 g - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900459165_1-farmley-snack-mix-oudh-pan-rose-assorted-dry-fruits.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chilli Garlic Cashew - Flavourful & Crunchy",
+    "sku_type": "75 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229169_4-tasties-chilli-garlic-cashews.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashews - Peri Peri",
+    "sku_type": "70 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338033_1-wonderland-foods-cashews-peri-peri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cashew - Roasted & Salted",
+    "sku_type": "25 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338031_1-wonderland-foods-cashew-roasted-salted.jpg?tr=w-154,q-80"
+  }
+]

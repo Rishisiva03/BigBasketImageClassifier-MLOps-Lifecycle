@@ -1,0 +1,56 @@
+[
+  {
+    "name": "White Label Sugar",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40214887_2-parrys-white-label-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40253563_1-madhur-sugar-pure-hygienic-fine-grain-natural-sulphur-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar/Sakkare",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005417_9-bb-popular-sugar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Organic - Jaggery/Bella",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125919_12-bb-royal-organic-jaggery.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar - Low GI",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1223784_5-bb-gooddiet-33-low-gi-sugar-clinically-tested.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Jaggery/Bella Powder",
+    "sku_type": "300 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40185318_5-slurrp-farm-natural-jaggery-powder.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Candy",
+    "sku_type": "200 g - Box",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40324881_1-menu-maker-edible-colourful-sugar-candy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "SHRUTI'S COCONUT JAGGERY POWDER",
+    "sku_type": "250 g - Jar",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40236466_2-shrutis-coconut-palm-jaggery-powder-naturally-processed-unrefined.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raw Sugar Khandsari",
+    "sku_type": "1 kg - Pouch",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287982_1-atri-foods-raw-sugar-khandsari.jpg?tr=w-154,q-80"
+  }
+]

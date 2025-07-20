@@ -1,0 +1,848 @@
+[
+  {
+    "name": "Mushrooms - Button",
+    "sku_type": "1 pack - (Approx. 180g - 200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000273_17-fresho-mushrooms-button.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cucumber - English (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40018523_5-fresho-cucumber-english.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Broccoli",
+    "sku_type": "1 pc - (Approx. 250g-500g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000063_21-fresho-broccoli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn (Loose)",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004992_15-fresho-sweet-corn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Green, Organically Grown (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000478_6-fresho-capsicum-green-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Potato - Organically Grown (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000554_6-fresho-sweet-potato-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baby Potato (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000316_17-fresho-baby-potato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mint - Organically Grown",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000531_7-fresho-mint-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "English Cucumber - Organically grown (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40050057_4-fresho-english-cucumber-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Iceberg",
+    "sku_type": "1 pc - (Approx. 250g-500g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000133_19-fresho-lettuce-iceberg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Red, Organically Grown (Loose)",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124625_2-fresho-capsicum-red-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Amaranthus - Red Cleaned, without roots",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000576_14-fresho-amaranthus-red-cleaned-without-roots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mushrooms - Oyster",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020768_1-fresho-mushrooms-oyster.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato - Cherry",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000198_16-fresho-tomato-cherry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Green",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000131_15-fresho-lettuce-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Yellow, Organically Grown (Loose)",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40124626_2-fresho-capsicum-yellow-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jackfruit - Cut, Raw",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100024_4-fresho-jackfruit-cut-raw.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Basil - Italian",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000314_14-fresho-basil-italian.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dill Leaves",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000106_19-fresho-dill-leaves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baby Corn - Peeled",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000322_16-fresho-baby-corn-peeled.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Broccoli - Florets",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016101_5-fresho-broccoli-florets.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pak Choi",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000157_15-fresho-pak-choi.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem Leaves - Organically Grown",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007409_6-fresho-neem-leaves-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brussel Sprouts",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001451_11-fresho-brussel-sprouts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baby Spinach - Hydroponically Grown",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198829_2-fresho-baby-spinach-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Grass - Organically Grown",
+    "sku_type": "20 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40001526_15-fresho-wheat-grass-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cucumber - White (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000457_11-fresho-cucumber-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Romaine Lettuce  - Hydroponically Grown With Live Roots",
+    "sku_type": "1 pc - (Approx 125 - 200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198821_2-fresho-romaine-lettuce-hydroponically-grown-with-live-roots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Celery - Hydroponically Grown",
+    "sku_type": "1 pc - (Approx 150 -200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198833_2-fresho-celery-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Red, Hydroponically Grown",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318351_2-fresho-capsicum-red-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snibs Salad Mix Pack",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316259_4-fresho-snibs-salad-mix-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cherry Tomato - Red, Hydroponically Grown",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211689_2-fresho-cherry-tomato-red-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Coral Lettuce - Hydroponically Grown With Live Roots",
+    "sku_type": "1 pc - (Approx 125 - 200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198826_2-fresho-green-coral-lettuce-hydroponically-grown-with-live-roots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Leeks",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000125_14-fresho-leeks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Red",
+    "sku_type": "Approx 70 - 100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40004345_11-fresho-lettuce-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon - Seedless",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40334472_2-fresho-lemon-seedless.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kale - Curled, American",
+    "sku_type": "1 pc - 200 to 250 gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101325_1-fresho-kale-curled-american.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spinach - Hydroponically Grown",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217496_3-fresho-spinach-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Yellow, Hydroponically Grown",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318350_2-fresho-capsicum-yellow-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thyme",
+    "sku_type": "10 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026327_3-fresho-thyme.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "European Cucumber - Seedless, Hydroponically Grown",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228981_2-fresho-european-cucumber-seedless-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Red Oak Lettuce - Hydroponically Grown With Live Roots",
+    "sku_type": "1 pc - (Approx 125 - 200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198824_2-fresho-red-oak-lettuce-hydroponically-grown-with-live-roots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butterhead Lettuce - Hydroponically Grown With Live Roots",
+    "sku_type": "1 pc - (Approx 125 - 200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198822_2-fresho-butterhead-lettuce-hydroponically-grown-with-live-roots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato Cherry - Yellow, Hydroponically Grown",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318349_1-fresho-tomato-cherry-yellow-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Boiled Sweet Corn Kernel - Spice Up With Lemon And Pepper Seasoning",
+    "sku_type": "225 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111610_5-tadaa-boiled-sweet-corn-kernel-spice-up-with-lemon-and-pepper-seasoning.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snibs Tomatoes Pack",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265955_4-fresho-snibs-tomatoes-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snibs Cucumber Pack",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316258_4-fresho-snibs-cucumber-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spring Onion",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002684_7-fresho-spring-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Red",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000990_10-fresho-lettuce-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chupri Alu",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160827_3-fresho-chupri-alu.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Microgreen Radish",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142423_3-fresho-microgreen-radish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hydroponics Parsley",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160847_1-fresho-hydroponics-parsley.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kale - Hydroponically Grown",
+    "sku_type": "130 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224090_2-fresho-kale-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Star Fighter Green, Hydroponically Grown",
+    "sku_type": "100 - 125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211675_2-fresho-lettuce-star-fighter-green-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon Grass - Hydroponically Grown",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228986_2-fresho-lemon-grass-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Candy Tomato - Hydroponically Grown",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211692_1-fresho-candy-tomato-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Black Rose Red, Hydroponically Grown",
+    "sku_type": "100 - 125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211679_1-fresho-lettuce-black-rose-red-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pumpkin - Small",
+    "sku_type": "300 - 700 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160828_2-fresho-baby-pumpkin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Alfalfa Sprouts",
+    "sku_type": "1 pc - Approx. 40-50 gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152763_1-trikaya-alfalfa-sprouts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tamarind - Ripe",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160830_1-fresho-tamarind-ripe.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Iceberg Green, Hydroponically Grown",
+    "sku_type": "1 pc - (100 - 125 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211681_3-fresho-lettuce-iceberg-green-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cherry Tomato - Mix",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228996_1-fresho-cherry-tomato-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kale - Curly Blue, Hydroponically Grown",
+    "sku_type": "100 - 125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211684_1-fresho-kale-curly-blue-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salad Box - Hydroponically Grown",
+    "sku_type": "160 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224095_2-fresho-salad-box-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baby Spinach",
+    "sku_type": "1 pc - Approx. 90-100 gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152804_1-trikaya-baby-spinach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Salad - Mini, Ready To Eat",
+    "sku_type": "1 pc - Approx. 50-60 gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152795_1-trikaya-salad-mini-ready-to-eat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Beans - Double",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160835_3-fresho-white-beans-double.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hydroponics Curled Kale",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160838_1-fresho-hydroponics-curled-kale.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Concorde Green, Hydroponically Grown",
+    "sku_type": "100 - 125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211677_1-fresho-lettuce-concorde-green-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zucchini - Green, Hydroponically Grown",
+    "sku_type": "1 pc - (approx. 180-250g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228979_2-fresho-zucchini-green-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn Kernels - Achari Masti",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40094696_2-supa-corn-sweet-corn-kernels-achari-masti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Flower - Cut",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100023_1-fresho-banana-flower-cut.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snibs Tomatoes Pack",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235631_1-fresho-snibs-tomatoes-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310626_2-fresho-sweet-corn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Palmero Pack",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265958_3-fresho-snibs-sweet-palmero-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fresh Lettuce Mix Box - Hydroponically Grown",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40323003_2-simply-fresh-fresh-lettuce-mix-box-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crest Potatoes - Low GI, Non-GMO, From Himachal Pradesh",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40282510_1-sv-agri-carisma-crest-potatoes-low-gi-non-gmo-from-himachal-pradesh.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40023464_4-supa-corn-sweet-corn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sage",
+    "sku_type": "10 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026328_2-fresho-sage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Water Ipomoea / Kalmi Saag",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40125766_3-fresho-water-ipomoea-kalmi-saag.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oregano",
+    "sku_type": "10 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40026325_2-fresho-oregano.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Boiled Rajma",
+    "sku_type": "225 g - Tray Pack",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40111614_1-tadaa-boiled-rajma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kale",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40085568_1-fresho-kale.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pea Eggplant / Sundaikai",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110306_2-fresho-pea-eggplant-sundaikai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Mix",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020131_1-fresho-lettuce-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mixed Capsicum (Loose)",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40058671_4-fresho-mixed-capsicum.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Cherokee Red,  Hydroponically Grown",
+    "sku_type": "100 - 125 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211678_1-fresho-lettuce-cherokee-red-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baby American Kale - Curled Leaves",
+    "sku_type": "1 pc - Approx. 90-100 gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152766_1-trikaya-baby-american-kale-curled-leaves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Red (Loose)",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149660_3-fresho-capsicum-red.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Capsicum - Yellow (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40149661_2-fresho-capsicum-yellow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baby Cucumber - Hydroponically Grown",
+    "sku_type": "250 g - 300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40210367_1-fresho-snack-baby-cucumber-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Arugula (Roquette) - Hydroponically Grown",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198828_3-fresho-arugula-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Green Oak Lettuce - Hydroponically Grown With Live Roots",
+    "sku_type": "1 pc - (Approx 125 - 200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198823_1-farmogo-green-oak-lettuce-hydroponically-grown-with-live-roots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lollo Rosso Lettuce - Hydroponically Grown With Live Roots",
+    "sku_type": "1 pc - (Approx 125 - 200 g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198825_2-fresho-lollo-rosso-lettuce-hydroponically-grown-with-live-roots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snibs Cucumber Pack",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235632_2-fresho-snibs-cucumber-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snibs Salad Mix Pack",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235633_1-fresho-snibs-salad-mix-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snibs Peppers Pack",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235630_1-fresho-snibs-peppers-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snibs Sweet Palmero Pack",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40235634_2-fresho-snibs-sweet-palmero-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Garlic Chives",
+    "sku_type": "1 pc - Approx. 5-10 gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152776_1-trikaya-garlic-chives.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sun-Gold Tomato",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228995_1-fresho-sun-gold-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fenugreek / Methi - Hydroponically Grown",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40216575_1-fresho-fenugreek-methi-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Microgreen Mustard",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142424_1-fresho-microgreen-mustard.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mix Greens - Kale, Roquette, Swiss Chard, Hydroponically Grown",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211695_2-fresho-mix-greens-kale-rocket-swiss-chard-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sweet Corn / Indian Bhutta",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000189_14-fresho-sweet-corn-indian-bhutta.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cabbage - Red, Organically Grown (Loose)",
+    "sku_type": "1 pc - (approx. 300g - 500g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/50000477_7-fresho-cabbage-red-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato - Wedges",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40010689_4-fresho-potato-wedges.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana Blossom - Peeled",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005815_6-fresho-banana-blossom-peeled.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Veg Salad Pack",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40005891_10-fresho-veg-salad-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thyme",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000604_11-fresho-thyme.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce Iceberg - Organically Grown",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081425_1-fresho-lettuce-iceberg-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mushrooms - Oyster, Dried",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30001455_2-fresho-mushrooms-oyster-dried.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Romaine",
+    "sku_type": "1 pc - (Approx. 100g-250g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30003202_3-fresho-lettuce-romaine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zucchini - Green (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000342_12-fresho-zucchini-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce - Iceberg",
+    "sku_type": "1 pc - (Approx. 500g-1kg)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000132_17-fresho-lettuce-iceberg.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lollo Rossa",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30000523_2-fresho-lollo-rossa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lotus - Stem",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30007405_9-fresho-lotus-stem.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Leeks",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20000985_9-fresho-leeks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rocket Leaves",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016005_2-fresho-rocket-leaves.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Zucchini - Yellow (Loose)",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000320_15-fresho-zucchini-yellow.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baby Potato - Organically Grown (Loose)",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067696_3-fresho-baby-potato-organically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lemon - Yellow Imported",
+    "sku_type": "1 pc - approx.80 to 100 gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30009294_1-fresho-lemon-yellow-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Thai Mix",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006459_1-fresho-thai-mix.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Leafy Box - Hydroponically Grown",
+    "sku_type": "220 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224094_2-fresho-leafy-box-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hydroponics Lettuce - Batavia",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160845_1-fresho-hydroponics-lettuce-batavia.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Broccoli - Hydroponically Grown",
+    "sku_type": "1 pc - (approx. 250g - 350g)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228978_2-fresho-broccoli-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lettuce Mix - Hydroponically Grown",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40224088_1-fresho-lettuce-mix-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pok Choi - Hydroponically Grown",
+    "sku_type": "80 - 100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211683_2-fresho-pok-choi-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cherry Tomato - Black",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228989_1-fresho-cherry-tomato-black.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Indian Olive/Jalpai",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40153402_3-fresho-indian-olivejalpai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mushrooms - Portobello",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40082850_1-fresho-mushrooms-portobello.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Broccoli",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40155541_1-fresho-broccoli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ready To Cook - Potato French Fries",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40101315_1-fresho-ready-to-cook-potato-french-fries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Juliet Tomato",
+    "sku_type": "250 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228992_1-fresho-juliet-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baby Carrots",
+    "sku_type": "1 pc - Approx. 90-100 gm",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40152767_2-trikaya-baby-carrots.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Colocasia Stem - Kochur Loti",
+    "sku_type": "1 kg ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160822_4-fresho-colocasia-stem-kochur-loti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tomato Beefsteak - Red, Hydroponically Grown",
+    "sku_type": "500 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40217500_2-fresho-tomato-beefsteak-red-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Snacky Pepper Mix - Hydroponically Grown",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Jalapenos - Hydroponically Grown",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/bb2assets/images/png/non-veg-placeholder.png"
+  },
+  {
+    "name": "Mix Lettuce Box with Cherry Tomatoes - Hydroponically Grown",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211694_2-fresho-mix-lettuce-box-with-cherry-tomatoes-hydroponically-grown.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sage",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30006435_2-fresho-sage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chives",
+    "sku_type": "25 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/10000833_3-fresho-chives.jpg?tr=w-154,q-80"
+  }
+]

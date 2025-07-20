@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Cheese & Herbs Nacho Chips",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1217165_2-cornitos-nacho-chips-cheese-herbs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sizzlin Jalapeno Nacho Chips",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1217185_2-cornitos-nacho-chips-sizzlin-jalapeno.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tortilla Wraps - 8 Inches",
+    "sku_type": "330 g - (6 pcs)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164672_4-habanero-tortilla-wrap-for-rolls-wraps-tacos.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Jalapeno",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196815_3-tasties-nacho-chips-jalapeno.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato Chips - Cheddar Cheese, Imported",
+    "sku_type": "158 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40036818_6-pringles-potato-chips-cheddar-cheese.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Sweet Chilli",
+    "sku_type": "60 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196819_5-tasties-nacho-chips-sweet-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Healthy Ragi Chips",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147725_4-graminway-healthy-ragi-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato Chips - Ranch, Imported",
+    "sku_type": "158 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40029372_7-pringles-potato-chips-ranch.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tangy Tomato Puff- Healthy Snacks for Kids, School Tiffin and Travel Friendly",
+    "sku_type": "20 g - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164602_1-slurrp-farm-mighty-puff-tangy-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crispy Baked Multi-grain Flat Bread - With Flax Seeds",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010748_4-wingreens-farms-crispy-baked-multi-grain-flat-bread-with-flax-seeds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wheat Flour Tortilla Wrap",
+    "sku_type": "6 pcs - Pouch",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40193817_8-cornitos-tortilla-wrap-wheat-flour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Corn Chips+ - Cheese & Herbs, Popped, Not Fried Or Baked, Made With Whole Grain",
+    "sku_type": "55 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40299547_1-4700bc-corn-chips-cheese-herbs-popped-not-fried-or-baked-made-with-whole-grain.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Baked Pita Bread Crisps - Chilli & Garlic",
+    "sku_type": "100 g ",
+    "rating": "3.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30010746_4-wingreens-farms-baked-pita-bread-crisps-chilli-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peri Peri Nachos & Salsa Dip Tray",
+    "sku_type": "75 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40166031_8-cornitos-on-the-go-peri-peri-nachos-salsa-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Jalapeno Nachos & Salsa Dip Tray",
+    "sku_type": "75 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40166030_7-cornitos-on-the4-go-jalapeno-nachos-salsa-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hand Cooked Potato Chips - Black Truffle, Vegan, Earthy & Nutty Flavour",
+    "sku_type": "150 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40162815_7-hunters-gourmet-hand-cooked-potato-chips-black-truffle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gourmet Potato Chips - Jalapeno & Cream Cheese",
+    "sku_type": "42 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255783_2-the-theatre-project-gourmet-potato-chips-jalapeno-cream-cheese-light-flavourful-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tortilla Chips - Garlic & Butter",
+    "sku_type": "170 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017119_1-mission-tortilla-chips-garlic-butter.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cheddar Sour Cream - Imported",
+    "sku_type": "158 g - Can",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203211_1-pringles-cheddar-sour-cream.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Beetroot Peri Peri Crispies",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40343736_1-khari-foods-beetroot-peri-peri-crispies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato Crisps - Sour Cream & Onion, Imported",
+    "sku_type": "158 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40034810_4-pringles-potato-crisps-sour-cream-and-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Popped Chips - Classic Salted Flavour",
+    "sku_type": "48 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307937_1-brb-rice-popped-chips-classic-salted-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stax Original",
+    "sku_type": "163 g - Can",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203196_1-lays-ignore-stax-original.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wrap Tortilla Dinner Kit",
+    "sku_type": "488 g - Carton",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002409_3-tex-mex-salsalito-wrap-tortilla-dinner-kit.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Classic Salted",
+    "sku_type": "150 g - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100391340_6-tex-mex-salsalito-nacho-chips-classic-salted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ragi Chips - Peri-Peri, Healthy Snack, Weight Management, Gluten-Free, Vegan",
+    "sku_type": null,
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40227072_7-fabbox-peri-peri-ragi-chips-rich-in-protein-vitamin-c-fibre.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Plain Tortilla Wrap",
+    "sku_type": "6 pcs ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40187286_1-fresh2go-plain-tortilla-wrap.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chips - Keralas Nendran Banana",
+    "sku_type": "200 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088494_5-delight-foods-chips-keralas-nendran-banana.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chips - Keralas Jaggery Banana (Sarkara Varatti)",
+    "sku_type": "250 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088495_5-delight-foods-chips-keralas-jaggery-banana-sarkara-varatti.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Cheesy Sour Cream & Onion",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40109164_5-cornitos-nacho-chips-cheesy-sour-cream-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Peri Peri",
+    "sku_type": "60 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40200414_2-makino-nacho-chips-peri-peri.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato Crisps - Original Flavour",
+    "sku_type": "160 g - Jar",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002808_1-jacker-potato-crisps-original-flavor.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wrap Tortilla",
+    "sku_type": "348 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100391319_3-tex-mex-salsalito-wrap-tortilla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Sweet Chilli",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129772_4-makino-nacho-chips-sweet-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Popcorn Chips - Garlic Bread Flavour",
+    "sku_type": "48 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307936_1-brb-popcorn-chips-garlic-bread-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tray Pack - Zesty Jalapeno Nacho Chips With Salas Dip",
+    "sku_type": "75 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40164384_2-tex-mex-salsalito-tray-pack-zesty-jalapeno-nacho-chips-with-salas-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Beetroot",
+    "sku_type": "70 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126902_4-cornitos-nacho-chips-beetroot.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crusties Fiery Peri Peri Puffs",
+    "sku_type": "52 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238017_7-cornitos-crusties-chana-snacks-cholesterol-gluten-free-cheesy-garlic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Cheese",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129771_3-makino-nacho-chips-cheese.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Popcorn Chips - Cheese & Olive Flavour",
+    "sku_type": "48 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307934_1-brb-popcorn-chips-cheese-olive-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Soya Chips",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147722_3-graminway-crunchy-soya-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Spinach Nacho Chips",
+    "sku_type": "70 g - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40126903_4-cornitos-nacho-chips-spinach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Barbeque Nacho Chips",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1217087_2-cornitos-nacho-chips-barbeque.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Popped Chips - Jalapeno & Tomato Flavour",
+    "sku_type": "48 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307940_1-brb-rice-popped-chips-jalapeno-tomato-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Taco Shell - Mini",
+    "sku_type": "80 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40233428_1-tex-mex-salsalito-taco-shell-mini.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Potato Chips - Pizza, Imported",
+    "sku_type": "158 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40029370_4-pringles-potato-chips-pizza.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Popped Potato Chips - Salt & Pepper Flavour",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40222564_3-brb-popped-potato-chips-salt-pepper-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crusties Classic Cheese Balls Puffs",
+    "sku_type": "52 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40238016_7-cornitos-crusties-chana-snacks-cholesterol-gluten-free-dilli-chaat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Creamy Cheese",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002588_7-tex-mex-salsalito-nacho-chips-creamy-cheese.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Mexican Chilli",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100391336_5-tex-mex-salsalito-nacho-chips-mexican-chilli.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kettle Cooked Potato Chips - Original Sea Salt",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255776_5-the-theatre-project-gourmet-potato-chips-original-sea-salt-light-flavourful-snack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Popped Potato Chips - Pasta Cheese Flavour",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230446_4-brb-popped-potato-chips-not-baked-or-fried-healthy-snacks-pasta-cheese-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Corn Chips - Cream & Onion, Gluten Free",
+    "sku_type": "60 g - Pouch",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129762_5-makino-corn-chips-cream-onion.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butter Garlic\u00c2\u00a0Naan\u00c2\u00a0Chip & Makhani Dip",
+    "sku_type": "70 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191275_2-wingreens-farms-butter-garlic-naan-chip-makhani-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Popcorn Chips - Salsa Flavour",
+    "sku_type": "48 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307933_1-brb-popcorn-chips-salsa-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rice Popped Chips - Pudina Punch Flavour",
+    "sku_type": "48 g ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307939_1-brb-rice-popped-chips-pudina-punch-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Jalapeno",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004743_3-tex-mex-salsalito-nacho-chips-jalapeno.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Corn Twist - Tomato, Gluten Free",
+    "sku_type": "60 g - Pouch",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129764_8-makino-corn-twist-tomato.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Yellow Corn Chips",
+    "sku_type": "100 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40147723_3-graminway-yellow-corn-chips.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chip & Dip - Tangy Cheese Pita Chips & Mexican Salsa Dip",
+    "sku_type": "70 g - Tray Pack",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40177119_6-wingreens-farms-chip-dip-tangy-cheese-pita-chips-mexican-salsa-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chatpata Pudina\u00c2\u00a0Naan\u00c2\u00a0Chip & Tandoori Dip",
+    "sku_type": "70 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191274_2-wingreens-farms-chatpata-pudina-naan-chip-tandoori-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Banana\u00a0Chips\u00a0- Pepper & Vinegar",
+    "sku_type": "150 g ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206763_2-kettle-studio-banana-chips-pepper-vinegar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Crisps - Lime n Mint",
+    "sku_type": "60 g - Pouch",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30005534_3-cornitos-nacho-crisps-lime-n-mint.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nacho Chips - Jalapeno, Without Onion & Garlic, No Trans Fat & Cholesterol",
+    "sku_type": "60 g - Pouch",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189826_4-makino-nacho-chips-jalapeno-without-onion-garlic-no-trans-fat-cholesterol.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "The Veggie Nachos Combo With Salsa Dip",
+    "sku_type": "260 g - (Nacho Crisps 210 g + Dip 50 g)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40180376_4-cornitos-the-veggie-nachos-combo-with-salsa-dip.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Taco Dinner Kit",
+    "sku_type": "300 g - Carton",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40002446_5-tex-mex-salsalito-taco-dinner-kit.jpg?tr=w-154,q-80"
+  }
+]

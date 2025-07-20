@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Chocolate Gift Pack",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1201354_6-ferrero-rocher-chocolate-24-pcs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Turkish Baklava",
+    "sku_type": null,
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276395_2-fresho-signature-turkish-baklava.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swiss Premium Napolitains Assorted Chocolates",
+    "sku_type": "350 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40051833_3-lindt-chocolate-napolitains-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Pure Belgium Chocolate Truffles Special Gift Box",
+    "sku_type": "200 g - (19 pcs)",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40161069_12-lindberg-special-gift-box-pure-belgium-chocolate-truffles-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Gift Pack",
+    "sku_type": "100 g - (8 pcs)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40310952_2-ferrero-rocher-chocolates.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutty Tuxedo Chocolate Gourmet Popcorn",
+    "sku_type": "150 g - Tin",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40132320_6-4700bc-gourmet-popcorn-nutty-tuxedo-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Surprise - Truffle Chocolates",
+    "sku_type": "200 g - (16 pcs x 12.5 g each)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201565_3-lindberg-almond-surprise-truffle-chocolates.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate - Lindor Milk",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40051842_4-lindt-chocolate-lindor-milk.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expressions Gift Box - Assorted Chocolate Truffles",
+    "sku_type": "180 g - (16 pcs)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318752_4-lindberg-lindberg-expressions-assorted-centre-filled-chocolate-truffles-gift-box16pc-185g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Truffle Treats Gift Box - Assorted Chocolates",
+    "sku_type": "162 g - (14 pcs)",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40318753_4-lindberg-lindberg-truffle-treats-assorted-centre-filled-chocolate-truffles-gift-box14pc-168g.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swiss Dark Chocolate - Honey & Almond Nougat",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40110869_8-toblerone-swiss-dark-chocolate-with-honey-almond-nougat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swiss White Chocolate - With Honey & Almond Nougat",
+    "sku_type": "100 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40074074_5-toblerone-swiss-white-chocolate-with-honey-almond-nougat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Roasted Almond Barks",
+    "sku_type": "75 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142552_5-lindberg-roasted-almond-barks-snacking-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "I Love You Message Bar - 55% Dark Chocolate",
+    "sku_type": "45 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40293290_5-lindberg-lindberg-i-love-you-message-bar-45g-55-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Himalayan Salt Caramel Gourmet Popcorn",
+    "sku_type": "125 g - Tin",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40132318_7-4700bc-caramel-popcorn-himalayan-salt.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Miniatures Chocolate - Nougat & Caramel",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/274984_11-mars-nougat-caramel-filled-chocolates-miniatures.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Peanut Chocolate",
+    "sku_type": "45 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40022898_2-m-ms-peanut-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crunchy Dark Hazelnut Chocolate",
+    "sku_type": "100 g ",
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40191460_8-didier-frank-crunchy-hazelnut-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "70% Artisanal Dark Chocolate With Roasted Almonds",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206515_2-darkins-70-artisanal-dark-chocolate-with-roasted-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "55% Artisanal Dark Chocolate - Tamil Nadu Single Origin",
+    "sku_type": "65 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206517_2-darkins-55-artisanal-dark-chocolate-tamil-nadu-single-origin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Artisanal Dark Chocolate - With Banarasi Paan, Vegan & Gluten-Free",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229696_2-darkins-artisanal-dark-chocolate-with-banarasi-paan-vegan-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Miniatures - Caramel Chocolate Pack",
+    "sku_type": "80 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40189339_6-mars-miniatures-chocolate-with-rich-creamy-texture-added-crunchiness-of-almonds.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Chocolate Gift Pack For Diwali - Assorted Chocolates",
+    "sku_type": "119 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40176437_5-snickers-medley-assorted-chocolates-gift-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swiss Milk Chocolate With Honey & Almond Nougat - Tiny",
+    "sku_type": "272 g ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230014_1-toblerone-swiss-milk-chocolate-with-honey-almond-nougat-tiny.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate - Tiny, Rich, Creamy Flavour",
+    "sku_type": "200 g ",
+    "rating": "4.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40049168_6-toblerone-tone-milk-minis-bag.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almond Brittle - Classic",
+    "sku_type": "200 g - (12 pcs)",
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40209863_4-loyka-almond-brittle-classic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Exquisite Chocolates - Intense Dark Dessert Inspired Chocolate Bar",
+    "sku_type": "130 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160637_6-fabelle-dar-choco-mousse-centre-filled-chocolate-bar-rich-smooth-creamy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "70% Artisanal Dark Chocolate With Blueberries",
+    "sku_type": "50 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206514_2-darkins-70-artisanal-dark-chocolate-with-blueberries.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Raspberry Dark Chocolate",
+    "sku_type": "80 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40113128_3-heidi-dark-raspberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oreo Chocolate",
+    "sku_type": "100 g ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230002_1-milka-oreo-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Almonds - Milk Chocolate Coated Nuts",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088225_7-lindberg-almonds-milk-chocolate-coated-nuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stevia Chocolate - Plain Classic",
+    "sku_type": "40 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100934_2-zevic-premium-stevia-chocolate-plain-classic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Classic White Chocolate Crispies",
+    "sku_type": "100 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102512_6-lindberg-classic-white-chocolate-crispies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butterscotch Barks - Snacking Chocolate",
+    "sku_type": "75 g ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40142551_4-lindberg-butterscotch-barks-snacking-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate Thins - Assorted",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181111_7-lindberg-chocolate-thins-assorted.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gift Box : Dryfruit Chocolate Nutty Cookies With Almonds, Cashew & Peanuts",
+    "sku_type": "150 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40195766_1-open-secret-gift-box-dryfruit-chocolate-nutty-cookies-with-almonds-cashew-peanuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "80% Artisanal Dark Chocolate - Karnataka Single Origin",
+    "sku_type": "65 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206519_2-darkins-80-artisanal-dark-chocolate-karnataka-single-origin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "99% Ultimate Dark Chocolate - No Added Sugar, Keto",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122786_12-didier-frank-chilli-cinnamon-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Exquisite Chocolates - Rocky Road Milk Chocolate With Fruits, Nuts & Crispies",
+    "sku_type": "120 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160639_7-fabelle-rocky-road-milk-chocolate-bar-with-fruits-nuts-crispies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pineapple Dark Chocolate Crispies",
+    "sku_type": "100 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102515_5-lindberg-pineapple-dark-chocolate-crispies.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stevia Chocolate - Belgian Cocoa 70% Dark",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40100938_2-zevic-premium-stevia-chocolate-belgian-cocoa-70-dark.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Teddy Roosevelt Coffee Dark Chocolate - Rich Taste & Flavour",
+    "sku_type": "50 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122790_5-didier-frank-teddy-roosevelt-coffee-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "95% Artisanal Dark Chocolate - Andhra Pradesh Single Origin",
+    "sku_type": "65 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40206520_2-darkins-95-artisanal-dark-chocolate-andhra-pradesh-single-origin.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Exquisite Chocolates - Hazelnut Mousse Centre Filled Bar",
+    "sku_type": "127 g ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40160636_7-fabelle-hazelnut-mousse-centre-filled-chocolate-bar-rich-crunchy-creamy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nuts cranberry",
+    "sku_type": "200 g ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017557_2-sapphire-nuts-cranberry.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kisses Milk Chocolate",
+    "sku_type": "238 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330486_1-hersheys-kisses-milk-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Tamarind Ball \u2013 Real Candy",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327766_1-goodlife-natural-tamarind-ball-real-candy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swiss Milk Chocolate Bar With Honey & Almond Nougat - Smooth, Creamy, Rich Flavour",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264868_1-toblerone-swiss-milk-chocolate-bar-with-honey-almond-nougat-smooth-creamy-rich-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Coffee Vegan Crunchettes - Premium, Rich, Dark Chocolate",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272408_1-chokola-coffee-vegan-crunchettes-premium-rich-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Butterscotch Vegan Crunchettes - Premium, Rich, Silky Dark Chocolate",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272407_1-chokola-butterscotch-vegan-crunchettes-premium-rich-silky-dark-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pochette Purse - Center Fill Cookies + Assorted Choco Truffles",
+    "sku_type": "131 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332460_1-smoor-pochette-purse.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Allure Hamper - Assorted",
+    "sku_type": "291 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332461_1-smoor-allure-hamper.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Dark Chocolate - Hazelnut & Fruit Women",
+    "sku_type": "100 g - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067620_7-sugarless-bliss-sugar-free-dark-chocolate-hazelnut-fruit-women.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Dark Chocolate - Roasted Almond Rocks",
+    "sku_type": "100 g - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067622_1-sugarless-bliss-sugar-free-dark-chocolate-roasted-almond-rocks.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Les Grandes Dark Chocolate - 34% Hazelnuts",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075045_1-lindt-dark-chocolate-34-hazelnuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut - Dark Chocolate Coated Nuts",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088226_6-lindberg-hazelnut-dark-chocolate-coated-nuts.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Dark Chocolate - Classic",
+    "sku_type": "100 g - Tin",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40067621_1-sugarless-bliss-sugar-free-dark-chocolate-classic.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "64% Mild Dark Plain Chocolate",
+    "sku_type": "68 g - Box",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40174652_4-paul-and-mike-64-mild-dark-plain-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Eggless Mithai Macarons",
+    "sku_type": "10 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230842_2-lindberg-eggless-mithai-macarons.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free 55% Dark Chocolate - With Crunchy Cocoa Nibs, Vegan",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272420_1-chokola-sugar-free-55-dark-chocolate-with-crunchy-cocoa-nibs-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Artisanal Dark Chocolate - With Peppermint, Vegan & Gluten-Free",
+    "sku_type": "50 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229695_2-darkins-artisanal-dark-chocolate-with-peppermint-vegan-gluten-free.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nutty Hazelnut 55% Dark Chocolate - Smooth, Rich, Vegan",
+    "sku_type": "80 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272423_1-chokola-nutty-hazelnut-55-dark-chocolate-smooth-rich-vegan.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Whole Black Raisins & Butterscotch Coated Chocolate - With Honey Toasted Oatmeal, Handcrafted",
+    "sku_type": "180 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40196194_1-entisi-chocolate-coated-butterscotch-raisin-with-honey-toasted-oatmeal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Weibe Schokolade - White Chocolate",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40229996_1-milka-weibe-schokolade-white-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swiss Milk Chocolate With Honey & Almond Nougat Bar",
+    "sku_type": "200 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230015_1-toblerone-swiss-milk-chocolate-with-honey-almond-nougat-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Hazelnut Vegan Marbles  - Goodness Of Crunchy Caramel & Dark Chocolate",
+    "sku_type": "100 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272406_1-chokola-hazelnut-vegan-marbles-goodness-of-crunchy-caramel-dark-chocolate.jpg?tr=w-154,q-80"
+  }
+]

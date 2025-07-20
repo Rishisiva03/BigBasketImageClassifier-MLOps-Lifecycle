@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Disinfectant Surface Cleaner Liquid - Citrus",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40129070_9-lizol-disinfectant-surface-floor-cleaner-liquid-citrus-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Bathroom Cleaner Liquid - Removes Tough Stains, Lemon Fragrance",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40242024_4-harpic-disinfectant-bathroom-cleaner-liquid-removes-tough-stains-lemon-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Antiseptic Liquid",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40338062_1-dettol-germ-defence-antiseptic-liquid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Cleaner - Pine",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102441_6-nimyle-floor-cleaner-pine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Surface Cleaner Liquid - Eco Friendly",
+    "sku_type": "500 ml - Bottle",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40203060_8-bb-home-herbal-herbal-floor-surface-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Cleaner - Lemongrass",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40211826_6-nimyle-lemongrass-floor-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Cleaner",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/281397_7-domex-disinfectant-floor-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "UltraPro Floor Cleaner - French Lavendar With Sage",
+    "sku_type": "1.8 L - Pouch",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332289_2-vim-ultra-pro-floor-cleaner-french-lavendar-with-sage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "All In One Disinfectant Surface Cleaner Liquid - Floral",
+    "sku_type": "1.8 L - Refill Pack",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40198235_4-lizol-disinfectant-surface-floor-cleaner-liquid-floral.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bleaching Powder - Strong",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100204117_2-zermisol-bleaching-powder-strong.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Germi Chek Black Phenyle - Perfumed Cleaner, Deodoriser",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40308557_1-floroma-germi-chek-black-phenyl-perfumed-cleaner-deodoriser.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "UltraPro Floor Cleaner - Soothing Lavender With Sage",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330008_9-vim-ultrapro-floor-cleaner-soothing-lavender-with-sage.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Strong Phenyl - Lemon, Removes Tough Stains, Kills 99.9% Germs",
+    "sku_type": "1 L - Bottle",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40287284_1-pulp-wood-strong-phenyl-lemon-removes-tough-stains-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Bathroom Cleaner Liquid - Floral Bloom",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40017766_14-harpic-disinfectant-bathroom-cleaner-liquid-floral.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "UltraPro Floor Cleaner - Sparkling Lemon",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330010_9-vim-ultrapro-floor-cleaner-sparkling-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Cleaner Disinfectant & Insect Repellent",
+    "sku_type": null,
+    "rating": "4.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102101_12-herbal-strategi-disinfectant-floor-cleaner-insect-repellent.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Menthol Cool Disinfectant Liquid - Multipurpose",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40311429_1-dettol-disinfectant-liquid-menthol-cool.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal Phenyl - Disinfectant Cleaner, Prevents Ants & Flies, Neem Fragrance",
+    "sku_type": null,
+    "rating": "4.6",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268926_1-spick-o-mine-herbal-phenyl-disinfectant-cleaner-prevents-ants-flies-neem-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal Phenyl - Disinfectant Cleaner, Prevents Ants & Flies, Jasmine Fragrance",
+    "sku_type": null,
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40268927_1-spick-o-mine-herbal-phenyl-disinfectant-cleaner-prevents-ants-flies-jasmine-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bleach - Lemon",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002196_3-clorox-bleach-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mold & Mildew Remover",
+    "sku_type": "500 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40119928_2-clorox-mold-mildew-remover-with-bleach.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Cleaner - Citrus Joy",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327528_1-maxkleen-disinfectant-floor-cleaner-citrus-joy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power & Shine Antibacterial Multipurpose Cleaner Spray - Kills 99.99% Germs, Removes Grease",
+    "sku_type": "700 ml ",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40277058_1-cif-power-shine-antibacterial-multipurpose-cleaner-spray-kills-9999-germs-removes-grease.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tough Lime Scale Spray + Scrub - Zero Acidic Fumes, Tough On Harsh Stains",
+    "sku_type": "500 ml ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40262796_1-vooki-tough-lime-scale-spray-scrub-zero-acidic-fumes-tough-on-harsh-stains.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Shakti Disinfectant Floor Cleaner - Rose Fresh With Pine Oil",
+    "sku_type": "900 ml ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40325653_8-lizol-shakti-disinfectant-floor-cleaner-rose-fresh-with-pine-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "UltraPro Floor Cleaner - Sparkling Lemon",
+    "sku_type": "1.8 L - Pouch",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40332288_2-vim-ultra-pro-floor-cleaner-sparkling-lemon.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tap Cleaner & Limescale Remover",
+    "sku_type": "500 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339366_1-happi-planet-tap-cleaner-limescale-remover.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream Multipurpose Surface Cleaner - Lemon, For Tough Stains, 100% Shine, Citrusy Scent",
+    "sku_type": "500 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212000_3-cif-lemon-multi-purpose-surface-cleaner-cream-with-100-natural-particles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Power & Shine Kitchen Cleaner Spray - Tough Grease & Stain Removal",
+    "sku_type": "700 ml ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212003_2-cif-spray-power-shine-kitchen.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bleach - Lavender",
+    "sku_type": "1 L ",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20002193_2-clorox-bleach-lavender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Floor + Surface Cleaner Liquid",
+    "sku_type": "500 ml - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339569_1-vooki-premium-floor-surface-cleaner-liquid.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cream Multipurpose Surface Cleaner - Pink Flower, For Tough Stains, 100% Shine, Citrusy Scent",
+    "sku_type": "500 ml ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128750_4-cif-pink-multi-purpose-surface-cleaner-cream-with-100-natural-particles.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Surface Cleaner Liquid - Neem",
+    "sku_type": "500 ml ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40130354_10-bb-home-disinfectant-floor-surface-cleaner-neem-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Cleaner - Floral Bliss",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40327527_1-maxkleen-disinfectant-floor-cleaner-floral-bliss.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Floor Cleaner Liquid",
+    "sku_type": "1 L ",
+    "rating": "4.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313361_2-beco-natural-floor-cleaner-lemongrass-basil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cera Clean - Rapid Action Tile & Ceramic Cleaner",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40087833_5-pidilite-roff-cera-clean.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Household Hard Stains Spray + Wipe & Tough Lime Scale Spray + Scrub",
+    "sku_type": "2 pcs - (500 ml each)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40339559_1-vooki-household-hard-stains-spray-wipe-tough-lime-scale-spray-scrub.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Cleaner Liquid - Floral Perfection | Kills 99.9% Germs",
+    "sku_type": "1 L ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40276477_4-mr-muscle-disinfectant-floor-cleaner-liquid-floral-perfection-kills-999-germs-cleans-freshens-restores-shine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Floor Cleaner Liquid - Lavender, Kills 99.9% Germs",
+    "sku_type": "1 L ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40309669_2-mr-muscle-disinfectant-floor-cleaner-liquid-lavender-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Herbal Phenyl - Lavender & White",
+    "sku_type": "1 L - (Pack of 2)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40308904_1-smart-home-herbal-phenyl-lavender-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Just Mop 100% Herbal Toilet and Bathroom Cleaner",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40102094_3-herbal-strategi-toilet-disinfectant-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Home Fresh Perfumed Herbal Deodorant Floor Cleaner - Pine",
+    "sku_type": "1 L ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40083367_3-homey-home-fresh-floor-cleaner-pine-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Floor Cleaner Liquid Refill",
+    "sku_type": "2 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335386_1-beco-natural-floor-cleaner-liquid-refill.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Natural Disinfectant Floor Cleaner - Jasmine & Rose",
+    "sku_type": "500 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40220550_6-koparo-clean-natural-disinfectant-floor-cleaner-jasmine-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Perfumed White Liquid Cleaner & Deodorant - Lime",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40181688_4-axn-perfumed-white-liquid-floor-cleaner-lime.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Cleaner - Jasmine, For Sparkling Clean Floors",
+    "sku_type": "500 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40223717_1-bdel-floor-cleaner-jasmine-for-sparkling-clean-floors.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Disinfectant Spray For Hard Surfaces & Upholstery - Crisp Linen, Kills 99.9% Bacteria& Viruses, All In One",
+    "sku_type": "400 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40128562_2-dettol-all-in-one-disinfectant-spray-crisp-linen-imported.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deep Impact - Probiotic & Eco-Friendly Floor Cleaner & Sanitiser",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281878_2-proklean-projanit-probiotic-and-eco-friendly-floor-cleaner-1000-ml.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Cleaner - With Geranium & Lavender",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40245299_2-purecult-floor-cleaner-with-geranium-lavender-eco-friendly-refreshing-fragrance.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Cleaner - Lavender, Strong & Long-Lasting Fragrance, Kills 99.9% Germs",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40295349_1-livewell-floor-cleaner-lavender-strong-long-lasting-fragrance-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Expert Series Floor Cleaner - Luxury Floral Aroma",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40316385_2-rinsl-expert-series-floor-cleaner-luxury-floral-aroma.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Biodegradable Disinfectant Surface Cleaner - Citronella, Non-Toxic, Removes 99.9% Germs",
+    "sku_type": "975 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40255565_1-u-me-n-earth-biodegradable-disinfectant-surface-cleaner-citronella-non-toxic-removes-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Premium Neem Floor Cleaner",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40315971_1-clean-day-premium-neem-floor-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Phenyl",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307183_2-swooosh-phenyl.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Cleaner - Lavender",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307181_1-swooosh-floor-cleaner-lavender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "R-Shine Perfumed Floor Cleaner - Kills 99.9% Germs",
+    "sku_type": "1 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40259118_1-dnrs-r-shine-perfumed-floor-cleaner-kills-999-germs.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Floor Cleaner - Disinfectant Concentrate, Jasmine",
+    "sku_type": "5 L ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40302488_1-zimmer-aufraumen-floor-cleaner-disinfectant-concentrate-jasmine.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Super Disinfectant Floor Cleaner - Kills 99.9% Germs, Rose",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40274531_1-stanfresh-super-disinfectant-floor-cleaner-kills-999-germs-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "A+ Floor Cleaner - Berry Splash",
+    "sku_type": null,
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307297_1-vedox-a-floor-cleaner-berry-splash.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Neem Pure Floor Cleaner",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307298_1-vedox-neem-pure-floor-cleaner.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Phenyl - Lemon, Floral Disinfectant, For Safe & Clean Home, Premium",
+    "sku_type": "1 L - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258716_2-reem-phenyl-lemon-floral-disinfectant-for-safe-clean-home-premium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Multi- Surface Disinfectant Spray - Rich In Antibacterial & Antimicrobial Properties",
+    "sku_type": "200 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40253829_3-herbiza-multi-surface-disinfectant-spray-rich-in-antibacterial-antimicrobial-properties.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Scented Floor Cleaner - Aqua Blue, For Safe & Clean Home",
+    "sku_type": "1 L - Bottle",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40258714_3-reem-scented-floor-cleaner-aqua-blue-for-safe-clean-home.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Perfumed Phenyle - Floor Cleaner, Removes Tough Stains, Mild Rose",
+    "sku_type": "5 L - PET Jar",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40294713_2-swan-perfumed-phenyle-floor-cleaner-removes-tough-stains-mild-rose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wipeout Advanced Floor Cleaner - Kills 99.9% Germs, Lavender",
+    "sku_type": "500 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298188_1-mugi-wipeout-advanced-floor-cleaner-kills-999-germs-lavender.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Wipeout Advanced Floor Cleaner - Kills 99.9% Germs, Neem",
+    "sku_type": "500 ml ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40298190_1-mugi-wipeout-advanced-floor-cleaner-kills-999-germs-neem.jpg?tr=w-154,q-80"
+  }
+]

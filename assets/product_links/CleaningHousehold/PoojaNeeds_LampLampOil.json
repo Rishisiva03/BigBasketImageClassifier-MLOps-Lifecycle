@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Deepam Oil",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141966_6-anandam-pooja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nakshatra Pooja Oil",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141960_2-mr-gold-nakshatra-pooja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pancha Thyla Pooja Oil",
+    "sku_type": "1 L ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40141969_2-anandam-pooja-oil-pancha-thyla.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puja Deepam Oil",
+    "sku_type": "900 ml - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/900458497_1-mangal-bhavan-puja-deepam-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dheepam Temple Lamp Oil",
+    "sku_type": "1 L - Pouch",
+    "rating": "4.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342524_1-dheepam-dheepam-temple-lamp-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nitya Diya/ Golden Brass Deep - Daily Prayer Essential",
+    "sku_type": "1 pc ",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228835_2-shubhkart-nitya-brass-devdas-deep.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nitya Brass Kerala Samai",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228836_2-shubhkart-nitya-brass-kerala-samai.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dheepam Temple Lamp Oil",
+    "sku_type": "500 ml - Pouch",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40342525_1-dheepam-dheepam-temple-lamp-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Anupam Puja Oil - Til Sesame, For Diyas & Lamps",
+    "sku_type": null,
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273529_2-hari-darshan-anupam-puja-oil-til-sesame-for-diyas-lamps.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Goddess Laxmi & Lord Ganesha Golden Metal Diya",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291913_6-ecraftindia-goddess-laxmi-lord-ganesha-golden-metal-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Payali Brass Diya Oil Lamp S0 - Golden",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088293_3-hazel-payali-brass-diya-oil-lamp-s0-golden.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swastik Akhand Diya 8.5 cm With Borosilicate Glass Shade - Decorative Brass & Glass Oil Lamp",
+    "sku_type": "1 pc ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330019_1-klassic-swastik-akhand-diya-with-borosilicate-glass-shade-for-mandir-decorative-brass-glass-oil-lamp-lantern-diya-with-glass-cover-for-prayers-cylindrical-borosilicate-glass-brass-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crystal & Brass Akhand Diya",
+    "sku_type": "1 pc ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40291948_3-ecraftindia-crystal-brass-akhand-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swastik Diya - Assorted Colors",
+    "sku_type": "4 pcs ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016834_10-inspiredkraft-swastik-diya-assorted-colors.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diya With Tray - Large",
+    "sku_type": "11 pcs ",
+    "rating": "5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016846_7-inspiredkraft-diya-with-tray-large.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Om Shanthi Pure Parijatha Puja Oil - Blend Of 5 Puja Oils, For Diya/Lamp",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40281346_1-cycle-om-shanthi-pure-parijatha-puja-oil-blend-of-5-puja-oils-for-diyalamp.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Darshana Camphor Puja Oil",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40303927_1-shubhkart-darshana-camphor-puja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pooja - Oil",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40020579_3-porna-pooja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lamp Oil",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/60000051_2-deepa-jyothi-lamp-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Lamp Oil",
+    "sku_type": null,
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40068187_6-dheepam-lamp-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil - Deepam",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40092009_1-olee-olee-oil-deepam.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pooja Oil",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40080806_5-mangalmai-pooja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nitya Steel Niraanjan Diya No-12 - Puja Essential, Durable",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273018_1-shubhkart-nitya-steel-niraanjan-diya-no-12-puja-essential-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gold Pooja Til Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40312842_1-prarthana-gold-pooja-til-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deepam/Pooja Oil",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40265627_2-yaaga-deepampooja-oil-high-quality-used-for-lighting-lamps.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pyali - Size 0",
+    "sku_type": "1 pc ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081413_4-shubhkart-pyali-size-0.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pooja Oil",
+    "sku_type": null,
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/20004108_1-varlakshmi-pooja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Deepa Matki - Round, No.1",
+    "sku_type": "1 pc ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201047_1-trm-brass-deepa-matki-round-no1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Oil - Deepa light",
+    "sku_type": "500 ml - Pouch",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/245525_1-safal-oil-deepa-light.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Crystal Bowl Pooja Diya/Oil Lamp - Small, Perfect For Decorative Use",
+    "sku_type": "1 pc ",
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228817_3-trm-crystal-bowl-pooja-diyaoil-lamp-small-perfect-for-decorative-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Deepa Matki - Round, No.2",
+    "sku_type": "1 pc ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201048_1-trm-brass-deepa-matki-round-no2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nanda Deep Brass Diya Oil Lamp Puja S15 - Golden",
+    "sku_type": "1 pc ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088285_4-hazel-nanda-deep-brass-diya-oil-lamp-puja-s15-golden.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Kuber Deepam - No.3",
+    "sku_type": "2 pcs ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201034_3-trm-brass-kuber-deepam-no3.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Deepa Matki - Round, No.3",
+    "sku_type": "1 pc ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201049_1-trm-brass-deepa-matki-round-no3.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Kuber Deepam - No.2",
+    "sku_type": "2 pcs ",
+    "rating": "3.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201033_3-trm-brass-kuber-deepam-no2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nitya Brass Dhan Kuber Festive Diya",
+    "sku_type": "6 pcs ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228845_2-shubhkart-nitya-brass-dhan-kuber-festive-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Swarnadeepam Pooja Oil",
+    "sku_type": null,
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169186_5-swarnanjali-swarnadeepam-pooja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nitya Poona Divi/Brass Diya",
+    "sku_type": "1 pc ",
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228840_3-shubhkart-nitya-poona-divibrass-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puja Diya Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40212652_3-hari-darshan-puja-diya-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Udipi Diya - Daily Pooja Essentials, Balanced & Anti Heating Handle, Gold Colour, 80x40mm",
+    "sku_type": "1 pc ",
+    "rating": "2.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40081408_6-shubhkart-udipi-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Navjyoti Akhand Diya 6 cm With Borosilicate Glass Shade - Decorative Brass & Glass Oil Lamp",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330020_2-klassic-navjyoti-4-inch-akhand-diya-with-borosilicate-glass-shade-for-mandir-decorative-brass-glass-oil-lamp-lantern-diya-with-glass-cover-for-prayers-cylindrical-borosilicate-glass-brass-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Darshana Puja Ghee",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40320593_3-shubhkart-darshana-puja-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Diya Pair - Brass Material, Angle Deep, Plain, Medium Size, Gold Colour",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201024_2-trm-brass-angle-deep-plain-no2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pooja Diya/ Oil Lamp - No.2, Regular, Beautiful & Durable",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228810_3-trm-pooja-diya-oil-lamp-no2-regular-beautiful-durable.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Kuber Deepam - No.1",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201032_3-trm-brass-kuber-deepam-no1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Kachua Stand Deepam - No.2",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201028_2-trm-brass-kachua-stand-deepam-no2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Diya/Kachua Stand Deepam - Turtle Shape Base, Small, Gold Colour",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201027_2-trm-brass-kachua-stand-deepam-no1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Angle Deep Stand - Plain, No.3",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201031_1-trm-brass-angle-deep-stand-plain-no3.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Angle Deep Stand - Plain, No.2",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201030_1-trm-brass-angle-deep-stand-plain-no2.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Kanchua Kuber Brass Tortoise Diya S0 - Golden",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088289_3-hazel-kanchua-kuber-brass-tortoise-diya-s0-golden.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Akhand Deep Crystal Diyas - Metal",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330252_1-apj-akhand-deep-crystal-8x8x13-cm-metal.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Aradhana Jasmine Pooja Oil - Blend Of 5 Oils",
+    "sku_type": "900 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40313393_1-hem-aradhana-jasmine-pooja-oil-blend-of-5-oils.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nitya Paan Brass Diya With Stand - Small, Durable & Sturdy",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40273008_1-shubhkart-nitya-paan-brass-diya-with-stand-small-durable-sturdy.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Designer clay Diya",
+    "sku_type": "4 Pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40016853_5-inspiredkraft-designer-clay-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Golden Crystal Jyot - Small",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178145_4-frestol-golden-crystal-jyot-small.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Angle Deep Stand - Plain, No.1",
+    "sku_type": "2 pcs ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201029_2-trm-brass-angle-deep-stand-plain-no1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Vegan Easy Desi Cow Ghee Diya - Natural, Safe To Use",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40230693_1-swaha-vegan-easy-desi-cow-ghee-diya-natural-safe-to-use.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Deepam Oil - Used For Lighting Diya",
+    "sku_type": "1 L ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40264090_1-sahasthra-deepam-oil-used-for-lighting-diya.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Brass Diya/Lakshmi Deepam - Plain, Small, Gold Colour",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201025_2-trm-brass-lakshmi-deepam-plain-no1.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Puja Handi Brass Diya Oil Lamp Small S1 - Golden",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088280_4-hazel-puja-handi-brass-diya-oil-lamp-small-s1-golden.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Om Bhakti Diya & Batti Set 5 pcs + Ferrero Rocher - Chocolate 16 pcs Box",
+    "sku_type": "Combo - (2 Items)",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1208351_4-bb-combo-om-bhakti-diya-batti-set-5-pcs-ferrero-rocher-chocolate-16-pcs-box.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Akhand Diya - Brass, Small, Unique Design, For Pooja Purpose",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40271898_3-borosil-akhand-diya-brass-small-unique-design-for-pooja-purpose.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Havan Pooja Ghee",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335620_1-svasti-havan-pooja-ghee.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sampoorna Dhyan Jasmine Puja Oil",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345445_1-cycle-sampoorna-dhyan-jasmine-puja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sampoorna Dhyan Camphor Puja Oil",
+    "sku_type": "200 ml ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40345446_1-cycle-sampoorna-dhyan-camphor-puja-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nitya Brass Akhand Jyot Aaradhya Diya - With Borosilicate Glass, Medium",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40228854_3-shubhkart-nitya-brass-akhand-jyot-aaradhya-diya-with-borosilicate-glass-medium.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rudraksh Sapta Deepam Oil",
+    "sku_type": null,
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40335622_2-svasti-rudraksh-sapta-deepam-oil.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Ganesha & Laxmi Idol Oil Lamp Diya - Golden",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40330016_1-klassic-ganesha-laxmi-idol-oil-lamp-diyadiwali-diya-for-puja-diwali-gift-home-temple-articles-decoration-giftsgolden.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Stainless Steel Diya Panchvati - Silver Colour",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40272603_5-hazel-stainless-steel-diya-panchvati-silver-colour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nanda Deep Brass Diya Oil Lamp Puja S11 - Golden",
+    "sku_type": "1 pc ",
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088284_3-hazel-nanda-deep-brass-diya-oil-lamp-puja-s11-golden.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Designer Jyot - Green",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40178143_2-frestol-designer-jyot-green.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Nanda Deep Brass Diya Oil Lamp Puja S7 - Golden",
+    "sku_type": "1 pc ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40088283_4-hazel-nanda-deep-brass-diya-oil-lamp-puja-s7-golden.jpg?tr=w-154,q-80"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Chocolate Bar Family Pack",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40307753_5-cadbury-dairy-milk-chocolate-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Rich Cocoa 70% Dark Chocolate Bar",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215893_9-cadbury-bournville-rich-cocoa-70-dark-chocolate-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "KitKat Minis Choco Coated Wafer Bars",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122231_19-nestle-kitkat-share-bag-2-fingers-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chocolate",
+    "sku_type": null,
+    "rating": "4.1",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40329546_3-cadbury-nutties-chocolate.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Munch Choco Coated Wafer Bar",
+    "sku_type": "147.9 g - (Pack of 17)",
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122232_15-nestle-munch-chocolate-coated-crunchy-wafer-share-pack.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Bars Choco Berry, 10 g Protein Bar - Sugar Free Healthy Protein Snacks",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122054_4-ritebite-max-protein-daily-choco-berry-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Gift Pack - Crisp Hazelnut & Milk Chocolate",
+    "sku_type": "50 g - (4 pcs)",
+    "rating": "4.3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100467356_7-ferrero-rocher-4-pralines-perfect-little-treat.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Sugar Free Dark Chocolate",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40122065_3-amul-sugar-free-dark-chocolate-55-rich-in-cocoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Cranberry 50% Dark Chocolate Bar",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1203269_14-cadbury-bournville-cranberry-dark-chocolate-bar.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "White Chocolate",
+    "sku_type": "150 g ",
+    "rating": "3.7",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40075544_4-ask-foods-chocolate-white.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mocha Dark Chocolate Bar -  55% Cocoa",
+    "sku_type": "80 g ",
+    "rating": "4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40201817_5-lindberg-mocha-dark-chocolate-bar-55-cocoa.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Mini Treats Chocolate Coated Wafer Bars",
+    "sku_type": null,
+    "rating": "4.2",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/1215895_9-cadbury-perk-chocolate-home-treats.jpg?tr=w-154,q-80"
+  }
+]

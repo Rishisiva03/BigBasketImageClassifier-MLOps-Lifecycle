@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Pickle - Fish",
+    "sku_type": null,
+    "rating": "3.4",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40009965_5-double-horse-pickle-fish.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Pickle",
+    "sku_type": "200 g - Jar",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40286008_1-tasty-nibbles-chicken-pickle-spicy-adds-flavour.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pickle - Prawn",
+    "sku_type": null,
+    "rating": "3",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/30008145_2-double-horse-pickle-prawn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Pickle",
+    "sku_type": "270 g - Bottle",
+    "rating": "2.8",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/100550086_3-keya-pickle-malabar-chicken.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Pickle",
+    "sku_type": null,
+    "rating": "3.9",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40169730_2-kitchen-treasures-fish-pickle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawn Pickle",
+    "sku_type": "270 g - Bottle",
+    "rating": "3.5",
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012289_6-keya-pickle-goan-prawn.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Pork Meat Pickle - Chunks & Fat Portions, Non Vegetarian Condiment",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240979_1-vikings-pork-meat-pickle-chunks-fat-portions-non-vegetarian-condiment.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Tuna Fish Pickle - Iron & Protein Rich, Sides For Rice, Chapati",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240973_1-neptune-tuna-fish-pickle-iron-protein-rich-sides-for-rice-chapati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Fish Pickle",
+    "sku_type": "270 g - Bottle",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40012281_6-keya-pickle-mangalore-fish-270-bottle.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Dry Prawn Chutney - Non Vegetarian Condiment, Served With Rice,Chapati",
+    "sku_type": "90 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240977_1-neptune-dry-prawn-chutney-non-vegetarian-condiment-served-with-ricechapati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Prawns Pickle - Spicy Non Vegetarian Condiment, Side Dish Served With Rice, Chapati",
+    "sku_type": "300 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40240972_1-neptune-prawns-pickle-spicy-non-vegetarian-condiment-side-dish-served-with-rice-chapati.jpg?tr=w-154,q-80"
+  },
+  {
+    "name": "Chicken Pickle",
+    "sku_type": "150 g ",
+    "rating": null,
+    "image_link": "https://www.bbassets.com/media/uploads/p/m/40173098_3-eastern-chicken-pickle.jpg?tr=w-154,q-80"
+  }
+]
